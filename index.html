@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+  <title>Stack & Crash</title>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; user-select:none; -webkit-tap-highlight-color:transparent; }
+    html,body { width:100%; height:100%; overflow:hidden; background:#0f0f1a; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+    #canvas { display:block; margin:0 auto; touch-action:manipulation; cursor:pointer; }
+    #loading { position:fixed; inset:0; background:#0f0f1a; display:flex; flex-direction:column; align-items:center; justify-content:center; z-index:100; gap:20px; transition:opacity .4s; }
+    #loading h1 { font-size:38px; font-weight:700; color:#fff; letter-spacing:-1px; }
+    .loader { width:44px; height:44px; border:3px solid rgba(255,255,255,0.12); border-top-color:#4FC3F7; border-radius:50%; animation:spin .8s linear infinite; }
+    @keyframes spin { to { transform:rotate(360deg); } }
+    #ad-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.88); align-items:center; justify-content:center; z-index:60; flex-direction:column; gap:14px; padding:24px; }
+    #ad-overlay.show { display:flex; animation:fadeIn .3s ease; }
+    @keyframes fadeIn { from{opacity:0;transform:translateY(12px)} to{opacity:1;transform:none} }
+    #ad-title { color:#fff; font-size:22px; font-weight:700; text-align:center; line-height:1.3; }
+    #ad-sub   { color:rgba(255,255,255,0.55); font-size:14px; text-align:center; max-width:260px; }
+    .ad-btn   { width:230px; padding:15px 0; border-radius:50px; border:none; font-size:16px; font-weight:700; cursor:pointer; transition:transform .12s; }
+    .ad-btn:active { transform:scale(0.95); }
+    .ad-watch { background:#4FC3F7; color:#000; }
+    .ad-skip  { background:transparent; color:rgba(255,255,255,0.4); border:1px solid rgba(255,255,255,0.18); }
+    #mission-toast { display:none; position:fixed; bottom:80px; left:50%; transform:translateX(-50%); background:rgba(20,20,40,0.96); border:1px solid rgba(255,255,255,0.12); border-radius:14px; padding:12px 20px; z-index:55; text-align:center; animation:slideUp .35s ease; white-space:nowrap; }
+    #mission-toast.show { display:block; }
+    @keyframes slideUp { from{opacity:0;transform:translateX(-50%) translateY(16px)} to{opacity:1;transform:translateX(-50%) translateY(0)} }
+    #mission-toast strong { color:#FFD700; font-size:13px; display:block; margin-bottom:3px; }
+    #mission-toast span   { color:rgba(255,255,255,0.7); font-size:12px; }
+  </style>
+</head>
+<body>
+<script src="https://developers.tiktok.com/js/minis.js" onerror="window.TTMinis=null"></script>
+<div id="loading"><h1>Stack!</h1><div class="loader"></div></div>
+<div id="ad-overlay">
+  <div id="ad-title">Você chegou muito perto! 🔥</div>
+  <div id="ad-sub">Assista um vídeo curto e continue de onde parou</div>
+  <button class="ad-btn ad-watch" onclick="watchAd()">▶ Ver vídeo e continuar</button>
+  <button class="ad-btn ad-skip"  onclick="skipAd()">Não, obrigado</button>
+</div>
+<div id="mission-toast">
+  <strong id="mission-label">🏆 Missão completa!</strong>
+  <span id="mission-desc">Nova skin desbloqueada</span>
+</div>
+<canvas id="canvas"></canvas>
+<script>
+// ── TikTok SDK ────────────────────────────────────────────────────
+const TikTok = {
+  ready: false,
+  init() {
+    if (!window.TTMinis) { this._fb(); return; }
+    try {
+      TTMinis.game.init({ clientKey:'awt3140zoy5fhrd0',
+        success:() => { this.ready=true; TTMinis.game.setLoadingProgress({progress:1}); TTMinis.game.login({type:'silent',success:()=>{},fail:()=>{}}); },
+        fail:() => this._fb() });
+    } catch(e){ this._fb(); }
+  },
+  showAd(onOk, onFail) {
+    if (!this.ready){ onFail(); return; }
+    try {
+      const ad = TTMinis.game.createRewardedVideoAd({adUnitId:'YOUR_AD_UNIT_ID'});
+      ad.onRewarded(onOk); ad.onError(onFail);
+      ad.load().then(()=>ad.show()).catch(onFail);
+    } catch(e){ onFail(); }
+  },
+  share(score) {
+    if (!this.ready) return;
+    try { TTMinis.game.shareAppMessage({title:`Fiz ${score} pts no Stack & Crash! Consegue bater? 🏆`, imageUrl:canvas.toDataURL(), query:`score=${score}`}); } catch(e){}
+  },
+  vibe(p){ try{ navigator.vibrate&&navigator.vibrate(p); }catch(e){} },
+  _fb(){ this.ready=false; }
+};
+
+// ── Canvas ────────────────────────────────────────────────────────
+const canvas = document.getElementById('canvas');
+const ctx = canvas.getContext('2d');
+let W,H,BLOCK_H,BASE_W,STACK_BASE_Y;
+function resize(){
+  const s=Math.min(window.innerWidth,window.innerHeight*0.7,420);
+  W=Math.floor(s); H=Math.floor(s*1.65);
+  BLOCK_H=Math.round(W*0.07); BASE_W=Math.round(W*0.55); STACK_BASE_Y=Math.round(H*0.82);
+  canvas.width=W; canvas.height=H; canvas.style.width=W+'px'; canvas.style.height=H+'px';
+}
+resize(); window.addEventListener('resize',resize);
+
+const PALETTES=[['#4FC3F7','#0288D1','#01579B'],['#81C784','#388E3C','#1B5E20'],['#FFB74D','#F57C00','#E65100'],['#F48FB1','#C2185B','#880E4F'],['#CE93D8','#7B1FA2','#4A148C'],['#80DEEA','#00838F','#004D40']];
+const BG=['#0f0f1a','#0a1f0a','#1a100a','#1a0a12','#120a1a','#0a1a1a'];
+const SKINS=['solid','stripe','dots','glow','rainbow'];
+const CLOSE_MSGS=['🔥 Você chegou muito perto!','😤 Só mais uma tentativa!','💪 Quase lá! Não desiste!','🎯 Tão perto do recorde...','⚡ Uma a mais e batia o recorde!'];
+
+// ── Estado ────────────────────────────────────────────────────────
+let state='loading', score=0, best=0, multiplier=1;
+let blocks=[], moving=null, dir=1, speed=0;
+let particles=[], screenShake=0, flash=0, combo=0, palette=0, skin=0;
+let deathCount=0, adOfferShown=false, nearRecord=false;
+let dyingTimer=0, closeMsg='';
+const DYING_DUR=1.8;
+let localRank=[];
+
+const MISSIONS=[
+  {label:'Primeiros Passos', desc:'Faça 10 pontos',       reward:'skin listrada',  check:()=>score>=10,  done:false},
+  {label:'Combo Master',     desc:'3 perfeitos seguidos', reward:'skin bolinhas',  check:()=>combo>=3,   done:false},
+  {label:'Velocista',        desc:'Chegue ao ponto 20',   reward:'skin brilho',    check:()=>score>=20,  done:false},
+  {label:'Imparável',        desc:'Chegue ao ponto 30',   reward:'skin arco-íris', check:()=>score>=30,  done:false},
+];
+
+// ── Áudio ─────────────────────────────────────────────────────────
+const AC=new (window.AudioContext||window.webkitAudioContext)();
+function beep(f,d,t='sine',v=0.18){
+  try{
+    if(AC.state==='suspended')AC.resume();
+    const o=AC.createOscillator(),g=AC.createGain();
+    o.connect(g);g.connect(AC.destination);o.type=t;o.frequency.value=f;
+    g.gain.setValueAtTime(v,AC.currentTime);g.gain.exponentialRampToValueAtTime(0.001,AC.currentTime+d);
+    o.start();o.stop(AC.currentTime+d);
+  }catch(e){}
+}
+const SFX={
+  score:  ()=>{beep(523,0.1,'sine',0.18);},
+  perfect:()=>{beep(784,0.08,'sine',0.25);setTimeout(()=>beep(1047,0.1,'sine',0.22),70);setTimeout(()=>beep(1319,0.15,'sine',0.2),140);},
+  fail:   ()=>{beep(160,0.25,'sawtooth',0.22);setTimeout(()=>beep(110,0.35,'sawtooth',0.15),130);},
+  revive: ()=>{[400,600,900,1200].forEach((f,i)=>setTimeout(()=>beep(f,0.1,'sine',0.18),i*65));},
+  mission:()=>{[600,800,1000,1300].forEach((f,i)=>setTimeout(()=>beep(f,0.12,'sine',0.2),i*70));}
+};
+
+// ── Missões ───────────────────────────────────────────────────────
+function checkMissions(){
+  MISSIONS.forEach((m,i)=>{
+    if(!m.done&&m.check()){
+      m.done=true; skin=Math.min(i+1,SKINS.length-1);
+      SFX.mission(); TikTok.vibe([50,30,50]);
+      const t=document.getElementById('mission-toast');
+      document.getElementById('mission-label').textContent='🏆 '+m.label;
+      document.getElementById('mission-desc').textContent=m.reward+' desbloqueada! 🎁';
+      t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),3000);
+    }
+  });
+}
+
+// ── Jogo ──────────────────────────────────────────────────────────
+function resetGame(){
+  score=0;combo=0;palette=0;multiplier=1;adOfferShown=false;nearRecord=false;
+  speed=W*0.45; particles=[]; screenShake=0; flash=0;
+  blocks=[{x:W/2-BASE_W/2,y:STACK_BASE_Y,w:BASE_W,h:BLOCK_H}];
+  spawnMoving();
+}
+function spawnMoving(){
+  const top=blocks[blocks.length-1];
+  moving={x:dir>0?-top.w:W, y:top.y-BLOCK_H-3, w:top.w, h:BLOCK_H, trail:[]};
+}
+function tap(){
+  if(AC.state==='suspended')AC.resume();
+  if(state==='loading'||state==='dying')return;
+  if(state==='start'){state='play';resetGame();return;}
+  if(state==='over') {state='play';resetGame();return;}
+  if(state!=='play'||!moving)return;
+  const top=blocks[blocks.length-1];
+  const left=Math.max(moving.x,top.x), right=Math.min(moving.x+moving.w,top.x+top.w);
+  const overlap=right-left;
+  if(overlap<=0){triggerDeath();return;}
+  const ok=overlap>=top.w*0.93;
+  const nb=ok?{x:top.x,y:moving.y,w:top.w,h:BLOCK_H}:{x:left,y:moving.y,w:overlap,h:BLOCK_H};
+  blocks.push(nb);
+  if(ok){combo++;multiplier=combo>=3?3:combo>=2?2:1;SFX.perfect();flash=1;TikTok.vibe(30);}
+  else  {combo=0;multiplier=1;SFX.score();TikTok.vibe(15);}
+  burst(nb.x,nb.y,nb.w,PALETTES[palette%PALETTES.length][0]);
+  score+=multiplier;
+  if(score%5===0)palette++;
+  speed=W*0.45+score*(W*0.016); dir*=-1;
+  nearRecord=best>0&&score>=best-2;
+  if(blocks[blocks.length-1].y<H*0.42){
+    const sh=H*0.42-blocks[blocks.length-1].y;
+    blocks.forEach(b=>b.y+=sh); particles.forEach(p=>p.y+=sh);
+  }
+  checkMissions(); spawnMoving();
+}
+function triggerDeath(){
+  SFX.fail(); TikTok.vibe([80,40,80]); screenShake=16; deathCount++;
+  closeMsg=CLOSE_MSGS[Math.floor(Math.random()*CLOSE_MSGS.length)];
+  if(best>0&&score>=best-1) closeMsg=`⚡ Só +1 e você batia seu recorde de ${best}!`;
+  state='dying'; dyingTimer=DYING_DUR;
+}
+function finalizeDeath(){
+  if(score>best)best=score;
+  localRank.push(score); localRank.sort((a,b)=>b-a); if(localRank.length>5)localRank.length=5;
+  // Ad só se: score>=5 ou perto do recorde, sem spam (a cada 3 mortes)
+  const eligible=(score>=5||nearRecord)&&!adOfferShown&&(deathCount%3!==0);
+  if(eligible){
+    adOfferShown=true;
+    const adTitle=document.getElementById('ad-title');
+    adTitle.textContent=(nearRecord&&score>=best-1)?`+1 e você batia seu recorde de ${best}! 🏆`:closeMsg;
+    state='revive';
+    document.getElementById('ad-overlay').classList.add('show');
+  } else { state='over'; }
+}
+window.watchAd=function(){
+  document.getElementById('ad-overlay').classList.remove('show');
+  TikTok.showAd(()=>{
+    SFX.revive(); TikTok.vibe([30,20,30,20,60]); flash=1.5;
+    const top=blocks[blocks.length-1]; top.w=Math.max(top.w,Math.round(BASE_W*0.38));
+    dir*=-1; state='play'; spawnMoving();
+  },()=>{ state='over'; });
+};
+window.skipAd=function(){ document.getElementById('ad-overlay').classList.remove('show'); state='over'; };
+
+// ── Partículas ────────────────────────────────────────────────────
+function burst(x,y,w,color){
+  for(let i=0;i<16;i++) particles.push({x:x+Math.random()*w,y,vx:(Math.random()-.5)*5.5,vy:-(Math.random()*4.5+1),life:1,color,r:Math.random()*5+2});
+}
+
+// ── Render ────────────────────────────────────────────────────────
+function rr(x,y,w,h,r){
+  if(w<2*r)r=w/2;
+  ctx.beginPath();
+  ctx.moveTo(x+r,y);ctx.lineTo(x+w-r,y);ctx.arcTo(x+w,y,x+w,y+r,r);
+  ctx.lineTo(x+w,y+h-r);ctx.arcTo(x+w,y+h,x+w-r,y+h,r);
+  ctx.lineTo(x+r,y+h);ctx.arcTo(x,y+h,x,y+h-r,r);
+  ctx.lineTo(x,y+r);ctx.arcTo(x,y,x+r,y,r);ctx.closePath();
+}
+function drawBlock(b,pal,isTop){
+  const s=SKINS[skin]||'solid';
+  ctx.save(); rr(b.x,b.y,b.w,b.h,5); ctx.clip();
+  ctx.fillStyle=isTop?pal[1]:pal[2]; ctx.fillRect(b.x,b.y,b.w,b.h);
+  if(s==='stripe'){ctx.fillStyle='rgba(255,255,255,0.12)';for(let i=0;i<b.w;i+=12)ctx.fillRect(b.x+i,b.y,6,b.h);}
+  else if(s==='dots'){ctx.fillStyle='rgba(255,255,255,0.18)';for(let i=8;i<b.w-4;i+=14){ctx.beginPath();ctx.arc(b.x+i,b.y+b.h/2,3,0,Math.PI*2);ctx.fill();}}
+  else if(s==='glow'){const g=ctx.createRadialGradient(b.x+b.w/2,b.y+b.h/2,2,b.x+b.w/2,b.y+b.h/2,b.w*.6);g.addColorStop(0,'rgba(255,255,255,0.28)');g.addColorStop(1,'rgba(255,255,255,0)');ctx.fillStyle=g;ctx.fillRect(b.x,b.y,b.w,b.h);}
+  else if(s==='rainbow'){const g=ctx.createLinearGradient(b.x,b.y,b.x+b.w,b.y);['#FF6B6B','#FFE66D','#6BFF6B','#6BC5FF','#C56BFF'].forEach((c,i,a)=>g.addColorStop(i/(a.length-1),c));ctx.fillStyle=g;ctx.globalAlpha=0.42;ctx.fillRect(b.x,b.y,b.w,b.h);ctx.globalAlpha=1;}
+  ctx.restore();
+  if(isTop){ctx.strokeStyle=pal[0];ctx.lineWidth=1.5;rr(b.x,b.y,b.w,b.h,5);ctx.stroke();ctx.fillStyle='rgba(255,255,255,0.22)';rr(b.x+4,b.y+3,b.w-8,5,2);ctx.fill();}
+}
+function drawStack(pal){blocks.forEach((b,i)=>{ctx.globalAlpha=Math.max(0.22,1-i*0.02);drawBlock(b,pal,i===blocks.length-1);ctx.globalAlpha=1;});}
+function drawMoving(pal){
+  if(!moving)return;
+  moving.trail.forEach((t,i)=>{ctx.globalAlpha=(i/moving.trail.length)*0.16;ctx.fillStyle=pal[0];rr(t.x,t.y,t.w,t.h,5);ctx.fill();});
+  ctx.globalAlpha=1; drawBlock(moving,pal,false);
+  ctx.strokeStyle=pal[0];ctx.lineWidth=1.5;rr(moving.x,moving.y,moving.w,moving.h,5);ctx.stroke();
+  ctx.fillStyle='rgba(255,255,255,0.25)';rr(moving.x+4,moving.y+3,moving.w-8,5,2);ctx.fill();ctx.globalAlpha=1;
+}
+function drawParticles(dt){
+  particles.forEach(p=>{p.x+=p.vx;p.y+=p.vy;p.vy+=0.2;p.life-=dt*2.2;ctx.globalAlpha=Math.max(0,p.life);ctx.fillStyle=p.color;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fill();});
+  ctx.globalAlpha=1; particles=particles.filter(p=>p.life>0);
+}
+function T(t,x,y,sz,wt,col,al='center'){ctx.font=`${wt} ${sz}px -apple-system,sans-serif`;ctx.fillStyle=col;ctx.textAlign=al;ctx.textBaseline='middle';ctx.fillText(t,x,y);}
+function btn(label,cx,cy,color,tc='#000',bw=W*0.55){const bh=48;ctx.fillStyle=color;rr(cx-bw/2,cy-bh/2,bw,bh,12);ctx.fill();T(label,cx,cy,15,'600',tc);}
+function hit(e,cx,cy,bw=W*0.55,bh=48){const r=canvas.getBoundingClientRect(),sx=W/r.width,sy=H/r.height,px=(e.clientX-r.left)*sx,py=(e.clientY-r.top)*sy;return px>cx-bw/2&&px<cx+bw/2&&py>cy-bh/2&&py<cy+bh/2;}
+function drawRank(cx,y0){if(!localRank.length)return;T('Suas top partidas',cx,y0,11,'400','rgba(255,255,255,0.3)');localRank.slice(0,3).forEach((s,i)=>T(['🥇','🥈','🥉'][i]+' '+s+' pts',cx,y0+18+i*16,12,'400','rgba(255,255,255,0.45)'));}
+
+// ── Loop ──────────────────────────────────────────────────────────
+let last=0;
+function loop(ts){
+  const dt=Math.min((ts-last)/1000,0.05); last=ts;
+  const pal=PALETTES[palette%PALETTES.length];
+  ctx.fillStyle=BG[palette%BG.length]; ctx.fillRect(0,0,W,H);
+  ctx.strokeStyle='rgba(255,255,255,0.025)';ctx.lineWidth=1;
+  for(let x=0;x<W;x+=40){ctx.beginPath();ctx.moveTo(x,0);ctx.lineTo(x,H);ctx.stroke();}
+  const sx=screenShake?(Math.random()-.5)*screenShake:0, sy=screenShake?(Math.random()-.5)*screenShake:0;
+  if(screenShake>0)screenShake*=0.7;
+  ctx.save(); ctx.translate(sx,sy);
+  if(flash>0){ctx.fillStyle=`rgba(255,255,255,${Math.min(flash,1)*0.3})`;ctx.fillRect(0,0,W,H);flash-=dt*4.5;}
+
+  if(state==='start'){
+    drawStack(pal);
+    ctx.fillStyle='rgba(0,0,0,0.52)';ctx.fillRect(0,0,W,H);
+    T('Stack!',W/2,H/2-65,54,'700','#fff');
+    T('Toque para empilhar',W/2,H/2-12,14,'400','rgba(255,255,255,0.55)');
+    btn('▶  Jogar',W/2,H/2+50,pal[0]);
+    drawRank(W/2,H/2+110);
+    ctx.restore(); requestAnimationFrame(loop); return;
+  }
+
+  // DYING — loop de vício com delay psicológico
+  if(state==='dying'){
+    drawStack(pal); drawParticles(dt);
+    dyingTimer-=dt;
+    const prog=Math.max(0,1-dyingTimer/DYING_DUR);
+    ctx.fillStyle=`rgba(0,0,0,${prog*0.72})`; ctx.fillRect(0,0,W,H);
+    if(prog>0.25){
+      const a=Math.min(1,(prog-0.25)*3);
+      T(closeMsg,W/2,H/2-20,17,'700',`rgba(255,255,255,${a})`);
+      if(best>0&&score<best) T(`Só mais ${best-score} pra bater o recorde`,W/2,H/2+18,13,'400',`rgba(255,210,80,${a})`);
+    }
+    if(dyingTimer<=0) finalizeDeath();
+    ctx.restore(); requestAnimationFrame(loop); return;
+  }
+
+  if(state==='over'){
+    drawStack(pal); drawParticles(dt);
+    ctx.fillStyle='rgba(0,0,0,0.72)'; ctx.fillRect(0,0,W,H);
+    T(closeMsg,W/2,H/2-115,14,'500','rgba(255,210,80,0.9)');
+    T(String(score),W/2,H/2-42,84,'700','#fff');
+    if(score>=best&&score>0) T('🏆 Novo recorde!',W/2,H/2+40,15,'700',pal[0]);
+    else if(best>0) T(`Recorde: ${best}`,W/2,H/2+40,13,'400','rgba(255,255,255,0.45)');
+    if(multiplier>1) T(`Multiplicador ×${multiplier}`,W/2,H/2+62,12,'500',pal[0]);
+    btn('▶  Jogar de novo',W/2,H/2+100,pal[0]);
+    if(TikTok.ready) btn('Compartilhar no TikTok',W/2,H/2+160,'rgba(255,255,255,0.1)','#fff');
+    drawRank(W/2,H/2+215);
+    ctx.restore(); requestAnimationFrame(loop); return;
+  }
+
+  if(state==='play'||state==='revive'){
+    if(state==='play'&&moving){
+      moving.trail.push({x:moving.x,w:moving.w,y:moving.y});
+      if(moving.trail.length>7)moving.trail.shift();
+      moving.x+=speed*dir*dt;
+      if(moving.x>W+moving.w*2)moving.x=-moving.w;
+      if(moving.x<-moving.w*2) moving.x=W+moving.w;
+    }
+    drawStack(pal); drawMoving(pal); drawParticles(dt);
+    ctx.strokeStyle='rgba(255,255,255,0.07)';ctx.lineWidth=1;
+    ctx.beginPath();ctx.moveTo(0,STACK_BASE_Y+BLOCK_H+6);ctx.lineTo(W,STACK_BASE_Y+BLOCK_H+6);ctx.stroke();
+    T(String(score),W/2,H*0.1,58,'700','#fff');
+    if(best>0) T(`Recorde ${best}`,W/2,H*0.1+40,11,'400','rgba(255,255,255,0.4)');
+    if(combo>=2) T(combo>=3?'🔥 COMBO ×3':`✨ Combo ×${multiplier}`,W/2,H*0.1+60,13,'700',pal[0]);
+    if(nearRecord&&best>0) T(score>=best?'🏆 NOVO RECORDE!':` ⚡ +${best-score} pro recorde`,W/2,H*0.1+78,12,'600','#FFD700');
+    const spd=Math.min((speed-W*0.45)/(W*1.2),1);
+    ctx.fillStyle='rgba(255,255,255,0.07)'; rr(W/2-55,H-28,110,5,2); ctx.fill();
+    ctx.fillStyle=pal[0]; rr(W/2-55,H-28,110*spd,5,2); ctx.fill();
+    T('velocidade',W/2,H-14,10,'400','rgba(255,255,255,0.28)');
+    const nm=MISSIONS.find(m=>!m.done);
+    if(nm) T('🎯 '+nm.label+': '+nm.desc,W/2,H-46,10,'400','rgba(255,255,255,0.28)');
+  }
+  ctx.restore(); requestAnimationFrame(loop);
+}
+
+// ── Inputs ────────────────────────────────────────────────────────
+canvas.addEventListener('click',e=>{
+  if(state==='over'&&TikTok.ready&&hit(e,W/2,H/2+160)){TikTok.share(score);return;}
+  tap();
+});
+canvas.addEventListener('touchstart',e=>{
+  e.preventDefault();
+  const t=e.changedTouches[0];
+  if(state==='over'&&TikTok.ready&&hit({clientX:t.clientX,clientY:t.clientY},W/2,H/2+160)){TikTok.share(score);return;}
+  tap();
+},{passive:false});
+document.addEventListener('keydown',e=>{if(e.code==='Space'){e.preventDefault();tap();}});
+
+// ── Boot ──────────────────────────────────────────────────────────
+function boot(){
+  blocks=[{x:W/2-BASE_W/2,y:STACK_BASE_Y,w:BASE_W,h:BLOCK_H}];
+  moving={x:-BASE_W,y:STACK_BASE_Y-BLOCK_H-3,w:BASE_W,h:BLOCK_H,trail:[]};
+  TikTok.init();
+  const l=document.getElementById('loading');
+  l.style.opacity='0'; setTimeout(()=>l.style.display='none',400);
+  state='start'; requestAnimationFrame(loop);
+}
+window.addEventListener('load',()=>setTimeout(boot,900));
+</script>
+</body>
+</html>
