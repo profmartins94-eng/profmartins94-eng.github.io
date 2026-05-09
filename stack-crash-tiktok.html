@@ -200,41 +200,111 @@ html,body{width:100%;height:100%;overflow:hidden;background:#0f0f1a;font-family:
 
 <script>
 // ═══════════════════════════════════════════════
-// DEMO MODE
+// LOGIN KIT — TikTok OAuth real (App 7635747448459249680)
+// Client Key: awt3140zoy5fhrd0
 // ═══════════════════════════════════════════════
-const DEMO_MODE = true;
+const DEMO_MODE = false;
 
-// ═══════════════════════════════════════════════
-// TIKTOK USER
-// ═══════════════════════════════════════════════
 let tiktokUser = null;
+
 function setUser(u){
   tiktokUser=u;
   document.getElementById('user-name').textContent=u.name;
   document.getElementById('user-handle').textContent='@'+u.handle;
   document.getElementById('user-avatar-placeholder').textContent=u.avatarInitial;
   document.getElementById('user-hud').classList.add('show');
-  document.getElementById('share-avatar-mini').textContent=u.avatarInitial;
-  document.getElementById('share-user-label').textContent=u.name+' (@'+u.handle+')';
+  const sm=document.getElementById('share-avatar-mini');
+  const sl=document.getElementById('share-user-label');
+  if(sm)sm.textContent=u.avatarInitial;
+  if(sl)sl.textContent=u.name+' (@'+u.handle+')';
 }
-function showLoginScreen(){ document.getElementById('login-screen').classList.add('show'); }
+
+// Busca info do usuário após login bem-sucedido
+function fetchUserInfo(openid){
+  try{
+    TTMinis.game.getUserInfo({
+      success:(info)=>{
+        const name=info.nickName||'TikToker';
+        const handle=info.openId||openid||'tiktok';
+        setUser({
+          openid,
+          name,
+          handle,
+          avatarInitial:name[0]?.toUpperCase()||'T',
+          avatar:info.avatarUrl||null
+        });
+        if(typeof localStorage!=='undefined') localStorage.setItem('sc_name',name);
+      },
+      fail:()=>{
+        // Não conseguiu buscar info mas tem openid — usa nome genérico
+        setUser({openid,name:'TikToker',handle:openid?.slice(0,8)||'tiktok',avatarInitial:'T',avatar:null});
+      }
+    });
+  }catch(e){
+    setUser({openid:'guest',name:'Visitante',handle:'guest',avatarInitial:'V',avatar:null});
+  }
+}
+
+// Login silencioso — não interrompe o jogador, transparente
+function doSilentLogin(){
+  try{
+    TTMinis.game.login({
+      type:'silent', // sem popup, só pega o token de sessão
+      success:(res)=>{
+        fetchUserInfo(res.openid);
+      },
+      fail:()=>{
+        // Silencioso falhou → tenta login normal (com consentimento)
+        doNormalLogin();
+      }
+    });
+  }catch(e){
+    loginAsGuest();
+  }
+}
+
+// Login normal — abre tela de consentimento do TikTok se necessário
+function doNormalLogin(){
+  try{
+    TTMinis.game.login({
+      type:'normal',
+      success:(res)=>{
+        fetchUserInfo(res.openid);
+      },
+      fail:()=>{ loginAsGuest(); }
+    });
+  }catch(e){ loginAsGuest(); }
+}
+
+// Tela de login (OAuth simulado substituído pelo real)
+function showLoginScreen(){
+  // Tenta login silencioso antes de mostrar a tela
+  doSilentLogin();
+  // Mostra a tela enquanto o login processa
+  document.getElementById('login-screen').classList.add('show');
+}
 function hideLoginScreen(){
   const ls=document.getElementById('login-screen');
   ls.style.opacity='0';ls.style.transition='opacity .3s';
   setTimeout(()=>ls.style.display='none',300);
 }
+
+// Botão "Entrar com TikTok" — agora usa Login Kit real
 window.startTikTokLogin=function(){
-  if(DEMO_MODE){ document.getElementById('oauth-overlay').classList.add('show'); return; }
-  TTMinis.game.login({type:'normal',scope:'user.info.basic',success:(r)=>fetchTikTokUser(r.code),fail:()=>loginAsGuest()});
+  hideLoginScreen();
+  doNormalLogin();
 };
+
+// OAuth popup não é mais usado — mantido para compatibilidade
 window.authorizeOAuth=function(){
   document.getElementById('oauth-overlay').classList.remove('show');
-  setUser({openid:'demo_12345',name:'Alan Martins',handle:'profmartins94',avatarInitial:'A',avatar:null});
-  hideLoginScreen();
-  if(typeof localStorage!=='undefined') localStorage.setItem('sc_name','Alan Martins');
-  startGame();
+  doSilentLogin();
 };
-window.cancelOAuth=function(){ document.getElementById('oauth-overlay').classList.remove('show'); };
+window.cancelOAuth=function(){
+  document.getElementById('oauth-overlay').classList.remove('show');
+  loginAsGuest();
+};
+
 window.loginAsGuest=function(){
   setUser({openid:'guest',name:'Visitante',handle:'guest',avatarInitial:'V',avatar:null});
   hideLoginScreen();
@@ -298,27 +368,59 @@ function showShareOverlay(sc){
   document.getElementById('share-overlay').classList.add('show');
 }
 window.closeShare=function(){document.getElementById('share-overlay').classList.remove('show');};
-window.confirmShare=function(){
-  closeShare();
-  if(DEMO_MODE){alert('✅ TikTok Share Kit\n\nMensagem: "Fiz '+score+' pts no Stack & Crash! Consegue bater? 🏆"\n(Em produção abre o TikTok nativo)');return;}
-  try{TTMinis.game.shareAppMessage({title:`Fiz ${score} pts no Stack & Crash! Consegue bater? 🏆`,imageUrl:canvas.toDataURL(),query:`score=${score}`});}catch(e){}
-};
+window.confirmShare=function(){ closeShare(); TikTok.shareScore(score); };
 
 // ═══════════════════════════════════════════════
-// TIKTOK SDK
+// TIKTOK SDK — Login Kit + Ads
 // ═══════════════════════════════════════════════
+// PLACEMENT ID: inserir quando tiver MEI + verificação comercial
+const AD_PLACEMENT_ID = 'YOUR_PLACEMENT_ID';
+
 const TikTok={
-  ready:true,
+  ready:false,
+
   init(){
-    if(DEMO_MODE)return;
-    if(!window.TTMinis){this.ready=false;return;}
-    try{TTMinis.game.init({clientKey:'awt3140zoy5fhrd0',success:()=>{this.ready=true;TTMinis.game.setLoadingProgress({progress:1});},fail:()=>{this.ready=false;}});}catch(e){this.ready=false;}
+    if(!window.TTMinis){this.ready=false;loginAsGuest();return;}
+    try{
+      TTMinis.game.init({
+        clientKey:'awt3140zoy5fhrd0',
+        success:()=>{
+          this.ready=true;
+          TTMinis.game.setLoadingProgress({progress:1});
+          doSilentLogin(); // login automático ao iniciar
+        },
+        fail:()=>{ this.ready=false; loginAsGuest(); }
+      });
+    }catch(e){ this.ready=false; loginAsGuest(); }
   },
+
   showAd(onOk,onFail){
-    if(!this.ready){onFail();return;}
-    if(DEMO_MODE){const c=window.confirm('📺 TikTok Rewarded Ad\nSimular? (OK = assistiu)');if(c)onOk();else onFail();return;}
-    try{const ad=TTMinis.game.createRewardedVideoAd({adUnitId:'YOUR_AD_UNIT_ID'});ad.onRewarded(onOk);ad.onError(onFail);ad.load().then(()=>ad.show()).catch(onFail);}catch(e){onFail();}
+    if(!this.ready||!window.TTMinis){onFail();return;}
+    if(AD_PLACEMENT_ID==='YOUR_PLACEMENT_ID'){onFail();return;}
+    try{
+      // Nova instância a cada exibição (uso único por instância)
+      const ad=TTMinis.game.createRewardedVideoAd({adUnitId:AD_PLACEMENT_ID});
+      // onClose com isEnded — padrão correto do Mini Games SDK
+      ad.onClose((res)=>{
+        if(res&&res.isEnded===true) onOk();
+        else onFail();
+      });
+      ad.onError(()=>onFail());
+      ad.load().then(()=>ad.show()).catch(()=>onFail());
+    }catch(e){ onFail(); }
   },
+
+  shareScore(sc){
+    if(!this.ready||!window.TTMinis)return;
+    try{
+      TTMinis.game.shareAppMessage({
+        title:`Fiz ${sc} pts no Stack & Crash! Consegue bater? 🏆`,
+        imageUrl:canvas.toDataURL(),
+        query:`score=${sc}`
+      });
+    }catch(e){}
+  },
+
   vibe(p){try{navigator.vibrate&&navigator.vibrate(p);}catch(e){}}
 };
 
@@ -449,7 +551,7 @@ function resetGame(){
 function spawnMoving(){
   const top=blocks[blocks.length-1];
   // Bloco mínimo jogável: 10px
-  // Sem limite mínimo de largura — o jogo fica mais difícil naturalmente
+  if(top.w<10){triggerDeath();return;}
   // Cap: max 54% da largura da tela
   const mw=Math.min(top.w,Math.round(W*.54));
   moving={x:dir>0?-mw-20:W+20,y:top.y-BLOCK_H-3,w:mw,h:BLOCK_H,trail:[]};
@@ -472,14 +574,17 @@ function tap(){
   const right=Math.min(moving.x+moving.w,top.x+top.w);
   const overlap=right-left;
 
-  // ÚNICA regra de morte: clicou completamente fora da pilha
+  // Sem sobreposição → morte
   if(overlap<=0){triggerDeath();return;}
+  // Sobreposição muito pequena (<18% do bloco móvel) → morte
+  if(overlap<moving.w*.18){triggerDeath();return;}
 
-  // Acerto perfeito: >=85% de sobreposição
+  // Acerto perfeito ≥85%
   const ok=overlap>=top.w*.85;
-  const nb=ok
-    ?{x:top.x,y:moving.y,w:top.w,h:BLOCK_H}
-    :{x:left,y:moving.y,w:overlap,h:BLOCK_H};
+  const nb=ok?{x:top.x,y:moving.y,w:top.w,h:BLOCK_H}:{x:left,y:moving.y,w:overlap,h:BLOCK_H};
+
+  // Bloco resultante muito fino → morte
+  if(!ok&&nb.w<8){triggerDeath();return;}
 
   blocks.push(nb);
   if(ok){combo++;multiplier=combo>=3?3:combo>=2?2:1;SFX.perfect();flash=1;TikTok.vibe(30);}
@@ -701,7 +806,7 @@ function loop(ts){
         // Ativa _blockReady quando pelo menos 40% do bloco está visível
         if(!_blockReady){
           const vis=Math.min(moving.x+moving.w,W)-Math.max(moving.x,0);
-          if(vis>moving.w*.6)_blockReady=true; // 60% visível antes de aceitar tap
+          if(vis>moving.w*.4)_blockReady=true;
         }
         // Rebote nas bordas
         if(moving.x>W+moving.w)moving.x=-moving.w;
@@ -765,7 +870,7 @@ function onInput(e){
     const fe={clientX:cx,clientY:cy};
     if(state==='over'){
       if(HIT(fe,W/2,H/2+160)){showGlobalRank();return;}
-      if(HIT(fe,W/2,H/2+220)){showShareOverlay(score);return;}
+      if(HIT(fe,W/2,H/2+220)){TikTok.shareScore(score);return;}
     }
     if(state==='start'&&HIT(fe,W/2,H/2+110)){showGlobalRank();return;}
   }
@@ -819,7 +924,8 @@ function boot(){
   l.style.opacity='0';
   setTimeout(()=>{
     try{l.style.display='none';}catch(e){}
-    try{showLoginScreen();}catch(e){}
+    // O SDK init já dispara doSilentLogin automaticamente
+    // Se SDK não disponível, vai para loginAsGuest via init()
   },400);
 }
 
