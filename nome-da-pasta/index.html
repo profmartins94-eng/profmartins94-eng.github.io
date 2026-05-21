@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <title>IA DESTRUCTION — Neural Annihilation</title>
+<!-- GamePix SDK — required for platform integration -->
+<script src="https://api.gamepix.com/gamepix.sdk.js" async></script>
 <style>
 * { margin:0; padding:0; box-sizing:border-box; }
 :root {
@@ -1171,9 +1173,15 @@ class Game {
     writeSave();
     $('lwScore').textContent=Math.round(this.score);
     $('lwPoints').textContent=pts;
-    $('levelWinScreen').classList.remove('hidden');
     playLevelUp();
     $('odIndicator').classList.remove('visible');
+    // GamePix: show interstitial ad between levels, then reveal win screen
+    const showWin=()=>$('levelWinScreen').classList.remove('hidden');
+    if(typeof GamePix !== 'undefined' && typeof GamePix.showInterstitial === 'function'){
+      GamePix.showInterstitial().then(showWin).catch(showWin);
+    } else {
+      showWin();
+    }
   }
 
   gameOver(){
@@ -1183,11 +1191,17 @@ class Game {
     $('goLevel').textContent=this.level;
     $('goKills').textContent=this.totalKills;
     $('goCombo').textContent=`x${this.bestCombo}`;
-    $('gameOverScreen').classList.remove('hidden');
     playExplosion();
     $('odIndicator').classList.remove('visible');
     if(this.score>saveData.highScore)saveData.highScore=this.score;
     writeSave();
+    // GamePix: show interstitial ad on game over
+    const showGO=()=>$('gameOverScreen').classList.remove('hidden');
+    if(typeof GamePix !== 'undefined' && typeof GamePix.showInterstitial === 'function'){
+      GamePix.showInterstitial().then(showGO).catch(showGO);
+    } else {
+      showGO();
+    }
   }
 
   handleKey(key,down){
@@ -1573,9 +1587,30 @@ canvas.addEventListener('touchstart',e=>{
   lastTap=now;
 },{passive:true});
 
-// ---- INITIAL ----
-showScreen('titleScreen');
-buildUpgradesUI();
+// ---- INITIAL — GamePix SDK boot ----
+// Wait for GamePix player to be ready before showing the title screen.
+// Falls back immediately when running locally or outside the platform.
+function gpxInit(){
+  showScreen('titleScreen');
+  buildUpgradesUI();
+}
+
+if(typeof GamePix !== 'undefined'){
+  GamePix.loaded().then(gpxInit).catch(gpxInit);
+} else {
+  // SDK not yet loaded (async) — poll briefly then fall back
+  let _gpxPoll=0;
+  const _gpxTimer=setInterval(()=>{
+    _gpxPoll++;
+    if(typeof GamePix !== 'undefined'){
+      clearInterval(_gpxTimer);
+      GamePix.loaded().then(gpxInit).catch(gpxInit);
+    } else if(_gpxPoll>30){ // ~3 seconds max wait
+      clearInterval(_gpxTimer);
+      gpxInit();
+    }
+  },100);
+}
 
 </script>
 </body>
