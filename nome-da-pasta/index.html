@@ -141,11 +141,18 @@ canvas#gameCanvas { display:block;image-rendering:pixelated; }
 @keyframes popupFloat { 0%{opacity:1;transform:translateY(0);}100%{opacity:0;transform:translateY(-60px);} }
 
 /* Mobile controls */
-#mobileControls { position:absolute;bottom:90px;left:16px;display:none;gap:8px;z-index:6; }
-@media(max-width:768px){ #mobileControls{display:flex;flex-direction:column;} }
-.m-dpad { display:grid;grid-template-columns:repeat(3,44px);grid-template-rows:repeat(3,44px);gap:2px; }
-.m-btn { background:rgba(0,245,255,.1);border:1px solid rgba(0,245,255,.3);border-radius:6px;color:var(--neon-cyan);font-size:18px;display:flex;align-items:center;justify-content:center;cursor:pointer;user-select:none;touch-action:manipulation; }
-.m-btn:active { background:rgba(0,245,255,.3); }
+/* ===== VIRTUAL JOYSTICK ===== */
+#joystickWrap {
+  position:absolute;
+  bottom:100px;
+  left:24px;
+  display:none;
+  z-index:6;
+  touch-action:none;
+  user-select:none;
+}
+@media(max-width:900px){ #joystickWrap{display:block;} }
+#joystickCanvas { display:block; }
 
 /* SCREEN TRANSITIONS */
 .screen, .overlay-screen { transition:opacity .25s; }
@@ -185,19 +192,9 @@ canvas#gameCanvas { display:block;image-rendering:pixelated; }
   <!-- ABILITY BAR -->
   <div id="abilityBar" class="hidden"></div>
 
-  <!-- MOBILE CONTROLS -->
-  <div id="mobileControls">
-    <div class="m-dpad">
-      <div></div>
-      <div class="m-btn" data-dir="up">▲</div>
-      <div></div>
-      <div class="m-btn" data-dir="left">◄</div>
-      <div></div>
-      <div class="m-btn" data-dir="right">►</div>
-      <div></div>
-      <div class="m-btn" data-dir="down">▼</div>
-      <div></div>
-    </div>
+  <!-- VIRTUAL JOYSTICK -->
+  <div id="joystickWrap">
+    <canvas id="joystickCanvas" width="140" height="140"></canvas>
   </div>
 
   <!-- LEVEL BANNER -->
@@ -404,7 +401,7 @@ function showScreen(id){
   screens.forEach(s=>$(s).classList.add('hidden'));
   $('hud').classList.add('hidden');
   $('abilityBar').classList.add('hidden');
-  $('mobileControls').style.display='none';
+  $('joystickWrap').style.display='none';
   $('gameCanvas').style.display='none';
   $('bgCanvas').style.display='none';
   if(id&&$(id)){$(id).classList.remove('hidden');}
@@ -417,7 +414,7 @@ function showGame(){
   $('abilityBar').classList.remove('hidden');
   $('gameCanvas').style.display='block';
   $('bgCanvas').style.display='block';
-  if(window.innerWidth<=768)$('mobileControls').style.display='flex';
+  if(window.innerWidth<=900) $('joystickWrap').style.display='block';
   currentScreen='game';
 }
 
@@ -541,6 +538,8 @@ class Game {
     this.bgNodes=[];
     this.keys={};
     this.mobileDir={up:false,down:false,left:false,right:false};
+    // Analog joystick vector — values -1..1 for each axis
+    this.joystick={dx:0,dy:0,active:false};
     this.raf=null;
   }
 
@@ -1233,15 +1232,25 @@ class Player {
     const g=this.game;
     const k=g.keys;
     const m=g.mobileDir;
+    const joy=g.joystick;
     let dx=0,dy=0;
+    // Keyboard (digital)
     if(k['ArrowLeft']||k['a']||k['A']||m.left)dx-=1;
     if(k['ArrowRight']||k['d']||k['D']||m.right)dx+=1;
     if(k['ArrowUp']||k['w']||k['W']||m.up)dy-=1;
     if(k['ArrowDown']||k['s']||k['S']||m.down)dy+=1;
-    const mag=Math.hypot(dx,dy)||1;
-    if(dx!==0||dy!==0){
-      this.x+=dx/mag*this.speed*dt;
-      this.y+=dy/mag*this.speed*dt;
+    // Analog joystick — overrides digital if active, preserves magnitude for variable speed
+    if(joy.active&&(Math.abs(joy.dx)>0.05||Math.abs(joy.dy)>0.05)){
+      dx=joy.dx;
+      dy=joy.dy;
+    }
+    const mag=Math.hypot(dx,dy);
+    if(mag>0){
+      const normX=dx/mag, normY=dy/mag;
+      // Analog: scale speed by magnitude (0..1) — gives fine-grain control
+      const intensity=Math.min(mag,1);
+      this.x+=normX*intensity*this.speed*dt;
+      this.y+=normY*intensity*this.speed*dt;
       this.lookAngle=Math.atan2(dy,dx);
     }
     // Mouse/touch look
@@ -1482,14 +1491,151 @@ window.addEventListener('mousemove',e=>{
   }
 });
 
-// Mobile d-pad
-document.querySelectorAll('.m-btn').forEach(btn=>{
-  const dir=btn.dataset.dir;
-  btn.addEventListener('touchstart',e=>{e.preventDefault();game.mobileDir[dir]=true;},{passive:false});
-  btn.addEventListener('touchend',e=>{e.preventDefault();game.mobileDir[dir]=false;});
-  btn.addEventListener('mousedown',()=>game.mobileDir[dir]=true);
-  btn.addEventListener('mouseup',()=>game.mobileDir[dir]=false);
-});
+// ============================================================
+//  VIRTUAL JOYSTICK — analog, fluid, canvas-rendered
+// ============================================================
+(function initJoystick(){
+  const wrap   = $('joystickWrap');
+  const jc     = $('joystickCanvas');
+  const jctx   = jc.getContext('2d');
+  const SIZE   = 140;   // canvas size
+  const CX     = SIZE/2, CY = SIZE/2;
+  const BASE_R = 58;    // outer ring radius
+  const KNOB_R = 26;    // knob radius
+  const DEAD   = 0.08;  // dead-zone
+
+  let active = false;
+  let touchId = null;
+  let knobX = CX, knobY = CY;
+
+  function getPos(e){
+    const rect = jc.getBoundingClientRect();
+    let t;
+    if(e.changedTouches){
+      for(let i=0;i<e.changedTouches.length;i++){
+        if(e.changedTouches[i].identifier===touchId||touchId===null){
+          t=e.changedTouches[i]; break;
+        }
+      }
+    }
+    if(!t)return null;
+    return { x: t.clientX - rect.left, y: t.clientY - rect.top };
+  }
+
+  function updateKnob(px, py){
+    const dx = px - CX, dy = py - CY;
+    const d  = Math.hypot(dx, dy);
+    const clamped = Math.min(d, BASE_R - KNOB_R*.5);
+    if(d < 0.01){ knobX=CX; knobY=CY; game.joystick={dx:0,dy:0,active:false}; return; }
+    knobX = CX + (dx/d)*clamped;
+    knobY = CY + (dy/d)*clamped;
+    const nx = dx/d, ny = dy/d;
+    const intensity = Math.min(d/(BASE_R - KNOB_R*.5), 1);
+    const jx = Math.abs(intensity*nx) > DEAD ? intensity*nx : 0;
+    const jy = Math.abs(intensity*ny) > DEAD ? intensity*ny : 0;
+    game.joystick = { dx: jx, dy: jy, active: true };
+  }
+
+  function reset(){
+    active=false; touchId=null;
+    knobX=CX; knobY=CY;
+    game.joystick={dx:0,dy:0,active:false};
+  }
+
+  jc.addEventListener('touchstart', e=>{
+    e.preventDefault();
+    if(active) return;
+    const t = e.changedTouches[0];
+    touchId = t.identifier;
+    active  = true;
+    const rect = jc.getBoundingClientRect();
+    updateKnob(t.clientX-rect.left, t.clientY-rect.top);
+  },{passive:false});
+
+  jc.addEventListener('touchmove', e=>{
+    e.preventDefault();
+    if(!active) return;
+    const pos = getPos(e);
+    if(pos) updateKnob(pos.x, pos.y);
+  },{passive:false});
+
+  jc.addEventListener('touchend',  e=>{ e.preventDefault(); reset(); },{passive:false});
+  jc.addEventListener('touchcancel',e=>{ e.preventDefault(); reset(); },{passive:false});
+
+  // Mouse fallback (desktop testing)
+  let mouseDown=false;
+  jc.addEventListener('mousedown', e=>{
+    mouseDown=true; active=true;
+    const rect=jc.getBoundingClientRect();
+    updateKnob(e.clientX-rect.left, e.clientY-rect.top);
+  });
+  window.addEventListener('mousemove', e=>{
+    if(!mouseDown) return;
+    const rect=jc.getBoundingClientRect();
+    updateKnob(e.clientX-rect.left, e.clientY-rect.top);
+  });
+  window.addEventListener('mouseup', ()=>{ mouseDown=false; reset(); });
+
+  // Render loop — 60fps canvas drawing
+  function drawJoystick(){
+    jctx.clearRect(0,0,SIZE,SIZE);
+
+    // --- Outer ring ---
+    jctx.beginPath();
+    jctx.arc(CX,CY,BASE_R,0,Math.PI*2);
+    jctx.strokeStyle = active ? 'rgba(0,245,255,0.55)' : 'rgba(0,245,255,0.22)';
+    jctx.lineWidth   = 2;
+    jctx.stroke();
+    // Subtle fill
+    jctx.beginPath();
+    jctx.arc(CX,CY,BASE_R,0,Math.PI*2);
+    jctx.fillStyle = 'rgba(0,10,30,0.55)';
+    jctx.fill();
+
+    // --- Direction guide lines ---
+    jctx.save();
+    jctx.globalAlpha = 0.12;
+    jctx.strokeStyle = '#00f5ff';
+    jctx.lineWidth   = 1;
+    [[0,BASE_R-4],[Math.PI*.5,BASE_R-4],[Math.PI,BASE_R-4],[Math.PI*1.5,BASE_R-4]].forEach(([a,r])=>{
+      jctx.beginPath();
+      jctx.moveTo(CX+Math.cos(a)*12, CY+Math.sin(a)*12);
+      jctx.lineTo(CX+Math.cos(a)*r,  CY+Math.sin(a)*r);
+      jctx.stroke();
+    });
+    jctx.restore();
+
+    // --- Knob shadow ---
+    const grad = jctx.createRadialGradient(knobX-4,knobY-4,2,knobX,knobY,KNOB_R);
+    grad.addColorStop(0, active ? 'rgba(255,255,255,0.95)' : 'rgba(0,245,255,0.8)');
+    grad.addColorStop(0.5, active ? 'rgba(0,245,255,0.9)'  : 'rgba(0,245,255,0.5)');
+    grad.addColorStop(1,   'rgba(0,10,30,0.1)');
+
+    jctx.beginPath();
+    jctx.arc(knobX, knobY, KNOB_R, 0, Math.PI*2);
+    jctx.fillStyle = grad;
+    jctx.shadowColor = '#00f5ff';
+    jctx.shadowBlur  = active ? 18 : 8;
+    jctx.fill();
+    jctx.shadowBlur  = 0;
+
+    // Knob ring
+    jctx.beginPath();
+    jctx.arc(knobX, knobY, KNOB_R, 0, Math.PI*2);
+    jctx.strokeStyle = active ? 'rgba(0,245,255,1)' : 'rgba(0,245,255,0.5)';
+    jctx.lineWidth   = 2;
+    jctx.stroke();
+
+    // Centre dot
+    jctx.beginPath();
+    jctx.arc(knobX, knobY, 5, 0, Math.PI*2);
+    jctx.fillStyle = '#fff';
+    jctx.fill();
+
+    requestAnimationFrame(drawJoystick);
+  }
+  drawJoystick();
+})();
 
 // ---- UPGRADES UI ----
 function buildUpgradesUI(){
