@@ -137,7 +137,13 @@ html,body{width:100%;height:100%;overflow:hidden;background:#020812;font-family:
   <div class="sr">LEVEL: <span id="goLevel">1</span></div>
   <div class="sr">GLITCHES: <span id="goKills">0</span></div>
   <div class="sr">BEST COMBO: <span id="goCombo">x1</span></div>
-  <button class="btn" style="margin-top:24px" id="bRetry">↺ TRY AGAIN</button>
+  <!-- Revive button — only shown when dying during boss fight -->
+  <div id="reviveWrap" style="display:none;text-align:center;margin-top:20px">
+    <div style="font-size:11px;letter-spacing:2px;color:#ffff00;margin-bottom:8px">⚡ BOSS STILL ALIVE — ONE CHANCE TO RETURN</div>
+    <button class="btn" style="border-color:#ffff00;color:#ffff00;background:rgba(255,255,0,.08);font-size:16px" id="bRevive">⚡ REVIVE</button>
+    <div id="reviveTimer" style="font-size:12px;letter-spacing:2px;color:rgba(255,255,0,.6);margin-top:6px">EXPIRES IN <span id="reviveSec">5</span>s</div>
+  </div>
+  <button class="btn" style="margin-top:16px" id="bRetry">↺ TRY AGAIN</button>
   <button class="btn m" id="bGoMenu">◀ MAIN MENU</button>
 </div>
 
@@ -574,7 +580,15 @@ function killEnemy(e){
   var pts=Math.round(e.pts*(G.odActive?2:1)*G.combo);
   G.score+=pts;
   bumpCombo();
-  addParts(e.x,e.y,12,e.col,true);
+  // Per-type death burst
+  addParts(e.x,e.y,14,e.col,true);
+  addParts(e.x,e.y,7,e.col2||e.col,true);
+  if(e.type==='glitch') addRing(e.x,e.y,e.r*1.8,'#ff2244',8);
+  else if(e.type==='pulse') addRing(e.x,e.y,e.r*2.2,e.col,10);
+  else if(e.type==='phantom'){addRing(e.x,e.y,e.r*2,'#9b00ff',8);addParts(e.x,e.y,6,'#cc44ff',true);}
+  else if(e.type==='leech'){addParts(e.x,e.y,10,'#ff00ff',true);addRing(e.x,e.y,e.r*1.5,'#ff44aa',6);}
+  else if(e.type==='titan'){addRing(e.x,e.y,e.r*2.5,'#4488ff',14);addShake(5,0.15);addParts(e.x,e.y,12,'#88ccff',true);}
+  else if(e.type==='mimic') addRing(e.x,e.y,e.r*2,'#00ff88',10);
   addPop(e.x,e.y,'+'+pts);
   sfxHit();checkOD();
   var cLv=upLv('chain');
@@ -636,17 +650,30 @@ function spawnEnemy(){
 }
 function makeEnemy(x,y,type,lv){
   var DEF={
-    glitch: {col:'#ff2244',r:10,bhp:40, spd:78, pts:50, beh:'chase'},
-    pulse:  {col:'#ff8800',r:12,bhp:58, spd:55, pts:75, beh:'orbit'},
-    phantom:{col:'#9b00ff',r:9, bhp:34, spd:95, pts:90, beh:'zigzag'},
-    leech:  {col:'#ff00ff',r:14,bhp:88, spd:50, pts:120,beh:'drain'},
-    titan:  {col:'#4488ff',r:22,bhp:220,spd:35, pts:250,beh:'charge'},
-    mimic:  {col:'#00ff88',r:11,bhp:70, spd:80, pts:150,beh:'mimic'},
+    // GLITCH — corrupted data node, jagged shard of the Cortex Worm
+    glitch: {col:'#ff2244',col2:'#ff6677',r:11,bhp:40, spd:78, pts:50, beh:'chase',   sides:7,  spikes:true,  eye:true,  arms:0, orbitR:0},
+    // PULSE — orbital energy ring, child of the Pulse Matrix
+    pulse:  {col:'#ff8800',col2:'#ffcc44',r:13,bhp:58, spd:55, pts:75, beh:'orbit',   sides:0,  spikes:false, eye:false, arms:3, orbitR:18},
+    // PHANTOM — void diamond, fragment of Void Eye
+    phantom:{col:'#9b00ff',col2:'#cc44ff',r:10,bhp:34, spd:95, pts:90, beh:'zigzag',  sides:4,  spikes:false, eye:true,  arms:0, orbitR:0},
+    // LEECH — memory parasite, spawn of Memory Leviathan
+    leech:  {col:'#ff00ff',col2:'#ff44aa',r:14,bhp:88, spd:50, pts:120,beh:'drain',   sides:0,  spikes:true,  eye:true,  arms:4, orbitR:0},
+    // TITAN — armored colossus, herald of the Logic Crusher
+    titan:  {col:'#4488ff',col2:'#88ccff',r:22,bhp:220,spd:35, pts:250,beh:'charge',  sides:6,  spikes:true,  eye:true,  arms:0, orbitR:28},
+    // MIMIC — shape-shifter, echo of the Quantum Specter
+    mimic:  {col:'#00ff88',col2:'#00ffcc',r:12,bhp:70, spd:80, pts:150,beh:'mimic',   sides:5,  spikes:false, eye:true,  arms:2, orbitR:16},
   };
   var d=DEF[type]||DEF.glitch;
   var hp=d.bhp*(1+lv*0.18);
-  return{x:x,y:y,type:type,col:d.col,r:d.r,hp:hp,maxHp:hp,spd:d.spd*(1+lv*0.05),pts:d.pts+lv*10,beh:d.beh,
-    alive:true,vx:0,vy:0,angle:rnd(0,PI2),stun:0,sf:1,sft:0,phT:rnd(0,3),cT:0,ch:false,p:rnd(0,PI2),hitFlash:0};
+  var e={x:x,y:y,type:type,col:d.col,col2:d.col2,r:d.r,
+    hp:hp,maxHp:hp,spd:d.spd*(1+lv*0.05),pts:d.pts+lv*10,beh:d.beh,
+    sides:d.sides,spikes:d.spikes,hasEye:d.eye,arms:d.arms,orbitR:d.orbitR,
+    alive:true,vx:0,vy:0,angle:rnd(0,PI2),stun:0,sf:1,sft:0,
+    phT:rnd(0,3),cT:0,ch:false,p:rnd(0,PI2),hitFlash:0,
+    armAngs:[],orbitAngs:[],spawnAnim:0.6};
+  for(var i=0;i<d.arms;i++)e.armAngs.push(rnd(0,PI2));
+  for(var i=0;i<3;i++)e.orbitAngs.push(rnd(0,PI2));
+  return e;
 }
 function spawnBoss(){
   var def=BDEFS[Math.min(G.level-1,BDEFS.length-1)];
@@ -792,6 +819,23 @@ function doGameOver(){
   $('goLevel').textContent=G.level;
   $('goKills').textContent=G.kills;
   $('goCombo').textContent='x'+G.bestCombo;
+  // Show revive button only when boss is still alive (player died during boss fight)
+  var canRevive=!!(G.boss&&G.boss.hp>0&&G.bossAlive===false&&G.bossSpawned);
+  // bossAlive is set to false by bossDmg only when hp<=0, but if player died during fight boss.hp>0
+  // Correct check: boss exists AND boss was not yet killed (hp still > 0)
+  canRevive=!!(G.boss&&G.boss.hp>0);
+  _reviveAvail=canRevive;
+  $('reviveWrap').style.display=canRevive?'block':'none';
+  if(canRevive){
+    var secs=5;
+    $('reviveSec').textContent=secs;
+    if(_reviveTid)clearInterval(_reviveTid);
+    _reviveTid=setInterval(function(){
+      secs--;
+      $('reviveSec').textContent=Math.max(0,secs);
+      if(secs<=0){clearInterval(_reviveTid);_reviveTid=null;_reviveAvail=false;$('reviveWrap').style.display='none';}
+    },1000);
+  }
   function show(){$('gameOverScreen').classList.remove('hide');}
   if(typeof GamePix!=='undefined'&&GamePix.showInterstitial)GamePix.showInterstitial().then(show).catch(show);
   else show();
@@ -851,9 +895,13 @@ function updatePlayer(dt){
 
 // UPDATE ENEMY
 function updateEnemy(e,dt){
+  if(e.spawnAnim>0){e.spawnAnim=Math.max(0,e.spawnAnim-dt*2);}
   if(e.stun>0){e.stun-=dt;return;}
   if(e.sft>0){e.sft-=dt;if(e.sft<=0)e.sf=1;}
   e.p+=dt*2;e.phT+=dt;
+  // Rotate arm angles
+  for(var i=0;i<e.armAngs.length;i++)e.armAngs[i]+=dt*(0.8+i*0.3);
+  for(var i=0;i<e.orbitAngs.length;i++)e.orbitAngs[i]+=dt*(1.2+i*0.4);
   var ax=G.px-e.x,ay=G.py-e.y,d=Math.hypot(ax,ay)||1;
   var sf=e.sf*(G.timeSlow>0?0.28:1);
   if(e.beh==='chase'){e.vx=lerp(e.vx,(ax/d)*e.spd,0.08);e.vy=lerp(e.vy,(ay/d)*e.spd,0.08);}
@@ -946,6 +994,7 @@ function updateBoss(b,dt){
 
 // DRAW BG
 function drawBg(){
+  BX.globalAlpha=1;BX.shadowBlur=0;BX.setTransform(1,0,0,1,0,0);
   BX.clearRect(0,0,W,H);
   var bg=BX.createRadialGradient(W/2,H/2,0,W/2,H/2,Math.max(W,H)*0.75);
   bg.addColorStop(0,'#030e24');bg.addColorStop(1,'#020810');
@@ -964,6 +1013,8 @@ function drawBg(){
 
 // DRAW GAME
 function drawGame(){
+  // Hard-reset context state every frame — prevents white screen from any mid-frame error
+  GX.globalAlpha=1;GX.shadowBlur=0;GX.shadowColor='transparent';GX.lineWidth=1;GX.setTransform(1,0,0,1,0,0);
   GX.clearRect(0,0,W,H);
   GX.fillStyle='#020812';GX.fillRect(0,0,W,H);
   GX.save();GX.translate(G.shake.x,G.shake.y);
@@ -1038,15 +1089,218 @@ function drawGame(){
 }
 
 function drawEnemy(e){
-  var gv=Math.sin(e.p)*0.4+0.6;
-  var col=e.hitFlash>0?'#ffffff':e.col;
-  GX.save();GX.shadowColor=col;GX.shadowBlur=10+gv*7;
-  GX.beginPath();
-  if(e.type==='titan'){for(var i=0;i<6;i++){var a=(i/6)*PI2-Math.PI/6;if(i===0)GX.moveTo(e.x+Math.cos(a)*e.r,e.y+Math.sin(a)*e.r);else GX.lineTo(e.x+Math.cos(a)*e.r,e.y+Math.sin(a)*e.r);}GX.closePath();}
-  else if(e.type==='phantom'){GX.moveTo(e.x,e.y-e.r);GX.lineTo(e.x+e.r,e.y);GX.lineTo(e.x,e.y+e.r);GX.lineTo(e.x-e.r,e.y);GX.closePath();}
-  else GX.arc(e.x,e.y,e.r,0,PI2);
-  GX.fillStyle=col;GX.globalAlpha=0.7+gv*0.2;GX.fill();GX.globalAlpha=1;GX.strokeStyle=col;GX.lineWidth=1.8;GX.stroke();
-  if(e.hp<e.maxHp){var bw=e.r*2+4;GX.fillStyle='rgba(0,0,0,.5)';GX.fillRect(e.x-bw/2,e.y-e.r-8,bw,4);GX.fillStyle=e.hp/e.maxHp>0.5?'#00ff88':e.hp/e.maxHp>0.25?'#ffff00':'#ff2244';GX.fillRect(e.x-bw/2,e.y-e.r-8,bw*(e.hp/e.maxHp),4);}
+  // Always reset context to safe state before and after — prevents white screen on error
+  GX.globalAlpha=1;GX.shadowBlur=0;GX.shadowColor='transparent';GX.lineWidth=1;
+  try{ _drawEnemyInner(e); }catch(err){}
+  GX.globalAlpha=1;GX.shadowBlur=0;GX.shadowColor='transparent';
+}
+function _drawEnemyInner(e){
+  var gv=Math.sin(e.p)*0.5+0.5;
+  var hf=e.hitFlash>0;
+  var col=hf?'#ffffff':e.col;
+  var col2=hf?'#ffeeee':(e.col2||e.col);
+  var hpR=e.hp/e.maxHp;
+  var sa=e.spawnAnim||0; // 0=fully spawned, >0=still spawning
+  var scale=1-sa*0.5;
+
+  GX.save();
+  GX.translate(e.x,e.y);
+  GX.scale(scale,scale);
+
+  // Spawn flash ring
+  if(sa>0){
+    GX.beginPath();GX.arc(0,0,e.r*(1+sa*1.5),0,PI2);
+    GX.strokeStyle=col;GX.lineWidth=3;GX.globalAlpha=sa;
+    GX.shadowColor=col;GX.shadowBlur=20;GX.stroke();GX.globalAlpha=1;GX.shadowBlur=0;
+  }
+
+  if(e.type==='glitch'){
+    // Jagged corrupted shard — rotating 7-pointed star with inner core
+    GX.shadowColor=col;GX.shadowBlur=14+gv*8;
+    // Outer spikes
+    GX.beginPath();
+    for(var i=0;i<7;i++){
+      var a=(i/7)*PI2+e.p*0.4;
+      var a2=((i+0.5)/7)*PI2+e.p*0.4;
+      var ro=e.r*(1+gv*0.15);var ri=e.r*0.48;
+      if(i===0)GX.moveTo(Math.cos(a)*ro,Math.sin(a)*ro);
+      else GX.lineTo(Math.cos(a)*ro,Math.sin(a)*ro);
+      GX.lineTo(Math.cos(a2)*ri,Math.sin(a2)*ri);
+    }
+    GX.closePath();
+    var gr=GX.createRadialGradient(0,0,0,0,0,e.r);
+    gr.addColorStop(0,'#fff');gr.addColorStop(0.4,col);gr.addColorStop(1,'rgba(255,34,68,0.2)');
+    GX.fillStyle=gr;GX.globalAlpha=0.85+gv*0.1;GX.fill();
+    GX.strokeStyle=col2;GX.lineWidth=1.5;GX.globalAlpha=1;GX.stroke();
+    // Inner glitch lines
+    GX.globalAlpha=0.4+gv*0.3;
+    for(var i=0;i<3;i++){
+      var a=e.p*1.5+i*(PI2/3);
+      GX.beginPath();GX.moveTo(Math.cos(a)*2,Math.sin(a)*2);GX.lineTo(Math.cos(a)*e.r*0.7,Math.sin(a)*e.r*0.7);
+      GX.strokeStyle='#fff';GX.lineWidth=1;GX.stroke();
+    }
+    // Eye
+    GX.globalAlpha=1;
+    GX.beginPath();GX.arc(0,0,e.r*0.28,0,PI2);GX.fillStyle='#200000';GX.fill();
+    GX.beginPath();GX.arc(0,0,e.r*0.14,0,PI2);GX.fillStyle='#ff0000';GX.shadowColor='#ff0000';GX.shadowBlur=10;GX.fill();
+
+  } else if(e.type==='pulse'){
+    // Orbital energy rings — pulse matrix child
+    GX.shadowColor=col;GX.shadowBlur=12+gv*10;
+    // Core
+    GX.beginPath();GX.arc(0,0,e.r*0.6,0,PI2);
+    var gr=GX.createRadialGradient(0,0,0,0,0,e.r*0.6);
+    gr.addColorStop(0,'#fff');gr.addColorStop(0.5,col);gr.addColorStop(1,'rgba(255,136,0,0.1)');
+    GX.fillStyle=gr;GX.globalAlpha=0.9;GX.fill();
+    // 3 orbital rings
+    for(var i=0;i<3;i++){
+      var ra=e.orbitAngs[i]||0;var rr=e.r*(0.85+i*0.25);
+      GX.save();GX.rotate(ra);GX.scale(1,0.35+i*0.1);
+      GX.beginPath();GX.arc(0,0,rr,0,PI2);
+      GX.strokeStyle=i===0?col:i===1?col2:'#ffff88';
+      GX.lineWidth=2-i*0.4;GX.globalAlpha=0.7-i*0.15;GX.stroke();
+      // Orbit node
+      GX.beginPath();GX.arc(rr,0,3-i*0.5,0,PI2);GX.fillStyle='#fff';GX.globalAlpha=0.9;GX.fill();
+      GX.restore();
+    }
+    // Arms (energy tendrils)
+    GX.globalAlpha=0.5+gv*0.3;
+    for(var i=0;i<e.arms;i++){
+      var aa=e.armAngs[i]||0;var al=e.r+6;
+      GX.beginPath();GX.moveTo(Math.cos(aa)*e.r*0.55,Math.sin(aa)*e.r*0.55);
+      GX.lineTo(Math.cos(aa)*al,Math.sin(aa)*al);
+      GX.strokeStyle=col2;GX.lineWidth=2;GX.stroke();
+      GX.beginPath();GX.arc(Math.cos(aa)*al,Math.sin(aa)*al,3,0,PI2);GX.fillStyle=col2;GX.fill();
+    }
+
+  } else if(e.type==='phantom'){
+    // Void diamond — rotating 4-point with inner distortion
+    GX.shadowColor=col;GX.shadowBlur=16+gv*10;
+    var rot=e.p*0.6;
+    GX.save();GX.rotate(rot);
+    // Outer diamond
+    GX.beginPath();GX.moveTo(0,-e.r*(1+gv*0.12));GX.lineTo(e.r*0.65,0);GX.lineTo(0,e.r*(1+gv*0.12));GX.lineTo(-e.r*0.65,0);GX.closePath();
+    var gr=GX.createRadialGradient(0,0,0,0,0,e.r);
+    gr.addColorStop(0,'#dd88ff');gr.addColorStop(0.5,col);gr.addColorStop(1,'rgba(155,0,255,0.15)');
+    GX.fillStyle=gr;GX.globalAlpha=0.82+gv*0.12;GX.fill();
+    GX.strokeStyle=col2;GX.lineWidth=2;GX.globalAlpha=1;GX.stroke();
+    GX.restore();
+    // Inner counter-rotating diamond
+    GX.save();GX.rotate(-rot*1.4);GX.scale(0.45,0.45);
+    GX.beginPath();GX.moveTo(0,-e.r);GX.lineTo(e.r*0.65,0);GX.lineTo(0,e.r);GX.lineTo(-e.r*0.65,0);GX.closePath();
+    GX.fillStyle='#fff';GX.globalAlpha=0.5+gv*0.3;GX.fill();
+    GX.restore();
+    // Void eye
+    GX.beginPath();GX.arc(0,0,e.r*0.22,0,PI2);GX.fillStyle='#1a0030';GX.globalAlpha=1;GX.fill();
+    GX.save();GX.scale(e.r*0.1,e.r*0.16);GX.beginPath();GX.arc(0,0,1,0,PI2);GX.fillStyle='#cc00ff';GX.shadowColor='#cc00ff';GX.shadowBlur=8;GX.fill();GX.restore();
+    // 4 corner micro-spikes
+    GX.shadowBlur=0;GX.globalAlpha=0.6+gv*0.3;
+    for(var i=0;i<4;i++){var sa2=(i/4)*PI2+rot;var sd2=e.r+5+gv*4;GX.beginPath();GX.moveTo(Math.cos(sa2)*e.r*0.9,Math.sin(sa2)*e.r*0.9);GX.lineTo(Math.cos(sa2)*sd2,Math.sin(sa2)*sd2);GX.strokeStyle=col2;GX.lineWidth=1.5;GX.stroke();}
+
+  } else if(e.type==='leech'){
+    // Memory parasite — pulsing blob with draining tendrils
+    GX.shadowColor=col;GX.shadowBlur=18+gv*12;
+    // Wobbly body
+    GX.beginPath();
+    for(var i=0;i<=24;i++){
+      var a=(i/24)*PI2;
+      var wobble=e.r*(1+0.2*Math.sin(a*3+e.p*1.8)+0.1*Math.sin(a*5-e.p));
+      var px2=Math.cos(a)*wobble,py2=Math.sin(a)*wobble;
+      if(i===0)GX.moveTo(px2,py2);else GX.lineTo(px2,py2);
+    }
+    GX.closePath();
+    var gr=GX.createRadialGradient(-e.r*0.25,-e.r*0.25,0,0,0,e.r*1.2);
+    gr.addColorStop(0,'#ffaadd');gr.addColorStop(0.45,col);gr.addColorStop(1,'rgba(255,0,255,0.1)');
+    GX.fillStyle=gr;GX.globalAlpha=0.88+gv*0.08;GX.fill();
+    GX.strokeStyle=col2;GX.lineWidth=2;GX.globalAlpha=1;GX.stroke();
+    // Drain tendrils (arms)
+    for(var i=0;i<e.arms;i++){
+      var aa=e.armAngs[i]||0;
+      var tx=Math.cos(aa)*(e.r+10+gv*6),ty=Math.sin(aa)*(e.r+10+gv*6);
+      var mx=Math.cos(aa+0.5)*(e.r+5),my=Math.sin(aa+0.5)*(e.r+5);
+      GX.beginPath();GX.moveTo(Math.cos(aa)*e.r*0.5,Math.sin(aa)*e.r*0.5);
+      GX.quadraticCurveTo(mx,my,tx,ty);
+      GX.strokeStyle=col2;GX.lineWidth=2.5;GX.globalAlpha=0.55+gv*0.3;GX.stroke();
+      GX.beginPath();GX.arc(tx,ty,3.5,0,PI2);GX.fillStyle='#ff88cc';GX.globalAlpha=0.85;GX.fill();
+    }
+    // Eye
+    GX.globalAlpha=1;GX.beginPath();GX.arc(0,-e.r*0.2,e.r*0.3,0,PI2);GX.fillStyle='#1a0010';GX.fill();
+    GX.beginPath();GX.arc(0,-e.r*0.2,e.r*0.15,0,PI2);GX.fillStyle='#ff00aa';GX.shadowColor='#ff00aa';GX.shadowBlur=10;GX.fill();
+    // Drain pulse ring
+    GX.beginPath();GX.arc(0,0,e.r+4+gv*6,0,PI2);GX.strokeStyle=col;GX.lineWidth=1;GX.globalAlpha=0.25+gv*0.2;GX.stroke();
+
+  } else if(e.type==='titan'){
+    // Armored colossus — hexagonal with orbital shield fragments
+    GX.shadowColor=col;GX.shadowBlur=16+gv*10;
+    // Shield orbit
+    for(var i=0;i<3;i++){
+      var oa=e.orbitAngs[i]||0;
+      var ox=Math.cos(oa)*(e.r+e.orbitR*0.8),oy=Math.sin(oa)*(e.r+e.orbitR*0.8);
+      GX.save();GX.translate(ox,oy);GX.rotate(oa*2);
+      GX.beginPath();GX.moveTo(0,-5);GX.lineTo(4,5);GX.lineTo(-4,5);GX.closePath();
+      GX.fillStyle=col2;GX.globalAlpha=0.7+gv*0.2;GX.fill();GX.restore();
+    }
+    // Hex body
+    GX.beginPath();
+    for(var i=0;i<6;i++){var a=(i/6)*PI2-Math.PI/6;if(i===0)GX.moveTo(Math.cos(a)*e.r,Math.sin(a)*e.r);else GX.lineTo(Math.cos(a)*e.r,Math.sin(a)*e.r);}
+    GX.closePath();
+    var gr=GX.createRadialGradient(0,0,0,0,0,e.r);
+    gr.addColorStop(0,'#aaddff');gr.addColorStop(0.5,col);gr.addColorStop(1,'rgba(20,40,120,0.3)');
+    GX.fillStyle=gr;GX.globalAlpha=0.9;GX.fill();
+    GX.strokeStyle=col2;GX.lineWidth=3;GX.globalAlpha=1;GX.stroke();
+    // Inner hex
+    GX.save();GX.rotate(Math.PI/6+e.p*0.2);
+    GX.beginPath();
+    for(var i=0;i<6;i++){var a=(i/6)*PI2-Math.PI/6;if(i===0)GX.moveTo(Math.cos(a)*e.r*0.45,Math.sin(a)*e.r*0.45);else GX.lineTo(Math.cos(a)*e.r*0.45,Math.sin(a)*e.r*0.45);}
+    GX.closePath();GX.strokeStyle='#88ccff';GX.lineWidth=1.5;GX.globalAlpha=0.7;GX.stroke();GX.restore();
+    // Core eye
+    GX.beginPath();GX.arc(0,0,e.r*0.3,0,PI2);GX.fillStyle='#001830';GX.globalAlpha=1;GX.fill();
+    GX.beginPath();GX.arc(0,0,e.r*0.16,0,PI2);GX.fillStyle='#44aaff';GX.shadowColor='#44aaff';GX.shadowBlur=14;GX.fill();
+    // Charge indicator
+    if(e.ch){GX.beginPath();GX.arc(0,0,e.r+4+gv*8,0,PI2);GX.strokeStyle='#ff4400';GX.lineWidth=3;GX.globalAlpha=0.8;GX.shadowColor='#ff4400';GX.shadowBlur=12;GX.stroke();}
+
+  } else if(e.type==='mimic'){
+    // Shape-shifter — 5-point star with shifting hue ring
+    GX.shadowColor=col;GX.shadowBlur=14+gv*8;
+    var rot2=e.p*0.5;
+    GX.save();GX.rotate(rot2);
+    GX.beginPath();
+    for(var i=0;i<5;i++){
+      var a=(i/5)*PI2-Math.PI/2;
+      var a2=((i+0.5)/5)*PI2-Math.PI/2;
+      GX.lineTo(Math.cos(a)*e.r*(1+gv*0.12),Math.sin(a)*e.r*(1+gv*0.12));
+      GX.lineTo(Math.cos(a2)*e.r*0.42,Math.sin(a2)*e.r*0.42);
+    }
+    GX.closePath();
+    var gr=GX.createRadialGradient(0,0,0,0,0,e.r);
+    gr.addColorStop(0,'#ccffee');gr.addColorStop(0.5,col);gr.addColorStop(1,'rgba(0,255,136,0.1)');
+    GX.fillStyle=gr;GX.globalAlpha=0.85+gv*0.1;GX.fill();
+    GX.strokeStyle=col2;GX.lineWidth=2;GX.globalAlpha=1;GX.stroke();
+    GX.restore();
+    // Orbiting micro-nodes
+    for(var i=0;i<e.arms;i++){
+      var oa=e.orbitAngs[i]||0;
+      var ox=Math.cos(oa)*(e.r+e.orbitR*0.7),oy=Math.sin(oa)*(e.r+e.orbitR*0.7);
+      GX.beginPath();GX.arc(ox,oy,3.5+gv,0,PI2);GX.fillStyle=col2;GX.globalAlpha=0.8+gv*0.15;GX.fill();
+      GX.beginPath();GX.arc(ox,oy,3.5+gv,0,PI2);GX.strokeStyle='#fff';GX.lineWidth=1;GX.globalAlpha=0.4;GX.stroke();
+    }
+    // Shifting eye
+    var eyeCol=GX.shadowColor='hsl('+(((e.p*30)%360)+120)+',100%,60%)';
+    GX.beginPath();GX.arc(0,0,e.r*0.28,0,PI2);GX.fillStyle='#001a0a';GX.globalAlpha=1;GX.fill();
+    GX.beginPath();GX.arc(0,0,e.r*0.14,0,PI2);GX.fillStyle=eyeCol;GX.shadowColor=eyeCol;GX.shadowBlur=10;GX.fill();
+  }
+
+  GX.shadowBlur=0;GX.globalAlpha=1;
+
+  // HP bar — sleek under enemy
+  if(e.hp<e.maxHp&&e.hp>0){
+    var bw=e.r*2+6,bh=3;
+    GX.fillStyle='rgba(0,0,0,0.6)';GX.fillRect(-bw/2,e.r+6,bw,bh);
+    GX.fillStyle=hpR>0.5?'#00ff88':hpR>0.25?'#ffff00':'#ff2244';
+    GX.fillRect(-bw/2,e.r+6,bw*hpR,bh);
+    GX.strokeStyle='rgba(255,255,255,0.15)';GX.lineWidth=0.5;GX.strokeRect(-bw/2,e.r+6,bw,bh);
+  }
+
   GX.restore();
 }
 function drawBoss(b){
@@ -1211,6 +1465,7 @@ window.addEventListener('mousemove',function(e){if(G.running&&!G.paused)G.pLookA
 
 // MENU WIRING
 var _fromWin=false,_fromPause=false;
+var _reviveAvail=false,_reviveTid=null;
 $('bPlay').addEventListener('click',function(){startGame(1)});
 $('bIntro').addEventListener('click',function(){showScreen('introScreen')});
 $('bIntroBack').addEventListener('click',function(){showScreen('titleScreen')});
@@ -1235,6 +1490,25 @@ $('bResetYes').addEventListener('click',function(){
 });
 $('bRetry').addEventListener('click',function(){$('gameOverScreen').classList.add('hide');startGame(1)});
 $('bGoMenu').addEventListener('click',function(){$('gameOverScreen').classList.add('hide');showScreen('titleScreen')});
+$('bRevive').addEventListener('click',function(){
+  if(!_reviveAvail)return;
+  _reviveAvail=false;
+  if(_reviveTid){clearInterval(_reviveTid);_reviveTid=null;}
+  $('reviveWrap').style.display='none';
+  $('gameOverScreen').classList.add('hide');
+  // Restore player fully and resume game from where it stopped
+  G.over=false;G.running=true;
+  G.pLives=G.pMaxLives;
+  G.pGraceT=3.0;
+  G.pInvT=2.0;
+  G.px=W/2;G.py=H*0.75; // spawn away from boss
+  G.pTrail=[];
+  G.bossProjs=[]; // clear any lingering projectiles
+  showUI();
+  updateLivesHUD();
+  G.lastT=performance.now();
+  G.raf=requestAnimationFrame(gameLoop);
+});
 $('bNext').addEventListener('click',function(){$('winScreen').classList.add('hide');startGame(G.level+1)});
 $('bUpgWin').addEventListener('click',function(){$('winScreen').classList.add('hide');_fromWin=true;buildUpgrades();showScreen('upgradesScreen')});
 $('bMenuWin').addEventListener('click',function(){$('winScreen').classList.add('hide');showScreen('titleScreen')});
