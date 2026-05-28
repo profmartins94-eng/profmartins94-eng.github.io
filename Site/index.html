@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Academia Corporativa — Controle de Acesso</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0C1520;
+  --surface:#152030;
+  --surface2:#1A2840;
+  --accent:#00D4A0;
+  --accent-dim:rgba(0,212,160,0.12);
+  --accent-border:rgba(0,212,160,0.3);
+  --text:#EDF2F7;
+  --muted:#7A94A8;
+  --border:rgba(255,255,255,0.07);
+  --border2:rgba(255,255,255,0.13);
+  --danger:#F06060;
+  --warning:#F0A830;
+  --warn-dim:rgba(240,168,48,0.12);
+  --warn-border:rgba(240,168,48,0.3);
+}
+html,body{min-height:100vh;background:var(--bg);color:var(--text);font-family:'Barlow',sans-serif;-webkit-tap-highlight-color:transparent}
+
+/* HEADER */
+.header{display:flex;align-items:center;justify-content:space-between;padding:14px 20px;border-bottom:1px solid var(--border);background:var(--surface);position:sticky;top:0;z-index:10}
+.logo{display:flex;align-items:center;gap:10px}
+.logo-icon{width:38px;height:38px;background:var(--accent-dim);border:1px solid var(--accent-border);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px}
+.logo-text{font-family:'Barlow Condensed',sans-serif;font-size:18px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;line-height:1.1}
+.logo-sub{font-size:10px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
+.header-right{text-align:right}
+.live-time{font-family:'JetBrains Mono',monospace;font-size:22px;font-weight:500;color:var(--accent);letter-spacing:.04em}
+.live-date{font-size:11px;color:var(--muted);margin-top:1px}
+
+/* SCREENS */
+.screen{display:none;padding:20px 16px;min-height:calc(100vh - 70px)}
+.screen.active{display:block}
+
+/* HOME */
+.home-wrap{max-width:540px;margin:0 auto;padding-top:20px}
+.home-greeting{font-size:15px;color:var(--muted);margin-bottom:4px}
+.home-title{font-family:'Barlow Condensed',sans-serif;font-size:30px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin-bottom:28px}
+.btn-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:20px}
+.btn-big{padding:32px 16px;border-radius:16px;border:1px solid var(--border2);background:var(--surface);cursor:pointer;transition:all .2s;display:flex;flex-direction:column;align-items:center;gap:10px;-webkit-user-select:none;user-select:none}
+.btn-big:active{transform:scale(.97)}
+.btn-big.entrada{border-color:var(--accent-border)}
+.btn-big.entrada:hover{background:rgba(0,212,160,.07);border-color:var(--accent)}
+.btn-big.saida{border-color:var(--warn-border)}
+.btn-big.saida:hover{background:var(--warn-dim);border-color:var(--warning)}
+.btn-big .big-icon{font-size:36px;line-height:1}
+.btn-big .big-label{font-family:'Barlow Condensed',sans-serif;font-size:20px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+.btn-big .big-sub{font-size:12px;color:var(--muted);text-align:center}
+.occupancy-bar{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px;display:flex;align-items:center;gap:14px;margin-bottom:14px}
+.occ-dot{width:10px;height:10px;border-radius:50%;background:var(--accent);flex-shrink:0;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.occ-text{font-size:14px;color:var(--muted)}
+.occ-num{font-family:'JetBrains Mono',monospace;font-size:14px;color:var(--accent);font-weight:500}
+.admin-link{text-align:center;margin-top:8px}
+.admin-link a{font-size:12px;color:var(--muted);cursor:pointer;text-decoration:underline;text-decoration-color:transparent;transition:all .2s}
+.admin-link a:hover{color:var(--text);text-decoration-color:var(--muted)}
+
+/* SCREEN HEADER */
+.screen-hdr{display:flex;align-items:center;gap:12px;margin-bottom:24px}
+.back-btn{width:36px;height:36px;flex-shrink:0;border-radius:9px;border:1px solid var(--border2);background:var(--surface);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:18px;color:var(--muted);transition:all .2s}
+.back-btn:hover{color:var(--text);border-color:var(--border2)}
+.screen-hdr-title{font-family:'Barlow Condensed',sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.05em}
+.screen-hdr-title em{color:var(--accent);font-style:normal}
+.screen-hdr-title.warn em{color:var(--warning)}
+.form-wrap{max-width:560px;margin:0 auto}
+
+/* CARD */
+.card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:20px;margin-bottom:14px}
+.card-label{font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:14px}
+
+/* FIELDS */
+.field{margin-bottom:14px}
+.field:last-child{margin-bottom:0}
+.field label{display:block;font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.field input,.field select{width:100%;padding:12px 14px;background:var(--bg);border:1px solid var(--border2);border-radius:10px;color:var(--text);font-family:'Barlow',sans-serif;font-size:16px;outline:none;transition:border-color .2s;-webkit-appearance:none}
+.field input:focus,.field select:focus{border-color:var(--accent)}
+.field select{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%237A94A8' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 14px center;padding-right:36px}
+.field select option{background:#152030}
+.field-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.field input[readonly]{background:var(--surface2);color:var(--muted);cursor:default;border-color:transparent}
+
+/* TIME BOX */
+.time-box{display:flex;align-items:center;gap:12px;padding:12px 16px;background:var(--accent-dim);border:1px solid var(--accent-border);border-radius:10px}
+.time-box-val{font-family:'JetBrains Mono',monospace;font-size:24px;font-weight:500;color:var(--accent)}
+.time-box-info{display:flex;flex-direction:column}
+.time-box-label{font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);opacity:.7}
+.time-box-date{font-size:12px;color:var(--muted);margin-top:1px}
+.time-lock{font-size:12px;color:var(--accent);opacity:.6;margin-left:auto}
+
+/* SIGNATURE */
+.sig-wrap{border:1.5px dashed var(--border2);border-radius:10px;overflow:hidden;background:#fff;position:relative}
+#sigCanvas{display:block;width:100%;height:150px;touch-action:none;cursor:crosshair}
+.sig-hint{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:#bbb;font-size:14px;font-family:'Barlow',sans-serif;pointer-events:none;transition:opacity .3s;text-align:center}
+.sig-footer{display:flex;justify-content:space-between;align-items:center;margin-top:6px}
+.sig-status{font-size:12px;color:var(--muted)}
+.sig-status.ok{color:var(--accent)}
+.clear-sig{font-size:12px;color:var(--muted);cursor:pointer;padding:4px 10px;border-radius:6px;border:1px solid var(--border);background:transparent;transition:all .2s;font-family:'Barlow',sans-serif}
+.clear-sig:hover{color:var(--danger);border-color:var(--danger)}
+
+/* BUTTONS */
+.btn-primary{width:100%;padding:15px;background:var(--accent);color:#0C1520;border:none;border-radius:12px;font-family:'Barlow Condensed',sans-serif;font-size:19px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;cursor:pointer;transition:all .2s;margin-top:4px}
+.btn-primary:hover{background:#00EFBA;transform:translateY(-1px)}
+.btn-primary:active{transform:scale(.98)}
+.btn-primary:disabled{background:var(--surface2);color:var(--muted);cursor:not-allowed;transform:none}
+.btn-warn{background:var(--warning);color:#0C1520}
+.btn-warn:hover{background:#FFB840}
+
+/* SUCCESS */
+.success-wrap{text-align:center;padding:50px 20px;max-width:440px;margin:0 auto}
+.success-icon{width:76px;height:76px;border-radius:50%;background:var(--accent-dim);border:2px solid var(--accent);display:flex;align-items:center;justify-content:center;font-size:32px;margin:0 auto 20px;animation:pop .4s ease}
+.success-icon.warn{background:var(--warn-dim);border-color:var(--warning)}
+@keyframes pop{0%{transform:scale(0);opacity:0}70%{transform:scale(1.1)}100%{transform:scale(1);opacity:1}}
+.success-title{font-family:'Barlow Condensed',sans-serif;font-size:26px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px}
+.success-sub{font-size:15px;color:var(--muted);margin-bottom:6px}
+.success-detail{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--accent);background:var(--accent-dim);padding:8px 16px;border-radius:8px;display:inline-block;margin-bottom:28px}
+.success-detail.warn{color:var(--warning);background:var(--warn-dim)}
+.btn-secondary{padding:12px 28px;background:transparent;border:1px solid var(--border2);border-radius:10px;color:var(--muted);font-family:'Barlow',sans-serif;font-size:15px;cursor:pointer;transition:all .2s}
+.btn-secondary:hover{border-color:var(--border2);color:var(--text)}
+
+/* SAÍDA */
+.saida-wrap{max-width:540px;margin:0 auto}
+.search-row{display:flex;gap:10px;margin-bottom:16px}
+.search-row input{flex:1;padding:12px 14px;background:var(--surface);border:1px solid var(--border2);border-radius:10px;color:var(--text);font-family:'Barlow',sans-serif;font-size:16px;outline:none;transition:border-color .2s}
+.search-row input:focus{border-color:var(--accent)}
+.search-btn{padding:12px 18px;background:var(--surface2);border:1px solid var(--border2);border-radius:10px;color:var(--text);font-family:'Barlow',sans-serif;font-size:15px;cursor:pointer;transition:all .2s;white-space:nowrap}
+.search-btn:hover{border-color:var(--accent);color:var(--accent)}
+.found-card{background:var(--surface);border:1px solid var(--accent-border);border-radius:14px;padding:18px;margin-bottom:14px}
+.found-name{font-size:18px;font-weight:600;margin-bottom:4px}
+.found-meta{display:flex;gap:14px;font-size:13px;color:var(--muted);flex-wrap:wrap;margin-bottom:10px}
+.found-time{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--warning);margin-top:2px}
+.not-found{text-align:center;padding:28px;color:var(--muted);font-size:15px;background:var(--surface);border-radius:12px;border:1px solid var(--border)}
+.active-list{margin-top:0}
+.active-item{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;background:var(--surface);border:1px solid var(--border);border-radius:10px;margin-bottom:8px;cursor:pointer;transition:all .2s}
+.active-item:hover{border-color:var(--accent-border);background:var(--surface2)}
+.ai-left{}
+.ai-name{font-size:15px;font-weight:500}
+.ai-meta{font-size:12px;color:var(--muted);margin-top:1px}
+.ai-right{}
+.ai-time{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--accent)}
+.ai-arrow{color:var(--muted);font-size:12px}
+.section-label{font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:16px 0 8px}
+
+/* ADMIN LOGIN */
+.login-wrap{max-width:360px;margin:60px auto 0;text-align:center}
+.login-wrap .card{text-align:left}
+.login-title{font-family:'Barlow Condensed',sans-serif;font-size:26px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px}
+.login-sub{font-size:14px;color:var(--muted);margin-bottom:0}
+.err-msg{font-size:13px;color:var(--danger);min-height:20px;margin-top:6px}
+
+/* ADMIN PANEL */
+.admin-wrap{max-width:900px;margin:0 auto}
+.stats-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:20px}
+.stat-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
+.stat-label{font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.stat-val{font-family:'Barlow Condensed',sans-serif;font-size:36px;font-weight:700;color:var(--accent);line-height:1}
+.stat-val.warn{color:var(--warning)}
+
+/* TABS */
+.tab-bar{display:flex;gap:0;border-bottom:1px solid var(--border);margin-bottom:18px}
+.tab-btn{padding:10px 18px;font-size:14px;font-weight:500;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;transition:all .15s;background:none;border-left:none;border-right:none;border-top:none;font-family:'Barlow',sans-serif}
+.tab-btn:hover{color:var(--text)}
+.tab-btn.active{color:var(--accent);border-bottom-color:var(--accent)}
+.tab-pane{display:none}
+.tab-pane.active{display:block}
+
+/* TOOLBAR */
+.toolbar{display:flex;align-items:center;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+.toolbar input,.toolbar select{padding:8px 12px;background:var(--surface);border:1px solid var(--border2);border-radius:8px;color:var(--text);font-family:'Barlow',sans-serif;font-size:13px;outline:none;transition:border-color .2s}
+.toolbar input:focus,.toolbar select:focus{border-color:var(--accent)}
+.toolbar select{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%237A94A8' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 10px center;padding-right:28px;-webkit-appearance:none}
+.toolbar select option{background:#152030}
+.btn-export{padding:8px 14px;background:transparent;border:1px solid var(--border2);border-radius:8px;color:var(--muted);font-family:'Barlow',sans-serif;font-size:13px;cursor:pointer;transition:all .2s;display:flex;align-items:center;gap:6px;margin-left:auto;white-space:nowrap}
+.btn-export:hover{border-color:var(--accent);color:var(--accent)}
+
+/* TABLE */
+.table-scroll{overflow-x:auto;border-radius:12px;border:1px solid var(--border)}
+table{width:100%;border-collapse:collapse;font-size:13px;min-width:540px}
+thead{background:var(--surface2)}
+th{padding:11px 13px;text-align:left;font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);white-space:nowrap}
+td{padding:10px 13px;border-top:1px solid var(--border);vertical-align:middle}
+tr:hover td{background:rgba(255,255,255,.015)}
+.mono{font-family:'JetBrains Mono',monospace;font-size:12px}
+.badge{display:inline-block;padding:2px 8px;border-radius:6px;font-size:10px;font-weight:600;letter-spacing:.05em;text-transform:uppercase}
+.badge.in{background:var(--accent-dim);color:var(--accent)}
+.badge.out{background:rgba(255,255,255,.05);color:var(--muted)}
+.sig-thumb{width:60px;height:28px;border-radius:4px;background:#fff;object-fit:contain;cursor:pointer;border:1px solid #e0e0e0}
+.delete-btn{background:none;border:none;color:var(--muted);cursor:pointer;font-size:16px;padding:2px 6px;border-radius:4px;transition:color .2s}
+.delete-btn:hover{color:var(--danger)}
+
+/* EMPTY */
+.empty{text-align:center;padding:40px 20px;color:var(--muted)}
+.empty-icon{font-size:36px;margin-bottom:10px}
+.empty-text{font-size:15px}
+
+/* SIG MODAL (inline, no fixed) */
+.sig-modal-bg{background:rgba(0,0,0,.7);display:none;align-items:center;justify-content:center;min-height:300px;margin-top:16px;border-radius:12px}
+.sig-modal-bg.open{display:flex}
+.sig-modal{background:var(--surface);border:1px solid var(--border2);border-radius:14px;padding:20px;max-width:400px;width:100%;margin:12px}
+.sig-modal img{width:100%;border-radius:8px;background:#fff}
+.sig-modal-close{margin-top:12px;width:100%}
+
+/* RESPONSIVE */
+@media(max-width:480px){
+  .btn-grid{grid-template-columns:1fr}
+  .field-row{grid-template-columns:1fr}
+  .live-time{font-size:18px}
+  .logo-text{font-size:15px}
+  .btn-big{padding:24px 14px}
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+  <div class="logo">
+    <div class="logo-icon">🏋️</div>
+    <div>
+      <div class="logo-text">Academia</div>
+      <div class="logo-sub">Controle de Acesso</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="live-time" id="headerTime">--:--:--</div>
+    <div class="live-date" id="headerDate">—</div>
+  </div>
+</header>
+
+<!-- ===== HOME ===== -->
+<div class="screen active" id="screen-home">
+  <div class="home-wrap">
+    <div class="home-greeting">Bem-vindo!</div>
+    <div class="home-title">O que você precisa?</div>
+
+    <div class="occupancy-bar">
+      <div class="occ-dot"></div>
+      <div class="occ-text">Na academia agora: <span class="occ-num" id="occCount">0</span> pessoa(s)</div>
+    </div>
+
+    <div class="btn-grid">
+      <button class="btn-big entrada" onclick="goEntrada()">
+        <div class="big-icon">🚪→</div>
+        <div class="big-label">Entrada</div>
+        <div class="big-sub">Registrar chegada</div>
+      </button>
+      <button class="btn-big saida" onclick="goSaida()">
+        <div class="big-icon">→🚪</div>
+        <div class="big-label">Saída</div>
+        <div class="big-sub">Registrar partida</div>
+      </button>
+    </div>
+
+    <div class="admin-link"><a onclick="goAdminLogin()">🔐 Painel Administrativo</a></div>
+  </div>
+</div>
+
+<!-- ===== ENTRADA ===== -->
+<div class="screen" id="screen-entrada">
+  <div class="form-wrap">
+    <div class="screen-hdr">
+      <button class="back-btn" onclick="goHome()">←</button>
+      <div class="screen-hdr-title">Registro de <em>Entrada</em></div>
+    </div>
+
+    <!-- Horário automático -->
+    <div class="card">
+      <div class="card-label">⏱ Horário de Entrada</div>
+      <div class="time-box">
+        <div class="time-box-val" id="entradaTime">--:--:--</div>
+        <div class="time-box-info">
+          <div class="time-box-label">Registrado automaticamente</div>
+          <div class="time-box-date" id="entradaDate">—</div>
+        </div>
+        <div class="time-lock">🔒</div>
+      </div>
+    </div>
+
+    <!-- Dados pessoais -->
+    <div class="card">
+      <div class="card-label">👤 Dados do Colaborador</div>
+      <div class="field">
+        <label>Nome completo *</label>
+        <input type="text" id="fNome" placeholder="Ex: João da Silva" autocomplete="off" autocorrect="off" spellcheck="false">
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>R.E. *</label>
+          <input type="text" id="fRE" placeholder="Ex: 12345" autocomplete="off">
+        </div>
+        <div class="field">
+          <label>Setor *</label>
+          <select id="fSetor">
+            <option value="">— Selecionar —</option>
+            <option>Administrativo</option>
+            <option>Comercial / Vendas</option>
+            <option>Diretoria</option>
+            <option>Engenharia</option>
+            <option>Financeiro</option>
+            <option>Jurídico</option>
+            <option>Logística</option>
+            <option>Marketing</option>
+            <option>Operações</option>
+            <option>Produção</option>
+            <option>RH / Recursos Humanos</option>
+            <option>TI / Tecnologia</option>
+            <option>Outros</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Assinatura -->
+    <div class="card">
+      <div class="card-label">✍️ Assinatura Digital</div>
+      <div class="sig-wrap">
+        <canvas id="sigCanvas"></canvas>
+        <div class="sig-hint" id="sigHint">Assine aqui com o dedo ou mouse</div>
+      </div>
+      <div class="sig-footer">
+        <span class="sig-status" id="sigStatus">Aguardando assinatura...</span>
+        <button class="clear-sig" onclick="clearSig()">Limpar</button>
+      </div>
+    </div>
+
+    <button class="btn-primary" id="btnConfirmarEntrada" onclick="confirmarEntrada()">✔ Confirmar Entrada</button>
+  </div>
+</div>
+
+<!-- ===== SAÍDA ===== -->
+<div class="screen" id="screen-saida">
+  <div class="saida-wrap">
+    <div class="screen-hdr">
+      <button class="back-btn" onclick="goHome()">←</button>
+      <div class="screen-hdr-title warn">Registro de <em>Saída</em></div>
+    </div>
+
+    <div class="card">
+      <div class="card-label">🔍 Buscar Colaborador</div>
+      <div class="search-row">
+        <input type="text" id="searchRE" placeholder="Digite o R.E. ou nome..." autocomplete="off">
+        <button class="search-btn" onclick="buscarColaborador()">Buscar</button>
+      </div>
+      <div id="searchResult"></div>
+    </div>
+
+    <div id="foundCard" style="display:none">
+      <div class="found-card" id="foundInfo"></div>
+      <button class="btn-primary btn-warn" onclick="confirmarSaida()">→🚪 Confirmar Saída</button>
+    </div>
+
+    <div id="activeSection" style="display:none">
+      <div class="section-label">👥 Pessoas na academia agora</div>
+      <div class="active-list" id="activeList"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SUCCESS ENTRADA ===== -->
+<div class="screen" id="screen-success-entrada">
+  <div class="success-wrap">
+    <div class="success-icon">✅</div>
+    <div class="success-title">Entrada Registrada!</div>
+    <div class="success-sub" id="successNome">—</div>
+    <div class="success-detail" id="successTime">--:--</div>
+    <br>
+    <button class="btn-secondary" onclick="goHome()">← Voltar ao início</button>
+  </div>
+</div>
+
+<!-- ===== SUCCESS SAÍDA ===== -->
+<div class="screen" id="screen-success-saida">
+  <div class="success-wrap">
+    <div class="success-icon warn">👋</div>
+    <div class="success-title">Saída Registrada!</div>
+    <div class="success-sub" id="saidaNome">—</div>
+    <div class="success-detail warn" id="saidaTime">--:--</div>
+    <div class="success-sub" id="saidaDuracao" style="margin-top:8px;font-size:13px"></div>
+    <br>
+    <button class="btn-secondary" onclick="goHome()">← Voltar ao início</button>
+  </div>
+</div>
+
+<!-- ===== ADMIN LOGIN ===== -->
+<div class="screen" id="screen-admin-login">
+  <div class="login-wrap">
+    <div class="screen-hdr" style="justify-content:center;margin-bottom:20px">
+      <div style="font-size:32px">🔐</div>
+    </div>
+    <div class="login-title" style="text-align:center;margin-bottom:4px">Painel Admin</div>
+    <div class="login-sub" style="text-align:center;margin-bottom:24px">Acesso restrito</div>
+    <div class="card">
+      <div class="card-label">Senha de acesso</div>
+      <div class="field">
+        <input type="password" id="adminPass" placeholder="Digite a senha..." onkeydown="if(event.key==='Enter')checkAdmin()">
+      </div>
+      <div class="err-msg" id="adminErr"></div>
+      <button class="btn-primary" onclick="checkAdmin()" style="margin-top:10px">Entrar</button>
+    </div>
+    <div style="text-align:center;margin-top:14px">
+      <button class="btn-secondary" onclick="goHome()">← Voltar</button>
+    </div>
+    <div style="text-align:center;margin-top:16px;font-size:12px;color:var(--muted)">Senha padrão: <strong style="color:var(--text)">admin123</strong></div>
+  </div>
+</div>
+
+<!-- ===== ADMIN PANEL ===== -->
+<div class="screen" id="screen-admin">
+  <div class="admin-wrap">
+    <div class="screen-hdr">
+      <button class="back-btn" onclick="goHome()">←</button>
+      <div class="screen-hdr-title">Painel <em>Administrativo</em></div>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Na academia agora</div>
+        <div class="stat-val" id="statAtual">0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Entradas hoje</div>
+        <div class="stat-val" id="statHoje">0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Total geral</div>
+        <div class="stat-val" id="statTotal">0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Setores únicos</div>
+        <div class="stat-val warn" id="statSetores">0</div>
+      </div>
+    </div>
+
+    <!-- Tabs -->
+    <div class="tab-bar">
+      <button class="tab-btn active" onclick="switchTab('registros')">Todos os registros</button>
+      <button class="tab-btn" onclick="switchTab('presentes')">Presentes agora</button>
+    </div>
+
+    <!-- Tab: Registros -->
+    <div class="tab-pane active" id="tab-registros">
+      <div class="toolbar">
+        <input type="date" id="filterDate" onchange="renderTable()">
+        <select id="filterSetor" onchange="renderTable()">
+          <option value="">Todos os setores</option>
+          <option>Administrativo</option>
+          <option>Comercial / Vendas</option>
+          <option>Diretoria</option>
+          <option>Engenharia</option>
+          <option>Financeiro</option>
+          <option>Jurídico</option>
+          <option>Logística</option>
+          <option>Marketing</option>
+          <option>Operações</option>
+          <option>Produção</option>
+          <option>RH / Recursos Humanos</option>
+          <option>TI / Tecnologia</option>
+          <option>Outros</option>
+        </select>
+        <input type="text" id="filterSearch" placeholder="Buscar nome ou R.E." onkeyup="renderTable()">
+        <button class="btn-export" onclick="exportCSV()">⬇ Exportar CSV</button>
+      </div>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Nome</th>
+              <th>R.E.</th>
+              <th>Setor</th>
+              <th>Entrada</th>
+              <th>Saída</th>
+              <th>Duração</th>
+              <th>Status</th>
+              <th>Assinatura</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </div>
+      <div id="tableEmpty" class="empty" style="display:none">
+        <div class="empty-icon">📋</div>
+        <div class="empty-text">Nenhum registro encontrado</div>
+      </div>
+    </div>
+
+    <!-- Tab: Presentes -->
+    <div class="tab-pane" id="tab-presentes">
+      <div id="presentesList"></div>
+    </div>
+
+    <!-- Sig preview (inline) -->
+    <div class="sig-modal-bg" id="sigModalBg">
+      <div class="sig-modal">
+        <div style="font-size:13px;color:var(--muted);margin-bottom:10px">Assinatura digital</div>
+        <img id="sigModalImg" src="" alt="Assinatura">
+        <button class="btn-secondary sig-modal-close" onclick="closeSigModal()">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ====================== STATE ======================
+const ADMIN_PASS = 'admin123';
+let entries = [];
+let sigDrawn = false;
+let sigCtx, sigCanvas;
+let currentFoundEntry = null;
+let entradaTimestamp = null;
+
+// ====================== STORAGE ======================
+function saveData(){try{localStorage.setItem('academia_entries',JSON.stringify(entries))}catch(e){}}
+function loadData(){try{const d=localStorage.getItem('academia_entries');if(d)entries=JSON.parse(d)}catch(e){}}
+
+// ====================== CLOCK ======================
+function updateClock(){
+  const now=new Date();
+  const t=now.toLocaleTimeString('pt-BR');
+  const d=now.toLocaleDateString('pt-BR',{weekday:'long',day:'2-digit',month:'long',year:'numeric'});
+  document.getElementById('headerTime').textContent=t;
+  document.getElementById('headerDate').textContent=d;
+  if(document.getElementById('screen-entrada').classList.contains('active')){
+    document.getElementById('entradaTime').textContent=now.toLocaleTimeString('pt-BR');
+    document.getElementById('entradaDate').textContent=now.toLocaleDateString('pt-BR',{day:'2-digit',month:'long',year:'numeric'});
+  }
+}
+setInterval(updateClock,1000);
+updateClock();
+
+// ====================== SCREENS ======================
+function showScreen(id){
+  document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+  document.getElementById('screen-'+id).classList.add('active');
+  window.scrollTo(0,0);
+}
+
+function goHome(){updateOccupancy();showScreen('home')}
+function goEntrada(){resetEntradaForm();showScreen('entrada')}
+function goSaida(){loadActiveList();showScreen('saida')}
+function goAdminLogin(){document.getElementById('adminPass').value='';document.getElementById('adminErr').textContent='';showScreen('admin-login')}
+
+// ====================== OCCUPANCY ======================
+function updateOccupancy(){
+  const n=entries.filter(e=>!e.saida).length;
+  document.getElementById('occCount').textContent=n;
+}
+
+// ====================== SIGNATURE ======================
+function initSig(){
+  sigCanvas=document.getElementById('sigCanvas');
+  sigCtx=sigCanvas.getContext('2d');
+  const w=sigCanvas.offsetWidth;
+  sigCanvas.width=w;
+  sigCanvas.height=150;
+  sigCtx.strokeStyle='#1a1a2e';
+  sigCtx.lineWidth=2.5;
+  sigCtx.lineCap='round';
+  sigCtx.lineJoin='round';
+  sigDrawn=false;
+  let drawing=false;
+  let lx,ly;
+
+  function getPos(e){
+    const r=sigCanvas.getBoundingClientRect();
+    const src=e.touches?e.touches[0]:e;
+    return{x:(src.clientX-r.left)*(sigCanvas.width/r.width),y:(src.clientY-r.top)*(sigCanvas.height/r.height)};
+  }
+
+  function start(e){e.preventDefault();drawing=true;const p=getPos(e);lx=p.x;ly=p.y;sigCtx.beginPath();sigCtx.moveTo(lx,ly)}
+  function move(e){e.preventDefault();if(!drawing)return;const p=getPos(e);sigCtx.lineTo(p.x,p.y);sigCtx.stroke();lx=p.x;ly=p.y;if(!sigDrawn){sigDrawn=true;document.getElementById('sigHint').style.opacity='0';document.getElementById('sigStatus').textContent='✓ Assinatura capturada';document.getElementById('sigStatus').className='sig-status ok'}}
+  function end(){drawing=false}
+
+  sigCanvas.addEventListener('mousedown',start);
+  sigCanvas.addEventListener('mousemove',move);
+  sigCanvas.addEventListener('mouseup',end);
+  sigCanvas.addEventListener('touchstart',start,{passive:false});
+  sigCanvas.addEventListener('touchmove',move,{passive:false});
+  sigCanvas.addEventListener('touchend',end);
+}
+
+function clearSig(){
+  if(!sigCanvas)return;
+  sigCtx.clearRect(0,0,sigCanvas.width,sigCanvas.height);
+  sigDrawn=false;
+  document.getElementById('sigHint').style.opacity='1';
+  document.getElementById('sigStatus').textContent='Aguardando assinatura...';
+  document.getElementById('sigStatus').className='sig-status';
+}
+
+// ====================== ENTRADA ======================
+function resetEntradaForm(){
+  document.getElementById('fNome').value='';
+  document.getElementById('fRE').value='';
+  document.getElementById('fSetor').value='';
+  setTimeout(initSig,50);
+  entradaTimestamp=null;
+}
+
+function confirmarEntrada(){
+  const nome=document.getElementById('fNome').value.trim();
+  const re=document.getElementById('fRE').value.trim();
+  const setor=document.getElementById('fSetor').value;
+  if(!nome){alert('Por favor, informe o nome.');document.getElementById('fNome').focus();return}
+  if(!re){alert('Por favor, informe o R.E.');document.getElementById('fRE').value='';document.getElementById('fRE').focus();return}
+  if(!setor){alert('Por favor, selecione o setor.');return}
+  if(!sigDrawn){alert('Por favor, assine no campo de assinatura.');return}
+  // Check duplicate active
+  const dup=entries.find(e=>e.re===re&&!e.saida);
+  if(dup){alert('Este R.E. já tem uma entrada ativa sem saída registrada. Por favor, registre a saída primeiro.');return}
+  const now=new Date();
+  const entry={
+    id:Date.now(),
+    nome,re,setor,
+    entrada:now.toISOString(),
+    saida:null,
+    sig:sigCanvas.toDataURL('image/png')
+  };
+  entries.unshift(entry);
+  saveData();
+  updateOccupancy();
+  document.getElementById('successNome').textContent=nome+' — '+re;
+  document.getElementById('successTime').textContent='Entrada: '+now.toLocaleTimeString('pt-BR')+' de '+now.toLocaleDateString('pt-BR');
+  showScreen('success-entrada');
+}
+
+// ====================== SAÍDA ======================
+function loadActiveList(){
+  const actives=entries.filter(e=>!e.saida);
+  const sec=document.getElementById('activeSection');
+  const lst=document.getElementById('activeList');
+  document.getElementById('searchRE').value='';
+  document.getElementById('searchResult').innerHTML='';
+  document.getElementById('foundCard').style.display='none';
+  currentFoundEntry=null;
+  if(actives.length>0){
+    sec.style.display='block';
+    lst.innerHTML=actives.map(e=>`
+      <div class="active-item" onclick="selectEntry('${e.id}')">
+        <div class="ai-left">
+          <div class="ai-name">${e.nome}</div>
+          <div class="ai-meta">${e.re} · ${e.setor}</div>
+        </div>
+        <div class="ai-right">
+          <div class="ai-time">${new Date(e.entrada).toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}</div>
+          <div class="ai-arrow">Selecionar →</div>
+        </div>
+      </div>
+    `).join('');
+  }else{
+    sec.style.display='none';
+    lst.innerHTML='';
+  }
+}
+
+function buscarColaborador(){
+  const q=document.getElementById('searchRE').value.trim().toLowerCase();
+  if(!q)return;
+  const found=entries.find(e=>!e.saida&&(e.re.toLowerCase()===q||e.nome.toLowerCase().includes(q)));
+  const res=document.getElementById('searchResult');
+  if(found){
+    showFoundCard(found);
+    res.innerHTML='';
+  }else{
+    document.getElementById('foundCard').style.display='none';
+    currentFoundEntry=null;
+    res.innerHTML='<div class="not-found">🔍 Nenhuma entrada ativa encontrada para "<strong>'+q+'</strong>"</div>';
+  }
+}
+
+function selectEntry(id){
+  const e=entries.find(x=>x.id==id);
+  if(e)showFoundCard(e);
+}
+
+function showFoundCard(e){
+  currentFoundEntry=e;
+  const entradaDt=new Date(e.entrada);
+  const diff=Math.floor((Date.now()-entradaDt)/60000);
+  const durStr=diff<60?diff+' min':(Math.floor(diff/60)+'h '+('0'+(diff%60)).slice(-2)+'min');
+  document.getElementById('foundInfo').innerHTML=`
+    <div class="found-name">${e.nome}</div>
+    <div class="found-meta">
+      <span>R.E.: <strong>${e.re}</strong></span>
+      <span>${e.setor}</span>
+    </div>
+    <div class="found-time">⏱ Entrada: ${entradaDt.toLocaleTimeString('pt-BR')} — há ${durStr}</div>
+  `;
+  document.getElementById('foundCard').style.display='block';
+  document.getElementById('activeSection').style.display='none';
+}
+
+function confirmarSaida(){
+  if(!currentFoundEntry)return;
+  const now=new Date();
+  const idx=entries.findIndex(e=>e.id===currentFoundEntry.id);
+  if(idx>=0){
+    entries[idx].saida=now.toISOString();
+    saveData();
+    updateOccupancy();
+    const entrada=new Date(entries[idx].entrada);
+    const diff=Math.floor((now-entrada)/60000);
+    const durStr=diff<60?diff+' minutos':(Math.floor(diff/60)+'h '+('0'+(diff%60)).slice(-2)+'min');
+    document.getElementById('saidaNome').textContent=entries[idx].nome+' — '+entries[idx].re;
+    document.getElementById('saidaTime').textContent='Saída: '+now.toLocaleTimeString('pt-BR')+' de '+now.toLocaleDateString('pt-BR');
+    document.getElementById('saidaDuracao').textContent='Permanência: '+durStr;
+    showScreen('success-saida');
+  }
+}
+
+// ====================== ADMIN ======================
+function checkAdmin(){
+  const p=document.getElementById('adminPass').value;
+  if(p===ADMIN_PASS){
+    document.getElementById('adminErr').textContent='';
+    openAdmin();
+  }else{
+    document.getElementById('adminErr').textContent='Senha incorreta. Tente novamente.';
+    document.getElementById('adminPass').value='';
+    document.getElementById('adminPass').focus();
+  }
+}
+
+function openAdmin(){
+  renderStats();
+  renderTable();
+  renderPresentes();
+  showScreen('admin');
+}
+
+function renderStats(){
+  const today=new Date().toLocaleDateString('pt-BR');
+  const atual=entries.filter(e=>!e.saida).length;
+  const hoje=entries.filter(e=>new Date(e.entrada).toLocaleDateString('pt-BR')===today).length;
+  const setores=new Set(entries.map(e=>e.setor)).size;
+  document.getElementById('statAtual').textContent=atual;
+  document.getElementById('statHoje').textContent=hoje;
+  document.getElementById('statTotal').textContent=entries.length;
+  document.getElementById('statSetores').textContent=setores;
+}
+
+function renderTable(){
+  const filterDate=document.getElementById('filterDate').value;
+  const filterSetor=document.getElementById('filterSetor').value;
+  const filterSearch=document.getElementById('filterSearch').value.toLowerCase();
+  let filtered=entries.filter(e=>{
+    if(filterDate){const d=new Date(e.entrada).toISOString().slice(0,10);if(d!==filterDate)return false}
+    if(filterSetor&&e.setor!==filterSetor)return false;
+    if(filterSearch&&!e.nome.toLowerCase().includes(filterSearch)&&!e.re.toLowerCase().includes(filterSearch))return false;
+    return true;
+  });
+  const tbody=document.getElementById('tableBody');
+  if(filtered.length===0){
+    tbody.innerHTML='';
+    document.getElementById('tableEmpty').style.display='block';
+    return;
+  }
+  document.getElementById('tableEmpty').style.display='none';
+  tbody.innerHTML=filtered.map((e,i)=>{
+    const ent=new Date(e.entrada);
+    const sai=e.saida?new Date(e.saida):null;
+    const dur=sai?Math.floor((sai-ent)/60000):null;
+    const durStr=dur===null?'—':dur<60?dur+'min':(Math.floor(dur/60)+'h'+('0'+(dur%60)).slice(-2)+'m');
+    return`<tr>
+      <td class="mono">${filtered.length-i}</td>
+      <td><strong>${e.nome}</strong></td>
+      <td class="mono">${e.re}</td>
+      <td style="font-size:12px">${e.setor}</td>
+      <td class="mono">${ent.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}<br><span style="font-size:11px;color:var(--muted)">${ent.toLocaleDateString('pt-BR')}</span></td>
+      <td class="mono">${sai?sai.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'}):'<span style="color:var(--warning)">Em treino</span>'}</td>
+      <td class="mono">${durStr}</td>
+      <td><span class="badge ${e.saida?'out':'in'}">${e.saida?'Saiu':'Presente'}</span></td>
+      <td>${e.sig?`<img class="sig-thumb" src="${e.sig}" alt="assinatura" onclick="openSig('${e.id}')">`:'—'}</td>
+      <td><button class="delete-btn" onclick="deleteEntry(${e.id})" title="Excluir">🗑</button></td>
+    </tr>`;
+  }).join('');
+}
+
+function renderPresentes(){
+  const ativos=entries.filter(e=>!e.saida);
+  const el=document.getElementById('presentesList');
+  if(ativos.length===0){
+    el.innerHTML='<div class="empty"><div class="empty-icon">🏃</div><div class="empty-text">Academia vazia no momento</div></div>';
+    return;
+  }
+  el.innerHTML=ativos.map(e=>{
+    const ent=new Date(e.entrada);
+    const diff=Math.floor((Date.now()-ent)/60000);
+    const durStr=diff<60?diff+' min':(Math.floor(diff/60)+'h '+('0'+(diff%60)).slice(-2)+'min');
+    return`<div class="active-item">
+      <div class="ai-left">
+        <div class="ai-name">${e.nome}</div>
+        <div class="ai-meta">${e.re} · ${e.setor}</div>
+      </div>
+      <div class="ai-right" style="text-align:right">
+        <div class="ai-time">${ent.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}</div>
+        <div style="font-size:11px;color:var(--muted);margin-top:2px">há ${durStr}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function switchTab(name){
+  document.querySelectorAll('.tab-btn').forEach((b,i)=>{
+    b.classList.toggle('active',['registros','presentes'][i]===name);
+  });
+  document.querySelectorAll('.tab-pane').forEach(p=>p.classList.remove('active'));
+  document.getElementById('tab-'+name).classList.add('active');
+  if(name==='presentes')renderPresentes();
+}
+
+function deleteEntry(id){
+  if(!confirm('Excluir este registro?'))return;
+  entries=entries.filter(e=>e.id!==id);
+  saveData();
+  updateOccupancy();
+  renderStats();
+  renderTable();
+}
+
+function openSig(id){
+  const e=entries.find(x=>x.id==id);
+  if(!e||!e.sig)return;
+  document.getElementById('sigModalImg').src=e.sig;
+  document.getElementById('sigModalBg').classList.add('open');
+}
+
+function closeSigModal(){
+  document.getElementById('sigModalBg').classList.remove('open');
+}
+
+function exportCSV(){
+  const filterDate=document.getElementById('filterDate').value;
+  const filterSetor=document.getElementById('filterSetor').value;
+  const filterSearch=document.getElementById('filterSearch').value.toLowerCase();
+  let filtered=entries.filter(e=>{
+    if(filterDate){const d=new Date(e.entrada).toISOString().slice(0,10);if(d!==filterDate)return false}
+    if(filterSetor&&e.setor!==filterSetor)return false;
+    if(filterSearch&&!e.nome.toLowerCase().includes(filterSearch)&&!e.re.toLowerCase().includes(filterSearch))return false;
+    return true;
+  });
+  const rows=[['Nome','R.E.','Setor','Data','Entrada','Saída','Duração (min)','Status']];
+  filtered.forEach(e=>{
+    const ent=new Date(e.entrada);
+    const sai=e.saida?new Date(e.saida):null;
+    const dur=sai?Math.floor((sai-ent)/60000):'';
+    rows.push([
+      e.nome,e.re,e.setor,
+      ent.toLocaleDateString('pt-BR'),
+      ent.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'}),
+      sai?sai.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'}):'Em treino',
+      dur,
+      e.saida?'Saiu':'Presente'
+    ]);
+  });
+  const csv=rows.map(r=>r.map(c=>'"'+String(c).replace(/"/g,'""')+'"').join(',')).join('\n');
+  const blob=new Blob(['\uFEFF'+csv],{type:'text/csv;charset=utf-8'});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a');
+  a.href=url;
+  a.download='academia-registros-'+new Date().toISOString().slice(0,10)+'.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+// ====================== INIT ======================
+loadData();
+updateOccupancy();
+</script>
+</body>
+</html>
