@@ -286,7 +286,6 @@ html,body{width:100%;height:100%;overflow:hidden;background:#020812;font-family:
 <div id="gameOverScreen" class="ov hide">
   <div class="go-card" style="position:relative">
     <div class="go-header">
-      <span class="go-skull">💀</span>
       <div class="go-title">MIND CORRUPTED</div>
       <div class="go-subtitle">NEURAL LINK SEVERED</div>
     </div>
@@ -298,11 +297,11 @@ html,body{width:100%;height:100%;overflow:hidden;background:#020812;font-family:
     </div>
     <div class="go-body">
       <div id="reviveWrap" style="display:none">
-        <div class="go-revive-msg">⚡ BOSS STILL ACTIVE — ONE CHANCE TO RETURN</div>
-        <button class="go-btn go-btn-revive" id="bRevive">⚡ REVIVE <span class="revive-sec-badge"><span id="reviveSec">5</span>s</span></button>
+        <div class="go-revive-msg">ONE LAST CHANCE — RETURN TO LEVEL</div>
+        <button class="go-btn go-btn-revive" id="bRevive">REVIVE <span class="revive-sec-badge"><span id="reviveSec">5</span>s</span></button>
       </div>
-      <button class="go-btn go-btn-retry" id="bRetry">↺  TRY AGAIN</button>
-      <button class="go-btn go-btn-menu" id="bGoMenu">◀  MAIN MENU</button>
+      <button class="go-btn go-btn-retry" id="bRetry">TRY AGAIN</button>
+      <button class="go-btn go-btn-menu" id="bGoMenu">MAIN MENU</button>
     </div>
   </div>
 </div>
@@ -329,7 +328,6 @@ html,body{width:100%;height:100%;overflow:hidden;background:#020812;font-family:
 <!-- CHAMPION -->
 <div id="championScreen" class="ov hide">
   <div class="panel" style="border-color:rgba(255,200,0,.25);box-shadow:0 0 80px rgba(255,200,0,.12)">
-    <span class="panel-icon" style="animation:skull-beat 2s ease-in-out infinite">🏆</span>
     <div class="panel-title" style="color:#ffd700;animation:lp 1.8s ease-in-out infinite">CHAMPION</div>
     <div class="panel-sub">VOID.EXE ELIMINATED — NETWORK SAVED</div>
     <div class="panel-stats">
@@ -339,8 +337,8 @@ html,body{width:100%;height:100%;overflow:hidden;background:#020812;font-family:
       <div style="font-size:22px;letter-spacing:8px;color:#ff8800;text-shadow:0 0 14px #ff8800;margin:4px 0">★★★★★</div>
     </div>
     <div class="panel-btns">
-      <button class="pbtn green" id="bChampRetry">▶  PLAY AGAIN</button>
-      <button class="pbtn ghost" id="bChampMenu">◀  MAIN MENU</button>
+      <button class="pbtn green" id="bChampRetry">PLAY AGAIN</button>
+      <button class="pbtn ghost" id="bChampMenu">MAIN MENU</button>
     </div>
   </div>
 </div>
@@ -435,10 +433,21 @@ function upLv(id){return SD.up[id]||0}
 
 // AUDIO
 var AC=null;
+function _ensureAC(){
+  try{
+    if(!AC){AC=new(window.AudioContext||window.webkitAudioContext)();}
+    if(AC.state==='suspended')AC.resume();
+  }catch(e){}
+}
+// Resume on any user gesture (covers autoplay policy in all browsers)
+['pointerdown','keydown','touchstart'].forEach(function(ev){
+  document.addEventListener(ev,function(){_ensureAC();},{once:false,passive:true});
+});
 function beep(fr,tp,dur,vol){
   vol=vol||0.1;
   try{
-    if(!AC)AC=new(window.AudioContext||window.webkitAudioContext)();
+    _ensureAC();
+    if(!AC||AC.state==='suspended')return;
     var o=AC.createOscillator(),g=AC.createGain();
     o.connect(g);g.connect(AC.destination);
     o.type=tp;o.frequency.value=fr;
@@ -588,7 +597,7 @@ function startGame(lv){
   PARTS.length=0;POPS.length=0;
   G.running=true;G.paused=false;G.over=false;
   G.level=lv;G.score=0;G.kills=0;G.bestCombo=1;
-  G.overload=0;G.olRate=1.4+lv*0.22;
+  G.overload=0;G.olRate=0.9+lv*0.12; // gentler ramp: lv4=1.38/s vs old 2.28/s
   G.combo=1;G.comboT=0;
   G.odActive=false;G.odTimer=0;G.odStreak=0;G.timeSlow=0;
   G.shake={x:0,y:0,t:0,str:0};
@@ -597,7 +606,7 @@ function startGame(lv){
   G.spawnT=1.5;
   G.spawnI=Math.max(0.4,1.7-lv*0.08);
   G.waveDone=false;G.bossSpawned=false;G.bossAlive=false;G.boss=null;
-  G._hadMini=false; // reset mini-boss tracker each level
+  G.pGraceMax=3.5; // track initial grace for bar calc
   var cdF=1-upLv('cooldown')*0.09;
   G.abils=[];
   for(var i=0;i<ADEFS.length;i++){
@@ -738,7 +747,7 @@ function doAbility(id){
         var score=0;
         for(var ei=0;ei<G.enemies.length;ei++){
           var e=G.enemies[ei];
-          if(e.alive&&lineCross(px,py,tx,ty,e.x,e.y,e.r+10))score+=e.isMini?3:1;
+          if(e.alive&&lineCross(px,py,tx,ty,e.x,e.y,e.r+10))score+=1;
         }
         if(score>bestScore){bestScore=score;bestA=ta;}
       }
@@ -793,6 +802,7 @@ function dmgEnemy(e,dmg){
 function killEnemy(e){
   if(!e.alive)return;e.alive=false;
   G.kills++;G.odStreak++;
+  G.overload=Math.max(0,G.overload-7); // killing enemies reduces pressure
   var pts=Math.round(e.pts*(G.odActive?2:1)*G.combo);
   G.score+=pts;
   bumpCombo();
@@ -853,21 +863,6 @@ function addShake(str,dur){G.shake.str=str;G.shake.t=dur;}
 function spawnEnemy(){
   if(G.waveLeft<=0)return;
   var l=G.level;
-  // Guarantee one mini-boss on the last spawn of lv7+ waves
-  if(l>=7&&G.waveLeft===1&&!G._hadMini){
-    G._hadMini=true;
-    var mpool=['vshard','nstalker','sdrone'];
-    var mtype=mpool[rndI(0,mpool.length-1)];
-    var side2=rndI(0,3);var ex2,ey2;
-    if(side2===0){ex2=rnd(40,W-40);ey2=-40;}
-    else if(side2===1){ex2=W+40;ey2=rnd(40,H-40);}
-    else if(side2===2){ex2=rnd(40,W-40);ey2=H+40;}
-    else{ex2=-40;ey2=rnd(40,H-40);}
-    G.enemies.push(makeEnemy(ex2,ey2,mtype,l));
-    G.waveLeft--;
-    addPop(W/2,H/2,'⚠ MINI-BOSS INCOMING!','#ffff00');
-    return;
-  }
   var pool=['glitch','pulse','phantom'];
   if(l>=3)pool.push('leech');if(l>=5)pool.push('titan');if(l>=7)pool.push('mimic');
   var type=pool[rndI(0,pool.length-1)];
@@ -887,9 +882,7 @@ function makeEnemy(x,y,type,lv){
     leech:  {col:'#ff00ff',col2:'#ff44aa',r:14,bhp:88, spd:50, pts:120,beh:'drain',    sides:0,spikes:true, eye:true, arms:4,orbitR:0},
     titan:  {col:'#4488ff',col2:'#88ccff',r:22,bhp:220,spd:35, pts:250,beh:'charge',   sides:6,spikes:true, eye:true, arms:0,orbitR:28},
     mimic:  {col:'#00ff88',col2:'#00ffcc',r:12,bhp:70, spd:80, pts:150,beh:'mimic',    sides:5,spikes:false,eye:true, arms:2,orbitR:16},
-    vshard: {col:'#ffff00',col2:'#ffee88',r:18,bhp:360,spd:88, pts:500,beh:'warp_mini',sides:4,spikes:true, eye:true, arms:3,orbitR:22},
-    nstalker:{col:'#ff4400',col2:'#ff8844',r:20,bhp:420,spd:72,pts:550,beh:'hunt',     sides:8,spikes:true, eye:true, arms:0,orbitR:26},
-    sdrone: {col:'#00ccff',col2:'#88eeff',r:16,bhp:300,spd:92, pts:480,beh:'orbit',    sides:0,spikes:false,eye:true, arms:4,orbitR:15},
+    vshard: {col:'#ffff00',col2:'#ffee88',r:14,bhp:180,spd:75,pts:220,beh:'orbit',    sides:4,spikes:true, eye:true, arms:3,orbitR:22},
   };
   var d=DEF[type]||DEF.glitch;
   var hp=d.bhp*(1+lv*0.18);
@@ -899,8 +892,7 @@ function makeEnemy(x,y,type,lv){
     alive:true,vx:0,vy:0,angle:rnd(0,PI2),stun:0,sf:1,sft:0,
     phT:rnd(0,3),cT:0,ch:false,p:rnd(0,PI2),hitFlash:0,
     armAngs:[],orbitAngs:[],spawnAnim:0.8,
-    warpT:0,shootT:rnd(1,2),trapT:0,
-    isMini:type==='vshard'||type==='nstalker'||type==='sdrone'};
+    warpT:0,shootT:rnd(1,2),trapT:0};
   for(var i=0;i<d.arms;i++)e.armAngs.push(rnd(0,PI2));
   for(var i=0;i<3;i++)e.orbitAngs.push(rnd(0,PI2));
   return e;
@@ -920,6 +912,7 @@ function spawnBoss(){
   // Set protection FIRST before anything else
   G.pGraceT=3.5;   // 3.5s full immunity
   G.pInvT=3.5;     // also set invT so collision check is double-blocked
+  G.overload=0;    // wave survived — clear pressure bar
   G.bossProjs=[];  // clear any stray projectiles
   $('bossName').textContent='⚠ BOSS: '+def.name;
   $('bossWrap').style.display='block';
@@ -1030,7 +1023,7 @@ function update(){
   if(G.pGraceT>0){
     G.pGraceT=Math.max(0,G.pGraceT-dt);
     $('graceWrap').style.display='block';
-    $('graceFill').style.width=(G.pGraceT/3.5*100)+'%';
+    $('graceFill').style.width=(G.pGraceT/(G.pGraceMax||3.5)*100)+'%';
   }else{$('graceWrap').style.display='none';}
   if(G.pInvT>0)G.pInvT=Math.max(0,G.pInvT-dt);
   // Collision
@@ -1067,15 +1060,16 @@ function doGameOver(){
   $('goLevel').textContent=G.level;
   $('goKills').textContent=G.kills;
   $('goCombo').textContent='x'+G.bestCombo;
-  // Revive disponível se o boss ainda está vivo E o jogador morreu durante a luta
-  var canRevive=!!(G.bossAlive&&G.boss&&G.boss.hp>0);
+  // Revive sempre disponível — permite renascer na fase atual
+  var canRevive=true;
   _reviveAvail=canRevive;
-  $('reviveWrap').style.display=canRevive?'block':'none';
-  if(canRevive){
-    var revMsg=$('reviveWrap').querySelector('div');
-    if(revMsg){
-      revMsg.textContent=G.boss&&G.boss.hp>0?'⚡ BOSS STILL ALIVE — ONE CHANCE TO RETURN':'⚡ ONE LAST CHANCE — REVIVE NOW';
-    }
+  $('reviveWrap').style.display='block';
+  var revMsg=$('reviveWrap').querySelector('.go-revive-msg');
+  if(revMsg){
+    if(G.bossAlive&&G.boss&&G.boss.hp>0)
+      revMsg.textContent='BOSS STILL ACTIVE — ONE CHANCE TO RETURN';
+    else
+      revMsg.textContent='ONE LAST CHANCE — RETURN TO LEVEL '+G.level;
   }
   if(_reviveTid){clearInterval(_reviveTid);_reviveTid=null;}
   if(canRevive){
@@ -1196,39 +1190,6 @@ function updateEnemy(e,dt){
   } else if(e.beh==='mimic'){
     e.vx=lerp(e.vx,(ax/d)*e.spd+Math.sin(e.phT*2)*28,0.1);
     e.vy=lerp(e.vy,(ay/d)*e.spd+Math.cos(e.phT*2)*28,0.1);
-  } else if(e.beh==='warp_mini'){
-    // Void Shard — teleports near player then attacks
-    e.warpT=(e.warpT||0)+dt;
-    if(e.warpT>=2.2){
-      e.warpT=0;
-      // Teleport to 150-250px from player, never on top
-      var wa=rnd(0,PI2),wd=rnd(150,250);
-      var wx=clamp(G.px+Math.cos(wa)*wd,40,W-40);
-      var wy=clamp(G.py+Math.sin(wa)*wd,40,H-40);
-      e.x=wx;e.y=wy;e.vx=0;e.vy=0;
-      addRing(e.x,e.y,30,e.col,8);
-    }
-    e.vx=lerp(e.vx,(ax/d)*e.spd,0.1);e.vy=lerp(e.vy,(ay/d)*e.spd,0.1);
-    // Shoot at player
-    e.shootT=(e.shootT||0)+dt;
-    if(e.shootT>=1.8){
-      e.shootT=0;
-      var sa=Math.atan2(ay,ax);
-      G.bossProjs.push({x:e.x+Math.cos(sa)*e.r,y:e.y+Math.sin(sa)*e.r,
-        vx:Math.cos(sa)*160,vy:Math.sin(sa)*160,r:7,life:3,col:e.col,p:0});
-    }
-  } else if(e.beh==='hunt'){
-    // Neuro Stalker — fast aggressive chase + fires 2 spread shots
-    e.vx=lerp(e.vx,(ax/d)*e.spd,0.12);e.vy=lerp(e.vy,(ay/d)*e.spd,0.12);
-    e.shootT=(e.shootT||0)+dt;
-    if(e.shootT>=2.5&&d<300){
-      e.shootT=0;var sa=Math.atan2(ay,ax);
-      for(var si=-1;si<=1;si+=2){
-        var fa=sa+si*(Math.PI/12);
-        G.bossProjs.push({x:e.x+Math.cos(fa)*e.r,y:e.y+Math.sin(fa)*e.r,
-          vx:Math.cos(fa)*170,vy:Math.sin(fa)*170,r:6,life:2.5,col:e.col,p:0});
-      }
-    }
   }
   e.x+=e.vx*dt*sf;e.y+=e.vy*dt*sf;
   var ms=e.spd*2.1,cs=Math.hypot(e.vx,e.vy);if(cs>ms){var sc=ms/cs;e.vx*=sc;e.vy*=sc;}
@@ -2093,9 +2054,10 @@ $('bResetYes').addEventListener('click',function(){
 $('bRetry').addEventListener('click',function(){
   if(G.raf){cancelAnimationFrame(G.raf);G.raf=null;}
   if(_reviveTid){clearInterval(_reviveTid);_reviveTid=null;}
+  var lv=G.level||1;
   _reviveAvail=false;G.running=false;G.over=false;
   $('gameOverScreen').classList.add('hide');
-  startGame(1);
+  startGame(lv);
 });
 $('bGoMenu').addEventListener('click',function(){
   if(G.raf){cancelAnimationFrame(G.raf);G.raf=null;}
@@ -2115,6 +2077,7 @@ $('bRevive').addEventListener('click',function(){
   G.over=false;G.running=true;
   G.pLives=G.pMaxLives;
   G.pGraceT=4.0;G.pGraceMax=4.0;G.pInvT=4.0;
+  G.overload=0;    // CRITICAL: clear overload or next frame instantly triggers doGameOver again
   G.px=W/2;G.py=H*0.75;
   G.pTrail=[];G.bossProjs=[];
   G.enemies=G.enemies.filter(function(e){return e.alive;});
@@ -2148,7 +2111,9 @@ var _soundOn=true;
 $('soundBtn').addEventListener('click',function(){
   _soundOn=!_soundOn;
   $('soundBtn').textContent=_soundOn?'🔊':'🔇';
-  $('soundBtn').style.borderColor=_soundOn?'rgba(0,240,255,.3)':'rgba(255,34,68,.4)';
+  $('soundBtn').style.borderColor=_soundOn?'rgba(0,240,255,.25)':'rgba(255,34,68,.4)';
+  $('soundBtn').style.color=_soundOn?'#00f0ff':'#ff4466';
+  _ensureAC();
 });
 // Patch beep to respect mute
 var _origBeep=beep;
