@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#151714" />
+    <meta name="description" content="Dust Protocol — FPS procedural com drones táticos, progressão e chefes." />
+    <title>Dust Protocol // FPS Lab V3</title>
+  </head>
+  <body>
+    <main id="game" aria-label="Dust Protocol">
+      <div id="vignette"></div><div id="damage-flash"></div>
+      <section id="start-screen" class="modal visible">
+        <div class="briefing-card">
+          <div class="eyebrow">PROTOCOLO DE CAMPO // DP-06 V3</div>
+          <h1>DUST<br /><span>PROTOCOL</span></h1>
+          <p class="dek">Sobreviva às incursões, complete objetivos e reconfigure o arsenal. As máquinas escutam, compartilham sinais, protegem seus pontos fracos e mudam de tática.</p>
+          <button id="play-button" type="button"><span>Entrar na arena</span><kbd>CLIQUE</kbd></button>
+          <div class="controls-grid">
+            <div><kbd>WASD</kbd><span>mover</span></div><div><kbd>MOUSE</kbd><span>mirar</span></div>
+            <div><kbd>1—4</kbd><span>armas</span></div><div><kbd>R</kbd><span>recarregar</span></div>
+            <div><kbd>SHIFT</kbd><span>correr / estabilizar</span></div><div><kbd>CTRL / C</kbd><span>agachar / deslizar</span></div>
+            <div><kbd>Q / E</kbd><span>inclinar</span></div><div><kbd>ESPAÇO</kbd><span>pular / transpor</span></div>
+            <div><kbd>F1 / F3</kbd><span>telemetria</span></div>
+          </div>
+          <details class="field-settings">
+            <summary>Configuração de campo</summary>
+            <div class="settings-grid">
+              <label>Sensibilidade <input id="setting-sensitivity" type="range" min="0.35" max="2.2" step="0.05"></label>
+              <label>Volume <input id="setting-volume" type="range" min="0" max="1" step="0.05"></label>
+              <label>Impacto de câmera <input id="setting-shake" type="range" min="0" max="1" step="0.05"></label>
+              <label>Dificuldade <select id="setting-difficulty"><option value="RECRUIT">Recruta</option><option value="TACTICAL">Tático</option><option value="NIGHTMARE">Pesadelo</option></select></label>
+              <label>Setor <select id="setting-map"><option value="DESERT">Arenito</option><option value="REFINERY">Refinaria</option><option value="NIGHT_LAB">Laboratório noturno</option></select></label>
+              <label class="toggle-setting"><input id="setting-colorblind" type="checkbox"> Alto contraste</label>
+            </div>
+          </details>
+          <p id="pause-reason" class="system-line">Áudio e captura do mouse serão ativados juntos.</p>
+        </div>
+        <aside class="briefing-aside" aria-hidden="true"><div class="map-sigil"><i></i><i></i><i></i><b>A</b><b>B</b></div><span>SETOR 06 / REDE TÁTICA</span></aside>
+      </section>
+
+      <section id="hud" class="hidden" aria-live="polite">
+        <div class="hud-top">
+          <div class="mission-label"><small>INCURSÃO</small><strong id="wave">00</strong><span id="wave-state">INTERVALO</span></div>
+          <div id="objective"><span id="objective-label">AGUARDE</span><b id="enemies">0</b><div id="objective-track"><i id="objective-fill"></i></div></div>
+          <div class="radar" id="radar"><canvas width="180" height="180"></canvas><span>N</span></div>
+        </div>
+        <div id="phase-banner"><small id="phase-kicker">PRÓXIMA INCURSÃO</small><strong id="phase-timer">3.0</strong></div>
+        <div id="boss-bar"><span>OBELISCO // NÚCLEO</span><div><i id="boss-fill"></i></div><b id="boss-phase">FASE I</b></div>
+        <div id="score-panel"><small>PONTOS</small><strong id="score">000000</strong><span id="multiplier">×1.0</span><b id="rank">D</b></div>
+        <div id="scope-overlay"><i></i><i></i><b></b><span>8× // DIST 150M</span></div>
+        <div id="crosshair"><i></i><i></i><i></i><i></i><b></b></div><div id="hitmarker">×</div><div id="damage-direction">⌃</div>
+        <div class="hud-bottom">
+          <div class="vitals"><small>INTEGRIDADE</small><strong id="health">100</strong><div class="health-track"><i id="health-fill"></i></div></div>
+          <div class="sound-meter"><span>SINAL</span><i id="sound-pulse"></i></div>
+          <div class="ammo"><small id="weapon-name">AR-6 SENTINEL</small><div><strong id="mag">30</strong><span>/</span><b id="reserve">120</b></div><em id="reload-state"></em></div>
+        </div>
+        <div id="weapon-slots"><span class="active">1 <b>AUTO</b></span><span>2 <b>ARC</b></span><span>3 <b>BREACH</b></span><span>4 <b>WIDOW</b></span></div>
+        <div id="status-feed"></div><div id="toast"></div>
+        <div id="tutorial"><b id="tutorial-title">ORIENTAÇÃO</b><span id="tutorial-text">WASD move · mouse mira · números trocam armas</span></div>
+        <div id="debug-panel" class="hidden">
+          <header>TELEMETRIA // F1</header><pre id="debug-stats"></pre><div id="ai-states"></div>
+          <footer>F2 pausa · F4 passo · F5 câmera livre · F6 teleporte · F7 força estado · F8 seleciona drone</footer>
+        </div>
+      </section>
+
+      <section id="upgrade-panel" class="modal upgrade-modal">
+        <div class="upgrade-shell"><div class="eyebrow">INTERVALO // ESCOLHA UMA MELHORIA</div><h2>RECONFIGURAR ARSENAL</h2><p>Pressione 7, 8 ou 9. A incursão aguarda sua escolha.</p><div id="upgrade-cards"></div></div>
+      </section>
+
+      <section id="death-screen" class="modal"><div class="summary-card">
+        <div class="eyebrow">SINAL DO OPERADOR PERDIDO</div><h2>FIM DA INCURSÃO</h2>
+        <div class="summary-grid"><div><span>onda</span><b id="sum-wave">0</b></div><div><span>tempo</span><b id="sum-time">0:00</b></div><div><span>precisão</span><b id="sum-accuracy">0%</b></div><div><span>acertos</span><b id="sum-hits">0</b></div><div><span>pontos</span><b id="sum-score">0</b></div><div><span>classificação</span><b id="sum-rank">D</b></div></div>
+        <button id="restart-button">Reiniciar protocolo</button>
+      </div></section>
+      <div id="context-message">CONTEXTO GRÁFICO PERDIDO — aguardando restauração…</div>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
