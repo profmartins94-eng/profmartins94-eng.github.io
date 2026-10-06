@@ -28,6 +28,14 @@ jobs:
         if: always()
         run: cat saida/*.txt 2>/dev/null || echo "Nenhum relatório gerado."
 
+      - name: Relatório compactado no log (para baixar sem o zip)
+        if: always()
+        run: |
+          echo "=== INICIO RELATORIO (tar.gz em base64) ==="
+          tar -czf - -C saida . | base64 -w0
+          echo
+          echo "=== FIM RELATORIO ==="
+
       - name: Salvar relatório (HTML + TXT)
         if: always()
         uses: actions/upload-artifact@v4
