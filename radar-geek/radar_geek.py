@@ -29,8 +29,10 @@ import json
 import math
 import re
 import sys
+import threading
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 import webbrowser
@@ -86,7 +88,6 @@ FONTES = [
     {"nome": "r/animememes", "url": "https://www.reddit.com/r/animememes/top/.rss?t=day", "pais": "INT", "tema": "animes", "meme": True},
     {"nome": "r/gamingmemes", "url": "https://www.reddit.com/r/gamingmemes/top/.rss?t=day", "pais": "INT", "tema": "games", "meme": True},
     {"nome": "r/PrequelMemes", "url": "https://www.reddit.com/r/PrequelMemes/top/.rss?t=day", "pais": "INT", "tema": "pop", "meme": True},
-    {"nome": "Lemmy animememes", "url": "https://ani.social/feeds/c/animememes.xml?sort=TopDay", "pais": "INT", "tema": "animes", "meme": True},
     {"nome": "Know Your Meme", "url": "https://knowyourmeme.com/news.rss", "pais": "INT", "filtrar": True, "meme": True},
     # Notícias sobre memes (só entra manchete que fala de meme)
     {"nome": "Google News (EUA)", "gnews": "memes Marvel OR DC OR anime OR \"video game\" OR \"Star Wars\"", "idioma": "en", "pais": "INT", "filtrar": True, "meme": True},
@@ -435,9 +436,35 @@ def eh_escalacao(titulo: str, titulo_norm: str, categoria: str) -> bool:
 # =============================================================================
 # Download e leitura dos feeds
 # =============================================================================
+# O Reddit barra pedidos em rajada (erro 429): os feeds dele vão um de cada vez, com pausa.
+_TRAVA_REDDIT = threading.Lock()
+_ULTIMO_REDDIT = [0.0]
+PAUSA_REDDIT = 3.0
+
+
 def baixar(url: str, timeout: int = 20) -> bytes:
+    if "reddit.com/" not in url:
+        return _baixar(url, timeout)
+    with _TRAVA_REDDIT:
+        for tentativa in range(2):
+            espera = PAUSA_REDDIT - (time.monotonic() - _ULTIMO_REDDIT[0])
+            if espera > 0:
+                time.sleep(espera)
+            try:
+                return _baixar(url, timeout, agente="RadarGeek/1.0 (agregador de noticias geek)")
+            except urllib.error.HTTPError as erro:
+                if erro.code != 429 or tentativa:
+                    raise
+                pedido = (erro.headers.get("Retry-After") or "").strip()
+                time.sleep(min(int(pedido) if pedido.isdigit() else 10, 30))
+            finally:
+                _ULTIMO_REDDIT[0] = time.monotonic()
+    raise RuntimeError("inalcançável")
+
+
+def _baixar(url: str, timeout: int = 20, agente: str = USER_AGENT) -> bytes:
     req = urllib.request.Request(url, headers={
-        "User-Agent": USER_AGENT,
+        "User-Agent": agente,
         "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
         "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
     })
@@ -744,8 +771,8 @@ def marcar_furos(noticias: List[Noticia], acervo_br: List[Set[str]]) -> None:
 
 def pontuar(n: Noticia, agora: dt.datetime) -> float:
     horas = (agora - n.data).total_seconds() / 3600 if n.data else 24
-    if n.meme and not n.via_google:
-        return max(0.0, 10 - 0.4 * n.ordem) + max(0.0, 3 - max(horas, 0) / 8)  # o feed já vem do mais votado
+    if n.meme:  # os feeds de meme já vêm do mais votado/relevante: o topo de cada um se alterna na seção
+        return max(0.0, 10 - 0.4 * n.ordem) + max(0.0, 3 - max(horas, 0) / 8)
     return (
         2 * len(n.outras_fontes)
         + (3 if n.furo else 0)
