@@ -83,8 +83,17 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh api -X POST "repos/${{ github.repository }}/pages/builds" --jq '"Pages: " + .status' \
-            || echo "::warning::Não consegui pedir a atualização do GitHub Pages (ele está ativado em Settings > Pages?)"
+          repo="${{ github.repository }}"
+          gh api "repos/$repo/pages" --jq '"Pages publica de: " + .source.branch + " " + .source.path + " (" + .build_type + ")"' \
+            || echo "::warning::GitHub Pages não está ativado (Settings > Pages)."
+          gh api -X POST "repos/$repo/pages/builds" --jq '"Pedido de atualização: " + .status' \
+            || echo "::warning::Não consegui pedir a atualização do GitHub Pages."
+          for tentativa in $(seq 1 20); do
+            sleep 10
+            estado=$(gh api "repos/$repo/pages/builds/latest" --jq '.status + " | commit " + .commit[0:7] + " | erro: " + (.error.message // "nenhum")' || true)
+            echo "Build do Pages: $estado"
+            case "$estado" in built*|errored*) break ;; esac
+          done
 
       - name: Conferir o site no ar
         if: github.ref == 'refs/heads/main'
