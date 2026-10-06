@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 concurrency:
   group: radar-geek-${{ github.ref }}
@@ -75,3 +76,28 @@ jobs:
           done
           echo "Não consegui enviar a página para o main." >&2
           exit 1
+
+      # Push feito por robô não dispara o GitHub Pages sozinho: pedimos a atualização.
+      - name: Atualizar o GitHub Pages
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" --jq '"Pages: " + .status' \
+            || echo "::warning::Não consegui pedir a atualização do GitHub Pages (ele está ativado em Settings > Pages?)"
+
+      - name: Conferir o site no ar
+        if: github.ref == 'refs/heads/main'
+        continue-on-error: true
+        run: |
+          url="https://${{ github.repository_owner }}.github.io/noticias/"
+          for tentativa in $(seq 1 12); do
+            codigo=$(curl -s -o /tmp/pagina.html -w "%{http_code}" "$url?v=$(date +%s)")
+            if [ "$codigo" = "200" ] && grep -q "Radar Geek" /tmp/pagina.html; then
+              echo "No ar: $url ($(grep -o 'Atualizado em [^·<]*' /tmp/pagina.html | head -1))"
+              exit 0
+            fi
+            echo "Tentativa $tentativa: HTTP $codigo"
+            sleep 15
+          done
+          echo "::warning::A página ainda não respondeu em $url"
