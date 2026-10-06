@@ -56,9 +56,9 @@ FONTES = [
     {"nome": "Deadline", "url": "https://deadline.com/feed/", "pais": "INT", "filtrar": True},
     {"nome": "Variety", "url": "https://variety.com/feed/", "pais": "INT", "filtrar": True},
     {"nome": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/feed/", "pais": "INT", "filtrar": True},
-    {"nome": "Collider", "url": "https://collider.com/feed/", "pais": "INT", "tema": "pop"},
-    {"nome": "Screen Rant", "url": "https://screenrant.com/feed/", "pais": "INT", "tema": "pop"},
-    {"nome": "CBR", "url": "https://www.cbr.com/feed/", "pais": "INT", "tema": "hq"},
+    {"nome": "Collider", "url": "https://collider.com/feed/", "pais": "INT", "filtrar": True},
+    {"nome": "Screen Rant", "url": "https://screenrant.com/feed/", "pais": "INT", "filtrar": True},
+    {"nome": "CBR", "url": "https://www.cbr.com/feed/", "pais": "INT", "filtrar": True},
     {"nome": "Bleeding Cool", "url": "https://bleedingcool.com/feed/", "pais": "INT", "filtrar": True},
     # --- Lá fora: games ---
     {"nome": "IGN", "url": "https://feeds.feedburner.com/ign/all", "pais": "INT", "tema": "games"},
@@ -82,7 +82,6 @@ FONTES = [
     {"nome": "Google News (EUA)", "gnews": "exclusive Marvel OR DC OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
     # --- Brasil ---
     {"nome": "Omelete", "gnews": "site:omelete.com.br", "idioma": "pt", "pais": "BR"},
-    {"nome": "Jovem Nerd", "url": "https://jovemnerd.com.br/feed/", "pais": "BR"},
     {"nome": "Jovem Nerd", "gnews": "site:jovemnerd.com.br", "idioma": "pt", "pais": "BR"},
     {"nome": "Legião dos Heróis", "url": "https://www.legiaodosherois.com.br/feed", "pais": "BR"},
     {"nome": "IGN Brasil", "url": "https://br.ign.com/feed.xml", "pais": "BR"},
@@ -228,8 +227,7 @@ PADROES_ESCALACAO = [
     r" (to|will) (star|lead|headline) ", r" stars? as ", r" starring as ", r" casts? ",
     r" (adds|taps|enlists|recruits|nabs) [a-z0-9 ]{3,40} (as|to play) ",
     r" in (early |final )?(talks|negotiations) ", r" eyed (to|for|as) ", r" front ?runner", r" tapped (to|for|as) ",
-    r" lands? (the |a )?(lead |title |key |villain )?role", r"(?<! how)(?<! free)(?<! ways)(?<! available)(?<! fun)(?<! where)(?<! what) to play (?!on |for free |it )",
-    r" will play ", r" (to )?portray", r" screen ?tests?", r" audition", r" shortlist", r" suits? up ",
+    r" lands? (the |a )?(lead |title |key |villain )?role",     r" will play ", r" (to )?portray", r" screen ?tests?", r" audition", r" shortlist", r" suits? up ",
     r" voice cast", r" new role ", r" prepar(es|ing|ed) for (the |his |her |their )?role",
     r" (training|bulking up|bulked up|getting in shape) for ", r" behind the scenes",
     r" (begins|starts|started|wraps|wrapped) (filming|production|shooting)",
@@ -243,7 +241,8 @@ PADROES_ESCALACAO = [
 # Padrões ambíguos em notícias de games ("X joins Fortnite", "modo treino"),
 # por isso só contam quando a notícia não é de games.
 PADROES_ESCALACAO_FORA_GAMES = [
-    r" joins? ", r" joining ", r" boards ", r" first look ", r" roles? ", r" (playing|plays) (the )?(villain|hero|role|lead) ",
+    r" joins? ", r" joining ", r" boards ", r" first look ", r" role ",
+    r"(?<! how)(?<! free)(?<! ways)(?<! available)(?<! fun)(?<! where)(?<! what)(?<! time) to play (?!on |for free |it )", r" (playing|plays) (the )?(villain|hero|role|lead) ",
     r" transformation ", r" workout", r" physique", r" elenco ", r" papel ", r" se prepara", r" preparacao",
     r" treino", r" treinamento", r" transformacao", r" primeira (imagem|foto|olhada)",
 ]
@@ -253,7 +252,8 @@ PADROES_IGNORAR = [
     r" deals ", r" sale ", r" discount", r" lowest price", r" price drop", r" black friday", r" cyber monday",
     r" prime day", r" promocao", r" desconto", r" ofertas? ", r" cupom", r" wordle", r" crossword",
     r" connections hint", r" strands hint", r" gift guide", r" guide ", r" walkthrough", r" tier list",
-    r" how to (play|get|unlock|beat|find|watch|stream|beat) ", r" where to (watch|stream) ", r" codes ", r" codigos ", r" dicas ",
+    r" how to (play|get|unlock|beat|find|watch|stream|beat) ", r" where to (watch|stream) ", r" codes ", r" codigos? ", r" dicas ",
+    r" golpe ", r" furto ", r" roubo ", r" assalto ", r" policia ", r" preso ",
     r" como (assistir|jogar|conseguir|desbloquear|baixar) ", r" onde assistir", r" guia ",
 ]
 
@@ -631,10 +631,13 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
     if any(r.search(titulo_norm) for r in RE_IGNORAR) or re.search(r"\d+\s?% off", noticia.titulo, re.I):
         return False
     tags_rss = noticia.tags_rss
-    categorias, palavras = classificar(titulo_norm + tags_rss + " ")
-    if not categorias:
-        if fonte.get("filtrar"):
+    if fonte.get("filtrar"):
+        categorias, palavras = classificar(titulo_norm)
+        if not categorias:
             return False
+    else:
+        categorias, palavras = classificar(titulo_norm + tags_rss + " ")
+    if not categorias:
         categorias, palavras = classificar(normalizar(noticia.titulo + " " + noticia.resumo) + tags_rss + " ")
     if not categorias:
         secoes = (normalizar(s).strip() for s in urllib.parse.urlparse(noticia.link).path.split("/"))
