@@ -68,10 +68,12 @@ jobs:
             exit 0
           fi
           git commit -m "Radar Geek: atualiza as notícias"
+          # Se outra rodada gravou a página ao mesmo tempo, fica a desta (a mais nova).
           for tentativa in 1 2 3; do
-            if git pull --rebase origin main && git push origin HEAD:main; then
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then
               exit 0
             fi
+            git rebase --abort 2>/dev/null || true
             sleep 5
           done
           echo "Não consegui enviar a página para o main." >&2
