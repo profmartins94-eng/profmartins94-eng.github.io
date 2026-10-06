@@ -59,7 +59,7 @@ FONTES = [
     {"nome": "Collider", "url": "https://collider.com/feed/", "pais": "INT", "tema": "pop"},
     {"nome": "Screen Rant", "url": "https://screenrant.com/feed/", "pais": "INT", "tema": "pop"},
     {"nome": "CBR", "url": "https://www.cbr.com/feed/", "pais": "INT", "tema": "hq"},
-    {"nome": "Bleeding Cool", "url": "https://bleedingcool.com/feed/", "pais": "INT", "tema": "hq"},
+    {"nome": "Bleeding Cool", "url": "https://bleedingcool.com/feed/", "pais": "INT", "filtrar": True},
     # --- Lá fora: games ---
     {"nome": "IGN", "url": "https://feeds.feedburner.com/ign/all", "pais": "INT", "tema": "games"},
     {"nome": "GameSpot", "url": "https://www.gamespot.com/feeds/mashup/", "pais": "INT", "tema": "games"},
@@ -82,6 +82,7 @@ FONTES = [
     {"nome": "Google News (EUA)", "gnews": "exclusive Marvel OR DC OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
     # --- Brasil ---
     {"nome": "Omelete", "gnews": "site:omelete.com.br", "idioma": "pt", "pais": "BR"},
+    {"nome": "Jovem Nerd", "url": "https://jovemnerd.com.br/feed/", "pais": "BR"},
     {"nome": "Jovem Nerd", "gnews": "site:jovemnerd.com.br", "idioma": "pt", "pais": "BR"},
     {"nome": "Legião dos Heróis", "url": "https://www.legiaodosherois.com.br/feed", "pais": "BR"},
     {"nome": "IGN Brasil", "url": "https://br.ign.com/feed.xml", "pais": "BR"},
@@ -105,7 +106,7 @@ CATEGORIAS = {
         "nome": "DC", "emoji": "🦇", "hashtags": "#DC #DCStudios",
         "palavras": """
             dc, dcu, dc studios, dc comics, dc universe, james gunn, peter safran, batman, the batman, superman,
-            super homem, supergirl, wonder woman, mulher maravilha, aquaman, the flash, green lantern, lanterns,
+            super homem, supergirl, wonder woman, mulher maravilha, aquaman, the flash, green lantern, lanterns, lanternas,
             lanterna verde, justice league, liga da justica, joker, coringa, harley quinn, arlequina, peacemaker,
             pacificador, clayface, gotham city, the penguin, pinguim, lex luthor, darkseid, shazam, blue beetle,
             besouro azul, swamp thing, monstro do pantano, teen titans, jovens titas, nightwing, asa noturna,
@@ -145,7 +146,7 @@ CATEGORIAS = {
     "games": {
         "nome": "Games", "emoji": "🎮", "hashtags": "#Games #Gamer",
         "palavras": """
-            video game, video games, videogame, videogames, gameplay, gamer, gamers, console, playstation, ps5, ps6,
+            video game, video games, videogame, videogames, gameplay, gamer, gamers, console, controle, controles, controller, controllers, playstation, ps5, ps6, razer,
             ps plus, xbox, game pass, nintendo, switch 2, nintendo switch, steam deck, steam next fest, valve, gta, gta 6,
             gta vi, grand theft auto, rockstar games, ubisoft, electronic arts, ea sports, capcom, square enix,
             bandai namco, sega, konami, fromsoftware, elden ring, resident evil, final fantasy, zelda, super mario,
@@ -204,6 +205,22 @@ CATEGORIAS = {
 }
 ORDEM_CATEGORIAS = ["dc", "marvel", "animes", "games", "desenhos", "hq", "pop"]
 
+# Palavras que dizem o formato e não a franquia: só decidem a categoria quando
+# nenhum nome mais específico aparece ("Lanternas | ... quadrinhos" é DC).
+PALAVRAS_DE_FORMATO = {
+    "comics", "comic book", "comic books", "graphic novel", "hq", "hqs", "quadrinho", "quadrinhos", "gibi", "gibis",
+    "animation", "animated", "animacao", "serie animada", "filme animado", "desenho animado", "desenhos animados",
+    "cartoon", "cartoons", "geek", "nerd", "superhero", "superheroes", "super heroi", "super herois", "sci fi",
+    "ficcao cientifica", "cosplay", "rpg", "anime", "animes", "manga", "mangas", "video game", "video games",
+    "videogame", "videogames", "gameplay", "gamer", "gamers", "console",
+}
+
+# Seções de URL que entregam o assunto (ex.: criticalhits.com.br/games/...).
+CATEGORIA_POR_SECAO_URL = {
+    "games": "games", "jogos": "games", "game": "games", "anime": "animes", "animes": "animes", "manga": "animes",
+    "mangas": "animes", "quadrinhos": "hq", "hqs": "hq", "comics": "hq", "desenhos": "desenhos", "animacao": "desenhos",
+}
+
 # Escalação, negociação, testes, preparação física e bastidores de filmagem.
 # Os padrões rodam sobre o título sem acentos, em minúsculas e sem pontuação.
 PADROES_ESCALACAO = [
@@ -211,7 +228,7 @@ PADROES_ESCALACAO = [
     r" (to|will) (star|lead|headline) ", r" stars? as ", r" starring as ", r" casts? ",
     r" (adds|taps|enlists|recruits|nabs) [a-z0-9 ]{3,40} (as|to play) ",
     r" in (early |final )?(talks|negotiations) ", r" eyed (to|for|as) ", r" front ?runner", r" tapped (to|for|as) ",
-    r" lands? (the |a )?(lead |title |key |villain )?role", r"(?<! how)(?<! free)(?<! ways) to play ",
+    r" lands? (the |a )?(lead |title |key |villain )?role", r"(?<! how)(?<! free)(?<! ways)(?<! available)(?<! fun)(?<! where)(?<! what) to play (?!on |for free |it )",
     r" will play ", r" (to )?portray", r" screen ?tests?", r" audition", r" shortlist", r" suits? up ",
     r" voice cast", r" new role ", r" prepar(es|ing|ed) for (the |his |her |their )?role",
     r" (training|bulking up|bulked up|getting in shape) for ", r" behind the scenes",
@@ -226,7 +243,7 @@ PADROES_ESCALACAO = [
 # Padrões ambíguos em notícias de games ("X joins Fortnite", "modo treino"),
 # por isso só contam quando a notícia não é de games.
 PADROES_ESCALACAO_FORA_GAMES = [
-    r" joins? ", r" joining ", r" boards ", r" first look ", r" (playing|plays) (the )?(villain|hero|role|lead) ",
+    r" joins? ", r" joining ", r" boards ", r" first look ", r" roles? ", r" (playing|plays) (the )?(villain|hero|role|lead) ",
     r" transformation ", r" workout", r" physique", r" elenco ", r" papel ", r" se prepara", r" preparacao",
     r" treino", r" treinamento", r" transformacao", r" primeira (imagem|foto|olhada)",
 ]
@@ -236,7 +253,7 @@ PADROES_IGNORAR = [
     r" deals ", r" sale ", r" discount", r" lowest price", r" price drop", r" black friday", r" cyber monday",
     r" prime day", r" promocao", r" desconto", r" ofertas? ", r" cupom", r" wordle", r" crossword",
     r" connections hint", r" strands hint", r" gift guide", r" guide ", r" walkthrough", r" tier list",
-    r" how to (play|get|unlock|beat|find|watch|stream|beat) ", r" where to (watch|stream) ", r" codes ",
+    r" how to (play|get|unlock|beat|find|watch|stream|beat) ", r" where to (watch|stream) ", r" codes ", r" codigos ", r" dicas ",
     r" como (assistir|jogar|conseguir|desbloquear|baixar) ", r" onde assistir", r" guia ",
 ]
 
@@ -378,7 +395,8 @@ def classificar(texto_norm: str) -> Tuple[List[str], Dict[str, str]]:
     for chave in ORDEM_CATEGORIAS:
         hits = [p for p in PALAVRAS[chave] if f" {p} " in texto_norm]
         if hits:
-            achados[chave] = (len(hits[0]), len(hits), hits[0])
+            peso = max(1 if p in PALAVRAS_DE_FORMATO else len(p) for p in hits)
+            achados[chave] = (peso, len(hits), hits[0])
     ordem = sorted(
         achados,
         key=lambda c: (-achados[c][0], -achados[c][1], ORDEM_CATEGORIAS.index(c)),
@@ -575,7 +593,7 @@ def buscar_fonte(fonte: dict, dias: int) -> Tuple[dict, List[Noticia], str]:
     except Exception as erro:  # noqa: BLE001 - qualquer falha de rede/feed vira aviso
         return fonte, [], f"{type(erro).__name__}: {erro}"
     if not entradas:
-        return fonte, [], "feed vazio ou em formato desconhecido"
+        return fonte, [], "" if fonte.get("gnews") else "feed vazio ou em formato desconhecido"
 
     noticias = []
     for e in entradas:
@@ -619,7 +637,9 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
             return False
         categorias, palavras = classificar(normalizar(noticia.titulo + " " + noticia.resumo) + tags_rss + " ")
     if not categorias:
-        categorias = [fonte.get("tema") or "pop"]
+        secoes = (normalizar(s).strip() for s in urllib.parse.urlparse(noticia.link).path.split("/"))
+        pela_url = next((CATEGORIA_POR_SECAO_URL[s] for s in secoes if s in CATEGORIA_POR_SECAO_URL), None)
+        categorias = [pela_url or fonte.get("tema") or "pop"]
     noticia.categorias = categorias
     noticia.palavra_chave = palavras.get(categorias[0], "")
     noticia.escalacao = eh_escalacao(noticia.titulo, titulo_norm, categorias[0])
