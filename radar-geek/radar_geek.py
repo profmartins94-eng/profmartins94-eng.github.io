@@ -80,6 +80,17 @@ FONTES = [
     {"nome": "Google News (EUA)", "gnews": "\"screen test\" OR audition Marvel OR DC OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "\"anime adaptation\" OR \"new anime\" announced", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "exclusive Marvel OR DC OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
+    # --- Memes: os mais votados do dia nas comunidades de fãs ---
+    {"nome": "r/marvelmemes", "url": "https://www.reddit.com/r/marvelmemes/top/.rss?t=day", "pais": "INT", "tema": "marvel", "meme": True},
+    {"nome": "r/DCmemes", "url": "https://www.reddit.com/r/DCmemes/top/.rss?t=day", "pais": "INT", "tema": "dc", "meme": True},
+    {"nome": "r/animememes", "url": "https://www.reddit.com/r/animememes/top/.rss?t=day", "pais": "INT", "tema": "animes", "meme": True},
+    {"nome": "r/gamingmemes", "url": "https://www.reddit.com/r/gamingmemes/top/.rss?t=day", "pais": "INT", "tema": "games", "meme": True},
+    {"nome": "r/PrequelMemes", "url": "https://www.reddit.com/r/PrequelMemes/top/.rss?t=day", "pais": "INT", "tema": "pop", "meme": True},
+    {"nome": "Lemmy animememes", "url": "https://ani.social/feeds/c/animememes.xml?sort=TopDay", "pais": "INT", "tema": "animes", "meme": True},
+    {"nome": "Know Your Meme", "url": "https://knowyourmeme.com/news.rss", "pais": "INT", "filtrar": True, "meme": True},
+    # Notícias sobre memes (só entra manchete que fala de meme)
+    {"nome": "Google News (EUA)", "gnews": "memes Marvel OR DC OR anime OR \"video game\" OR \"Star Wars\"", "idioma": "en", "pais": "INT", "filtrar": True, "meme": True},
+    {"nome": "Google News (BR)", "gnews": "meme OR memes Marvel OR DC OR anime OR games OR filme", "idioma": "pt", "pais": "BR", "filtrar": True, "meme": True},
     # --- Brasil ---
     {"nome": "Omelete", "gnews": "site:omelete.com.br", "idioma": "pt", "pais": "BR"},
     {"nome": "Jovem Nerd", "gnews": "site:jovemnerd.com.br", "idioma": "pt", "pais": "BR"},
@@ -251,6 +262,11 @@ PADROES_ESCALACAO_FORA_GAMES = [
     r" (em|entrar em|entrando em|mantendo em|manter em) forma ", r" (staying|getting|keeping) in shape",
 ]
 
+# O site é público: nada de conteúdo adulto, venha de onde vier.
+PADROES_ADULTO = [r" nsfw ", r" nudes? ", r" porn", r" hentai", r" r34 ", r" rule 34 ", r" ecchi ", r" lewd ", r" onlyfans "]
+RE_ADULTO = [re.compile(p) for p in PADROES_ADULTO]
+RE_MEME = re.compile(r" (memes?|meme ?ad[oa]s?|viraliz\w*|viral) ")
+
 # Promoções, cupons e passatempos que não interessam ao canal.
 PADROES_IGNORAR = [
     r" deals ", r" sale ", r" discount", r" lowest price", r" price drop", r" black friday", r" cyber monday",
@@ -319,6 +335,8 @@ class Noticia:
     categorias: List[str] = field(default_factory=list)
     palavra_chave: str = ""
     escalacao: bool = False
+    meme: bool = False
+    ordem: int = 0
     furo: bool = False
     chegou_no_br: bool = False
     nova: bool = True
@@ -480,6 +498,15 @@ def _ler_xml(dados: bytes):
         return None
 
 
+def _imagem_cheia(texto: str) -> str:
+    """Link direto para a imagem inteira (ex.: o "[link]" dos posts do Reddit)."""
+    m = re.search(
+        r'href=["\'](https?://(?:i\.redd\.it|i\.imgur\.com)/[^"\']+|https?://[^"\']+\.(?:jpe?g|png|gif|webp))["\']',
+        html.unescape(texto or ""), re.I,
+    )
+    return link_seguro(m.group(1)) if m else ""
+
+
 def _imagem_do_html(texto: str) -> str:
     m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html.unescape(texto or ""), re.I)
     return link_seguro(m.group(1)) if m else ""
@@ -600,7 +627,7 @@ def buscar_fonte(fonte: dict, dias: int) -> Tuple[dict, List[Noticia], str]:
         return fonte, [], "" if fonte.get("gnews") else "feed vazio ou em formato desconhecido"
 
     noticias = []
-    for e in entradas:
+    for ordem, e in enumerate(entradas):
         titulo = limpar_html(e["titulo"])
         link = link_seguro(e["link"] or e["guid"])
         if not titulo or not link:
@@ -620,7 +647,11 @@ def buscar_fonte(fonte: dict, dias: int) -> Tuple[dict, List[Noticia], str]:
             titulo=titulo, link=link, resumo=encurtar(resumo), data=ler_data(bruta), fonte=nome_fonte,
             pais=fonte.get("pais", "INT"), via_google=bool(fonte.get("gnews")),
             imagem=e["imagem"] or _imagem_do_html(e["resumo"]) or _imagem_do_html(e["conteudo"]),
+            meme=bool(fonte.get("meme")), ordem=ordem,
         )
+        if n.meme and not fonte.get("gnews"):
+            n.imagem = _imagem_cheia(e["conteudo"] or e["resumo"]) or n.imagem
+            n.resumo = ""  # nos posts de comunidade o resumo é só "enviado por /u/fulano"
         n.tags_rss = " ".join(normalizar(x).strip() for x in e["categorias"])
         noticias.append(n)
     return fonte, noticias, ""
@@ -634,6 +665,12 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
     titulo_norm = normalizar(noticia.titulo)
     if any(r.search(titulo_norm) for r in RE_IGNORAR) or re.search(r"\d+\s?% off", noticia.titulo, re.I):
         return False
+    if any(r.search(titulo_norm) for r in RE_ADULTO):
+        return False
+    if fonte.get("meme") and fonte.get("gnews") and not RE_MEME.search(titulo_norm):
+        return False  # busca de memes no Google News: só manchete que fala de meme
+    if RE_MEME.search(titulo_norm):
+        noticia.meme = True
     tags_rss = noticia.tags_rss
     if fonte.get("filtrar"):
         categorias, palavras = classificar(titulo_norm, noticia.pais)
@@ -649,7 +686,7 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
         categorias = [pela_url or fonte.get("tema") or "pop"]
     noticia.categorias = categorias
     noticia.palavra_chave = palavras.get(categorias[0], "")
-    noticia.escalacao = eh_escalacao(noticia.titulo, titulo_norm, categorias[0])
+    noticia.escalacao = not noticia.meme and eh_escalacao(noticia.titulo, titulo_norm, categorias[0])
     noticia.tokens = tokens_titulo(noticia.titulo)
     noticia.chaves = [hashlib.sha1(noticia.link.encode("utf-8")).hexdigest()[:16]]
     return True
@@ -697,7 +734,7 @@ def juntar_repetidas(noticias: List[Noticia]) -> List[Noticia]:
 def marcar_furos(noticias: List[Noticia], acervo_br: List[Set[str]]) -> None:
     """Notícia gringa sem nenhuma manchete brasileira parecida = saiu lá fora primeiro."""
     for n in noticias:
-        if n.pais != "INT" or n.chegou_no_br:
+        if n.pais != "INT" or n.chegou_no_br or n.meme:
             continue
         nomes = n.tokens - PALAVRAS_GENERICAS
         if len(nomes) < 2:
@@ -707,6 +744,8 @@ def marcar_furos(noticias: List[Noticia], acervo_br: List[Set[str]]) -> None:
 
 def pontuar(n: Noticia, agora: dt.datetime) -> float:
     horas = (agora - n.data).total_seconds() / 3600 if n.data else 24
+    if n.meme and not n.via_google:
+        return max(0.0, 10 - 0.4 * n.ordem) + max(0.0, 3 - max(horas, 0) / 8)  # o feed já vem do mais votado
     return (
         2 * len(n.outras_fontes)
         + (3 if n.furo else 0)
@@ -765,10 +804,13 @@ class Tradutor:
 SECOES = [
     ("escalacoes", "🎭", "Escalações & Bastidores", "Atores escalados, negociações, testes de elenco, preparação para papéis e filmagens."),
     ("furos", "🔥", "Saiu lá fora primeiro", "Notícias gringas que ainda não apareceram nos sites brasileiros monitorados."),
+    ("memes", "😂", "Memes", "Os memes mais votados do dia nas comunidades de fãs e as notícias sobre memes."),
 ] + [(c, CATEGORIAS[c]["emoji"], CATEGORIAS[c]["nome"], "") for c in ORDEM_CATEGORIAS]
 
 
 def secao_da(n: Noticia) -> str:
+    if n.meme:
+        return "memes"
     if n.escalacao:
         return "escalacoes"
     if n.furo:
@@ -794,12 +836,15 @@ def hashtags(n: Noticia) -> str:
         tag = "#" + "".join(p.capitalize() for p in n.palavra_chave.split())
         if tag.lower() not in (t.lower() for t in tags) and len(tag) > 3:
             tags.insert(0, tag)
-    return " ".join(tags + ["#NoticiasGeek", "#UniversoGeek"])
+    extras = ["#Memes", "#MemesGeek"] if n.meme else ["#NoticiasGeek", "#UniversoGeek"]
+    return " ".join(tags + extras)
 
 
 def texto_post(n: Noticia) -> str:
     cat = CATEGORIAS[n.categorias[0]]
     cabecalho = f"{cat['emoji']} {cat['nome'].upper()}"
+    if n.meme:
+        cabecalho = f"😂 MEME | {cabecalho}"
     if n.escalacao:
         cabecalho += " | 🎭 ESCALAÇÃO & BASTIDORES"
     if n.furo:
@@ -807,12 +852,12 @@ def texto_post(n: Noticia) -> str:
     linhas = [cabecalho, "", n.titulo]
     if n.resumo:
         linhas += ["", n.resumo]
-    linhas += ["", f"📰 Fonte: {n.fonte}", f"🔗 {n.link}", "", hashtags(n)]
+    linhas += ["", f"{'📸' if n.meme else '📰'} Fonte: {n.fonte}", f"🔗 {n.link}", "", hashtags(n)]
     return "\n".join(linhas)
 
 
 def selos(n: Noticia) -> List[str]:
-    s = []
+    s = ["😂 Meme"] if n.meme else []
     if n.escalacao:
         s.append("🎭 Escalação/Bastidores")
     if n.furo:
@@ -867,7 +912,8 @@ def gerar_txt(por_secao) -> str:
     return "\n\n\n".join(secoes) + "\n"
 
 
-def gerar_html(por_secao, agora, horas, falhas, total_lido) -> str:
+def gerar_html(por_secao, agora, horas, falhas, total_lido, publico: bool = False) -> str:
+    """Relatório em HTML. Com publico=True sai a versão do site, sem marcas de uso pessoal."""
     esc = lambda s: html.escape(s or "", quote=True)  # noqa: E731
     botoes, secoes_html = [], []
     for chave, emoji, nome, descricao in SECOES:
@@ -877,9 +923,10 @@ def gerar_html(por_secao, agora, horas, falhas, total_lido) -> str:
         botoes.append(f'<button class="chip" data-filtro="{chave}">{emoji} {esc(nome)} <b>{len(lista)}</b></button>')
         cards = []
         for n in lista:
-            badges = "".join(f'<span class="selo">{esc(s)}</span>' for s in selos(n))
+            marcas = [s for s in selos(n) if not (publico and s == "🆕 Nova")]
             cat = CATEGORIAS[n.categorias[0]]
-            badges = f'<span class="selo cat">{cat["emoji"]} {esc(cat["nome"])}</span>' + badges
+            badges = f'<span class="selo cat">{cat["emoji"]} {esc(cat["nome"])}</span>'
+            badges += "".join(f'<span class="selo">{esc(s)}</span>' for s in marcas)
             outras = f' · também em {esc(", ".join(n.outras_fontes[:4]))}' if n.outras_fontes else ""
             original = f'<p class="original">Original: {esc(n.titulo_original)}</p>' if n.titulo_original else ""
             resumo = f'<p class="resumo">{esc(n.resumo)}</p>' if n.resumo else ""
@@ -889,7 +936,7 @@ def gerar_html(por_secao, agora, horas, falhas, total_lido) -> str:
             )
             busca = esc(normalizar(f"{n.titulo} {n.titulo_original} {n.resumo} {n.fonte}"))
             cards.append(f"""
-      <article class="card" data-nova="{int(n.nova)}" data-busca="{busca}">
+      <article class="card{' meme' if n.meme else ''}" data-nova="{int(n.nova)}" data-busca="{busca}">
         {imagem}
         <div class="corpo">
           <div class="selos">{badges}</div>
@@ -897,8 +944,8 @@ def gerar_html(por_secao, agora, horas, falhas, total_lido) -> str:
           {original}{resumo}
           <p class="meta">📰 {esc(n.fonte)} · {esc(ha_quanto(n.data, agora))}{outras}</p>
           <div class="acoes">
-            <button class="copiar">📋 Copiar post</button>
-            <a class="abrir" href="{esc(n.link)}" target="_blank" rel="noopener noreferrer">Abrir notícia ↗</a>
+            <button class="copiar" type="button">📋 Copiar post</button>
+            <a class="abrir" href="{esc(n.link)}" target="_blank" rel="noopener noreferrer">{'Abrir meme' if n.meme else 'Abrir notícia'} ↗</a>
           </div>
           <textarea class="post" hidden>{esc(texto_post(n))}</textarea>
         </div>
@@ -911,10 +958,17 @@ def gerar_html(por_secao, agora, horas, falhas, total_lido) -> str:
 
     total = sum(len(v) for v in por_secao.values())
     aviso = ""
-    if falhas:
+    if falhas and not publico:
         itens = "".join(f"<li><b>{esc(nome)}</b>: {esc(erro[:160])}</li>" for nome, erro in falhas)
         aviso = f'<details class="falhas"><summary>⚠️ {len(falhas)} fonte(s) não responderam</summary><ul>{itens}</ul></details>'
-    vazio = '<p class="vazio">Nenhuma notícia encontrada nessa janela de tempo. Tente aumentar com --horas 48.</p>' if not total else ""
+    if not total:
+        aviso += '<p class="vazio">Nenhuma notícia encontrada nessa janela de tempo.</p>'
+    so_novas = "" if publico else '<label class="so-novas"><input type="checkbox" id="soNovas"> só 🆕</label>'
+    rodape = (
+        '<footer><p>As notícias são dos sites citados em cada card. As gringas têm tradução automática: '
+        'confira o original antes de repassar. Página atualizada automaticamente.</p></footer>'
+        if publico else ""
+    )
 
     return (MODELO_HTML
             .replace("%%DATA%%", esc(agora.strftime("%d/%m/%Y às %H:%M")))
@@ -922,7 +976,9 @@ def gerar_html(por_secao, agora, horas, falhas, total_lido) -> str:
             .replace("%%TOTAL%%", str(total))
             .replace("%%LIDAS%%", str(total_lido))
             .replace("%%BOTOES%%", "".join(botoes))
-            .replace("%%AVISO%%", aviso + vazio)
+            .replace("%%SO_NOVAS%%", so_novas)
+            .replace("%%AVISO%%", aviso)
+            .replace("%%RODAPE%%", rodape)
             .replace("%%SECOES%%", "".join(secoes_html)))
 
 
@@ -931,77 +987,104 @@ MODELO_HTML = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Radar Geek · %%DATA%%</title>
+<title>Radar Geek</title>
+<meta name="description" content="As últimas de DC, Marvel, animes, games, desenhos e cultura pop, de sites do Brasil e de fora.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Radar Geek">
+<meta property="og:description" content="As últimas de DC, Marvel, animes, games, desenhos e cultura pop, de sites do Brasil e de fora.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&display=swap">
 <style>
-  :root { --fundo:#0e0f1a; --card:#181a2b; --borda:#2a2d45; --texto:#eceefd; --suave:#a3a7c7;
-          --destaque:#7c5cff; --destaque2:#22d3ee; --selo:#23263d; --ok:#22c55e; }
-  @media (prefers-color-scheme: light) {
-    :root { --fundo:#f4f5fb; --card:#ffffff; --borda:#dfe2f0; --texto:#151729; --suave:#5b6080;
-            --destaque:#5b3df5; --destaque2:#0891b2; --selo:#eef0fa; }
+  /* Layout: coluna única; barra de filtros fixa; grade de cards por seção que vira uma coluna no celular */
+  :root {
+    --bg: #f3f4f8; --surface: #ffffff; --ink: #151a2d; --muted: #5a6077; --line: #dcdfea;
+    --accent: #c8102e; --accent-ink: #ffffff; --chip: #eaecf3; --ok: #1d7f47;
+    --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+    --body: "Figtree", "Segoe UI", system-ui, -apple-system, sans-serif;
+    color-scheme: light;
   }
-  * { box-sizing:border-box; }
-  body { margin:0; background:var(--fundo); color:var(--texto);
-         font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
-  header { padding:28px 16px 12px; max-width:1200px; margin:0 auto; }
-  h1 { margin:0; font-size:28px; letter-spacing:-.5px; }
-  h1 span { background:linear-gradient(90deg,var(--destaque),var(--destaque2)); -webkit-background-clip:text;
-            background-clip:text; color:transparent; }
-  .sub { color:var(--suave); margin:4px 0 16px; }
-  .barra { position:sticky; top:0; z-index:5; background:var(--fundo); padding:10px 16px;
-           border-bottom:1px solid var(--borda); }
-  .barra-in { max-width:1200px; margin:0 auto; display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
-  @media (max-width:600px) { .barra { position:static; } }
-  .chip { border:1px solid var(--borda); background:var(--card); color:var(--texto); border-radius:999px;
-          padding:6px 12px; font-size:13px; cursor:pointer; }
-  .chip b { color:var(--suave); font-weight:600; margin-left:2px; }
-  .chip.ativo { background:var(--destaque); border-color:var(--destaque); color:#fff; }
-  .chip.ativo b { color:#fff; }
-  input[type=search] { flex:1 1 200px; min-width:0; padding:7px 12px; border-radius:999px;
-                       border:1px solid var(--borda); background:var(--card); color:var(--texto); font-size:14px; }
-  label.so-novas { font-size:13px; color:var(--suave); display:flex; gap:6px; align-items:center; cursor:pointer; }
-  main { max-width:1200px; margin:0 auto; padding:8px 16px 48px; }
-  .secao { margin-top:28px; }
-  .secao h2 { font-size:21px; margin:0 0 2px; }
-  .secao h2 small { font-size:13px; color:var(--suave); font-weight:500; }
-  .desc { color:var(--suave); margin:0 0 12px; font-size:14px; }
-  .grade { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:14px; margin-top:10px; }
-  @media (max-width:420px) { .grade { grid-template-columns:1fr; } }
-  .card { background:var(--card); border:1px solid var(--borda); border-radius:14px; overflow:hidden;
-          display:flex; flex-direction:column; }
-  .thumb { width:100%; aspect-ratio:16/9; object-fit:cover; background:var(--selo); display:block; }
-  .corpo { padding:12px 14px 14px; display:flex; flex-direction:column; gap:6px; flex:1; }
-  .selos { display:flex; flex-wrap:wrap; gap:5px; }
-  .selo { font-size:11px; background:var(--selo); color:var(--suave); padding:2px 8px; border-radius:999px; }
-  .selo.cat { color:var(--texto); font-weight:600; }
-  h3 { font-size:16px; line-height:1.35; margin:2px 0 0; }
-  h3 a { color:var(--texto); text-decoration:none; }
-  h3 a:hover { text-decoration:underline; }
-  .original { font-size:12px; color:var(--suave); margin:0; font-style:italic; }
-  .resumo { margin:0; font-size:14px; color:var(--texto); opacity:.88; }
-  .meta { margin:auto 0 0; padding-top:6px; font-size:12px; color:var(--suave); }
-  .acoes { display:flex; gap:8px; align-items:center; margin-top:4px; }
-  .copiar { background:var(--destaque); color:#fff; border:0; border-radius:8px; padding:7px 12px;
-            font-weight:600; cursor:pointer; font-size:13px; }
-  .copiar.ok { background:var(--ok); }
-  .abrir { font-size:13px; color:var(--destaque2); text-decoration:none; }
-  .falhas { margin:12px 0 0; color:var(--suave); font-size:13px; }
-  .vazio { color:var(--suave); margin-top:30px; }
-  .escondido { display:none !important; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0e1017; --surface: #171a25; --ink: #eceef6; --muted: #9ca2b8; --line: #2a2f3e;
+      --accent: #ff5a6d; --accent-ink: #1a0509; --chip: #232736; --ok: #42d488; color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0e1017; --surface: #171a25; --ink: #eceef6; --muted: #9ca2b8; --line: #2a2f3e;
+    --accent: #ff5a6d; --accent-ink: #1a0509; --chip: #232736; --ok: #42d488; color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.55 var(--body); }
+  header, .barra-in, main, footer { max-width: 1180px; margin-inline: auto; padding-inline: 16px; }
+  header { padding-block: 32px 18px; display: grid; gap: 6px; }
+  .selo-topo { margin: 0; font-size: 12px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
+  h1 { margin: 0; font: 800 clamp(34px, 6vw, 52px)/1 var(--display); letter-spacing: -.02em; text-wrap: balance; }
+  .intro { margin: 6px 0 0; max-width: 62ch; font-size: 16px; }
+  .sub { margin: 0; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+  .barra { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg);
+           border-block: 1px solid var(--line); padding-block: 10px; }
+  .barra-in { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .chip { font: 500 13px/1 var(--body); color: var(--ink); background: var(--chip); border: 1px solid transparent;
+          border-radius: 999px; padding: 8px 12px; cursor: pointer; }
+  .chip b { color: var(--muted); font-weight: 600; margin-left: 4px; font-variant-numeric: tabular-nums; }
+  .chip:hover { border-color: var(--line); }
+  .chip.ativo { background: var(--ink); color: var(--bg); }
+  .chip.ativo b { color: var(--bg); }
+  .chip:focus-visible, .copiar:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  input[type=search] { flex: 1 1 220px; min-width: 0; font: 14px var(--body); color: var(--ink); background: var(--surface);
+                       border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; }
+  label.so-novas { font-size: 13px; color: var(--muted); display: flex; gap: 6px; align-items: center; cursor: pointer; }
+  main { padding-block: 8px 48px; display: grid; gap: 36px; }
+  .secao { display: grid; gap: 4px; }
+  .secao h2 { margin: 0; font: 800 24px/1.2 var(--display); letter-spacing: -.01em; text-wrap: balance; }
+  .secao h2 small { font: 500 13px var(--body); color: var(--muted); margin-left: 6px; }
+  .desc { margin: 0; color: var(--muted); font-size: 14px; }
+  .grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr)); gap: 14px; margin-top: 10px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+          display: flex; flex-direction: column; min-width: 0; }
+  .thumb { display: block; width: 100%; max-width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: var(--chip); }
+  .card.meme .thumb { aspect-ratio: auto; max-height: 520px; object-fit: contain; }
+  .corpo { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 0; }
+  .selos { display: flex; flex-wrap: wrap; gap: 6px; }
+  .selo { font-size: 11.5px; font-weight: 500; color: var(--muted); background: var(--chip); border-radius: 4px; padding: 2px 7px; }
+  .selo.cat { color: var(--ink); font-weight: 600; }
+  h3 { margin: 0; font: 600 16.5px/1.35 var(--body); text-wrap: balance; overflow-wrap: anywhere; }
+  h3 a { color: var(--ink); text-decoration: none; }
+  h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+  .original { margin: 0; font-size: 12.5px; color: var(--muted); font-style: italic; overflow-wrap: anywhere; }
+  .resumo { margin: 0; font-size: 14px; color: var(--ink); opacity: .86; overflow-wrap: anywhere; }
+  .meta { margin: auto 0 0; padding-top: 4px; font-size: 12.5px; color: var(--muted); }
+  .acoes { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+  .copiar { font: 600 13px var(--body); color: var(--accent-ink); background: var(--accent); border: 0; border-radius: 6px;
+            padding: 8px 12px; cursor: pointer; }
+  .copiar.ok { background: var(--ok); }
+  .abrir { font-size: 13px; font-weight: 500; color: var(--ink); text-underline-offset: 3px; }
+  .falhas, .vazio { color: var(--muted); font-size: 13px; }
+  footer { padding-block: 0 40px; color: var(--muted); font-size: 13px; }
+  footer p { margin: 0; max-width: 70ch; border-top: 1px solid var(--line); padding-top: 16px; }
+  .escondido, [hidden] { display: none !important; }
+  @media (max-width: 600px) { .barra { position: static; } }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 </style>
 </head>
 <body>
 <header>
-  <h1>📡 <span>Radar Geek</span></h1>
-  <p class="sub">%%DATA%% · últimas %%HORAS%%h · %%TOTAL%% notícias selecionadas de %%LIDAS%% lidas</p>
+  <p class="selo-topo">Radar · universo geek</p>
+  <h1>Radar Geek</h1>
+  <p class="intro">DC, Marvel, animes, games, desenhos e cultura pop das últimas %%HORAS%% horas, de sites do Brasil e de fora. Cada notícia tem um post pronto para copiar.</p>
+  <p class="sub">Atualizado em %%DATA%% · %%TOTAL%% notícias selecionadas de %%LIDAS%% lidas</p>
   %%AVISO%%
 </header>
 <div class="barra"><div class="barra-in">
   <button class="chip ativo" data-filtro="tudo">Tudo</button>
   %%BOTOES%%
-  <label class="so-novas"><input type="checkbox" id="soNovas"> só 🆕</label>
-  <input type="search" id="busca" placeholder="Buscar (ex.: Batman, One Piece, GTA)…">
+  %%SO_NOVAS%%
+  <input type="search" id="busca" aria-label="Buscar notícias" placeholder="Buscar (ex.: Batman, One Piece, GTA)…">
 </div></div>
 <main>%%SECOES%%</main>
+%%RODAPE%%
 <script>
   const chips = document.querySelectorAll('.chip');
   const busca = document.getElementById('busca');
@@ -1016,7 +1099,7 @@ MODELO_HTML = """<!doctype html>
       const secOk = filtro === 'tudo' || sec.dataset.secao === filtro;
       let visiveis = 0;
       sec.querySelectorAll('.card').forEach(card => {
-        const ok = secOk && (!soNovas.checked || card.dataset.nova === '1')
+        const ok = secOk && (!soNovas || !soNovas.checked || card.dataset.nova === '1')
           && (!termo || card.dataset.busca.includes(termo));
         card.classList.toggle('escondido', !ok);
         if (ok) visiveis++;
@@ -1031,7 +1114,7 @@ MODELO_HTML = """<!doctype html>
     aplicar();
   }));
   busca.addEventListener('input', aplicar);
-  soNovas.addEventListener('change', aplicar);
+  if (soNovas) soNovas.addEventListener('change', aplicar);
   document.querySelectorAll('.copiar').forEach(btn => btn.addEventListener('click', async () => {
     const texto = btn.closest('.corpo').querySelector('.post').value;
     try { await navigator.clipboard.writeText(texto); }
@@ -1082,16 +1165,17 @@ def main() -> int:
     p.add_argument("--horas", type=int, default=24, help="janela de tempo em horas (padrão: 24)")
     p.add_argument("--traduzir", action="store_true", help="traduz títulos e resumos gringos para português")
     p.add_argument("--so-novos", action="store_true", help="mostra só o que não apareceu nas rodadas anteriores")
-    p.add_argument("--categorias", default="", help=f"filtra categorias, ex.: dc,marvel ({','.join(ORDEM_CATEGORIAS)})")
+    p.add_argument("--categorias", default="", help=f"filtra categorias, ex.: dc,marvel,memes ({','.join(ORDEM_CATEGORIAS)},memes)")
     p.add_argument("--max", type=int, default=20, help="máximo de notícias por seção (padrão: 20)")
     p.add_argument("--saida", default=str(PASTA / "saida"), help="pasta onde salvar o relatório")
     p.add_argument("--nao-abrir", action="store_true", help="não abre o relatório no navegador ao terminar")
+    p.add_argument("--pagina", default="", help="também grava a versão pública do site neste arquivo (ex.: noticias/index.html)")
     args = p.parse_args()
 
     categorias_escolhidas = {c.strip().lower() for c in args.categorias.split(",") if c.strip()}
-    invalidas = categorias_escolhidas - set(ORDEM_CATEGORIAS)
+    invalidas = categorias_escolhidas - set(ORDEM_CATEGORIAS) - {"memes"}
     if invalidas:
-        p.error(f"categoria(s) desconhecida(s): {', '.join(sorted(invalidas))}. Use: {', '.join(ORDEM_CATEGORIAS)}")
+        p.error(f"categoria(s) desconhecida(s): {', '.join(sorted(invalidas))}. Use: {', '.join(ORDEM_CATEGORIAS)}, memes")
 
     agora = dt.datetime.now().astimezone()
     corte = agora - dt.timedelta(hours=args.horas)
@@ -1136,7 +1220,10 @@ def main() -> int:
     if args.so_novos:
         noticias = [n for n in noticias if n.nova]
     if categorias_escolhidas:
-        noticias = [n for n in noticias if categorias_escolhidas & set(n.categorias)]
+        noticias = [
+            n for n in noticias
+            if (n.meme and "memes" in categorias_escolhidas) or (not n.meme and categorias_escolhidas & set(n.categorias))
+        ]
 
     por_secao: Dict[str, List[Noticia]] = {}
     for n in sorted(noticias, key=lambda x: -x.pontuacao):
@@ -1160,6 +1247,11 @@ def main() -> int:
     arquivo_txt = pasta_saida / f"radar-geek_{carimbo}.txt"
     arquivo_html.write_text(gerar_html(por_secao, agora, args.horas, falhas, total_lido), encoding="utf-8")
     arquivo_txt.write_text(gerar_txt(por_secao), encoding="utf-8")
+    if args.pagina:
+        pagina = Path(args.pagina)
+        pagina.parent.mkdir(parents=True, exist_ok=True)
+        pagina.write_text(gerar_html(por_secao, agora, args.horas, falhas, total_lido, publico=True), encoding="utf-8")
+        print(f"🌐 Página do site atualizada: {pagina}")
 
     imprimir_terminal(por_secao, agora, falhas, arquivo_html, arquivo_txt, total_lido)
 
