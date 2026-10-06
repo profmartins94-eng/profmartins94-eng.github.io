@@ -1,0 +1,36 @@
+# Roda o Radar Geek nos servidores do GitHub e guarda o relatório.
+# Para rodar de novo: aba Actions > Radar Geek > Run workflow.
+name: Radar Geek
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "radar-geek/**"
+      - ".github/workflows/radar-geek.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rodar o radar
+        run: python3 radar-geek/radar_geek.py --traduzir --max 12 --nao-abrir --saida saida
+
+      - name: Posts prontos para copiar
+        if: always()
+        run: cat saida/*.txt 2>/dev/null || echo "Nenhum relatório gerado."
+
+      - name: Salvar relatório (HTML + TXT)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: radar-geek
+          path: saida/
+          if-no-files-found: ignore
+          retention-days: 7
