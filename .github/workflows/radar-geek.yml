@@ -20,6 +20,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Rodar o radar
+        env:
+          TZ: America/Sao_Paulo
         run: python3 radar-geek/radar_geek.py --traduzir --max 12 --nao-abrir --saida saida
 
       - name: Posts prontos para copiar

@@ -214,6 +214,9 @@ PALAVRAS_DE_FORMATO = {
     "videogame", "videogames", "gameplay", "gamer", "gamers", "console",
 }
 
+# Siglas que só significam algo geek em português ("Warner Bros HQ" é sede, não quadrinho).
+PALAVRAS_SO_BR = {"hq", "hqs"}
+
 # Seções de URL que entregam o assunto (ex.: criticalhits.com.br/games/...).
 CATEGORIA_POR_SECAO_URL = {
     "games": "games", "jogos": "games", "game": "games", "anime": "animes", "animes": "animes", "manga": "animes",
@@ -245,6 +248,7 @@ PADROES_ESCALACAO_FORA_GAMES = [
     r"(?<! how)(?<! free)(?<! ways)(?<! available)(?<! fun)(?<! where)(?<! what)(?<! time) to play (?!on |for free |it )", r" (playing|plays) (the )?(villain|hero|role|lead) ",
     r" transformation ", r" workout", r" physique", r" elenco ", r" papel ", r" se prepara", r" preparacao",
     r" treino", r" treinamento", r" transformacao", r" primeira (imagem|foto|olhada)",
+    r" (em|entrar em|entrando em|mantendo em|manter em) forma ", r" (staying|getting|keeping) in shape",
 ]
 
 # Promoções, cupons e passatempos que não interessam ao canal.
@@ -253,7 +257,7 @@ PADROES_IGNORAR = [
     r" prime day", r" promocao", r" desconto", r" ofertas? ", r" cupom", r" wordle", r" crossword",
     r" connections hint", r" strands hint", r" gift guide", r" guide ", r" walkthrough", r" tier list",
     r" how to (play|get|unlock|beat|find|watch|stream|beat) ", r" where to (watch|stream) ", r" codes ", r" codigos? ", r" dicas ",
-    r" golpe ", r" furto ", r" roubo ", r" assalto ", r" policia ", r" preso ",
+    r" trofeus ", r" trophy (list|guide)", r" achievements? (list|guide)", r" golpe ", r" furto ", r" roubo ", r" assalto ", r" policia ", r" preso ",
     r" como (assistir|jogar|conseguir|desbloquear|baixar) ", r" onde assistir", r" guia ",
 ]
 
@@ -389,11 +393,11 @@ RE_SERA_PERSONAGEM = re.compile(
 )
 
 
-def classificar(texto_norm: str) -> Tuple[List[str], Dict[str, str]]:
+def classificar(texto_norm: str, pais: str = "BR") -> Tuple[List[str], Dict[str, str]]:
     """Devolve as categorias encontradas (a principal primeiro) e a palavra que bateu em cada uma."""
     achados = {}
     for chave in ORDEM_CATEGORIAS:
-        hits = [p for p in PALAVRAS[chave] if f" {p} " in texto_norm]
+        hits = [p for p in PALAVRAS[chave] if f" {p} " in texto_norm and (pais == "BR" or p not in PALAVRAS_SO_BR)]
         if hits:
             peso = max(1 if p in PALAVRAS_DE_FORMATO else len(p) for p in hits)
             achados[chave] = (peso, len(hits), hits[0])
@@ -632,13 +636,13 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
         return False
     tags_rss = noticia.tags_rss
     if fonte.get("filtrar"):
-        categorias, palavras = classificar(titulo_norm)
+        categorias, palavras = classificar(titulo_norm, noticia.pais)
         if not categorias:
             return False
     else:
-        categorias, palavras = classificar(titulo_norm + tags_rss + " ")
+        categorias, palavras = classificar(titulo_norm + tags_rss + " ", noticia.pais)
     if not categorias:
-        categorias, palavras = classificar(normalizar(noticia.titulo + " " + noticia.resumo) + tags_rss + " ")
+        categorias, palavras = classificar(normalizar(noticia.titulo + " " + noticia.resumo) + tags_rss + " ", noticia.pais)
     if not categorias:
         secoes = (normalizar(s).strip() for s in urllib.parse.urlparse(noticia.link).path.split("/"))
         pela_url = next((CATEGORIA_POR_SECAO_URL[s] for s in secoes if s in CATEGORIA_POR_SECAO_URL), None)
