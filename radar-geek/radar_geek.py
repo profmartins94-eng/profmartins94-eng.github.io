@@ -83,11 +83,12 @@ FONTES = [
     {"nome": "Google News (EUA)", "gnews": "\"anime adaptation\" OR \"new anime\" announced", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "exclusive Marvel OR DC OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
     # --- Memes: os mais votados do dia nas comunidades de fãs ---
-    {"nome": "r/marvelmemes", "url": "https://www.reddit.com/r/marvelmemes/top/.rss?t=day", "pais": "INT", "tema": "marvel", "meme": True},
-    {"nome": "r/DCmemes", "url": "https://www.reddit.com/r/DCmemes/top/.rss?t=day", "pais": "INT", "tema": "dc", "meme": True},
-    {"nome": "r/animememes", "url": "https://www.reddit.com/r/animememes/top/.rss?t=day", "pais": "INT", "tema": "animes", "meme": True},
-    {"nome": "r/gamingmemes", "url": "https://www.reddit.com/r/gamingmemes/top/.rss?t=day", "pais": "INT", "tema": "games", "meme": True},
-    {"nome": "r/PrequelMemes", "url": "https://www.reddit.com/r/PrequelMemes/top/.rss?t=day", "pais": "INT", "tema": "pop", "meme": True},
+    # Todas as comunidades num pedido só: o Reddit barra quem pede vários feeds seguidos.
+    # Para acrescentar uma comunidade, ponha o nome aqui e a categoria dela (veja CATEGORIAS).
+    {"nome": "Reddit", "reddit": {
+        "marvelmemes": "marvel", "raimimemes": "marvel", "DCmemes": "dc", "Animemes": "animes",
+        "animememes": "animes", "gamingmemes": "games", "PrequelMemes": "pop",
+    }, "pais": "INT", "meme": True},
     {"nome": "Know Your Meme", "url": "https://knowyourmeme.com/news.rss", "pais": "INT", "filtrar": True, "meme": True},
     # Notícias sobre memes (só entra manchete que fala de meme)
     {"nome": "Google News (EUA)", "gnews": "memes Marvel OR DC OR anime OR \"video game\" OR \"Star Wars\"", "idioma": "en", "pais": "INT", "filtrar": True, "meme": True},
@@ -333,6 +334,7 @@ class Noticia:
     via_google: bool = False
     imagem: str = ""
     tags_rss: str = ""
+    tema: str = ""
     categorias: List[str] = field(default_factory=list)
     palavra_chave: str = ""
     escalacao: bool = False
@@ -644,8 +646,17 @@ def ler_data(texto: str) -> Optional[dt.datetime]:
     return data
 
 
+def url_reddit(comunidades: Dict[str, str]) -> str:
+    return f"https://www.reddit.com/r/{'+'.join(comunidades)}/top/.rss?t=day&limit=100"
+
+
 def buscar_fonte(fonte: dict, dias: int) -> Tuple[dict, List[Noticia], str]:
-    url = url_google_news(fonte["gnews"], fonte.get("idioma", "en"), dias) if fonte.get("gnews") else fonte["url"]
+    if fonte.get("gnews"):
+        url = url_google_news(fonte["gnews"], fonte.get("idioma", "en"), dias)
+    elif fonte.get("reddit"):
+        url = url_reddit(fonte["reddit"])
+    else:
+        url = fonte["url"]
     try:
         entradas = ler_feed(baixar(url))
     except Exception as erro:  # noqa: BLE001 - qualquer falha de rede/feed vira aviso
@@ -654,6 +665,8 @@ def buscar_fonte(fonte: dict, dias: int) -> Tuple[dict, List[Noticia], str]:
         return fonte, [], "" if fonte.get("gnews") else "feed vazio ou em formato desconhecido"
 
     noticias = []
+    temas_reddit = {k.lower(): (k, v) for k, v in (fonte.get("reddit") or {}).items()}
+    por_comunidade: Dict[str, int] = {}
     for ordem, e in enumerate(entradas):
         titulo = limpar_html(e["titulo"])
         link = link_seguro(e["link"] or e["guid"])
@@ -676,6 +689,14 @@ def buscar_fonte(fonte: dict, dias: int) -> Tuple[dict, List[Noticia], str]:
             imagem=e["imagem"] or _imagem_do_html(e["resumo"]) or _imagem_do_html(e["conteudo"]),
             meme=bool(fonte.get("meme")), ordem=ordem,
         )
+        if temas_reddit:
+            # cada post diz de que comunidade veio; a posição conta dentro da comunidade
+            comunidade = next((c for c in (x.lower() for x in e["categorias"]) if c in temas_reddit), "")
+            if comunidade:
+                n.fonte = f"r/{temas_reddit[comunidade][0]}"
+                n.tema = temas_reddit[comunidade][1]
+            n.ordem = por_comunidade.get(comunidade, 0)
+            por_comunidade[comunidade] = n.ordem + 1
         if n.meme and not fonte.get("gnews"):
             n.imagem = _imagem_cheia(e["conteudo"] or e["resumo"]) or n.imagem
             n.resumo = ""  # nos posts de comunidade o resumo é só "enviado por /u/fulano"
@@ -710,7 +731,7 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
     if not categorias:
         secoes = (normalizar(s).strip() for s in urllib.parse.urlparse(noticia.link).path.split("/"))
         pela_url = next((CATEGORIA_POR_SECAO_URL[s] for s in secoes if s in CATEGORIA_POR_SECAO_URL), None)
-        categorias = [pela_url or fonte.get("tema") or "pop"]
+        categorias = [pela_url or noticia.tema or fonte.get("tema") or "pop"]
     noticia.categorias = categorias
     noticia.palavra_chave = palavras.get(categorias[0], "")
     noticia.escalacao = not noticia.meme and eh_escalacao(noticia.titulo, titulo_norm, categorias[0])
