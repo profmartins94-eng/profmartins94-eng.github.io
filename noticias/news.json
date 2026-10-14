@@ -1,7 +1,102 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T02:28:43.033306Z",
+  "updatedAt": "2026-10-14T02:44:45.434690Z",
   "articles": [
+    {
+      "id": "radar-ca03a8a3a4ca2cc0",
+      "title": "Os melhores ovos de Páscoa dignos de MCU no Wolverine da Marvel",
+      "excerpt": "Wolverine da Marvel apresenta um número impressionante de ovos de Páscoa divertidos,…",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-14T02:30:16Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/best-mcu-worthy-easter-eggs-referenes-marvels-wolverine",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/wolverine-game-art.jpg",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-65d547ec61130556",
+      "title": "Marvel Studios mata oficialmente um personagem original da fase 1 do MCU",
+      "excerpt": "VisionQuest teve um ótimo começo, já que as críticas elogiaram a nova…",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-14T02:30:16Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/visionquest-episode-2-jarvis-death-explained",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/hawkeye-captain-american-and-black-widow-in-the-avengers.jpg",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-9811021a8530eec7",
+      "title": "Os 7 animes de ação mais perfeitos dos últimos 10 anos, classificados",
+      "excerpt": "Os últimos 10 anos produziram muitos animes de ação excelentes, mas esses…",
+      "body": [
+        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-14T02:30:11Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "CBR",
+      "sourceUrl": "https://www.cbr.com/most-perfect-action-anime-last-decade-ranked",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/david-martinez-resting-a-huge-gun-on-his-shoulder-in-cyberpunk-edgerunners.png",
+      "alt": "Imagem publicada por CBR",
+      "imageCredit": "Imagem: CBR",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-4952ba96e13168db",
+      "title": "Artista de mangá Masako Watanabe falece aos 97 anos",
+      "excerpt": "Watanabe fez sua estreia como artista de mangá em 1952",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-14T02:30:00Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Crunchyroll News",
+      "sourceUrl": "https://crunchyroll.com/news/latest/2026/10/14/manga-artist-masako-watanabe-passes-away",
+      "image": "https://a.storyblok.com/f/178900/1500x500/c66d429296/masako-watanabe.jpeg",
+      "alt": "Imagem publicada por Crunchyroll News",
+      "imageCredit": "Imagem: Crunchyroll News",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-a2d9c78d1a7ba7a5",
+      "title": "A próxima lenda do terror? River conquista 94% de aprovação!",
+      "excerpt": "Um novo terror slasher está dando o que falar entre os fãs de cinema!…",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-14T02:30:00Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/river-terror-jane-levy-rotten-tomatoes",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Capa-Site-2026-10-13T223829.336.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false
+    },
     {
       "id": "radar-759285aade98d650",
       "title": "Star Trek: Camisas Vermelhas – Antevisão do Fantasma do Século 21 #3",
@@ -119,7 +214,7 @@
     {
       "id": "radar-355ce87aa94a9ba9",
       "title": "As 10 promoções de Pokémon TCG mais valiosas de todos os tempos, classificadas por preço",
-      "excerpt": "As cartas promocionais são algumas das adições mais raras…",
+      "excerpt": "Os cartões promocionais são algumas das adições mais raras…",
       "body": [
         "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
       ],
@@ -151,25 +246,6 @@
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/51a94125-1650-40eb-bcd2-cfd2d0997c50-1.jpg",
       "alt": "Imagem publicada por CBR",
       "imageCredit": "Imagem: CBR",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-eade03fa51053067",
-      "title": "As 10 coisas mais distorcidas que o Justiceiro já fez na Marvel Comics",
-      "excerpt": "O Justiceiro, de Frank Castle, nunca foi do tipo que se…",
-      "body": [
-        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-14T01:35:53Z",
-      "displayDate": "13 out. 2026",
-      "sourceName": "Screen Rant",
-      "sourceUrl": "https://screenrant.com/most-twisted-things-punisher-has-done",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/frank-castle-aka-the-punisher-bleeds-while-shooting-guns-on-a-red-background.jpg",
-      "alt": "Imagem publicada por Screen Rant",
-      "imageCredit": "Imagem: Screen Rant",
       "syndicated": true,
       "meme": false
     },
@@ -250,6 +326,25 @@
       "meme": false
     },
     {
+      "id": "radar-5d9751207b209ddc",
+      "title": "Game Boy Advance – Nintendo Classics adiciona Monster Rancher Advance, Metal Slug Advance e Kururin Paradise",
+      "excerpt": "O aplicativo Game Boy Advance – Nintendo Classics…",
+      "body": [
+        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-14T01:05:43Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/10/game-boy-advance-nintendo-classics-adds-monster-rancher-advance-metal-slug-advance-and-kururin-paradise",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/GBA-NSO-App_10-13-26.jpg",
+      "alt": "Imagem publicada por Gematsu",
+      "imageCredit": "Imagem: Gematsu",
+      "syndicated": true,
+      "meme": false
+    },
+    {
       "id": "radar-608f51f5c2fe1ba7",
       "title": "Ex-artista da Naughty Dog teme futuro dos jogos com IA",
       "excerpt": "Matt Radford, que trabalhou em “The Last of Us” e “Uncharted 4”, teme que…",
@@ -307,25 +402,6 @@
       "meme": false
     },
     {
-      "id": "radar-6b5ffc9d9b0b8030",
-      "title": "O novo mangá de Naruto de Kishimoto acaba de dar aos fãs a reformulação que todos queriam",
-      "excerpt": "O criador original de Naruto está de…",
-      "body": [
-        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-14T00:30:16Z",
-      "displayDate": "13 out. 2026",
-      "sourceName": "Screen Rant",
-      "sourceUrl": "https://screenrant.com/naruto-shadow-rising-manga-kishimoto-redesign",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/naruto-shadow-rising-sequel-kishimoto-redesign.jpg",
-      "alt": "Imagem publicada por Screen Rant",
-      "imageCredit": "Imagem: Screen Rant",
-      "syndicated": true,
-      "meme": false
-    },
-    {
       "id": "radar-4f9b0e693ccce66e",
       "title": "Cara-de-Barro: astro insinua cena cortada com Batman",
       "excerpt": "Tom Rhys Harries deixou escapar que existem gravações envolvendo o Homem-Morcego, mesmo que o herói não...",
@@ -346,7 +422,7 @@
     },
     {
       "id": "radar-8f2e0170ee57cf52",
-      "title": "Olhe para o Pequeno Grifter Junior",
+      "title": "Veja o Pequeno Grifter Júnior",
       "excerpt": "",
       "body": [
         "Confira o meme completo na publicação original de r/raimimemes."
@@ -535,6 +611,25 @@
       "meme": false
     },
     {
+      "id": "radar-75f5e5513c646398",
+      "title": "The Fable Season 2 TV Anime revela mais elenco, estreia em 9 de janeiro",
+      "excerpt": "Takanori Hoshino, Koichi Yamadera, Hiroyuki Yoshino e mais se juntam…",
+      "body": [
+        "Confira a cobertura completa em Anime News Network. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-13T15:31:39Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Anime News Network",
+      "sourceUrl": "https://www.animenewsnetwork.com/news/2026-10-13/the-fable-season-2-tv-anime-reveals-more-cast-january-9-premiere/.242788",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKI/cms/news.10/242788/fable-s2-visual.jpg",
+      "alt": "Imagem publicada por Anime News Network",
+      "imageCredit": "Imagem: Anime News Network",
+      "syndicated": true,
+      "meme": false
+    },
+    {
       "id": "radar-d137982a5abebd06",
       "title": "Perfeito em todos os aspectos",
       "excerpt": "",
@@ -588,6 +683,63 @@
       "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/10/DeepDishDungeon_1-f0fd845f63c6b4930d98.jpg",
       "alt": "Imagem publicada por Xbox Wire Brasil",
       "imageCredit": "Imagem: Xbox Wire Brasil",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-ea1ac20f85c8e368",
+      "title": "STARDUST: Wish of Witch chegando ao PS5, Switch 2 no primeiro trimestre de 2027",
+      "excerpt": "A editora Silver Lining Interactive e o desenvolvedor Kniv Studio…",
+      "body": [
+        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-13T14:13:31Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/10/stardust-wish-of-witch-coming-to-ps5-switch-2-in-q1-2027",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/STARDUST-Consoles_10-13-26.jpg",
+      "alt": "Imagem publicada por Gematsu",
+      "imageCredit": "Imagem: Gematsu",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-76a6db25b093240d",
+      "title": "Rumor: Grand Theft Auto VI chegando ao PC no primeiro trimestre de 2027",
+      "excerpt": "A Rockstar Games planeja lançar uma versão para PC de Grand…",
+      "body": [
+        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-13T14:00:11Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/10/rumor-grand-theft-auto-vi-coming-to-pc-in-q1-2027",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/GTA6-PC-Rumor_10-13-26.jpg",
+      "alt": "Imagem publicada por Gematsu",
+      "imageCredit": "Imagem: Gematsu",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-2b7e91e93e0385ec",
+      "title": "ESRB classifica PEAK para PS5",
+      "excerpt": "O Entertainment Software Rating Board avaliou uma versão para PlayStation 5 de Aggro Crab e…",
+      "body": [
+        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-13T13:43:01Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/10/esrb-rates-peak-for-ps5",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/PEAK-PS5-Rated_10-13-26.jpg",
+      "alt": "Imagem publicada por Gematsu",
+      "imageCredit": "Imagem: Gematsu",
       "syndicated": true,
       "meme": false
     },
@@ -778,6 +930,25 @@
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/news.10/242763/attackontitanworldtour.jpg",
       "alt": "Imagem publicada por Anime News Network",
       "imageCredit": "Imagem: Anime News Network",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-3335a7af2a61c5fb",
+      "title": "Metáfora: Demo ReFantazio ‘Prologue’ para Switch 2 já disponível",
+      "excerpt": "A demo “Prologue” de Metaphor: ReFantazio já está disponível para Switch 2, editora ATLUS e…",
+      "body": [
+        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-13T04:13:07Z",
+      "displayDate": "13 out. 2026",
+      "sourceName": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/10/metaphor-refantazio-prologue-demo-for-switch-2-now-available",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Metaphor-Switch-2-Demo_10-13-26.jpg",
+      "alt": "Imagem publicada por Gematsu",
+      "imageCredit": "Imagem: Gematsu",
       "syndicated": true,
       "meme": false
     }
