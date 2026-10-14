@@ -36,6 +36,9 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import webbrowser
+import ipaddress
+from functools import lru_cache
+from html.parser import HTMLParser
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
 from email.utils import parsedate_to_datetime
@@ -54,6 +57,10 @@ ARQUIVO_HISTORICO = PASTA / ".historico.json"
 #   gnews:   em vez de "url", uma busca no Google News (idioma "en" ou "pt").
 # =============================================================================
 FONTES = [
+    {"nome": "PlayStation Blog Brasil", "url": "https://blog.br.playstation.com/feed/", "pais": "BR", "tema": "games"},
+    {"nome": "Xbox Wire Brasil", "url": "https://news.xbox.com/pt-br/feed/", "pais": "BR", "tema": "games"},
+    {"nome": "Ei Nerd", "url": "https://www.einerd.com/feed/", "pais": "BR"},
+    {"nome": "Geek Publicitário", "url": "https://gkpb.com.br/feed/", "pais": "BR", "filtrar": True},
     # --- Lá fora: Hollywood (escalações e furos saem aqui primeiro) ---
     {"nome": "Deadline", "url": "https://deadline.com/feed/", "pais": "INT", "filtrar": True},
     {"nome": "Variety", "url": "https://variety.com/feed/", "pais": "INT", "filtrar": True},
@@ -878,6 +885,123 @@ def ha_quanto(data: Optional[dt.datetime], agora: dt.datetime) -> str:
     return f"há {dias} dia" + ("s" if dias > 1 else "")
 
 
+def url_publica(url):
+    try:
+        u = urllib.parse.urlsplit(url)
+        if u.scheme not in ("https", "http") or not u.hostname or u.username or u.password:
+            return False
+        if any(c in url for c in '\r\n\t<>"') or u.hostname in ("localhost", "localhost.localdomain") or u.hostname.endswith(".local"):
+            return False
+        try:
+            return ipaddress.ip_address(u.hostname).is_global
+        except ValueError:
+            return "." in u.hostname
+    except ValueError:
+        return False
+
+
+@lru_cache(maxsize=512)
+def foto_disponivel(url):
+    if not url_publica(url) or any(p in url.lower() for p in ("gravatar", "favicon", "placeholder", "no-image", "sem-imagem")):
+        return False
+    for metodo in ("HEAD", "GET"):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Range": "bytes=0-2047"}, method=metodo)
+            with urllib.request.urlopen(req, timeout=8) as res:
+                tipo = res.headers.get("Content-Type", "").split(";")[0].lower()
+                if not url_publica(res.geturl()) or not tipo.startswith("image/") or tipo == "image/svg+xml":
+                    return False
+                return int(res.headers.get("Content-Length", "2000")) > 100
+        except (OSError, ValueError):
+            pass
+    return False
+
+
+def completar_foto(artigo):
+    if foto_disponivel(artigo["image"]):
+        return artigo
+    class Fotos(HTMLParser):
+        def __init__(self):
+            super().__init__(); self.urls = []
+        def handle_starttag(self, tag, attrs):
+            a = dict(attrs)
+            if tag == "meta" and (a.get("property") or a.get("name", "")).lower() in ("og:image", "twitter:image", "og:image:secure_url"):
+                self.urls.append(urllib.parse.urljoin(artigo["sourceUrl"], a.get("content", "")))
+    try:
+        p = Fotos(); p.feed(baixar(artigo["sourceUrl"], timeout=8).decode("utf-8", "replace")[:2000000])
+        for foto in p.urls[:5]:
+            if foto_disponivel(foto):
+                artigo["image"] = foto
+                return artigo
+    except (OSError, ValueError):
+        pass
+    return None  # Posts sem foto real não entram no site.
+
+
+def gerar_json(por_secao, agora):
+    """Chamadas curtas com data original para o site Geek em Órbita."""
+    nomes = {"games": "Games", "cinema": "Cinema & séries", "animacao": "Anime", "colecionaveis": "Colecionáveis", "geek": "Universo geek"}
+    artigos, vistos = [], set()
+    for lista in por_secao.values():
+        for n in lista:
+            if n.data is None or n.via_google:
+                continue
+            if n.pais == "INT" and not n.titulo_original and not n.meme:
+                continue  # uma tradução indisponível não substitui o conteúdo em português
+            url = urllib.parse.urlsplit(n.link)
+            if not url_publica(n.link):
+                continue
+            if any(c in n.link for c in '\r\n\t<>"'):
+                continue
+            params = [(k, v) for k, v in urllib.parse.parse_qsl(url.query) if not k.lower().startswith("utm_")]
+            link = urllib.parse.urlunsplit((url.scheme, url.netloc, url.path.rstrip("/"), urllib.parse.urlencode(params), ""))
+            chave = normalizar(n.titulo).strip()
+            if link in vistos or chave in vistos:
+                continue
+            vistos.update((link, chave))
+            titulo = " ".join(n.titulo.split()[:18])
+            if titulo != n.titulo.strip():
+                titulo += "…"
+            palavras = n.resumo.split()
+            limite = max(0, 24 - len(titulo.split()))
+            resumo = " ".join(palavras[:limite])
+            if len(palavras) > limite:
+                resumo += "…"
+            texto = " " + normalizar(n.titulo) + " "
+            if n.meme:
+                categoria = "geek"
+            elif any(p in texto for p in (" funko ", " colecion", " miniatura", " action figure", " boneco", " brinquedo", " lego ")):
+                categoria = "colecionaveis"
+            elif "games" in n.categorias:
+                categoria = "games"
+            elif any(c in n.categorias for c in ("animes", "desenhos")):
+                categoria = "animacao"
+            elif "hq" in n.categorias or any(p in texto for p in (" quadrinho", " comic ", " manga ")):
+                categoria = "geek"
+            elif any(c in n.categorias for c in ("dc", "marvel")) or n.escalacao or any(p in texto for p in (" filme", " serie", " cinema", " trailer", " netflix", " hbo ")):
+                categoria = "cinema"
+            else:
+                categoria = "geek"
+            publicada = n.data if n.data.tzinfo else n.data.replace(tzinfo=dt.timezone.utc)
+            local = publicada.astimezone(dt.timezone(dt.timedelta(hours=-3)))
+            meses = ("jan.", "fev.", "mar.", "abr.", "mai.", "jun.", "jul.", "ago.", "set.", "out.", "nov.", "dez.")
+            artigos.append({
+                "id": "radar-" + hashlib.sha256(link.encode()).hexdigest()[:16],
+                "title": titulo, "excerpt": resumo,
+                "body": [f"Confira o meme completo na publicação original de {n.fonte}." if n.meme else f"Confira a cobertura completa em {n.fonte}. A matéria original reúne os detalhes desta atualização."],
+                "category": categoria, "categoryName": nomes[categoria],
+                "publishedAt": publicada.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z"),
+                "displayDate": f"{local.day} {meses[local.month-1]} {local.year}",
+                "sourceName": n.fonte, "sourceUrl": link,
+                "image": n.imagem, "alt": f"Imagem publicada por {n.fonte}",
+                "imageCredit": f"Imagem: {n.fonte}", "syndicated": True, "meme": n.meme,
+            })
+    artigos.sort(key=lambda a: a["publishedAt"], reverse=True)
+    with cf.ThreadPoolExecutor(max_workers=8) as pool:
+        com_foto = [a for a in pool.map(completar_foto, artigos[:80]) if a]
+    return {"schemaVersion": 1, "updatedAt": agora.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z"), "articles": com_foto}
+
+
 def hashtags(n: Noticia) -> str:
     tags = CATEGORIAS[n.categorias[0]]["hashtags"].split()
     if n.palavra_chave:
@@ -1218,6 +1342,7 @@ def main() -> int:
     p.add_argument("--saida", default=str(PASTA / "saida"), help="pasta onde salvar o relatório")
     p.add_argument("--nao-abrir", action="store_true", help="não abre o relatório no navegador ao terminar")
     p.add_argument("--pagina", default="", help="também grava a versão pública do site neste arquivo (ex.: noticias/index.html)")
+    p.add_argument("--json", default="", help="exporta chamadas com datas originais para o Geek em Órbita")
     args = p.parse_args()
 
     categorias_escolhidas = {c.strip().lower() for c in args.categorias.split(",") if c.strip()}
@@ -1300,6 +1425,16 @@ def main() -> int:
         pagina.parent.mkdir(parents=True, exist_ok=True)
         pagina.write_text(gerar_html(por_secao, agora, args.horas, falhas, total_lido, publico=True), encoding="utf-8")
         print(f"🌐 Página do site atualizada: {pagina}")
+
+    if args.json:
+        destino_json = Path(args.json)
+        payload = gerar_json(por_secao, agora)
+        if payload["articles"]:
+            destino_json.parent.mkdir(parents=True, exist_ok=True)
+            destino_json.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            print(f"📡 Dados do Geek em Órbita atualizados: {len(payload['articles'])} notícias")
+        else:
+            print("⚠️ Nenhuma chamada válida; os dados publicados anteriormente foram preservados.")
 
     imprimir_terminal(por_secao, agora, falhas, arquivo_html, arquivo_txt, total_lido)
 

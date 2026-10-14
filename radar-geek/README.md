@@ -26,6 +26,23 @@ com os posts já prontos para copiar e colar no canal.
 
 ## Como rodar
 
+### Integração com o Geek em Órbita
+
+O agendamento existente do GitHub Actions roda a cada três horas e agora também
+publica `noticias/news.json`. O site na Vercel consulta esse arquivo ao abrir e
+durante a navegação, sem depender de um computador ligado ou de uma nova publicação
+na Vercel a cada rodada. O horário do GitHub pode sofrer atrasos.
+
+O JSON mantém a data original, a fonte e o link de cada publicação. Notícias e memes
+entram somente com uma foto disponível; quando o RSS não fornece a imagem, o radar
+procura a foto de compartilhamento na matéria original. Uma rodada sem resultados
+válidos preserva a edição anterior. As chamadas são curtas e levam à cobertura completa
+na fonte; não reproduzem matérias inteiras.
+
+Para exportar manualmente, acrescente `--json ../noticias/news.json` ao comando abaixo.
+Os testes sem rede rodam com `python -m unittest discover -s radar-geek -p 'test_*.py'`
+a partir da raiz do repositório.
+
 Precisa só do **Python 3.8 ou mais novo** ([python.org](https://www.python.org/downloads/)).
 Não precisa instalar nenhuma biblioteca.
 
