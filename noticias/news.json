@@ -1,137 +1,745 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T04:58:11.171271Z",
+  "updatedAt": "2026-10-23T11:45:06.024619Z",
   "articles": [
     {
-      "id": "radar-77c89cc4d4700581",
-      "title": "Azur Promilia será lançado em 26 de novembro no Japão, Coreia do Sul, Taiwan e China",
-      "excerpt": "O RPG de mundo de fantasia de companhia…",
+      "id": "radar-929425062dc70d13",
+      "title": "Ghost of Yotei recebe atualização com correções importantes de progresso",
+      "excerpt": "Ghost of Yotei recebeu a atualização 2.008, também identificada como 02.008.000, com uma série…",
       "body": [
-        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-23T04:43:06Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-23T11:40:47Z",
       "displayDate": "23 out. 2026",
-      "sourceName": "Gematsu",
-      "sourceUrl": "https://www.gematsu.com/2026/10/azur-promilia-launches-november-26-in-japan-south-korea-taiwan-and-china",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Azur-Promilia-Release-Asia_10-23-26.jpg",
-      "alt": "Imagem publicada por Gematsu",
-      "imageCredit": "Imagem: Gematsu",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/ghost-of-yotei-recebe-atualizacao-com-correcoes-importantes-de-progresso",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/ghost-of-yotei-recebe-atualizacao-com-correcoes-importantes-de-progresso-featured-scaled.png",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false
     },
     {
-      "id": "radar-fef384ff97d33b5e",
-      "title": "Game Of Thrones está oficialmente trazendo de volta Arya Stark e o Rei da Noite na Guerra por…",
-      "excerpt": "Comande heróis icônicos em Game of…",
+      "id": "radar-31bc8f8505169d2d",
+      "title": "Romancing SaGa 2 supera 1 milhão de cópias vendidas",
+      "excerpt": "Romancing SaGa 2: Revenge of the Seven ultrapassou a marca de 1 milhão de unidades…",
       "body": [
-        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-23T04:15:19Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-23T11:39:27Z",
       "displayDate": "23 out. 2026",
-      "sourceName": "Screen Rant",
-      "sourceUrl": "https://screenrant.com/game-of-thrones-war-for-westeros-arya-night-king-return",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/main-photo-2023-11-05t140958-130.jpg",
-      "alt": "Imagem publicada por Screen Rant",
-      "imageCredit": "Imagem: Screen Rant",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/romancing-saga-2-supera-1-milhao-de-copias-vendidas",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/romancing-saga-2-supera-1-milhao-de-copias-vendidas-featured.png",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false
     },
     {
-      "id": "radar-5f2493099b08f070",
-      "title": "14 anos depois, esta abertura de 25 minutos ainda é a melhor em jogos de ficção científica modernos",
-      "excerpt": "O prólogo de Mass Effect 3,…",
+      "id": "radar-97e7afbc671093b6",
+      "title": "Petição para salvar Mass Effect cresce após fim da BioWare",
+      "excerpt": "A petição #SaveMassEffect já ultrapassou 43 mil assinaturas após o encerramento da BioWare, estúdio…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-23T11:36:19Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/peticao-para-salvar-mass-effect-cresce-apos-fim-da-bioware",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/peticao-para-salvar-mass-effect-cresce-apos-fim-da-bioware-featured-scaled.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-e223f52419d90162",
+      "title": "Wo Long 2 receberá melhorias após feedback da demo",
+      "excerpt": "Wo Long 2: Wings of Ember será ajustado com base nas opiniões dos jogadores que…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-23T11:35:45Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/wo-long-2-recebera-melhorias-apos-feedback-da-demo",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/wo-long-2-recebera-melhorias-apos-feedback-da-demo-featured-scaled.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-c537fadfbdce3a3d",
+      "title": "Mass Effect 5 buscava superar escolhas de Baldur’s Gate 3 e Cyberpunk 2077",
+      "excerpt": "O próximo jogo da série Mass Effect pretendia levar a autonomia…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-23T11:33:37Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/mass-effect-5-buscava-superar-escolhas-de-baldurs-gate-3-e-cyberpunk-2077",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/mass-effect-5-buscava-superar-escolhas-de-baldurs-gate-3-e-cyberpunk-2077-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-52d0a662ab2dd5c5",
+      "title": "15 personagens principais de Shangri-La Frontier e suas habilidades",
+      "excerpt": "Shangri-La Frontier apresenta personagens com diferentes habilidades, estilos de combate e funções dentro do universo…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-23T11:32:31Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/15-personagens-principais-de-shangri-la-frontier-e-suas-habilidades",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/imagem-colada-88d207eb-4f65-4a70-9376-2bfb370e6d02.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-5e5e5c47307784dc",
+      "title": "Steve Bissette, John Totleben e Alan Moore Edição de artistas do Monstro do Pântano",
+      "excerpt": "Monstro do Pântano, de Steve Bissette, John Totleben e Alan…",
+      "body": [
+        "Confira a cobertura completa em Bleeding Cool. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-23T11:31:10Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Bleeding Cool",
+      "sourceUrl": "https://bleedingcool.com/comics/steve-bissette-john-totleben-alan-moore-swamp-thing-artists-edition",
+      "image": "https://bleedingcool.com/wp-content/uploads/2026/10/STAEDMExclusive-2000x1125.jpeg",
+      "alt": "Imagem publicada por Bleeding Cool",
+      "imageCredit": "Imagem: Bleeding Cool",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-c51a83c7e097a537",
+      "title": "O fenômeno da ficção científica de Anya Taylor-Joy chega oficialmente à Netflix em 1 mês",
+      "excerpt": "A Netflix anunciou oficialmente a data de lançamento do…",
       "body": [
         "Confira a cobertura completa em Collider. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-23T04:08:14Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-23T11:30:15Z",
       "displayDate": "23 out. 2026",
       "sourceName": "Collider",
-      "sourceUrl": "https://collider.com/mass-effect-3-prologue-hits-hard-bioware-shutting-down",
-      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/08/mass-effect-3-2.jpg",
+      "sourceUrl": "https://collider.com/anya-taylor-joy-the-super-mario-galaxy-movie-netflix-release-date-november-2026",
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/anya-taylor-joy-1.jpg",
       "alt": "Imagem publicada por Collider",
       "imageCredit": "Imagem: Collider",
       "syndicated": true,
       "meme": false
     },
     {
-      "id": "radar-a7d84ea9821ca386",
-      "title": "The Elder Scrolls está oficialmente mudando de gênero em novo RPG",
-      "excerpt": "The Elder Scrolls VI pode ainda não estar aqui, mas há muitas maneiras…",
+      "id": "radar-198e47387dbcbfe1",
+      "title": "Disney+ e Hulu confirmam oficialmente o reboot de ‘Glee’, com os criadores originais",
+      "excerpt": "O Disney+ e o Hulu confirmaram oficialmente o reboot de Glee.…",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T11:30:14Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/disney-e-hulu-confirmam-oficialmente-o-reboot-de-glee-com-os-criadores-originais",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Glee.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-428ad092a5e88242",
+      "title": "Shangri-La Frontier supera Solo Leveling e assume a coroa dos mangás no Japão",
+      "excerpt": "Shangri-La Frontier consolidou sua força comercial no Japão ao colocar o…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-23T11:16:55Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/shangri-la-frontier-supera-solo-leveling-e-assume-a-coroa-dos-mangas-no-japao",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/shangri-la-frontier-se-destaca-entre-os-mangas-de-games-no-japao-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-3520aa65a67dc74d",
+      "title": "Neagley supera A Lista Terminal e Reacher em popularidade no Prime Video",
+      "excerpt": "Neagley começou sua trajetória no Prime Video com desempenho superior ao de…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T11:15:42Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/neagley-supera-a-lista-terminal-e-reacher-em-popularidade-no-prime-video",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/neagley-supera-the-terminal-list-e-reacher-no-prime-video-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-1aff291dd3376f98",
+      "title": "As 7 melhores sagas de Dragon Ball para quem ama lutas",
+      "excerpt": "Poucas franquias de anime construíram batalhas tão marcantes quanto Dragon Ball. Desde os…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-23T11:12:57Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/as-7-melhores-sagas-de-dragon-ball-para-quem-ama-lutas",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/as-7-melhores-sagas-de-dragon-ball-para-quem-ama-lutas-5.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-97171e6e4e67e025",
+      "title": "The Ghost in the Shell, da Science Saru, ganha novo projeto de anime",
+      "excerpt": "A série da Science SARU estreou em 7 de julho, exibida…",
+      "body": [
+        "Confira a cobertura completa em Anime News Network. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-23T11:04:59Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Anime News Network",
+      "sourceUrl": "https://www.animenewsnetwork.com/news/2026-10-23/science-saru-the-ghost-in-the-shell-gets-new-anime-project/.243138",
+      "image": "https://a.storyblok.com/f/178900/960x531/7e62c5d5ca/the-ghost-in-the-shell.jpg",
+      "alt": "Imagem publicada por Anime News Network",
+      "imageCredit": "Imagem: Anime News Network",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-97e18fc54e74c7a3",
+      "title": "Ahsoka encara ameaça misteriosa na 2ª temporada",
+      "excerpt": "A 2ª temporada de Ahsoka ganhou uma nova imagem que mostra a protagonista, interpretada por Rosario Dawson,…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T11:02:26Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/ahsoka-encara-ameaca-misteriosa-na-2a-temporada",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/ahsoka-encara-ameaca-misteriosa-na-2a-temporada-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-75a5af68ab0b1dab",
+      "title": "8 filmes de super-heróis que são basicamente filmes de terror, classificados",
+      "excerpt": "De Brightburn a Blade II, esses 8 filmes de super-heróis abraçam o terror,…",
       "body": [
         "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-23T04:00:19Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-23T11:02:20Z",
       "displayDate": "23 out. 2026",
       "sourceName": "Screen Rant",
-      "sourceUrl": "https://screenrant.com/elder-scrolls-shadow-of-oblivion-genre-switch",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/theelderscrollsivoblivionremaster_01_agsqp0.webp",
+      "sourceUrl": "https://screenrant.com/superhero-movies-basically-horror-movies-ranked",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/wanda-maximoff-in-doctor-strange-in-the-multiverse-of-madness.jpg",
       "alt": "Imagem publicada por Screen Rant",
       "imageCredit": "Imagem: Screen Rant",
       "syndicated": true,
       "meme": false
     },
     {
-      "id": "radar-0c1761ce5da6bfce",
-      "title": "Star Wars encontra os super-heróis da Marvel nas solicitações oficiais da Marvel de janeiro de 2027",
-      "excerpt": "O Universo Marvel encontra o mundo de Star…",
+      "id": "radar-97eb34eb4e80fe05",
+      "title": "‘Quando Inimigos se Apaixonam’: o fenômeno ‘Love Me Love Me’ do Prime Video que virou franquia",
+      "excerpt": "A rivalidade mais intensa do Prime Video ganhou…",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T11:00:36Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/quando-inimigos-se-apaixonam-o-fenomeno-love-me-love-me-do-prime-video-que-virou-franquia",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Quando-Inimigos-se-Apaixonam.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-f88a9514d74f39d9",
+      "title": "A obra-prima de ficção científica de 12 episódios da Disney + configura oficialmente o evento de ficção científica…",
+      "excerpt": "A obra-prima épica de ficção científica…",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T11:00:20Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/loki-disney-plus-sets-up-avengers-doomsday-multiverse",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/loki_fsyqib.jpg",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-70ab787c97122b10",
+      "title": "Os 10 quadrinhos mais engraçados do Far Side sobre o fim do mundo",
+      "excerpt": "The Far Side é conhecido por seu humor absurdo e às…",
       "body": [
         "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-23T03:53:19Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T11:00:15Z",
       "displayDate": "23 out. 2026",
       "sourceName": "CBR",
-      "sourceUrl": "https://www.cbr.com/star-wars-meets-marvel-superheroes-marvel-january-2027-solicitations",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/star-wars-doom-header.jpg",
+      "sourceUrl": "https://www.cbr.com/funniest-far-side-comics-about-the-end-of-the-world",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/06/the-10-best-far-side-comics-about-the-end-of-the-world.jpg",
       "alt": "Imagem publicada por CBR",
       "imageCredit": "Imagem: CBR",
       "syndicated": true,
       "meme": false
     },
     {
-      "id": "radar-55ec5e0bc341a106",
-      "title": "‘Dragon Ball Super: Beerus’ terá uma das cenas icônicas no episódio 3; veja a data",
-      "excerpt": "O remake de ‘Dragon Ball Super’ está chegando a…",
+      "id": "radar-fcf554388f5ab288",
+      "title": "Eiichiro Oda barrou primeira versão de One Piece na Netflix",
+      "excerpt": "Eiichiro Oda rejeitou a primeira proposta da Netflix para a adaptação em live-action de…",
       "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-10-23T02:30:00Z",
-      "displayDate": "22 out. 2026",
+      "publishedAt": "2026-10-23T10:57:15Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/eiichiro-oda-barrou-primeira-versao-de-one-piece-na-netflix",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/eiichiro-oda-barrou-primeira-versao-de-one-piece-na-netflix-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-973d9109224140e9",
+      "title": "Planet Zoo 2 – Como aumentar a sustentabilidade",
+      "excerpt": "Aprender como aumentar a sustentabilidade em Planet Zoo 2 é fundamental para gerenciar um parque ecológico…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T10:56:02Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/dicas/planet-zoo-2-como-aumentar-a-sustentabilidade",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2025/07/planet-zoo-01.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-228a5f7035d69bf2",
+      "title": "Enshrouded – Como completar a missão Plantas do Ano Novo Lunar",
+      "excerpt": "Completar a missão Plantas do Ano Novo Lunar em Enshrouded é essencial para…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T10:53:21Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/dicas/enshrouded-como-completar-a-missao-plantas-do-ano-novo-lunar",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/enshrouded-press-image-2.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-4f917ef5c629572c",
+      "title": "Modern Warfare 4 – Todas as armas do Armeiro no DMZ",
+      "excerpt": "Em Modern Warfare 4, entender o funcionamento de todas as armas do Armeiro…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T10:51:27Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/dicas/modern-warfare-4-todas-as-armas-do-armeiro-no-dmz",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/Call-of-Duty-Modern-Warfare-4-.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-3a89e6cd740593ad",
+      "title": "Enshrouded – Como lidar com o Véu Mortal",
+      "excerpt": "Em Enshrouded, aprender como lidar com o Véu Mortal é fundamental para conseguir explorar o mapa…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T10:50:01Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/dicas/enshrouded-como-lidar-com-o-veu-mortal",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/enshrouded-press-image-2.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-f44774dd4a9b9cdf",
+      "title": "Embora eu seja uma vilã inepta Anime lança teaser trailer de Cour 2",
+      "excerpt": "A Crunchyroll continuará a transmitir a série quando ela retornar em…",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-23T10:32:00Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Crunchyroll News",
+      "sourceUrl": "https://crunchyroll.com/news/latest/2026/10/23/though-i-am-an-inept-villainess-cour-2-anime-teaser-trailer",
+      "image": "https://a.storyblok.com/f/178900/1000x563/91510757c4/though-i-am-an-inept-villainess-cour-2.jpg",
+      "alt": "Imagem publicada por Crunchyroll News",
+      "imageCredit": "Imagem: Crunchyroll News",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-ee3cd4e331542917",
+      "title": "‘Amor Possível’: filme premiado em Veneza de Lee Chang-dong chega à Netflix",
+      "excerpt": "Amor Possível marca um dos retornos mais aguardados do cinema mundial. O…",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-23T10:30:48Z",
+      "displayDate": "23 out. 2026",
       "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/dragon-ball-super-beerus-episodio-3-data",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Capa-Site-2026-10-22T224550.574.png",
+      "sourceUrl": "https://www.einerd.com/amor-possivel-filme-premiado-em-veneza-de-lee-chang-dong-chega-a-netflix",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Amor-Possivel-e1792680671722.jpg",
       "alt": "Imagem publicada por Ei Nerd",
       "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false
     },
     {
-      "id": "radar-153dd4d8ee536c1d",
-      "title": "Equipe Avatar terá novas histórias em livro de ‘Avatar: O Último Mestre do Ar’",
-      "excerpt": "A próxima aventura de ‘Avatar: O Último Mestre do Ar’…",
+      "id": "radar-0f243889638e11d3",
+      "title": "Game Of Thrones: Shadow Of The Wilds anunciado oficialmente",
+      "excerpt": "Game of Thrones pode estar um pouco em segundo plano agora, mas várias adaptações ainda…",
       "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T10:23:28Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/game-of-thrones-dragonfire-shadow-of-the-wilds",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/luffy-and-nami-in-netflix-s-one-piece-1.jpg",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-8ee7145cb31b3af7",
+      "title": "Star Trek, a próxima geração: a luz interior anunciada oficialmente",
+      "excerpt": "Star Trek: The Next Generation retorna com The Inner Light, trazendo de volta um…",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T10:20:07Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/mtg-star-trek-next-generation-references-picard",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/inner-light-cover-image-star-trek-tng.jpg",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-7123f8ddc64d8dc1",
+      "title": "Ressonância FF: Vença os inimigos do Citrine Pot",
+      "excerpt": "Como derrotar os inimigos do Pot de forma rápida e fácil em Final Fantasy Resonance",
+      "body": [
+        "Confira a cobertura completa em VGC. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-23T10:08:56Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "VGC",
+      "sourceUrl": "https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies",
+      "image": "https://www.videogameschronicle.com/files/2026/10/FF-Resonance-Beat-Citrine-Pot-enemies-2.jpg",
+      "alt": "Imagem publicada por VGC",
+      "imageCredit": "Imagem: VGC",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-e5281497b438e2a7",
+      "title": "Ali Jr 🤡",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/animememes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T09:35:34Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "r/animememes",
+      "sourceUrl": "https://www.reddit.com/r/animememes/comments/1xd9fwx/ali_jr",
+      "image": "https://i.redd.it/zclzwref3zwh1.png",
+      "alt": "Imagem publicada por r/animememes",
+      "imageCredit": "Imagem: r/animememes",
+      "syndicated": true,
+      "meme": true
+    },
+    {
+      "id": "radar-67e0d9c66978afbc",
+      "title": "MCs MOVIMENTADOS POR VINGANÇA",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/animememes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T09:21:38Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "r/animememes",
+      "sourceUrl": "https://www.reddit.com/r/animememes/comments/1xd97wi/revenge_driven_mcs",
+      "image": "https://i.redd.it/qeah8zv1q6xh1.png",
+      "alt": "Imagem publicada por r/animememes",
+      "imageCredit": "Imagem: r/animememes",
+      "syndicated": true,
+      "meme": true
+    },
+    {
+      "id": "radar-d040ef4ac2815af4",
+      "title": "espero que eu não seja o único",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/Animemes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T09:14:53Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "r/Animemes",
+      "sourceUrl": "https://www.reddit.com/r/Animemes/comments/1xd940h/hope_im_not_the_only_one",
+      "image": "https://i.redd.it/z3fr74xqo6xh1.png",
+      "alt": "Imagem publicada por r/Animemes",
+      "imageCredit": "Imagem: r/Animemes",
+      "syndicated": true,
+      "meme": true
+    },
+    {
+      "id": "radar-6fe84fe28c1a5872",
+      "title": "Shōya Ishige se junta ao elenco do anime de TV Wound & Bandage",
+      "excerpt": "Ishige dá voz a Ginsuke Hatobane na série que estreia em…",
+      "body": [
+        "Confira a cobertura completa em Anime News Network. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-10-23T01:45:00Z",
+      "publishedAt": "2026-10-23T08:55:57Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Anime News Network",
+      "sourceUrl": "https://www.animenewsnetwork.com/news/2026-10-23/shoya-ishige-joins-cast-of-wound-and-bandage-tv-anime/.243137",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/news.10/243137/ginsuke.webp",
+      "alt": "Imagem publicada por Anime News Network",
+      "imageCredit": "Imagem: Anime News Network",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-de9b429acb4368bb",
+      "title": "Elenco de anime de feridas e bandagens revelado",
+      "excerpt": "Miyuki Ishida dirige a série no JC Staff Studios",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-23T07:49:00Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "Crunchyroll News",
+      "sourceUrl": "https://crunchyroll.com/news/latest/2026/10/23/wound-and-bandage-anime-ginsuke-hatobane-cast",
+      "image": "https://a.storyblok.com/f/178900/1460x821/d50b0af636/wound-and-bandange-ginsuke-hatobane-shoya-ishige.jpg",
+      "alt": "Imagem publicada por Crunchyroll News",
+      "imageCredit": "Imagem: Crunchyroll News",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-748e861a5a8aa885",
+      "title": "Versão Hyakkano",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/Animemes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T07:44:28Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "r/Animemes",
+      "sourceUrl": "https://www.reddit.com/r/Animemes/comments/1xd7nwm/hyakkano_version",
+      "image": "https://i.redd.it/qtm5mjus86xh1.jpeg",
+      "alt": "Imagem publicada por r/Animemes",
+      "imageCredit": "Imagem: r/Animemes",
+      "syndicated": true,
+      "meme": true
+    },
+    {
+      "id": "radar-5918152dcf7280b9",
+      "title": "Bem, pelo menos sou fã número 1 dela",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/Animemes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T05:55:02Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "r/Animemes",
+      "sourceUrl": "https://www.reddit.com/r/Animemes/comments/1xd5u2o/oh_well_atleast_im_her_1_fan",
+      "image": "https://i.redd.it/stq1zb03p5xh1.png",
+      "alt": "Imagem publicada por r/Animemes",
+      "imageCredit": "Imagem: r/Animemes",
+      "syndicated": true,
+      "meme": true
+    },
+    {
+      "id": "radar-c565ca5fcca8d196",
+      "title": "James Spader é um dos meus novos atores favoritos",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/marvelmemes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T04:40:31Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "r/marvelmemes",
+      "sourceUrl": "https://www.reddit.com/r/marvelmemes/comments/1xd4iuf/james_spader_is_one_of_my_new_favorite_actors",
+      "image": "https://i.redd.it/ho2bfyizb5xh1.jpeg",
+      "alt": "Imagem publicada por r/marvelmemes",
+      "imageCredit": "Imagem: r/marvelmemes",
+      "syndicated": true,
+      "meme": true
+    },
+    {
+      "id": "radar-8cbe025ca638cd9a",
+      "title": "Mano roubou o show",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/marvelmemes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-23T04:25:31Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "r/marvelmemes",
+      "sourceUrl": "https://www.reddit.com/r/marvelmemes/comments/1xd495v/bro_stole_the_show",
+      "image": "https://i.redd.it/46pbkfz595xh1.png",
+      "alt": "Imagem publicada por r/marvelmemes",
+      "imageCredit": "Imagem: r/marvelmemes",
+      "syndicated": true,
+      "meme": true
+    },
+    {
+      "id": "radar-3f4f6e8cb50c549c",
+      "title": "Anunciada a segunda parte do filme \"Made in Abyss: Mezameru Shinpi\"",
+      "excerpt": "O site oficial do filme Made in Abyss: Mezameru Shinpi (Made in Abyss:…",
+      "body": [
+        "Confira a cobertura completa em MyAnimeList. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-23T03:43:18Z",
+      "displayDate": "23 out. 2026",
+      "sourceName": "MyAnimeList",
+      "sourceUrl": "https://myanimelist.net/news/74849312?_location=rss",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792726916-92ff014e6dcc5bc0becab159b7b5aece.jpeg",
+      "alt": "Imagem publicada por MyAnimeList",
+      "imageCredit": "Imagem: MyAnimeList",
+      "syndicated": true,
+      "meme": false
+    },
+    {
+      "id": "radar-430d18d9fe30b0c2",
+      "title": "Nintendo Switch Online ganha três clássicos de Game Boy em outubro",
+      "excerpt": "Nintendo Switch Online receberá três novos jogos de Game Boy em 27 de…",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-23T01:11:13Z",
       "displayDate": "22 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/avatar-aang-livro-historias-ineditas-filme",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/07/avatar-aang-filme-e1783624954399.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/nintendo-switch-online-ganha-tres-classicos-de-game-boy-em-outubro",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/nintendo-switch-online-ganha-tres-classicos-de-game-boy-em-outubro-featured-scaled.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false
     },
@@ -174,63 +782,6 @@
       "meme": false
     },
     {
-      "id": "radar-26e76618fa21f18b",
-      "title": "Tomb Raider: como a nova Lara Croft foi criada reunindo tudo de melhor dos 30 anos",
-      "excerpt": "A Crystal Dynamics explicou como mistura o visual…",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-23T01:00:00Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/tomb-raider-legacy-of-atlantis-lara-croft-tecnologia",
-      "image": "https://www.einerd.com/wp-content/uploads/2025/12/Novo-Tomb-Raider.webp",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-b766c6c32c8c74b3",
-      "title": "‘Hellraiser: Revival’ expande a lore dos Cenobitas e aprofunda o universo da franquia",
-      "excerpt": "O universo de ‘Hellraiser’ está prestes a ficar ainda mais perturbador!…",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-23T00:45:00Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/hellraiser-revival-lore-cenobitas",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Capa-Site-2026-10-22T211629.670.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-596943a914b02f36",
-      "title": "Criador do Smash Bros. alerta sobre IA na indústria de games",
-      "excerpt": "Masahiro Sakurai falou sobre o forte impacto da inteligência artificial no mercado. O…",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-23T00:30:00Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/masahiro-sakurai-alerta-inteligencia-artificial-mercado-jogos",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Masahiro-Sakurai.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false
-    },
-    {
       "id": "radar-7b65a1328260c104",
       "title": "Star Wars: Starfighter tem um orçamento maior do que o Despertar da Força",
       "excerpt": "Um novo relatório diz que Star Wars: Starfighter tem um orçamento…",
@@ -248,25 +799,6 @@
       "imageCredit": "Imagem: Bleeding Cool",
       "syndicated": true,
       "meme": false
-    },
-    {
-      "id": "radar-e5c7c70447261580",
-      "title": "Ou o mercado de trabalho estava muito difícil na China Imperial ou Maomao deveria realmente encontrar novas conexões",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/Animemes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T23:26:26Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "r/Animemes",
-      "sourceUrl": "https://www.reddit.com/r/Animemes/comments/1xcy4mz/either_the_job_market_was_very_tough_in_imperial",
-      "image": "https://i.redd.it/f1eu226yr3xh1.jpeg",
-      "alt": "Imagem publicada por r/Animemes",
-      "imageCredit": "Imagem: r/Animemes",
-      "syndicated": true,
-      "meme": true
     },
     {
       "id": "radar-cd47a0b3580da505",
@@ -288,61 +820,23 @@
       "meme": false
     },
     {
-      "id": "radar-522256c49059595c",
-      "title": "Série de espionagem ‘Zodiac’ da Marvel será escrita por Amit Cohen e Ron Leshem",
-      "excerpt": "Após a notícia de que a Marvel tem a série…",
+      "id": "radar-c8916ef0aad3cab6",
+      "title": "Michael Gray, ex-Teen Idol e estrela de ‘Shazam!’, morre aos 75 anos",
+      "excerpt": "Depois de namorar Marcia em ‘The Brady Bunch’, ele passou três temporadas…",
       "body": [
-        "Confira a cobertura completa em Deadline. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em The Hollywood Reporter. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-22T22:33:20Z",
+      "publishedAt": "2026-10-22T22:59:26Z",
       "displayDate": "22 out. 2026",
-      "sourceName": "Deadline",
-      "sourceUrl": "https://deadline.com/2026/10/marvel-zodiac-spy-series-writers-amit-cohen-ron-leshem-1237171304",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Amit-Cohen-and-Ron-Leshem.jpg",
-      "alt": "Imagem publicada por Deadline",
-      "imageCredit": "Imagem: Deadline",
+      "sourceName": "The Hollywood Reporter",
+      "sourceUrl": "https://www.hollywoodreporter.com/tv/tv-news/michael-gray-dead-shazam-1236738709",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Michael-Gray.jpg?w=1296&h=730&crop=1",
+      "alt": "Imagem publicada por The Hollywood Reporter",
+      "imageCredit": "Imagem: The Hollywood Reporter",
       "syndicated": true,
       "meme": false
-    },
-    {
-      "id": "radar-b80da578c8ffb353",
-      "title": "Michael Gray morre: estrela de ‘Shazam!’ tinha 75 anos",
-      "excerpt": "Michael Gray, estrela da série de ação ao vivo da CBS dos anos 1970, Shazam!,…",
-      "body": [
-        "Confira a cobertura completa em Deadline. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-22T22:22:10Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Deadline",
-      "sourceUrl": "https://deadline.com/2026/10/michael-gray-dead-shazam-1237171297",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Michael-Gray.jpg",
-      "alt": "Imagem publicada por Deadline",
-      "imageCredit": "Imagem: Deadline",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-6e424e462400de08",
-      "title": "Acho que eles não entenderam a referência",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/raimimemes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T21:20:35Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "r/raimimemes",
-      "sourceUrl": "https://www.reddit.com/r/raimimemes/comments/1xcv6so/i_guess_they_didnt_get_the_reference",
-      "image": "https://i.redd.it/vq7o96hg53xh1.png",
-      "alt": "Imagem publicada por r/raimimemes",
-      "imageCredit": "Imagem: r/raimimemes",
-      "syndicated": true,
-      "meme": true
     },
     {
       "id": "radar-a5eb7ec3a6386549",
@@ -364,25 +858,6 @@
       "meme": true
     },
     {
-      "id": "radar-3ffcf66d18f3e181",
-      "title": "Sacha Baron Cohen diz que os produtores de ‘Ironheart’ da Marvel queriam garantir que ele “não fosse insultado”…",
-      "excerpt": "Com sua recente adição ao MCU,…",
-      "body": [
-        "Confira a cobertura completa em Deadline. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-22T19:47:00Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Deadline",
-      "sourceUrl": "https://deadline.com/2026/10/sacha-baron-cohen-marvel-ironheart-not-insulted-devil-jewish-1237171378",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Ironheart.jpg",
-      "alt": "Imagem publicada por Deadline",
-      "imageCredit": "Imagem: Deadline",
-      "syndicated": true,
-      "meme": false
-    },
-    {
       "id": "radar-251f1998fc247e39",
       "title": "NÃO É NORMAN OSBORN",
       "excerpt": "",
@@ -402,42 +877,23 @@
       "meme": true
     },
     {
-      "id": "radar-5805618477b8ec61",
-      "title": "5 filmes de animação da Netflix melhores que Guerreiras do Kpop",
-      "excerpt": "Guerreiras do Kpop se tornou o filme original mais assistido da história da…",
+      "id": "radar-c8def50db4d37088",
+      "title": "Firefly Wedding English Dub revela data de lançamento, elenco e equipe",
+      "excerpt": "O primeiro episódio será lançado em 23 de outubro",
       "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-10-22T19:20:42Z",
+      "publishedAt": "2026-10-22T19:00:00Z",
       "displayDate": "22 out. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/5-filmes-de-animacao-da-netflix-melhores-que-guerreiras-do-kpop",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/5-filmes-de-animacao-da-netflix-melhores-que-kpop-demon-hunters-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "Crunchyroll News",
+      "sourceUrl": "https://crunchyroll.com/news/announcements/2026/10/22/firefly-wedding-anime-english-dub-release-date-cast-crew",
+      "image": "https://a.storyblok.com/f/178900/960x540/34f0b72b45/firefly-wedding.jpg",
+      "alt": "Imagem publicada por Crunchyroll News",
+      "imageCredit": "Imagem: Crunchyroll News",
       "syndicated": true,
       "meme": false
-    },
-    {
-      "id": "radar-26cf208ea86e88cf",
-      "title": "Não conte a Harry",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/raimimemes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T19:12:38Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "r/raimimemes",
-      "sourceUrl": "https://www.reddit.com/r/raimimemes/comments/1xcrtha/dont_tell_harry",
-      "image": "https://i.redd.it/26972r5oi2xh1.jpeg",
-      "alt": "Imagem publicada por r/raimimemes",
-      "imageCredit": "Imagem: r/raimimemes",
-      "syndicated": true,
-      "meme": true
     },
     {
       "id": "radar-60e850e660579e03",
@@ -478,25 +934,6 @@
       "meme": true
     },
     {
-      "id": "radar-88474431032affd3",
-      "title": "Por que estamos convocando o conselho estudantil de Israel em anime?",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/animememes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T16:30:45Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "r/animememes",
-      "sourceUrl": "https://www.reddit.com/r/animememes/comments/1xcnelp/why_are_we_calling_israel_student_council_in_anime",
-      "image": "https://i.redd.it/6vyrgd7sp1xh1.jpeg",
-      "alt": "Imagem publicada por r/animememes",
-      "imageCredit": "Imagem: r/animememes",
-      "syndicated": true,
-      "meme": true
-    },
-    {
       "id": "radar-334dd5937ec7695a",
       "title": "Cult of the Lamb – Nintendo Switch 2 Edition já disponível",
       "excerpt": "A editora Devolver Digital e a desenvolvedora Massive Monster lançaram Cult of the…",
@@ -512,63 +949,6 @@
       "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Cult-Lamb-Switch-2_10-22-26.jpg",
       "alt": "Imagem publicada por Gematsu",
       "imageCredit": "Imagem: Gematsu",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-b3b2d0664b4c2170",
-      "title": "Médico para mim: vou colocar quimioterapia em suas veias!",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/raimimemes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T15:59:58Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "r/raimimemes",
-      "sourceUrl": "https://www.reddit.com/r/raimimemes/comments/1xcmjry/doctor_to_me_im_going_to_put_some_chemo_in_your",
-      "image": "https://external-preview.redd.it/Y3h3OGQwN2FrMXhoMVGqdn0jhKlX9DFX5kV9vAFybfEc92kndav-bqPxVGNw.png?width=320&crop=smart&auto=webp&s=14a10054a38dd49994a54e5baba40f62408cdf08",
-      "alt": "Imagem publicada por r/raimimemes",
-      "imageCredit": "Imagem: r/raimimemes",
-      "syndicated": true,
-      "meme": true
-    },
-    {
-      "id": "radar-8a476cc7f639b842",
-      "title": "Dias para Jogar de Graça: Dying Light 2, Monster Hunter Stories, Riders Republic e mais",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Xbox Wire Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-22T15:46:12Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Xbox Wire Brasil",
-      "sourceUrl": "https://news.xbox.com/pt-br/2026/10/22/dias-para-jogar-de-graca-dying-light-2-monster-hunter-stories-riders-republic-e-mais",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/10/FY26-Social-FPD_10-22-26_1920x1080-feaa61ff1e9023c7d48f.jpg",
-      "alt": "Imagem publicada por Xbox Wire Brasil",
-      "imageCredit": "Imagem: Xbox Wire Brasil",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-432bf8a93e78328d",
-      "title": "Trailer do filme original Sin Compilation de Takopi revela música tema",
-      "excerpt": "Tele retorna para cantar a música tema do filme de 27 de novembro",
-      "body": [
-        "Confira a cobertura completa em Anime News Network. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-22T15:36:18Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Anime News Network",
-      "sourceUrl": "https://www.animenewsnetwork.com/news/2026-10-22/takopi-original-sin-compilation-film-trailer-reveals-theme-song/.243112",
-      "image": "https://a.storyblok.com/f/178900/800x450/59378c4b81/takopis_original_sin_movie_hdear.jpg",
-      "alt": "Imagem publicada por Anime News Network",
-      "imageCredit": "Imagem: Anime News Network",
       "syndicated": true,
       "meme": false
     },
@@ -592,139 +972,6 @@
       "meme": false
     },
     {
-      "id": "radar-c628e41fadee657a",
-      "title": "Qual fantasia de anime combina melhor com você para o Halloween de 2026?",
-      "excerpt": "Entrando no espírito (Halloween) das coisas",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-22T15:00:00Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Crunchyroll News",
-      "sourceUrl": "https://crunchyroll.com/news/quizzes/2026/10/22/anime-costume-halloween-quiz-2026",
-      "image": "https://a.storyblok.com/f/178900/960x540/1e54acc94b/witch-hat-atelier-episode-11.jpg",
-      "alt": "Imagem publicada por Crunchyroll News",
-      "imageCredit": "Imagem: Crunchyroll News",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-0a85a6c866cd5981",
-      "title": "Série de TV de Mass Effect continua em produção no Prime Video, apesar do fechamento da BioWare",
-      "excerpt": "A série da Amazon está em desenvolvimento…",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-22T14:31:00Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/mass-effect-the-series/157006/serie-de-tv-de-mass-effect-continua-em-producao-no-prime-video-apesar-do-fechamento-da-bioware",
-      "image": "https://sm.ign.com/ign_br/news/m/mass-effec/mass-effect-tv-series-remains-active-at-prime-video-despite_upk6.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-5c5af2459fc9b68f",
-      "title": "Eca pessoal",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/animememes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T14:09:39Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "r/animememes",
-      "sourceUrl": "https://www.reddit.com/r/animememes/comments/1xcjmoi/ewww_ppl",
-      "image": "https://i.redd.it/6xyklm0m01xh1.jpeg",
-      "alt": "Imagem publicada por r/animememes",
-      "imageCredit": "Imagem: r/animememes",
-      "syndicated": true,
-      "meme": true
-    },
-    {
-      "id": "radar-8f058cab18e6346d",
-      "title": "Cara-de-Barro: Naomi Ackie revela surpresa com cena grotesca do filme: “Eu não fazia ideia”",
-      "excerpt": "Em entrevista exclusiva à Legião dos Heróis, atriz falou sobre…",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-22T13:55:07Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/cara-de-barro-naomi-ackie-revela-surpresa-com-cena-grotesca-do-filme-eu-nao-fazia-ideia.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/10/legiao_ZuGJnbgi6OAs.webp",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-4df4bd65b0406289",
-      "title": "Capcom confirma vazamento de 11,7 milhões de contas",
-      "excerpt": "A empresa japonesa informou que um terceiro acessou dados do Capcom ID, como e-mails e registros...",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-22T13:52:00Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/capcom-vazamento-capcom-id-11-milhoes-contas",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/03/HUNK.webp",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-eb8107b5dcfb4509",
-      "title": "Uau",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/PrequelMemes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T13:30:05Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "r/PrequelMemes",
-      "sourceUrl": "https://www.reddit.com/r/PrequelMemes/comments/1xcimcc/oof",
-      "image": "https://i.redd.it/kmgeekyjt0xh1.jpeg",
-      "alt": "Imagem publicada por r/PrequelMemes",
-      "imageCredit": "Imagem: r/PrequelMemes",
-      "syndicated": true,
-      "meme": true
-    },
-    {
-      "id": "radar-7bbf02196610d442",
-      "title": "Ela também vazou seu bate-papo em grupo",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/Animemes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T13:12:18Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "r/Animemes",
-      "sourceUrl": "https://www.reddit.com/r/Animemes/comments/1xci768/she_also_leaked_his_group_chat",
-      "image": "https://i.redd.it/vyc4tsicq0xh1.png",
-      "alt": "Imagem publicada por r/Animemes",
-      "imageCredit": "Imagem: r/Animemes",
-      "syndicated": true,
-      "meme": true
-    },
-    {
       "id": "radar-590d17ea0a6a6e67",
       "title": "Novo trailer do filme The Apothecary Diaries revela a música tema de Kenshi Yonezu",
       "excerpt": "Novo visual, gráfico de personagens e detalhes sobre as novas…",
@@ -744,6 +991,25 @@
       "meme": false
     },
     {
+      "id": "radar-5e47ac07748eb9d7",
+      "title": "Firefly Wedding Anime lança Kazuyuki Okitsu como Eishin Nitobe",
+      "excerpt": "Crunchyroll transmite adaptação baseada no mangá de Oreco Tachibana",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-22T12:18:00Z",
+      "displayDate": "22 out. 2026",
+      "sourceName": "Crunchyroll News",
+      "sourceUrl": "https://crunchyroll.com/news/latest/2026/10/22/firefly-wedding-anime-casts-kazuyuki-okitsu-as-eishin-nitobe",
+      "image": "https://a.storyblok.com/f/178900/960x540/4a94995b4c/firefly_wedding_eishin_nitobe_header.jpg",
+      "alt": "Imagem publicada por Crunchyroll News",
+      "imageCredit": "Imagem: Crunchyroll News",
+      "syndicated": true,
+      "meme": false
+    },
+    {
       "id": "radar-691aa9fe329b39ea",
       "title": "PSYREN Anime revela dois novos membros do elenco",
       "excerpt": "Crunchyroll transmite adaptação baseada no mangá de Toshiaki Iwashiro",
@@ -759,101 +1025,6 @@
       "image": "https://a.storyblok.com/f/178900/1000x563/896bcffddb/psyren_van_tenjuin_elmore_tenjuin_header.jpg",
       "alt": "Imagem publicada por Crunchyroll News",
       "imageCredit": "Imagem: Crunchyroll News",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-60e6f7b9225bf07a",
-      "title": "DICE e Respawn ‘estão se unindo para Star Wars: Battlefront 3’",
-      "excerpt": "Novo relatório afirma que os dois estúdios da EA foram encarregados de trabalhar…",
-      "body": [
-        "Confira a cobertura completa em VGC. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-22T12:00:37Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "VGC",
-      "sourceUrl": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3",
-      "image": "https://www.videogameschronicle.com/files/2021/01/Battlefront-2-Darth-Maul.jpg",
-      "alt": "Imagem publicada por VGC",
-      "imageCredit": "Imagem: VGC",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-fb2fccf1eb7a7d30",
-      "title": "Bless TV Anime lança Tarusuke Shingaki; Crunchyroll para transmitir séries",
-      "excerpt": "Shingaki dá voz a Hikaru Oya na série que estreia em janeiro",
-      "body": [
-        "Confira a cobertura completa em Anime News Network. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-22T11:17:25Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Anime News Network",
-      "sourceUrl": "https://www.animenewsnetwork.com/news/2026-10-22/bless-tv-anime-casts-tarusuke-shingaki-crunchyroll-to-stream-series/.243105",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/f35d3cd6a3/bless-hikaru-oya.png",
-      "alt": "Imagem publicada por Anime News Network",
-      "imageCredit": "Imagem: Anime News Network",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-f824dbdd0e42c8cd",
-      "title": "BLESS Anime Streams no Crunchyroll em janeiro de 2027",
-      "excerpt": "O anime adapta o mangá de Yukino Sonoyama",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-22T10:00:00Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Crunchyroll News",
-      "sourceUrl": "https://crunchyroll.com/news/announcements/2026/10/22/bless-anime-january-2027-stream-crunchyroll",
-      "image": "https://a.storyblok.com/f/178900/1404x791/fd339b9562/bless-anime.png",
-      "alt": "Imagem publicada por Crunchyroll News",
-      "imageCredit": "Imagem: Crunchyroll News",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-ce57ef8b6e80180b",
-      "title": "Sagrada Reset Light Novels e muito mais vindo de Seven Seas",
-      "excerpt": "O último lote inclui licenças de audiolivro, mangá, light novel e manhwa",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-22T09:27:29Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Crunchyroll News",
-      "sourceUrl": "https://crunchyroll.com/news/latest/2026/10/22/sagrada-reset-light-novels-and-more-seven-seas",
-      "image": "https://a.storyblok.com/f/178900/1200x675/a545a62a49/seven-seas_sagrada-reset.jpeg",
-      "alt": "Imagem publicada por Crunchyroll News",
-      "imageCredit": "Imagem: Crunchyroll News",
-      "syndicated": true,
-      "meme": false
-    },
-    {
-      "id": "radar-304ca51827ccedec",
-      "title": "Watashitachi wa Mutsū Renai ga Shitai, mangá de Yukari Takinami, ganha programa de ação ao vivo na rede",
-      "excerpt": "Mangá sobre o encontro de uma…",
-      "body": [
-        "Confira a cobertura completa em Anime News Network. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-22T09:21:29Z",
-      "displayDate": "22 out. 2026",
-      "sourceName": "Anime News Network",
-      "sourceUrl": "https://www.animenewsnetwork.com/news/2026-10-22/yukari-takinami-watashitachi-wa-mutsu-renai-ga-shitai-manga-gets-live-action-net-show/.243099",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.10/243099/romance.jpg",
-      "alt": "Imagem publicada por Anime News Network",
-      "imageCredit": "Imagem: Anime News Network",
       "syndicated": true,
       "meme": false
     }
