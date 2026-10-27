@@ -840,17 +840,50 @@ class Tradutor:
         return self.cache[texto]
 
     def traduzir_noticia(self, n: Noticia) -> None:
-        junto = self.traduzir(f"{n.titulo}\n{n.resumo}" if n.resumo else n.titulo)
-        if junto == n.titulo or (n.resumo and junto == f"{n.titulo}\n{n.resumo}"):
-            return
-        n.titulo_original = n.titulo
+        # Título e resumo separados: evita misturar a chamada com o corpo.
+        original = n.titulo
+        traduzido = self.traduzir(original).strip()
+        if traduzido and traduzido != original:
+            n.titulo_original = original
+            n.titulo = traduzido
         if n.resumo:
-            if "\n" in junto:
-                n.titulo, n.resumo = (p.strip() for p in junto.split("\n", 1))
-            else:
-                n.titulo, n.resumo = self.traduzir(n.titulo), self.traduzir(n.resumo)
-        else:
-            n.titulo = junto.strip()
+            n.resumo = self.traduzir(n.resumo).strip()
+
+
+def titulo_editorial(texto):
+    texto = html.unescape(re.sub(r"<[^>]+>", " ", texto or ""))
+    texto = re.sub(r"\s+", " ", texto).strip()
+    # Não publicar frases cortadas nem cortar o título pelo número de palavras.
+    if len(texto) < 8 or len(texto) > 240 or re.search(r"(?:\.\.\.|…)\s*$", texto):
+        return ""
+    return texto
+
+
+def traducao_incompleta(texto):
+    palavras = set(re.findall(r"[a-z]+", texto.lower()))
+    ingles = palavras & {"the", "this", "that", "which", "with", "from", "before", "after", "reveals", "revealed", "announces", "announced", "ranked", "officially", "strongest", "release", "upcoming", "returns"}
+    portugues = palavras & {"de", "do", "da", "dos", "das", "para", "com", "em", "ganha", "revela", "anuncia", "chega", "estreia", "novo", "nova", "mais"}
+    return len(ingles) >= 3 or (len(ingles) >= 2 and not portugues)
+
+
+def arquivar_artigos(destino, payload):
+    """Preserva URLs antigas, mesmo depois de uma chamada sair da edição atual."""
+    destino = Path(destino)
+    indice_path = destino.parent / "archive-index.json"
+    try:
+        anteriores = json.loads(indice_path.read_text(encoding="utf-8")).get("articles", [])
+    except (OSError, ValueError):
+        anteriores = []
+    indice = {a["id"]: a for a in anteriores if re.fullmatch(r"radar-[a-f0-9]{16}", a.get("id", ""))}
+    for artigo in payload["articles"]:
+        ident = artigo["id"]
+        if not re.fullmatch(r"radar-[a-f0-9]{16}", ident):
+            continue
+        arquivo = destino.parent / "artigos" / ident[6:8] / (ident + ".json")
+        arquivo.parent.mkdir(parents=True, exist_ok=True)
+        arquivo.write_text(json.dumps(artigo, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        indice[ident] = {k: artigo[k] for k in ("id", "publishedAt", "title")}
+    indice_path.write_text(json.dumps({"schemaVersion": 1, "updatedAt": payload["updatedAt"], "articles": sorted(indice.values(), key=lambda a: a["publishedAt"], reverse=True)}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 # =============================================================================
@@ -959,14 +992,17 @@ def gerar_json(por_secao, agora):
             if link in vistos or chave in vistos:
                 continue
             vistos.update((link, chave))
-            titulo = " ".join(n.titulo.split()[:18])
-            if titulo != n.titulo.strip():
-                titulo += "…"
-            palavras = n.resumo.split()
-            limite = max(0, 24 - len(titulo.split()))
-            resumo = " ".join(palavras[:limite])
-            if len(palavras) > limite:
-                resumo += "…"
+            titulo = titulo_editorial(n.titulo)
+            if not titulo or (n.pais == "INT" and not n.meme and traducao_incompleta(titulo)):
+                continue
+            # Resumo curto em frase completa, sem reproduzir a matéria da fonte.
+            resumo_limpo = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", n.resumo or "")).split())
+            frases = re.split(r"(?<=[.!?])\s+", resumo_limpo)
+            resumo = frases[0] if frases and len(frases[0]) <= 360 else ""
+            if resumo and (len(resumo.split()) > 60 or re.search(r"(?:\.\.\.|…)$", resumo)):
+                resumo = ""
+            if n.pais == "INT" and resumo and traducao_incompleta(resumo):
+                resumo = ""
             texto = " " + normalizar(n.titulo) + " "
             if n.meme:
                 categoria = "geek"
@@ -995,6 +1031,7 @@ def gerar_json(por_secao, agora):
                 "sourceName": n.fonte, "sourceUrl": link,
                 "image": n.imagem, "alt": f"Imagem publicada por {n.fonte}",
                 "imageCredit": f"Imagem: {n.fonte}", "syndicated": True, "meme": n.meme,
+                "translated": bool(n.titulo_original), "originalTitle": n.titulo_original or n.titulo,
             })
     artigos.sort(key=lambda a: a["publishedAt"], reverse=True)
     with cf.ThreadPoolExecutor(max_workers=8) as pool:
@@ -1431,6 +1468,7 @@ def main() -> int:
         payload = gerar_json(por_secao, agora)
         if payload["articles"]:
             destino_json.parent.mkdir(parents=True, exist_ok=True)
+            arquivar_artigos(destino_json, payload)
             destino_json.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             print(f"📡 Dados do Geek em Órbita atualizados: {len(payload['articles'])} notícias")
         else:

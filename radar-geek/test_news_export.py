@@ -1,6 +1,9 @@
 """Contratos do JSON consumido pelo Geek em Órbita, sem acesso à rede."""
 import datetime as dt
 import unittest
+import tempfile
+import json
+from pathlib import Path
 from unittest.mock import patch
 import radar_geek as radar
 
@@ -22,13 +25,15 @@ class NewsExportTests(unittest.TestCase):
             return radar.gerar_json({"pop": items}, self.now)["articles"]
 
     def test_original_dates_short_calls_and_deduplication(self):
-        article = self.article(titulo=" ".join(["Título"] * 30), resumo=" ".join(["Resumo"] * 100))
+        title = "Novo jogo de aventura revela os personagens e os cenários que estarão presentes no lançamento anunciado para o próximo ano"
+        article = self.article(titulo=title, resumo="Uma primeira frase completa. Mais detalhes que não precisam ser copiados.")
         articles = self.export([article, self.article(link=article.link + "?utm_source=feed")])
         self.assertEqual(len(articles), 1)
         self.assertEqual(articles[0]["sourceUrl"], "https://example.com/noticia")
         self.assertEqual(articles[0]["publishedAt"], "2026-10-14T02:00:00Z")
         self.assertEqual(articles[0]["displayDate"], "13 out. 2026")
-        self.assertLessEqual(len((articles[0]["title"] + " " + articles[0]["excerpt"]).split()), 24)
+        self.assertEqual(articles[0]["title"], title)
+        self.assertEqual(articles[0]["excerpt"], "Uma primeira frase completa.")
 
     def test_no_photo_date_or_original_link_is_excluded(self):
         self.assertEqual(self.export([self.article(imagem=""), self.article(data=None),
@@ -55,6 +60,32 @@ class NewsExportTests(unittest.TestCase):
         with patch.object(radar, "foto_disponivel", side_effect=lambda u: u.endswith("/real.jpg")), \
              patch.object(radar, "baixar", return_value=b'<meta property="og:image" content="/real.jpg">'):
             self.assertEqual(radar.completar_foto(article)["image"], "https://example.com/real.jpg")
+
+    def test_broken_and_untranslated_titles_excluded(self):
+        self.assertEqual(self.export([self.article(titulo="Novo filme revela o personagem que…")]), [])
+        self.assertEqual(self.export([self.article(titulo="The strongest heroes officially ranked before the release", pais="INT", titulo_original="Original English title")]), [])
+        self.assertFalse(radar.traducao_incompleta("The Last of Us ganha nova temporada em dezembro"))
+
+    def test_translation_separates_title_and_excerpt(self):
+        n=self.article(pais="INT", titulo="New film announced", resumo="A new adventure.")
+        t=radar.Tradutor()
+        with patch.object(t,"traduzir",side_effect=["Novo filme anunciado","Uma nova aventura."]):
+            t.traduzir_noticia(n)
+        self.assertEqual(n.titulo,"Novo filme anunciado")
+        self.assertEqual(n.resumo,"Uma nova aventura.")
+        self.assertEqual(n.titulo_original,"New film announced")
+
+    def test_archive_keeps_articles_after_feed_rotation(self):
+        with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parent) as folder:
+            self.assertEqual(Path(folder).resolve().parent, Path(__file__).resolve().parent)
+            dest=Path(folder)/"news.json"
+            first={"schemaVersion":1,"updatedAt":"2026-10-27T20:00:00Z","articles":self.export([self.article()])}
+            radar.arquivar_artigos(dest,first)
+            item=first["articles"][0]
+            radar.arquivar_artigos(dest,{**first,"articles":[]})
+            saved=json.loads((Path(folder)/"artigos"/item["id"][6:8]/(item["id"]+".json")).read_text())
+            self.assertEqual(saved["sourceUrl"],item["sourceUrl"])
+            self.assertEqual(len(json.loads((Path(folder)/"archive-index.json").read_text())["articles"]),1)
 
     def test_private_and_invalid_urls_rejected(self):
         for url in ("http://127.0.0.1/x", "http://10.0.0.1/x", "http://localhost/x", "https://user:pass@example.com/x", "file:///x"):
