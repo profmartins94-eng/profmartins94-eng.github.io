@@ -426,6 +426,8 @@ superheroes heroi herois super geek nerd studios trailer
 
 # Posts de redes sociais que o Google Notícias às vezes mistura nas buscas.
 REDES_SOCIAIS = {"facebook", "instagram", "x", "x.com", "twitter", "tiktok", "youtube", "threads", "reddit", "linkedin"}
+# Agências de release: é anúncio pago de empresa, não notícia.
+RELEASES_DE_EMPRESA = re.compile(r"newswire|presswire|prweb|business ?wire|accesswire|newsfile corp")
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -857,7 +859,7 @@ def buscar_fonte(fonte: dict, dias: int) -> Tuple[dict, List[Noticia], str]:
         resumo = limpar_html(e["resumo"] or e["conteudo"])
         if fonte.get("gnews"):
             nome_fonte = limpar_html(e["fonte"]) or nome_fonte
-            if nome_fonte.strip().lower() in REDES_SOCIAIS:
+            if nome_fonte.strip().lower() in REDES_SOCIAIS or RELEASES_DE_EMPRESA.search(nome_fonte.lower()):
                 continue
             if " - " in titulo:
                 inicio, fim = titulo.rsplit(" - ", 1)

@@ -52,6 +52,7 @@ derruba as notícias dos dois sites. **Leia tudo abaixo antes de mudar qualquer 
 ### Filtros que existem por um motivo (cada um veio de um erro real)
 - `PADROES_ADULTO`: o site é público; nada de conteúdo adulto.
 - `REDES_SOCIAIS`: posts de Facebook, X etc. que o Google Notícias mistura não são notícia.
+- `RELEASES_DE_EMPRESA`: PR Newswire, PRWeb, Business Wire etc. são anúncio pago, não notícia.
 - "DC" sozinho em busca do Google não basta: na Índia "DC" é cargo público. As buscas
   usam `"DC Studios" OR DCU`. "AC/DC" vira `acdc` na normalização.
 - "State of Play" foi tirado de propósito das palavras-chave e dos eventos: é expressão

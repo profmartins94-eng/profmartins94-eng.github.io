@@ -90,6 +90,16 @@ class ProblemasDaPrimeiraRodadaReal(unittest.TestCase):
         self.assertEqual(erro, "")
         self.assertEqual([n.fonte for n in noticias], ["Omelete"])
 
+    def test_releases_de_empresa_do_google_ficam_de_fora(self):
+        itens = b"".join(
+            b'<item><title>Marca leva cosplay para a L.A. Comic Con 2026 - ' + nome + b'</title>'
+            b'<link>https://news.google.com/rss/articles/CBMi' + nome.replace(b" ", b"") + b'</link>'
+            b'<pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate><source url="https://example.com">' + nome + b'</source></item>'
+            for nome in (b"PRWeb", b"PR Newswire", b"Business Wire", b"GlobeNewswire", b"Omelete"))
+        with patch.object(radar, "baixar", return_value=b"<rss><channel>" + itens + b"</channel></rss>"):
+            _, noticias, _ = radar.buscar_fonte({"nome": "Google", "gnews": "x", "idioma": "pt", "pais": "BR"}, 1)
+        self.assertEqual([n.fonte for n in noticias], ["Omelete"])
+
 
 class EventoTests(unittest.TestCase):
     def test_evento_e_hashtag(self):
