@@ -6,13 +6,22 @@ com os posts já prontos para copiar e colar no canal.
 
 ## O que ele faz
 
-- Lê mais de 35 fontes ao mesmo tempo: Deadline, Variety, The Hollywood Reporter,
-  Collider, Screen Rant, CBR, IGN, GameSpot, Gematsu, Anime News Network,
-  Crunchyroll, MyAnimeList, Omelete, Jovem Nerd, Legião dos Heróis, IGN Brasil,
-  AnimeNew, Universo HQ e outras, além de buscas no Google News.
-- **🎭 Escalações & Bastidores**: destaca atores escalados, em negociação, fazendo
-  teste de elenco ou se preparando para um papel (treino, transformação, início
-  das filmagens).
+- Lê umas 85 fontes ao mesmo tempo. Lá fora: Deadline, Variety, The Hollywood
+  Reporter, Collider, Screen Rant, CBR, ComicBook.com, GeekTyrant, The Direct,
+  SuperHeroHype, Nerdist, Den of Geek, SlashFilm, Rotten Tomatoes, IndieWire, IGN,
+  GameSpot, Polygon, Kotaku, GamesRadar, Anime News Network, Crunchyroll, Cartoon
+  Brew e outras. No Brasil: Omelete, Jovem Nerd, Legião dos Heróis, IGN Brasil,
+  Crunchyroll Brasil, Cinepop, AnimeNew, Universo HQ, Arkade, Nintendo Blast e
+  outras. E ainda buscas no Google Notícias, que viram link direto para a matéria.
+- **🎭 Escalações & Bastidores**: destaca atores, atrizes e **diretores** escalados,
+  em negociação, fazendo teste de elenco ou se preparando para um papel (treino,
+  transformação, início das filmagens).
+- **🕯️ Luto no mundo geek**: morte de atores, dubladores, diretores, criadores de
+  anime e mangá, quadrinistas e artistas. Morte de personagem (spoiler) não entra.
+- **🧐 Análises & primeiras reações**: críticas, notas do Rotten Tomatoes e as
+  primeiras reações da imprensa lá de fora, muitas vezes antes da estreia aqui.
+- **🎪 Eventos**: CCXP, Comic-Con, Anime Friends, BGS, Anime Expo, Gamescom, The
+  Game Awards, Nintendo Direct e outros; o nome do evento vira hashtag do post.
 - **🔥 Saiu lá fora primeiro**: marca a notícia gringa que ainda não apareceu nos
   sites brasileiros. É a sua chance de dar a notícia antes.
 - Junta a mesma notícia publicada por vários sites e mostra quantos repercutiram.
@@ -28,7 +37,7 @@ com os posts já prontos para copiar e colar no canal.
 
 ### Integração com o Geek em Órbita
 
-O agendamento existente do GitHub Actions roda a cada três horas e agora também
+O agendamento do GitHub Actions atualiza mais ou menos a cada 2 horas e também
 publica `noticias/news.json`. O site na Vercel consulta esse arquivo ao abrir e
 durante a navegação, sem depender de um computador ligado ou de uma nova publicação
 na Vercel a cada rodada. O horário do GitHub pode sofrer atrasos.
@@ -80,9 +89,14 @@ Dá para combinar: `python radar_geek.py --horas 6 --so-novos --traduzir`
 ## Site no ar
 
 A página pública fica em **https://profmartins94-eng.github.io/noticias/**.
-O GitHub roda o radar sozinho a cada 3 horas (`.github/workflows/radar-geek.yml`),
-grava a página nova em `noticias/index.html` e o GitHub Pages publica.
-Para atualizar na hora: aba **Actions** > **Radar Geek** > **Run workflow**.
+O GitHub tenta rodar o radar toda hora e atualiza quando a última atualização tem
+mais de ~2 horas (`.github/workflows/radar-geek.yml`). Isso compensa as rodadas que o
+GitHub atrasa ou pula. A página nova vai para `noticias/index.html` e o GitHub Pages publica.
+Para atualizar na hora: aba **Ações** > **Radar Geek** > **Run workflow**.
+
+Canais de críticos do YouTube (Critical Drinker, Chris Stuckmann, Gigguk...) ficaram
+de fora: o YouTube bloqueia a leitura automática vinda do GitHub. Dá para incluir com
+uma chave gratuita da API oficial do YouTube.
 
 ## Personalizar
 

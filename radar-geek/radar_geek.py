@@ -69,7 +69,29 @@ FONTES = [
     {"nome": "Screen Rant", "url": "https://screenrant.com/feed/", "pais": "INT", "filtrar": True},
     {"nome": "CBR", "url": "https://www.cbr.com/feed/", "pais": "INT", "filtrar": True},
     {"nome": "Bleeding Cool", "url": "https://bleedingcool.com/feed/", "pais": "INT", "filtrar": True},
+    # --- Lá fora: sites geek famosos (testados no GitHub em out/2026) ---
+    {"nome": "ComicBook.com", "url": "https://comicbook.com/feed/rss/", "pais": "INT", "filtrar": True},
+    {"nome": "GeekTyrant", "url": "https://geektyrant.com/news?format=rss", "pais": "INT", "filtrar": True},
+    {"nome": "The Direct", "url": "https://thedirect.com/rss", "pais": "INT", "filtrar": True},
+    {"nome": "SuperHeroHype", "url": "https://www.superherohype.com/feed", "pais": "INT", "filtrar": True},
+    {"nome": "Nerdist", "url": "https://nerdist.com/feed/", "pais": "INT", "filtrar": True},
+    {"nome": "Den of Geek", "url": "https://www.denofgeek.com/feed/", "pais": "INT", "filtrar": True},
+    {"nome": "SlashFilm", "url": "https://www.slashfilm.com/feed/", "pais": "INT", "filtrar": True},
+    {"nome": "MovieWeb", "url": "https://movieweb.com/feed/", "pais": "INT", "filtrar": True},
+    {"nome": "The Mary Sue", "url": "https://www.themarysue.com/feed/", "pais": "INT", "filtrar": True},
+    {"nome": "AIPT", "url": "https://aiptcomics.com/feed/", "pais": "INT", "tema": "hq"},
+    # --- Lá fora: críticas e primeiras reações ---
+    {"nome": "Rotten Tomatoes", "url": "https://editorial.rottentomatoes.com/feed/", "pais": "INT", "filtrar": True},
+    {"nome": "IndieWire", "url": "https://www.indiewire.com/feed/", "pais": "INT", "filtrar": True},
+    # --- Lá fora: animação (inclui homenagens a dubladores e animadores) ---
+    {"nome": "Cartoon Brew", "url": "https://www.cartoonbrew.com/feed", "pais": "INT", "tema": "desenhos"},
+    {"nome": "Animation Magazine", "url": "https://www.animationmagazine.net/feed/", "pais": "INT", "tema": "desenhos"},
     # --- Lá fora: games ---
+    {"nome": "Polygon", "url": "https://www.polygon.com/feed/", "pais": "INT", "tema": "games"},
+    {"nome": "Kotaku", "url": "https://kotaku.com/rss", "pais": "INT", "tema": "games"},
+    {"nome": "Game Rant", "url": "https://gamerant.com/feed/", "pais": "INT", "tema": "games"},
+    {"nome": "GamesRadar", "url": "https://www.gamesradar.com/feeds.xml", "pais": "INT", "filtrar": True},
+    {"nome": "Dexerto", "url": "https://www.dexerto.com/feed/", "pais": "INT", "filtrar": True},
     {"nome": "IGN", "url": "https://feeds.feedburner.com/ign/all", "pais": "INT", "tema": "games"},
     {"nome": "GameSpot", "url": "https://www.gamespot.com/feeds/mashup/", "pais": "INT", "tema": "games"},
     {"nome": "VGC", "url": "https://www.videogameschronicle.com/feed/", "pais": "INT", "tema": "games"},
@@ -78,6 +100,8 @@ FONTES = [
     {"nome": "Anime News Network", "url": "https://www.animenewsnetwork.com/news/rss.xml?ann-edition=w", "pais": "INT", "tema": "animes"},
     {"nome": "Crunchyroll News", "url": "https://cr-news-api-service.prd.crunchyrollsvc.com/v1/en-US/rss", "pais": "INT", "tema": "animes"},
     {"nome": "MyAnimeList", "url": "https://myanimelist.net/rss/news.xml", "pais": "INT", "tema": "animes"},
+    {"nome": "Anime Corner", "url": "https://animecorner.me/feed/", "pais": "INT", "tema": "animes"},
+    {"nome": "Siliconera", "url": "https://www.siliconera.com/feed/", "pais": "INT", "filtrar": True},
     # --- Lá fora: buscas no Google News focadas em escalação e bastidores ---
     {"nome": "Google News (EUA)", "gnews": "Marvel cast OR casting OR \"in talks\"", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "\"DC Studios\" OR DCU cast OR casting OR \"in talks\"", "idioma": "en", "pais": "INT", "filtrar": True},
@@ -89,6 +113,18 @@ FONTES = [
     {"nome": "Google News (EUA)", "gnews": "\"screen test\" OR audition Marvel OR DC OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "\"anime adaptation\" OR \"new anime\" announced", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "exclusive Marvel OR DC OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "\"to direct\" OR \"set to direct\" OR \"in talks to direct\" Marvel OR DC OR \"Star Wars\" OR superhero OR anime OR \"video game\"", "idioma": "en", "pais": "INT", "filtrar": True},
+    # --- Lá fora: luto (atores, dubladores, criadores) ---
+    {"nome": "Google News (EUA)", "gnews": "\"voice actor\" OR \"voice actress\" OR seiyuu dies OR \"passed away\" OR \"has died\"", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "actor OR actress OR director dies Marvel OR DC OR \"Star Wars\" OR \"Star Trek\" OR \"Harry Potter\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "mangaka OR \"manga artist\" OR \"anime director\" OR animator OR \"comic book artist\" dies OR \"passed away\"", "idioma": "en", "pais": "INT", "filtrar": True},
+    # --- Lá fora: análises, críticas e primeiras reações ---
+    {"nome": "Google News (EUA)", "gnews": "\"first reactions\" Marvel OR DC OR \"Star Wars\" OR anime OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "review Marvel OR DC OR Batman OR Superman OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "\"Rotten Tomatoes\" Marvel OR DC OR \"Star Wars\" OR anime OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
+    # --- Lá fora: eventos ---
+    {"nome": "Google News (EUA)", "gnews": "\"Comic-Con\" OR \"Anime Expo\" OR \"New York Comic Con\" OR D23 OR \"Star Wars Celebration\"", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "\"Summer Game Fest\" OR Gamescom OR \"Tokyo Game Show\" OR \"The Game Awards\" OR \"Nintendo Direct\" OR \"State of Play\"", "idioma": "en", "pais": "INT", "filtrar": True},
     # --- Memes: os mais votados do dia nas comunidades de fãs ---
     # Todas as comunidades num pedido só: o Reddit barra quem pede vários feeds seguidos.
     # Para acrescentar uma comunidade, ponha o nome aqui e a categoria dela (veja CATEGORIAS).
@@ -111,9 +147,23 @@ FONTES = [
     {"nome": "Universo HQ", "url": "https://www.universohq.com/feed/", "pais": "BR", "tema": "hq"},
     {"nome": "AnimeNew", "url": "https://animenew.com.br/feed/", "pais": "BR", "tema": "animes"},
     {"nome": "Intoxi Anime", "url": "https://www.intoxianime.com/feed/", "pais": "BR", "tema": "animes"},
+    {"nome": "Crunchyroll Brasil", "url": "https://cr-news-api-service.prd.crunchyrollsvc.com/v1/pt-BR/rss", "pais": "BR", "tema": "animes"},
+    {"nome": "Anime United", "url": "https://www.animeunited.com.br/feed/", "pais": "BR", "filtrar": True},
+    {"nome": "Cinepop", "url": "https://cinepop.com.br/feed/", "pais": "BR", "filtrar": True},
+    {"nome": "Mix de Séries", "url": "https://www.mixdeseries.com.br/feed/", "pais": "BR", "filtrar": True},
+    {"nome": "TecMundo", "url": "https://rss.tecmundo.com.br/feed", "pais": "BR", "filtrar": True},
+    {"nome": "Arkade", "url": "https://arkade.com.br/feed/", "pais": "BR", "tema": "games"},
+    {"nome": "Nintendo Blast", "url": "https://www.nintendoblast.com.br/feeds/posts/default", "pais": "BR", "tema": "games"},
+    {"nome": "GameVicio", "url": "https://www.gamevicio.com/rss/", "pais": "BR", "tema": "games"},
+    {"nome": "Pizza Fria", "url": "https://pizzafria.com.br/feed/", "pais": "BR", "tema": "games"},
     {"nome": "Google News (BR)", "gnews": "Marvel OR DC elenco OR escalado OR \"vai interpretar\"", "idioma": "pt", "pais": "BR", "filtrar": True},
     {"nome": "Google News (BR)", "gnews": "anime OR mangá", "idioma": "pt", "pais": "BR", "filtrar": True},
     {"nome": "Google News (BR)", "gnews": "PlayStation OR Xbox OR Nintendo OR videogame", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "\"vai dirigir\" OR dirigirá OR \"novo diretor\" Marvel OR DC OR \"Star Wars\" OR anime", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "dublador OR dubladora morre OR faleceu OR falece", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "ator OR atriz OR diretor morre OR faleceu Marvel OR DC OR anime OR \"Star Wars\" OR \"Harry Potter\"", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "crítica OR análise OR \"primeiras reações\" Marvel OR DC OR anime OR \"Star Wars\"", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "CCXP OR \"Anime Friends\" OR \"Brasil Game Show\" OR Perifacon OR \"Geek City\"", "idioma": "pt", "pais": "BR", "filtrar": True},
 ]
 
 # =============================================================================
@@ -159,7 +209,8 @@ CATEGORIAS = {
             yu gi oh, fullmetal, death note, tokyo ghoul, haikyu, re zero, sword art online, mob psycho,
             one punch man, vinland saga, dr stone, black clover, fire force, jojo, made in abyss, isekai,
             otaku, light novel, makoto shinkai, hayao miyazaki, miyazaki, akira toriyama, eiichiro oda,
-            pokemon anime, the apothecary diaries, kagurabachi, gachiakuta
+            pokemon anime, the apothecary diaries, kagurabachi, gachiakuta, seiyuu, mangaka, manga artist,
+            anime director, anime friends, anime japan, jump festa, comiket
         """,
     },
     "games": {
@@ -177,7 +228,8 @@ CATEGORIAS = {
             state of play, nintendo direct, xbox showcase, dlc, early access, esports, brasil game show,
             bethesda, skyrim, elder scrolls, starfield, persona 5, persona 6, atlus, monster hunter, kingdom hearts,
             dragon quest, metroid, kirby, donkey kong, crash bandicoot, silent hill, dead space, bioshock,
-            marvel rivals, ghost of yotei, clair obscur, fallout 5, the witcher 4
+            marvel rivals, ghost of yotei, clair obscur, fallout 5, the witcher 4, blizzcon, bgs, xbox games showcase,
+            ubisoft forward
         """,
     },
     "desenhos": {
@@ -192,7 +244,9 @@ CATEGORIAS = {
             ninja turtles, tartarugas ninja, tmnt, spider verse, aranhaverso, toy story, shrek, frozen 3,
             zootopia, moana, inside out 2, inside out 3, divertida mente, kpop demon hunters, guerreiras do k pop,
             hazbin hotel, helluva boss, bluey, my little pony, ben 10, teen titans go, x men 97,
-            batman caped crusader, tom and jerry, tom e jerry, pica pau, irmao do jorel, turma da monica
+            batman caped crusader, tom and jerry, tom e jerry, pica pau, irmao do jorel, turma da monica,
+            voice actor, voice actress, voice actors, dublador, dubladora, dubladores, dublagem, animator, animador,
+            animadora, annecy, festival de annecy
         """,
     },
     "hq": {
@@ -201,7 +255,7 @@ CATEGORIAS = {
             comics, comic book, comic books, graphic novel, hq, hqs, quadrinho, quadrinhos, gibi, gibis,
             image comics, dark horse, boom studios, idw, mauricio de sousa, turma da monica, spawn, hellboy,
             marvel comics, dc comics, absolute batman, absolute superman, ultimate spider man, omnibus,
-            panini, panini comics, eisner
+            panini, panini comics, eisner, quadrinista, cartunista, cartoonist, comic book artist, comic artist
         """,
     },
     "pop": {
@@ -217,6 +271,7 @@ CATEGORIAS = {
             the last of us, squid game, round 6, percy jackson, hunger games, jogos vorazes, avatar, tron,
             five nights at freddy, indiana jones, back to the future, de volta para o futuro, the walking dead,
             fallout season, fallout series, comic con, san diego comic con, ccxp, anime expo, d23, cosplay,
+            new york comic con, nycc, sdcc, wondercon, star wars celebration, perifacon, geek city, comic con experience,
             geek, nerd, funko, lego, dungeons dragons, rpg, sci fi, ficcao cientifica, superhero, superheroes,
             super heroi, super herois
         """,
@@ -232,6 +287,9 @@ PALAVRAS_DE_FORMATO = {
     "cartoon", "cartoons", "geek", "nerd", "superhero", "superheroes", "super heroi", "super herois", "sci fi",
     "ficcao cientifica", "cosplay", "rpg", "anime", "animes", "manga", "mangas", "video game", "video games",
     "videogame", "videogames", "gameplay", "gamer", "gamers", "console",
+    "voice actor", "voice actress", "voice actors", "dublador", "dubladora", "dubladores", "dublagem", "animator",
+    "animador", "animadora", "seiyuu", "mangaka", "manga artist", "quadrinista", "cartunista", "cartoonist",
+    "comic book artist", "comic artist",
 }
 
 # Siglas que só significam algo geek em português ("Warner Bros HQ" é sede, não quadrinho).
@@ -260,6 +318,11 @@ PADROES_ESCALACAO = [
     r" negocia(m)? para ", r" cotad[oa]s? ", r" favorit[oa]s? (para|ao) (o )?papel", r" teste de (elenco|camera|tela)",
     r" audicao", r" assume o papel", r" dara vida", r" elenco de dublagem", r" fotos do set", r" bastidores",
     r" (gravacoes|filmagens) (comecam|comecaram|terminam|terminaram|iniciadas|encerradas)",
+    # direção: quem vai dirigir
+    r" (to|will|set to|in talks to|tapped to|eyed to|tipped to|signs on to|signed to) (direct|helm) ",
+    r" (taps|hires|adds|lands|nabs) [a-z0-9 ]{3,40} to (direct|helm) ", r" new director", r" directing (the )?(new |next )?",
+    r" vai dirigir", r" dirigira ", r" (novo|nova) (diretor|diretora) ", r" assume a direcao", r" sera dirigid[oa]",
+    r" (no|na) direcao (de|do|da) ", r" para dirigir ",
 ]
 # Padrões ambíguos em notícias de games ("X joins Fortnite", "modo treino"),
 # por isso só contam quando a notícia não é de games.
@@ -269,6 +332,39 @@ PADROES_ESCALACAO_FORA_GAMES = [
     r" transformation ", r" workout", r" physique", r" elenco ", r" papel ", r" se prepara", r" preparacao",
     r" treino", r" treinamento", r" transformacao", r" primeira (imagem|foto|olhada)",
     r" (em|entrar em|entrando em|mantendo em|manter em) forma ", r" (staying|getting|keeping) in shape",
+]
+
+# Luto: morte de atores, dubladores, criadores... Só manchetes claras de falecimento
+# ("dies at 82", "faleceu") ou "morre/dies" junto de uma profissão; spoiler de personagem não conta.
+PADROES_LUTO = [
+    r" (passes|passed) away", r" has died", r" obituary", r" in memoriam", r" rest in peace", r" memorialized",
+    r" (dies|died|dead) (at|aged) \d+", r" faleceu", r" falece ", r" falecimento", r" morre aos",
+    r" morreu aos", r" morre (o|a) (ator|atriz|dublador|dubladora|diretor|diretora|criador|criadora|autor|autora)",
+]
+PADROES_LUTO_COM_PROFISSAO = [r" dies ", r" died ", r" morre ", r" morreu ", r" morte (de|do|da) "]
+PROFISSOES = re.compile(
+    r" (actor|actress|voice actor|voice actress|seiyuu|star(?! wars| trek| citizen| fox)|creator|director|artist|animator|composer|producer|writer|"
+    r"author|mangaka|cartoonist|illustrator|legend|icon|ator|atriz|dublador|dubladora|voz|criador|criadora|diretor|"
+    r"diretora|autor|autora|artista|desenhista|quadrinista|cartunista|roteirista|produtor|produtora|compositor|lenda) "
+)
+PADROES_NAO_LUTO = [
+    r" who dies", r" characters? (dies|died|death)", r" (dies|died|morre|morreu) (in|no|na|em) (the |o |a )?(episode|season|"
+    r"chapter|finale|episodio|temporada|capitulo|final|scene|cena)", r" personage(m|ns)", r" killed off", r" every ",
+    r" todas as mortes", r" spoiler", r" deaths? in ", r" mortes? (mais|de personagens)", r" theory", r" teoria",
+]
+# Grandes eventos (CCXP, Comic-Con, BGS...): o nome do evento vira hashtag do post.
+EVENTOS = """
+    ccxp, comic con experience, comic con, san diego comic con, sdcc, new york comic con, nycc, wondercon, c2e2,
+    anime expo, anime friends, anime japan, jump festa, comiket, d23, star wars celebration, brasil game show, bgs,
+    gamescom, summer game fest, tokyo game show, the game awards, blizzcon, perifacon, geek city, festival de annecy,
+    annecy, nintendo direct, state of play, xbox games showcase, xbox showcase, ubisoft forward, ign live
+"""
+# Análises: críticas, notas e primeiras reações (muitas vezes saem lá fora antes da estreia aqui).
+PADROES_ANALISE = [
+    r" reviews? ", r" first reactions?", r" early reactions?", r" social reactions?", r" reactions? (are|is) in",
+    r" critics? (say|praise|call|react|consensus|are)", r" rotten tomatoes", r" cinemascore", r" metacritic",
+    r" review roundup", r" verdict", r" analise ", r" critica ", r" criticas ", r" primeiras reacoes", r" reacoes ",
+    r" nota (no|do) rotten", r" vale a pena",
 ]
 
 # O site é público: nada de conteúdo adulto, venha de onde vier.
@@ -345,6 +441,10 @@ class Noticia:
     categorias: List[str] = field(default_factory=list)
     palavra_chave: str = ""
     escalacao: bool = False
+    luto: bool = False
+    evento: str = ""
+    analise: bool = False
+    link_resolvido: bool = False
     meme: bool = False
     ordem: int = 0
     furo: bool = False
@@ -414,6 +514,11 @@ PALAVRAS = preparar_palavras()
 RE_ESCALACAO = [re.compile(p) for p in PADROES_ESCALACAO]
 RE_ESCALACAO_FORA_GAMES = [re.compile(p) for p in PADROES_ESCALACAO_FORA_GAMES]
 RE_IGNORAR = [re.compile(p) for p in PADROES_IGNORAR]
+RE_LUTO = [re.compile(p) for p in PADROES_LUTO]
+RE_LUTO_COM_PROFISSAO = [re.compile(p) for p in PADROES_LUTO_COM_PROFISSAO]
+RE_NAO_LUTO = [re.compile(p) for p in PADROES_NAO_LUTO]
+RE_ANALISE = [re.compile(p) for p in PADROES_ANALISE]
+LISTA_EVENTOS = sorted({e for e in (normalizar(x).strip() for x in EVENTOS.split(",")) if e}, key=len, reverse=True)
 # "Jacob Elordi será o Brainiac": nome, "será o/a" e outro nome com maiúscula
 # (manchete brasileira só usa maiúscula em nome próprio).
 RE_SERA_PERSONAGEM = re.compile(
@@ -434,6 +539,23 @@ def classificar(texto_norm: str, pais: str = "BR") -> Tuple[List[str], Dict[str,
         key=lambda c: (-achados[c][0], -achados[c][1], ORDEM_CATEGORIAS.index(c)),
     )
     return ordem, {c: achados[c][2] for c in ordem}
+
+
+def eh_luto(titulo_norm: str) -> bool:
+    if any(r.search(titulo_norm) for r in RE_NAO_LUTO):
+        return False
+    if any(r.search(titulo_norm) for r in RE_LUTO):
+        return True
+    return any(r.search(titulo_norm) for r in RE_LUTO_COM_PROFISSAO) and bool(PROFISSOES.search(titulo_norm))
+
+
+def evento_em(titulo_norm: str) -> str:
+    """Nome do grande evento citado na manchete (ou vazio)."""
+    return next((e for e in LISTA_EVENTOS if f" {e} " in titulo_norm), "")
+
+
+def eh_analise(titulo_norm: str) -> bool:
+    return any(r.search(titulo_norm) for r in RE_ANALISE)
 
 
 def eh_escalacao(titulo: str, titulo_norm: str, categoria: str) -> bool:
@@ -491,6 +613,48 @@ def url_google_news(consulta: str, idioma: str, dias: int) -> str:
     else:
         params.update(hl="en-US", gl="US", ceid="US:en")
     return "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
+
+
+def resolver_google_news(url: str) -> str:
+    """Link real da matéria por trás de um link do Google Notícias (vazio se não der).
+
+    Assim a notícia achada pela busca pode ir para o Geek em Órbita com foto e
+    link direto para a fonte, e o "Copiar post" leva o link da própria matéria.
+    """
+    if not url.startswith("https://news.google.com/"):
+        return ""
+    ident = urllib.parse.urlparse(url).path.rsplit("/", 1)[-1]
+    if not re.fullmatch(r"[A-Za-z0-9_-]{20,}", ident):
+        return ""
+    try:
+        pagina = baixar(f"https://news.google.com/rss/articles/{ident}", timeout=10).decode("utf-8", "replace")
+        assinatura = re.search(r'data-n-a-sg="([^"]+)"', pagina)
+        momento = re.search(r'data-n-a-ts="(\d+)"', pagina)
+        if not (assinatura and momento):
+            return ""
+        pedido = json.dumps(["garturlreq", [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None,
+                                             None, None, 0, 1], "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+                             ident, int(momento.group(1)), assinatura.group(1)])
+        corpo = urllib.parse.urlencode({"f.req": json.dumps([[["Fbv4je", pedido, None, "generic"]]])}).encode()
+        req = urllib.request.Request(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute", data=corpo,
+            headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8", "User-Agent": USER_AGENT},
+        )
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            texto = resp.read().decode("utf-8", "replace")
+    except (OSError, ValueError):
+        return ""
+    for linha in texto.splitlines():
+        if not linha.startswith('[["wrb.fr"'):
+            continue
+        try:
+            resposta = json.loads(json.loads(linha)[0][2])
+        except (ValueError, TypeError, IndexError):
+            continue
+        if isinstance(resposta, list) and len(resposta) > 1 and resposta[0] == "garturlres":
+            real = link_seguro(str(resposta[1]))
+            return real if real and "news.google.com" not in real else ""
+    return ""
 
 
 def _sem_namespace(tag) -> str:
@@ -741,7 +905,11 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
         categorias = [pela_url or noticia.tema or fonte.get("tema") or "pop"]
     noticia.categorias = categorias
     noticia.palavra_chave = palavras.get(categorias[0], "")
-    noticia.escalacao = not noticia.meme and eh_escalacao(noticia.titulo, titulo_norm, categorias[0])
+    if not noticia.meme:
+        noticia.luto = eh_luto(titulo_norm)
+        noticia.evento = evento_em(titulo_norm)
+        noticia.analise = bool(fonte.get("analise")) or eh_analise(titulo_norm)
+    noticia.escalacao = not noticia.meme and not noticia.luto and eh_escalacao(noticia.titulo, titulo_norm, categorias[0])
     noticia.tokens = tokens_titulo(noticia.titulo)
     noticia.chaves = [hashlib.sha1(noticia.link.encode("utf-8")).hexdigest()[:16]]
     return True
@@ -805,6 +973,8 @@ def pontuar(n: Noticia, agora: dt.datetime) -> float:
         2 * len(n.outras_fontes)
         + (3 if n.furo else 0)
         + (2 if n.escalacao else 0)
+        + (3 if n.luto else 0)
+        + (1 if n.analise or n.evento else 0)
         + (1 if n.nova else 0)
         + max(0.0, 3 - max(horas, 0) / 8)
     )
@@ -890,7 +1060,10 @@ def arquivar_artigos(destino, payload):
 # Saída: texto pronto para o canal, terminal, HTML e TXT
 # =============================================================================
 SECOES = [
-    ("escalacoes", "🎭", "Escalações & Bastidores", "Atores escalados, negociações, testes de elenco, preparação para papéis e filmagens."),
+    ("escalacoes", "🎭", "Escalações & Bastidores", "Atores, atrizes e diretores escalados, negociações, testes de elenco, preparação para papéis e filmagens."),
+    ("luto", "🕯️", "Luto no mundo geek", "Morte de atores, dubladores, diretores, criadores e artistas de filmes, séries, animes, quadrinhos e games."),
+    ("analises", "🧐", "Análises & primeiras reações", "Críticas, notas e primeiras reações da imprensa e dos críticos lá de fora."),
+    ("eventos", "🎪", "Eventos", "CCXP, Comic-Con, Anime Friends, BGS, Anime Expo, The Game Awards e outros grandes eventos."),
     ("furos", "🔥", "Saiu lá fora primeiro", "Notícias gringas que ainda não apareceram nos sites brasileiros monitorados."),
     ("memes", "😂", "Memes", "Os memes mais votados do dia nas comunidades de fãs e as notícias sobre memes."),
 ] + [(c, CATEGORIAS[c]["emoji"], CATEGORIAS[c]["nome"], "") for c in ORDEM_CATEGORIAS]
@@ -899,8 +1072,14 @@ SECOES = [
 def secao_da(n: Noticia) -> str:
     if n.meme:
         return "memes"
+    if n.luto:
+        return "luto"
     if n.escalacao:
         return "escalacoes"
+    if n.analise:
+        return "analises"
+    if n.evento:
+        return "eventos"
     if n.furo:
         return "furos"
     return n.categorias[0]
@@ -977,7 +1156,7 @@ def gerar_json(por_secao, agora):
     artigos, vistos = [], set()
     for lista in por_secao.values():
         for n in lista:
-            if n.data is None or n.via_google:
+            if n.data is None or (n.via_google and not n.link_resolvido):
                 continue
             if n.pais == "INT" and not n.titulo_original and not n.meme:
                 continue  # uma tradução indisponível não substitui o conteúdo em português
@@ -1032,10 +1211,12 @@ def gerar_json(por_secao, agora):
                 "image": n.imagem, "alt": f"Imagem publicada por {n.fonte}",
                 "imageCredit": f"Imagem: {n.fonte}", "syndicated": True, "meme": n.meme,
                 "translated": bool(n.titulo_original), "originalTitle": n.titulo_original or n.titulo,
+                "tags": [t for t, ativo in (("escalacao", n.escalacao), ("luto", n.luto), ("analise", n.analise),
+                                            ("evento", bool(n.evento)), ("furo", n.furo)) if ativo],
             })
     artigos.sort(key=lambda a: a["publishedAt"], reverse=True)
     with cf.ThreadPoolExecutor(max_workers=8) as pool:
-        com_foto = [a for a in pool.map(completar_foto, artigos[:80]) if a]
+        com_foto = [a for a in pool.map(completar_foto, artigos[:120]) if a]
     return {"schemaVersion": 1, "updatedAt": agora.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z"), "articles": com_foto}
 
 
@@ -1045,6 +1226,14 @@ def hashtags(n: Noticia) -> str:
         tag = "#" + "".join(p.capitalize() for p in n.palavra_chave.split())
         if tag.lower() not in (t.lower() for t in tags) and len(tag) > 3:
             tags.insert(0, tag)
+    if n.evento:
+        nome = n.evento.upper().replace(" ", "") if len(n.evento) <= 5 else "".join(p.capitalize() for p in n.evento.split())
+        if f"#{nome}".lower() not in (t.lower() for t in tags):
+            tags.insert(0, f"#{nome}")
+    if n.luto:
+        tags.insert(0, "#Luto")
+    if n.analise:
+        tags.append("#Critica")
     extras = ["#Memes", "#MemesGeek"] if n.meme else ["#NoticiasGeek", "#UniversoGeek"]
     return " ".join(tags + extras)
 
@@ -1054,6 +1243,12 @@ def texto_post(n: Noticia) -> str:
     cabecalho = f"{cat['emoji']} {cat['nome'].upper()}"
     if n.meme:
         cabecalho = f"😂 MEME | {cabecalho}"
+    if n.luto:
+        cabecalho = f"🕯️ LUTO | {cabecalho}"
+    if n.analise:
+        cabecalho += " | 🧐 ANÁLISE"
+    if n.evento:
+        cabecalho += " | 🎪 EVENTO"
     if n.escalacao:
         cabecalho += " | 🎭 ESCALAÇÃO & BASTIDORES"
     if n.furo:
@@ -1067,6 +1262,12 @@ def texto_post(n: Noticia) -> str:
 
 def selos(n: Noticia) -> List[str]:
     s = ["😂 Meme"] if n.meme else []
+    if n.luto:
+        s.append("🕯️ Luto")
+    if n.analise:
+        s.append("🧐 Análise")
+    if n.evento:
+        s.append("🎪 Evento")
     if n.escalacao:
         s.append("🎭 Escalação/Bastidores")
     if n.furo:
@@ -1088,7 +1289,8 @@ def imprimir_terminal(por_secao, agora, falhas, arquivo_html, arquivo_txt, total
             continue
         print(f"\n{emoji} {nome.upper()} ({len(lista)})")
         for n in lista[:por_tela]:
-            marcas = ("🆕" if n.nova else "") + ("🔥" if n.furo else "") + ("🎭" if n.escalacao else "")
+            marcas = ("🆕" if n.nova else "") + ("🔥" if n.furo else "") + ("🎭" if n.escalacao else "") \
+                + ("🕯️" if n.luto else "") + ("🧐" if n.analise else "") + ("🎪" if n.evento else "")
             extra = f" +{len(n.outras_fontes)} sites" if n.outras_fontes else ""
             print(f"  {marcas + ' ' if marcas else ''}{n.titulo}")
             print(f"     {n.fonte} · {ha_quanto(n.data, agora)}{extra} · {n.link}")
@@ -1449,6 +1651,16 @@ def main() -> int:
             tradutor.traduzir_noticia(n)
         if not tradutor.ativo:
             print("   ⚠️  O tradutor parou de responder; parte das notícias ficou em inglês.")
+
+    google = [n for lista in por_secao.values() for n in lista if n.via_google][:80]
+    if google:
+        print(f"🔗 Buscando o link original de {len(google)} notícias achadas no Google Notícias…")
+        with cf.ThreadPoolExecutor(max_workers=4) as pool:
+            reais = list(pool.map(lambda n: resolver_google_news(n.link), google))
+        for n, real in zip(google, reais):
+            if real and url_publica(real):
+                n.link, n.link_resolvido = real, True
+        print(f"   {sum(n.link_resolvido for n in google)} de {len(google)} com o link da própria matéria.")
 
     pasta_saida = Path(args.saida)
     pasta_saida.mkdir(parents=True, exist_ok=True)
