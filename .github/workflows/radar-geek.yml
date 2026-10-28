@@ -1,11 +1,13 @@
 # Radar Geek: varre as notícias geek e publica a página noticias/ do site.
-# Roda sozinho a cada 3 horas. Para rodar na hora: aba Actions > Radar Geek > Run workflow.
+# Atualiza sozinho mais ou menos a cada 2 horas. Para rodar na hora: aba Ações > Radar Geek > Run workflow.
 name: Radar Geek
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */3 * * *"   # a cada 3 horas (horário UTC; no Brasil: 0h17, 3h17, 6h17...)
+    # O GitHub costuma atrasar ou pular rodadas agendadas. Por isso o radar tenta toda hora
+    # e só atualiza quando a última atualização tem mais de ~2 horas (veja "verificar").
+    - cron: "43 * * * *"
   push:
     paths:
       - "radar-geek/**"
@@ -20,9 +22,42 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  radar:
+  verificar:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 5
+    outputs:
+      rodar: ${{ steps.hora.outputs.rodar }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ver se já está na hora de atualizar
+        id: hora
+        env:
+          EVENTO: ${{ github.event_name }}
+        run: |
+          if [ "$EVENTO" != "schedule" ]; then
+            echo "Rodada pedida à mão ou por mudança no código: atualiza agora."
+            echo "rodar=sim" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          minutos=$(python3 - <<'EOF'
+          import datetime as dt, json
+          try:
+              feito = json.load(open("noticias/news.json", encoding="utf-8"))["updatedAt"]
+              antes = dt.datetime.fromisoformat(feito.replace("Z", "+00:00"))
+              print(int((dt.datetime.now(dt.timezone.utc) - antes).total_seconds() // 60))
+          except Exception:
+              print(9999)
+          EOF
+          )
+          echo "Última atualização há $minutos minutos."
+          if [ "$minutos" -ge 110 ]; then echo "rodar=sim" >> "$GITHUB_OUTPUT"; else echo "rodar=nao" >> "$GITHUB_OUTPUT"; fi
+
+  radar:
+    needs: verificar
+    if: needs.verificar.outputs.rodar == 'sim'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -33,7 +68,7 @@ jobs:
         env:
           TZ: America/Sao_Paulo
         run: >
-          python3 radar-geek/radar_geek.py --traduzir --max 12 --nao-abrir
+          python3 radar-geek/radar_geek.py --traduzir --max 15 --nao-abrir
           --saida saida --pagina noticias/index.html --json noticias/news.json
 
       - name: Posts prontos para copiar
