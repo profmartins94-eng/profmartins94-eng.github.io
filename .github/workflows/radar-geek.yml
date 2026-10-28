@@ -26,12 +26,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Conferir o formato das notícias do site
+        run: python3 -m unittest discover -s radar-geek -p 'test_*.py'
+
       - name: Rodar o radar
         env:
           TZ: America/Sao_Paulo
         run: >
           python3 radar-geek/radar_geek.py --traduzir --max 12 --nao-abrir
-          --saida saida --pagina noticias/index.html
+          --saida saida --pagina noticias/index.html --json noticias/news.json
 
       - name: Posts prontos para copiar
         if: always()
@@ -63,6 +66,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add noticias/index.html
+          if [ -f noticias/news.json ]; then git add noticias/news.json; fi
+          if [ -f noticias/archive-index.json ]; then git add noticias/archive-index.json noticias/artigos/; fi
           if git diff --cached --quiet; then
             echo "A página não mudou."
             exit 0
