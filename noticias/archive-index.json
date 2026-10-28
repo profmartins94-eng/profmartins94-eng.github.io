@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T02:00:31.259330Z",
+  "updatedAt": "2026-10-28T02:28:40.674638Z",
   "articles": [
+    {
+      "id": "radar-ab1937bcff02f8de",
+      "publishedAt": "2026-10-28T02:14:05Z",
+      "title": "Vazamento do enredo do episódio X de Star Wars revela novas pistas e planos da franquia para Rey Skywalker"
+    },
+    {
+      "id": "radar-6a0a2838c8257600",
+      "publishedAt": "2026-10-28T02:13:18Z",
+      "title": "15 melhores sementes de Minecraft para aldeias"
+    },
+    {
+      "id": "radar-e92ae1cb377ff83c",
+      "publishedAt": "2026-10-28T02:01:00Z",
+      "title": "VisionQuest finalmente apresenta um dos Vingadores mais estranhos"
+    },
     {
       "id": "radar-8d2d8aee34719cf2",
       "publishedAt": "2026-10-28T02:00:28Z",
       "title": "DC estreia oficialmente um redesenho inacreditável para Classic Hero"
+    },
+    {
+      "id": "radar-9e0327f835e09298",
+      "publishedAt": "2026-10-28T02:00:28Z",
+      "title": "Vilão do Homem de Ferro retorna oficialmente ao MCU após 18 anos"
+    },
+    {
+      "id": "radar-d8b7dcd740d47a7b",
+      "publishedAt": "2026-10-28T02:00:28Z",
+      "title": "6 maneiras pelas quais Gotham City do DCU é diferente dos filmes do Batman de Reeves, Nolan e Burton"
     },
     {
       "id": "radar-f05237f98f6bcdf0",
@@ -18,14 +43,54 @@
       "title": "Skyrim encontra Stardew Valley em novo RPG de mundo aberto que você pode jogar gratuitamente agora"
     },
     {
+      "id": "radar-98ff8d5715578807",
+      "publishedAt": "2026-10-28T02:00:00Z",
+      "title": "Revisão do episódio 6 do VisionQuest: O método Marvel ataca novamente"
+    },
+    {
+      "id": "radar-b7684b6c23379e5a",
+      "publishedAt": "2026-10-28T02:00:00Z",
+      "title": "VISIONQUEST traz de volta um dos primeiros vilões do MCU"
+    },
+    {
+      "id": "radar-ff315313a28af1ef",
+      "publishedAt": "2026-10-28T02:00:00Z",
+      "title": "Yome ga Kuru Artista saku lança novo Kimi to Sakura no Hanataba wo Manga"
+    },
+    {
+      "id": "radar-02ad0729f5b49e56",
+      "publishedAt": "2026-10-28T02:00:00Z",
+      "title": "VisionQuest finalmente explica o maior buraco na trama de Vingadores: Era de Ultron"
+    },
+    {
       "id": "radar-59bcb13f7b6d76b2",
-      "publishedAt": "2026-10-28T01:53:46Z",
+      "publishedAt": "2026-10-28T01:53:00Z",
       "title": "As primeiras reações da terceira temporada de The Rings Of Power estão oficialmente disponíveis"
     },
     {
       "id": "radar-1e1c9d0ebb2b8e62",
       "publishedAt": "2026-10-28T01:52:00Z",
       "title": "BAND-MAID lança videoclipe do tema BEYBLADE X Anime Bey Kingdom Arc Ending Theme"
+    },
+    {
+      "id": "radar-99d15900743d192c",
+      "publishedAt": "2026-10-28T01:44:32Z",
+      "title": "Overman tem personagem influencer inspirada em Anitta: “Ouvi muito no set”"
+    },
+    {
+      "id": "radar-ba4f48a10d59f452",
+      "publishedAt": "2026-10-28T01:43:38Z",
+      "title": "Dragon Ball Super: Beerus já é uma grande decepção antes de sua maior batalha"
+    },
+    {
+      "id": "radar-e7fedd4d14034c46",
+      "publishedAt": "2026-10-28T01:41:09Z",
+      "title": "Ex-Ghibli libera filme para streaming nos EUA, mas adia Blu-ray para 2027 e testa novo jogo de receita no anime"
+    },
+    {
+      "id": "radar-e21ff86c45f67e57",
+      "publishedAt": "2026-10-28T01:30:14Z",
+      "title": "One Piece está oficialmente se despedindo de Sanji como o conhecemos"
     },
     {
       "id": "radar-2f398d97bd220078",
@@ -43,6 +108,16 @@
       "title": "5 obras-primas de filmes de anime melhores que o castelo em movimento de Howl"
     },
     {
+      "id": "radar-8b77ee2b5ec3f13a",
+      "publishedAt": "2026-10-28T01:11:19Z",
+      "title": "Revisão dos episódios 5 e 6 do VisionQuest: Ultron assume o controle e a Marvel traz de volta um rosto familiar"
+    },
+    {
+      "id": "radar-cb48e6f2d159fd86",
+      "publishedAt": "2026-10-28T01:00:17Z",
+      "title": "3 próximos RPGs de ficção científica melhores do que esperar por um novo efeito em massa"
+    },
+    {
       "id": "radar-b6c3732cb3be6da1",
       "publishedAt": "2026-10-28T01:00:11Z",
       "title": "A Marvel acaba de mudar 18 anos de história do MCU do Homem de Ferro em um único episódio"
@@ -58,9 +133,59 @@
       "title": "Recapitulação e revisão dos episódios 5 e 6 do VisionQuest da Marvel"
     },
     {
+      "id": "radar-c42de7683a68d7af",
+      "publishedAt": "2026-10-28T01:00:00Z",
+      "title": "Revisão do episódio 5 do VisionQuest: A nova era de Ultron"
+    },
+    {
+      "id": "radar-2dec54582379226b",
+      "publishedAt": "2026-10-28T00:59:00Z",
+      "title": "Sexta-Feira em Apuros | Ice Cube voltará para nova continuação com diretor de Um Dia Daqueles"
+    },
+    {
+      "id": "radar-135f7d99ef1af8b1",
+      "publishedAt": "2026-10-28T00:51:00Z",
+      "title": "Ninguém Quer | 3ª temporada tem queda de audiência na Netflix, veja números"
+    },
+    {
+      "id": "radar-5e947959f65b7289",
+      "publishedAt": "2026-10-28T00:37:08Z",
+      "title": "VisionQuest: robô superpoderoso explora IA na Marvel"
+    },
+    {
+      "id": "radar-45600bf3a2626401",
+      "publishedAt": "2026-10-28T00:33:00Z",
+      "title": "Oscar 2027 | Coyote vs Acme tentará vaga como Melhor Filme de Animação"
+    },
+    {
+      "id": "radar-ad4132a544c18bc8",
+      "publishedAt": "2026-10-28T00:30:14Z",
+      "title": "Hunter x Hunter: 6 personagens que podem rivalizar com o adulto Gon"
+    },
+    {
+      "id": "radar-9cbba17b617c3845",
+      "publishedAt": "2026-10-28T00:30:00Z",
+      "title": "Review – Dragon’s Dogma 2: Dark Arisen é a versão definitiva do jogo de 2024"
+    },
+    {
+      "id": "radar-355ccd6e0be4c597",
+      "publishedAt": "2026-10-28T00:26:10Z",
+      "title": "Um novo filme dos Caça-Fantasmas pode estar em andamento, mas você não precisa esperar para se vestir como a equipe original"
+    },
+    {
       "id": "radar-ea4606577bf83ffe",
       "publishedAt": "2026-10-28T00:16:01Z",
       "title": "Jogar Battlefront é como!"
+    },
+    {
+      "id": "radar-a7e1ca61f947b5c3",
+      "publishedAt": "2026-10-28T00:14:25Z",
+      "title": "Marvel Studios revela os primeiros 8 filmes e programas Disney + da Fase 7 da Saga Mutante"
+    },
+    {
+      "id": "radar-25cf6ce1f5479aac",
+      "publishedAt": "2026-10-28T00:08:00Z",
+      "title": "Tudo Pode Ser Visto | Nathan Fielder e Lance Oppenheim estão inelegíveis para prêmio do Sindicato dos Diretores"
     },
     {
       "id": "radar-7f74e20cd349655c",
@@ -88,6 +213,11 @@
       "title": "A CW merece elogios por adaptar com sucesso uma das maiores equipes de super-heróis de todos os tempos"
     },
     {
+      "id": "radar-ef955e56e9f83f27",
+      "publishedAt": "2026-10-27T23:48:00Z",
+      "title": "Os Pássaros | Adaptação com Sarah Snook está em desenvolvimento pela HBO"
+    },
+    {
       "id": "radar-7772f9a48aee0f8a",
       "publishedAt": "2026-10-27T23:46:09Z",
       "title": "O filme BioShock acabou de atingir outro obstáculo?"
@@ -101,6 +231,11 @@
       "id": "radar-3b1adfbb8162fb67",
       "publishedAt": "2026-10-27T23:44:12Z",
       "title": "Novo trailer de Live-Action Sins of Kujo Film revela música tema"
+    },
+    {
+      "id": "radar-cc29c14b319eea0c",
+      "publishedAt": "2026-10-27T23:43:12Z",
+      "title": "Reacher - Omelete"
     },
     {
       "id": "radar-05a24125526d3a0c",
@@ -138,6 +273,21 @@
       "title": "Star Wars substitui oficialmente a força"
     },
     {
+      "id": "radar-9a543dc1869c0fab",
+      "publishedAt": "2026-10-27T23:00:00Z",
+      "title": "O Senhor dos Anéis: A Caçada ao Gollum, Jamie Dornan, quebra o silêncio na reformulação de Aragorn"
+    },
+    {
+      "id": "radar-34bfbc367ccad677",
+      "publishedAt": "2026-10-27T22:45:42Z",
+      "title": "William Shatner se lembra do co-estrela de ‘Star Trek’ Walter Koenig"
+    },
+    {
+      "id": "radar-157b2ec8d568198f",
+      "publishedAt": "2026-10-27T22:42:00Z",
+      "title": "Jafar Panahi, diretor de Foi Apenas Um Acidente, é condenado a cinco anos de prisão à revelia no Irã"
+    },
+    {
       "id": "radar-421757e3adeb3f58",
       "publishedAt": "2026-10-27T22:40:11Z",
       "title": "9 anos depois, Gundam finalmente traz Mecha exclusivo esquecido para os EUA"
@@ -158,6 +308,21 @@
       "title": "Precure anuncia anime derivado com heroínas vilãs"
     },
     {
+      "id": "radar-a2005567a986c4f6",
+      "publishedAt": "2026-10-27T22:25:00Z",
+      "title": "Motoqueiro Fantasma terá diretor de fotografia de Duna: Parte 3"
+    },
+    {
+      "id": "radar-f28ee403dd1ae562",
+      "publishedAt": "2026-10-27T22:20:34Z",
+      "title": "K-dramas de outubro: 10 séries para ver no streaming este mês"
+    },
+    {
+      "id": "radar-ffd17a3ee14b1abd",
+      "publishedAt": "2026-10-27T22:18:36Z",
+      "title": "James Gunn confirma um novo nome para o enredo abrangente do DCU, e isso não deveria surpreendê-lo"
+    },
+    {
       "id": "radar-6560f4759f6b1fc1",
       "publishedAt": "2026-10-27T22:16:08Z",
       "title": "Schomburg, Doolittle's Raid Echoes in Exciting Comics #28, em leilão"
@@ -168,9 +333,24 @@
       "title": "As 10 técnicas Piccolo mais poderosas de Dragon Ball"
     },
     {
+      "id": "radar-e65730b427a284e8",
+      "publishedAt": "2026-10-27T22:14:00Z",
+      "title": "5 ótimas performances de Matthew Lillard que não são Scooby Doo, e o número 1 está em um dos melhores programas de TV já feitos"
+    },
+    {
+      "id": "radar-00faf1312bf4dedf",
+      "publishedAt": "2026-10-27T22:10:44Z",
+      "title": "NFL SuperPro: O super-herói da NFL que virou curiosidade"
+    },
+    {
       "id": "radar-6a5653a16bf06d45",
       "publishedAt": "2026-10-27T22:07:25Z",
       "title": "Você pode desbloquear muitas coisas grátis no evento Halloween 2026 do Pokémon Go"
+    },
+    {
+      "id": "radar-502f02b24d072333",
+      "publishedAt": "2026-10-27T22:03:08Z",
+      "title": "Homem-Aranha: os fãs do novo dia só agora estão percebendo este ovo de Páscoa sorrateiro de Zendaya"
     },
     {
       "id": "radar-b5a0945b3d1ee031",
@@ -228,9 +408,29 @@
       "title": "Todos os programas de TV de Nathan Fillion, classificados (de Firefly a lanternas)"
     },
     {
+      "id": "radar-74621ebde65354e6",
+      "publishedAt": "2026-10-27T21:45:00Z",
+      "title": "Motoqueiro Fantasma | Ator de Rivalidade Ardente deve ser vilão no filme da Marvel"
+    },
+    {
       "id": "radar-ea98ec172eeab98a",
       "publishedAt": "2026-10-27T21:44:12Z",
       "title": "5 programas de ficção científica da Netflix sem temporadas ruins, classificados"
+    },
+    {
+      "id": "radar-adfa2c4abea7b190",
+      "publishedAt": "2026-10-27T21:38:38Z",
+      "title": "Homem-Aranha: o sucesso do streaming multiplataforma do Brand New Day deixa os fãs de MCU com uma pergunta"
+    },
+    {
+      "id": "radar-c5b966644c96d685",
+      "publishedAt": "2026-10-27T21:35:56Z",
+      "title": "Star Wars: Starfighter Rumor revela o papel de Eva Mendes no filme de ficção científica de Ryan Gosling"
+    },
+    {
+      "id": "radar-9e930e938447f5b6",
+      "publishedAt": "2026-10-27T21:33:31Z",
+      "title": "Estrela de rivalidade acalorada Connor Storrie em negociações para interpretar o vilão no filme Ghost Rider do MCU"
     },
     {
       "id": "radar-2a0a7cf9f49211fb",
@@ -238,14 +438,34 @@
       "title": "Phantom Blade Zero supera Call of Duty na Steam"
     },
     {
+      "id": "radar-58476fc111922596",
+      "publishedAt": "2026-10-27T21:25:38Z",
+      "title": "Coyote vs. Acme surpreende fãs do Looney Tunes com campanha do Oscar na categoria Inesperada"
+    },
+    {
+      "id": "radar-ac5cad33e19c62d8",
+      "publishedAt": "2026-10-27T21:21:59Z",
+      "title": "Clayface coloca o DCU de James Gunn de volta aos trilhos com estreia em primeiro lugar nas bilheterias - IGN Daily Fix"
+    },
+    {
       "id": "radar-7ae293b5cd036cdf",
       "publishedAt": "2026-10-27T21:19:50Z",
       "title": "Shazam"
     },
     {
+      "id": "radar-79b8413293fb41cd",
+      "publishedAt": "2026-10-27T21:10:00Z",
+      "title": "O estado absoluto do DCU de James Gunn: é hora de uma nova liderança?"
+    },
+    {
       "id": "radar-b0a7758bc9185cbd",
       "publishedAt": "2026-10-27T21:08:53Z",
       "title": "A reinicialização do Ghost Rider de Ryan Gosling lança o vilão MCU com uma rivalidade acalorada"
+    },
+    {
+      "id": "radar-8372d3a504c372c2",
+      "publishedAt": "2026-10-27T21:04:53Z",
+      "title": "Superman 2 de James Gunn: Scooby-Doo Star confirma oficialmente personagem exclusivo do DCU"
     },
     {
       "id": "radar-acc66b8e19ff7682",
@@ -258,6 +478,21 @@
       "title": "VisionQuest: James Spader nunca esperava o retorno de Ultron"
     },
     {
+      "id": "radar-86a32fb0517e30a2",
+      "publishedAt": "2026-10-27T21:00:08Z",
+      "title": "WandaVision, Agatha Desde Sempre ou VisionQuest: qual é a melhor série da trilogia da Marvel?"
+    },
+    {
+      "id": "radar-7fe855590d209e8a",
+      "publishedAt": "2026-10-27T20:50:39Z",
+      "title": "Illinois Comic Con retornando a Peoria com Tom Kenny, Ron Perlman e mais"
+    },
+    {
+      "id": "radar-8a8aa176b7a3a70c",
+      "publishedAt": "2026-10-27T20:32:59Z",
+      "title": "5 produções da Marvel focadas em anti-heróis para ver no streaming"
+    },
+    {
       "id": "radar-3ab9228998c0a472",
       "publishedAt": "2026-10-27T20:30:45Z",
       "title": "Tarde! Sempre atrasado!"
@@ -268,14 +503,34 @@
       "title": "Petição para salvar “Mass Effect” passa 250 mil assinaturas"
     },
     {
+      "id": "radar-27245030fa5008e1",
+      "publishedAt": "2026-10-27T20:07:01Z",
+      "title": "Ingressos colecionáveis ​​exclusivos para 'Vingadores: Dia do Juízo Final' estão chegando enquanto a Marvel conquista um mercado importante"
+    },
+    {
+      "id": "radar-76347a15cdc7b741",
+      "publishedAt": "2026-10-27T20:00:25Z",
+      "title": "'Clayface' se mantém forte na segunda-feira, já que o filme de terror classificado para menores da DC registra uma queda menor do que a maioria dos rivais do gênero"
+    },
+    {
       "id": "radar-493752c7d5da5eee",
       "publishedAt": "2026-10-27T19:36:22Z",
       "title": "Desenvolvedora de Kingdom Come: Deliverance é atingida por incidente “grave” de segurança cibernética"
     },
     {
+      "id": "radar-7223bb5d3748bc65",
+      "publishedAt": "2026-10-27T19:36:15Z",
+      "title": "Ketchup acende o fusível em ‘Coyote vs. Campanha do Oscar de animação da Acme após aprovação da Academia"
+    },
+    {
       "id": "radar-6dcf3651321fb47d",
       "publishedAt": "2026-10-27T19:33:44Z",
       "title": "Sistema de reserva de nomes de World of Warcraft Forever está com falhas antes do lançamento"
+    },
+    {
+      "id": "radar-14ac590d2ebb3b91",
+      "publishedAt": "2026-10-27T19:25:00Z",
+      "title": "Os fãs da Marvel estão seriamente chateados com uma piada do Capitão América em VINGADORES: DOOMSDAY? Vamos lá, pessoal!"
     },
     {
       "id": "radar-9c8f8f94cc8a8812",
@@ -293,9 +548,44 @@
       "title": "Jovens Titãs vão chegar ao Universo Absolute, confirma Jeff Lemire"
     },
     {
+      "id": "radar-c5a557cebe37165f",
+      "publishedAt": "2026-10-27T18:57:30Z",
+      "title": "GTA 6 pode ocupar 210 GB no PS5: prepare-se para uma limpeza no seu SSD"
+    },
+    {
+      "id": "radar-8f7b7e9f2e3ea4d5",
+      "publishedAt": "2026-10-27T18:55:00Z",
+      "title": "“É por minha conta” - James Watkins diz que 'a recepção de Clayface se resume a ele, não aos chefes dos estúdios da DC"
+    },
+    {
       "id": "radar-4d4056362401c6d3",
       "publishedAt": "2026-10-27T18:30:48Z",
       "title": "Plataforma de licenciamento de anime AniBiz recebe investimento de US$ 6 milhões da TBS, Toei Animation e TV Tokyo"
+    },
+    {
+      "id": "radar-a2b82925f56139db",
+      "publishedAt": "2026-10-27T18:17:11Z",
+      "title": "Spacetime Chronicles ganha novo trailer e demo gratuita para PC"
+    },
+    {
+      "id": "radar-bafcd1b8c03906ad",
+      "publishedAt": "2026-10-27T18:15:00Z",
+      "title": "Conan Exiles Enhanced chega de graça ao PS5 e Xbox Series, e Aloft estreia no PlayStation 5 em 2027"
+    },
+    {
+      "id": "radar-a9b0b9e08508c892",
+      "publishedAt": "2026-10-27T18:14:43Z",
+      "title": "Duna: a terceira parte revela o primeiro olhar sobre os filhos de Paul Atreides e Chani"
+    },
+    {
+      "id": "radar-ba09ae1a4b06346a",
+      "publishedAt": "2026-10-27T18:11:58Z",
+      "title": "D23 da Disney: tudo anunciado, de atrações a filmes e muito mais - ABC News"
+    },
+    {
+      "id": "radar-bd16d7db28089a9c",
+      "publishedAt": "2026-10-27T18:06:06Z",
+      "title": "DC Studios está supostamente desenvolvendo um sexto projeto do Universo Batman para o DCU de James Gunn"
     },
     {
       "id": "radar-9d7637fa590a1a27",
@@ -308,9 +598,39 @@
       "title": "6 casais de anime que superam Ichigo e Orihime"
     },
     {
+      "id": "radar-5f1945ca27d56954",
+      "publishedAt": "2026-10-27T17:55:59Z",
+      "title": "Avengers: Doomsday Video anuncia um crossover selvagem que os fãs do MCU não esperavam"
+    },
+    {
+      "id": "radar-4ff88e92a54ee94d",
+      "publishedAt": "2026-10-27T17:54:29Z",
+      "title": "Elden Ring Movie corre o risco de transformar A24 naquilo contra o qual se rebelou"
+    },
+    {
+      "id": "radar-96b2be4fadae0019",
+      "publishedAt": "2026-10-27T17:48:21Z",
+      "title": "Tamanho do arquivo GTA 6 revelado e é enorme"
+    },
+    {
+      "id": "radar-ec2dfa6fd6128539",
+      "publishedAt": "2026-10-27T17:47:39Z",
+      "title": "Revelada a causa da morte do ator Richard Riehle de Star Trek e Ferris Bueller"
+    },
+    {
+      "id": "radar-9ae47d157bd4bd36",
+      "publishedAt": "2026-10-27T17:38:51Z",
+      "title": "Ator de voz de ‘Rick e Morty’ morre aos 46 anos"
+    },
+    {
       "id": "radar-f86886e68f556e85",
       "publishedAt": "2026-10-27T17:27:59Z",
       "title": "Quando meus pais descobrirem que eu ainda construo legos aos 30 anos"
+    },
+    {
+      "id": "radar-d39175131c294789",
+      "publishedAt": "2026-10-27T17:21:44Z",
+      "title": "O filme de ação ao vivo de Elden Ring já bate recorde de grande orçamento com a adesão da Amazon ao projeto"
     },
     {
       "id": "radar-ff4642569bbeb234",
@@ -318,9 +638,59 @@
       "title": "Evo Brazil 2027 terá oito jogos e prêmio de R$ 1 milhão em São Paulo"
     },
     {
+      "id": "radar-0ff12beb5c01bab6",
+      "publishedAt": "2026-10-27T17:04:55Z",
+      "title": "Azimuth 1.0 permite rodar Forza Motorsport 5, 6 e Horizon 3 no PC"
+    },
+    {
+      "id": "radar-3b267370cc9f5ded",
+      "publishedAt": "2026-10-27T17:03:40Z",
+      "title": "James Gunn tem uma resposta perfeita para os fãs da DC que não têm certeza se querem ver Clayface"
+    },
+    {
+      "id": "radar-93dc29e2ed7c63b9",
+      "publishedAt": "2026-10-27T17:00:29Z",
+      "title": "Call of Duty: Modern Warfare 4 é exatamente o que você pensa que é (revisão)"
+    },
+    {
+      "id": "radar-3a5270fc917e42a5",
+      "publishedAt": "2026-10-27T17:00:00Z",
+      "title": "a pet shop after dark chega aos consoles em 12 de novembro"
+    },
+    {
       "id": "radar-8a5a91fdc7dfd165",
       "publishedAt": "2026-10-27T16:34:42Z",
       "title": "Eu te entendo agora, Ultron"
+    },
+    {
+      "id": "radar-90c81837293ce37e",
+      "publishedAt": "2026-10-27T16:27:56Z",
+      "title": "Uma Comic-Con para os militares? Dois veteranos de Hollywood estão apostando nisso"
+    },
+    {
+      "id": "radar-84709e5a40086189",
+      "publishedAt": "2026-10-27T16:27:31Z",
+      "title": "The Outlast Trials é lançado de surpresa para o Nintendo Switch 2"
+    },
+    {
+      "id": "radar-a6d60056ac2c2b97",
+      "publishedAt": "2026-10-27T16:02:29Z",
+      "title": "Duna Final: Trailer da Parte Três encerra a trilogia de ficção científica de Denis Villeneuve – ASSISTA"
+    },
+    {
+      "id": "radar-c74094d09ec7c865",
+      "publishedAt": "2026-10-27T15:58:32Z",
+      "title": "Evo Brazil 2027 anuncia oito jogos e premiação de R$ 1 milhão"
+    },
+    {
+      "id": "radar-f456bbb6ca84cbac",
+      "publishedAt": "2026-10-27T15:54:45Z",
+      "title": "Comentários do Homem do Amanhã de James Gunn sugerem um plano DCU maior se unindo"
+    },
+    {
+      "id": "radar-0395ff50291743e4",
+      "publishedAt": "2026-10-27T15:47:00Z",
+      "title": "Anime Dual Shadow ～Precure Villain Heroines～ é anunciado como novo spin-off da franquia"
     },
     {
       "id": "radar-89d9dcbe74c2c56b",
@@ -333,14 +703,39 @@
       "title": "L-mao"
     },
     {
+      "id": "radar-c24a92232a652dfb",
+      "publishedAt": "2026-10-27T15:40:52Z",
+      "title": "Orçamento recorde do filme Elden Ring supostamente confirmado quando a Amazon se junta à adaptação de fantasia épica"
+    },
+    {
       "id": "radar-bf28de5a75e15313",
       "publishedAt": "2026-10-27T15:29:45Z",
       "title": "Repost porque talento errado"
     },
     {
+      "id": "radar-12c2895d6471f46f",
+      "publishedAt": "2026-10-27T15:15:00Z",
+      "title": "A Warhorse Studios, de Kingdom Come Deliverance, sofreu um ataque cibernético grave"
+    },
+    {
       "id": "radar-4c9c6986521c93f2",
       "publishedAt": "2026-10-27T15:06:33Z",
       "title": "“Não se parece com nada que você já viu”: novo filme dos criadores de Coraline revolucionou e, ao mesmo tempo, quebrou todas as regras da animação"
+    },
+    {
+      "id": "radar-379475e0b8f78ab4",
+      "publishedAt": "2026-10-27T14:58:57Z",
+      "title": "Crítica do Demolidor de Marvel Legends Secret Wars (2026)"
+    },
+    {
+      "id": "radar-272cd00b87e9cb30",
+      "publishedAt": "2026-10-27T14:58:23Z",
+      "title": "‘Uma grande pessoa, um grande talento e um grande amigo’: comunidade de animação presta homenagem a Eric Bauza"
+    },
+    {
+      "id": "radar-01181b34543f0d63",
+      "publishedAt": "2026-10-27T14:52:51Z",
+      "title": "As co-estrelas de Buffy The Vampire Slayer Charisma Carpenter e Julie Benz se reúnem 23 anos após o término do show enquanto participavam da Comic Con Scotland"
     },
     {
       "id": "radar-3cd7a03acc3c34ce",
