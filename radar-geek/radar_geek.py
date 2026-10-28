@@ -110,21 +110,21 @@ FONTES = [
     {"nome": "Google News (EUA)", "gnews": "anime live-action cast OR casting", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "\"video game\" movie OR series cast OR casting", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "actor training OR \"preparing for\" OR \"bulking up\" superhero role", "idioma": "en", "pais": "INT", "filtrar": True},
-    {"nome": "Google News (EUA)", "gnews": "\"screen test\" OR audition Marvel OR DC OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "\"screen test\" OR audition Marvel OR \"DC Studios\" OR DCU OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "\"anime adaptation\" OR \"new anime\" announced", "idioma": "en", "pais": "INT", "filtrar": True},
-    {"nome": "Google News (EUA)", "gnews": "exclusive Marvel OR DC OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
-    {"nome": "Google News (EUA)", "gnews": "\"to direct\" OR \"set to direct\" OR \"in talks to direct\" Marvel OR DC OR \"Star Wars\" OR superhero OR anime OR \"video game\"", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "exclusive Marvel OR \"DC Studios\" OR DCU OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "\"to direct\" OR \"set to direct\" OR \"in talks to direct\" Marvel OR \"DC Studios\" OR DCU OR \"Star Wars\" OR superhero OR anime OR \"video game\"", "idioma": "en", "pais": "INT", "filtrar": True},
     # --- Lá fora: luto (atores, dubladores, criadores) ---
     {"nome": "Google News (EUA)", "gnews": "\"voice actor\" OR \"voice actress\" OR seiyuu dies OR \"passed away\" OR \"has died\"", "idioma": "en", "pais": "INT", "filtrar": True},
-    {"nome": "Google News (EUA)", "gnews": "actor OR actress OR director dies Marvel OR DC OR \"Star Wars\" OR \"Star Trek\" OR \"Harry Potter\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "actor OR actress OR director dies Marvel OR \"DC Studios\" OR DCU OR \"Star Wars\" OR \"Star Trek\" OR \"Harry Potter\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
     {"nome": "Google News (EUA)", "gnews": "mangaka OR \"manga artist\" OR \"anime director\" OR animator OR \"comic book artist\" dies OR \"passed away\"", "idioma": "en", "pais": "INT", "filtrar": True},
     # --- Lá fora: análises, críticas e primeiras reações ---
-    {"nome": "Google News (EUA)", "gnews": "\"first reactions\" Marvel OR DC OR \"Star Wars\" OR anime OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
-    {"nome": "Google News (EUA)", "gnews": "review Marvel OR DC OR Batman OR Superman OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
-    {"nome": "Google News (EUA)", "gnews": "\"Rotten Tomatoes\" Marvel OR DC OR \"Star Wars\" OR anime OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "\"first reactions\" Marvel OR \"DC Studios\" OR DCU OR \"Star Wars\" OR anime OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "review Marvel OR \"DC Studios\" OR DCU OR Batman OR Superman OR \"Star Wars\" OR anime", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "\"Rotten Tomatoes\" Marvel OR \"DC Studios\" OR DCU OR \"Star Wars\" OR anime OR superhero", "idioma": "en", "pais": "INT", "filtrar": True},
     # --- Lá fora: eventos ---
     {"nome": "Google News (EUA)", "gnews": "\"Comic-Con\" OR \"Anime Expo\" OR \"New York Comic Con\" OR D23 OR \"Star Wars Celebration\"", "idioma": "en", "pais": "INT", "filtrar": True},
-    {"nome": "Google News (EUA)", "gnews": "\"Summer Game Fest\" OR Gamescom OR \"Tokyo Game Show\" OR \"The Game Awards\" OR \"Nintendo Direct\" OR \"State of Play\"", "idioma": "en", "pais": "INT", "filtrar": True},
+    {"nome": "Google News (EUA)", "gnews": "\"Summer Game Fest\" OR Gamescom OR \"Tokyo Game Show\" OR \"The Game Awards\" OR \"Nintendo Direct\" OR \"PlayStation State of Play\"", "idioma": "en", "pais": "INT", "filtrar": True},
     # --- Memes: os mais votados do dia nas comunidades de fãs ---
     # Todas as comunidades num pedido só: o Reddit barra quem pede vários feeds seguidos.
     # Para acrescentar uma comunidade, ponha o nome aqui e a categoria dela (veja CATEGORIAS).
@@ -134,8 +134,8 @@ FONTES = [
     }, "pais": "INT", "meme": True},
     {"nome": "Know Your Meme", "url": "https://knowyourmeme.com/news.rss", "pais": "INT", "filtrar": True, "meme": True},
     # Notícias sobre memes (só entra manchete que fala de meme)
-    {"nome": "Google News (EUA)", "gnews": "memes Marvel OR DC OR anime OR \"video game\" OR \"Star Wars\"", "idioma": "en", "pais": "INT", "filtrar": True, "meme": True},
-    {"nome": "Google News (BR)", "gnews": "meme OR memes Marvel OR DC OR anime OR games OR filme", "idioma": "pt", "pais": "BR", "filtrar": True, "meme": True},
+    {"nome": "Google News (EUA)", "gnews": "memes Marvel OR \"DC Studios\" OR DCU OR anime OR \"video game\" OR \"Star Wars\"", "idioma": "en", "pais": "INT", "filtrar": True, "meme": True},
+    {"nome": "Google News (BR)", "gnews": "meme OR memes Marvel OR \"DC Studios\" OR DCU OR anime OR games OR filme", "idioma": "pt", "pais": "BR", "filtrar": True, "meme": True},
     # --- Brasil ---
     {"nome": "Omelete", "gnews": "site:omelete.com.br", "idioma": "pt", "pais": "BR"},
     {"nome": "Jovem Nerd", "gnews": "site:jovemnerd.com.br", "idioma": "pt", "pais": "BR"},
@@ -156,13 +156,13 @@ FONTES = [
     {"nome": "Nintendo Blast", "url": "https://www.nintendoblast.com.br/feeds/posts/default", "pais": "BR", "tema": "games"},
     {"nome": "GameVicio", "url": "https://www.gamevicio.com/rss/", "pais": "BR", "tema": "games"},
     {"nome": "Pizza Fria", "url": "https://pizzafria.com.br/feed/", "pais": "BR", "tema": "games"},
-    {"nome": "Google News (BR)", "gnews": "Marvel OR DC elenco OR escalado OR \"vai interpretar\"", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "Marvel OR \"DC Studios\" OR DCU elenco OR escalado OR \"vai interpretar\"", "idioma": "pt", "pais": "BR", "filtrar": True},
     {"nome": "Google News (BR)", "gnews": "anime OR mangá", "idioma": "pt", "pais": "BR", "filtrar": True},
     {"nome": "Google News (BR)", "gnews": "PlayStation OR Xbox OR Nintendo OR videogame", "idioma": "pt", "pais": "BR", "filtrar": True},
-    {"nome": "Google News (BR)", "gnews": "\"vai dirigir\" OR dirigirá OR \"novo diretor\" Marvel OR DC OR \"Star Wars\" OR anime", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "\"vai dirigir\" OR dirigirá OR \"novo diretor\" Marvel OR \"DC Studios\" OR DCU OR \"Star Wars\" OR anime", "idioma": "pt", "pais": "BR", "filtrar": True},
     {"nome": "Google News (BR)", "gnews": "dublador OR dubladora morre OR faleceu OR falece", "idioma": "pt", "pais": "BR", "filtrar": True},
-    {"nome": "Google News (BR)", "gnews": "ator OR atriz OR diretor morre OR faleceu Marvel OR DC OR anime OR \"Star Wars\" OR \"Harry Potter\"", "idioma": "pt", "pais": "BR", "filtrar": True},
-    {"nome": "Google News (BR)", "gnews": "crítica OR análise OR \"primeiras reações\" Marvel OR DC OR anime OR \"Star Wars\"", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "ator OR atriz OR diretor morre OR faleceu Marvel OR \"DC Studios\" OR DCU OR anime OR \"Star Wars\" OR \"Harry Potter\"", "idioma": "pt", "pais": "BR", "filtrar": True},
+    {"nome": "Google News (BR)", "gnews": "crítica OR análise OR \"primeiras reações\" Marvel OR \"DC Studios\" OR DCU OR anime OR \"Star Wars\"", "idioma": "pt", "pais": "BR", "filtrar": True},
     {"nome": "Google News (BR)", "gnews": "CCXP OR \"Anime Friends\" OR \"Brasil Game Show\" OR Perifacon OR \"Geek City\"", "idioma": "pt", "pais": "BR", "filtrar": True},
 ]
 
@@ -225,7 +225,7 @@ CATEGORIAS = {
             assassin s creed, god of war, naughty dog, halo, gears of war, battlefield, street fighter,
             mortal kombat, tekken, sonic, hogwarts legacy, cyberpunk, cd projekt, baldur s gate, half life,
             epic games, game awards, the game awards, gamescom, tokyo game show, summer game fest,
-            state of play, nintendo direct, xbox showcase, dlc, early access, esports, brasil game show,
+            nintendo direct, xbox showcase, dlc, early access, esports, brasil game show,
             bethesda, skyrim, elder scrolls, starfield, persona 5, persona 6, atlus, monster hunter, kingdom hearts,
             dragon quest, metroid, kirby, donkey kong, crash bandicoot, silent hill, dead space, bioshock,
             marvel rivals, ghost of yotei, clair obscur, fallout 5, the witcher 4, blizzcon, bgs, xbox games showcase,
@@ -340,8 +340,11 @@ PADROES_LUTO = [
     r" (passes|passed) away", r" has died", r" obituary", r" in memoriam", r" rest in peace", r" memorialized",
     r" (dies|died|dead) (at|aged) \d+", r" faleceu", r" falece ", r" falecimento", r" morre aos",
     r" morreu aos", r" morre (o|a) (ator|atriz|dublador|dubladora|diretor|diretora|criador|criadora|autor|autora)",
+    r" cause of death", r" causa da morte", r" after (his|her|their) (sudden )?death", r" apos (a )?(sua )?morte",
+    r" remembering ", r" lembrando ", r" remembered (after|following)",
 ]
-PADROES_LUTO_COM_PROFISSAO = [r" dies ", r" died ", r" morre ", r" morreu ", r" morte (de|do|da) "]
+PADROES_LUTO_COM_PROFISSAO = [r" dies ", r" died ", r" morre ", r" morreu ", r" morte (de|do|da) ",
+                              r" tributes? ", r" pays? tribute", r" mourn", r" homenagem ", r" homenageia", r" luto "]
 PROFISSOES = re.compile(
     r" (actor|actress|voice actor|voice actress|seiyuu|star(?! wars| trek| citizen| fox)|creator|director|artist|animator|composer|producer|writer|"
     r"author|mangaka|cartoonist|illustrator|legend|icon|ator|atriz|dublador|dubladora|voz|criador|criadora|diretor|"
@@ -349,7 +352,8 @@ PROFISSOES = re.compile(
 )
 PADROES_NAO_LUTO = [
     r" who dies", r" characters? (dies|died|death)", r" (dies|died|morre|morreu) (in|no|na|em) (the |o |a )?(episode|season|"
-    r"chapter|finale|episodio|temporada|capitulo|final|scene|cena)", r" personage(m|ns)", r" killed off", r" every ",
+    r"chapter|finale|episodio|temporada|capitulo|final|scene|cena)", r" personage(m|ns) (morre|morreu|que morre)",
+    r" killed off", r" every ",
     r" todas as mortes", r" spoiler", r" deaths? in ", r" mortes? (mais|de personagens)", r" theory", r" teoria",
 ]
 # Grandes eventos (CCXP, Comic-Con, BGS...): o nome do evento vira hashtag do post.
@@ -357,7 +361,7 @@ EVENTOS = """
     ccxp, comic con experience, comic con, san diego comic con, sdcc, new york comic con, nycc, wondercon, c2e2,
     anime expo, anime friends, anime japan, jump festa, comiket, d23, star wars celebration, brasil game show, bgs,
     gamescom, summer game fest, tokyo game show, the game awards, blizzcon, perifacon, geek city, festival de annecy,
-    annecy, nintendo direct, state of play, xbox games showcase, xbox showcase, ubisoft forward, ign live
+    annecy, nintendo direct, xbox games showcase, xbox showcase, ubisoft forward, ign live
 """
 # Análises: críticas, notas e primeiras reações (muitas vezes saem lá fora antes da estreia aqui).
 PADROES_ANALISE = [
@@ -420,6 +424,9 @@ anime animes manga mangas game games gaming gamer nintendo playstation xbox swit
 superheroes heroi herois super geek nerd studios trailer
 """.split())
 
+# Posts de redes sociais que o Google Notícias às vezes mistura nas buscas.
+REDES_SOCIAIS = {"facebook", "instagram", "x", "x.com", "twitter", "tiktok", "youtube", "threads", "reddit", "linkedin"}
+
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
@@ -464,7 +471,7 @@ def normalizar(texto: str) -> str:
     """Minúsculas, sem acentos e sem pontuação, com espaço nas pontas."""
     t = unicodedata.normalize("NFKD", (texto or "").lower())
     t = "".join(c for c in t if not unicodedata.combining(c))
-    t = re.sub(r"[^a-z0-9]+", " ", t).replace(" washington dc ", " washington ")
+    t = re.sub(r"[^a-z0-9]+", " ", t).replace(" washington dc ", " washington ").replace(" ac dc ", " acdc ")
     return f" {t.strip()} "
 
 
@@ -518,6 +525,9 @@ RE_LUTO = [re.compile(p) for p in PADROES_LUTO]
 RE_LUTO_COM_PROFISSAO = [re.compile(p) for p in PADROES_LUTO_COM_PROFISSAO]
 RE_NAO_LUTO = [re.compile(p) for p in PADROES_NAO_LUTO]
 RE_ANALISE = [re.compile(p) for p in PADROES_ANALISE]
+TOKENS_DE_FRANQUIA = {t for lista in PALAVRAS.values() for p in lista for t in p.split()} | {
+    "dies", "died", "dead", "morre", "morreu", "faleceu", "falece", "voice", "dublador", "dubladora", "actor", "ator",
+    "atriz", "actress", "aos", "anos", "years", "old", "legend", "lenda", "tribute", "homenagem", "creator", "criador"}
 LISTA_EVENTOS = sorted({e for e in (normalizar(x).strip() for x in EVENTOS.split(",")) if e}, key=len, reverse=True)
 # "Jacob Elordi será o Brainiac": nome, "será o/a" e outro nome com maiúscula
 # (manchete brasileira só usa maiúscula em nome próprio).
@@ -847,6 +857,8 @@ def buscar_fonte(fonte: dict, dias: int) -> Tuple[dict, List[Noticia], str]:
         resumo = limpar_html(e["resumo"] or e["conteudo"])
         if fonte.get("gnews"):
             nome_fonte = limpar_html(e["fonte"]) or nome_fonte
+            if nome_fonte.strip().lower() in REDES_SOCIAIS:
+                continue
             if " - " in titulo:
                 inicio, fim = titulo.rsplit(" - ", 1)
                 if fim.strip().lower() == nome_fonte.lower() or len(fim) <= 40:
@@ -895,6 +907,8 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
         categorias, palavras = classificar(titulo_norm, noticia.pais)
         if not categorias:
             return False
+        if fonte.get("gnews") and not classificar(titulo_norm.replace(" dc ", " "), noticia.pais)[0]:
+            return False  # "DC Kulgam reviews..." (cargo público na Índia), não DC Comics
     else:
         categorias, palavras = classificar(titulo_norm + tags_rss + " ", noticia.pais)
     if not categorias:
@@ -918,6 +932,11 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
 def mesma_noticia(a: Noticia, b: Noticia) -> bool:
     if normalizar(a.titulo) == normalizar(b.titulo):
         return True
+    if a.luto and b.luto:
+        # mesmo nome de pessoa nas duas manchetes (sem contar nomes de franquia: "Star Trek")
+        nomes = (a.tokens & b.tokens) - TOKENS_DE_FRANQUIA - PALAVRAS_GENERICAS
+        if len(nomes) >= 2:
+            return True
     comum = len(a.tokens & b.tokens)
     return comum >= 3 and comum / len(a.tokens | b.tokens) >= 0.5
 

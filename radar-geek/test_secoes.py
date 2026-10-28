@@ -41,6 +41,56 @@ class LutoTests(unittest.TestCase):
                 self.assertFalse(n.luto)
 
 
+class ProblemasDaPrimeiraRodadaReal(unittest.TestCase):
+    """Casos tirados da rodada de teste com as fontes reais (out/2026)."""
+
+    def test_luto_com_personagens_homenagens_e_causa_da_morte(self):
+        for titulo in ("Morre o dublador que deu voz a personagens como Pernalonga e Patolino, Eric Bauza, aos 46 anos",
+                       "Star Trek and Ferris Bueller Actor Richard Riehle's Cause of Death Revealed",
+                       "Wildwood Debuts; Remembering Eric Bauza",
+                       "Animation Community Pays Tribute to Voice Actor Eric Bauza"):
+            with self.subTest(titulo=titulo):
+                self.assertTrue(analisar(titulo, pais="BR").luto)
+
+    def test_dc_de_cargo_publico_e_acdc_nao_sao_geek(self):
+        for titulo in ("DC Kulgam reviews drug control measures in NCORD meeting",
+                       "DC Udhampur reviews status of telecom services"):
+            with self.subTest(titulo=titulo):
+                self.assertIsNone(analisar(titulo, filtrar=True, gnews="review"))
+        self.assertIsNone(analisar("Classic DVD Reviews: AC/DC Back in Black", filtrar=True))
+        self.assertIsNotNone(analisar("DC Officially Debuts an Unbelievable Redesign for Classic Hero", filtrar=True))
+
+    def test_state_of_play_comum_nao_e_evento(self):
+        self.assertIsNone(analisar("Bret Baier breaks down the state of play in the latest Power Rankings", filtrar=True))
+
+    def test_mesma_morte_em_varios_sites_vira_uma_so(self):
+        agora = dt.datetime(2026, 10, 28, tzinfo=dt.timezone.utc)
+        titulos = ["Eric Bauza, Looney Tunes Voice Actor, Dies at 46",
+                   "Emmy-winning voice actor Eric Bauza, known for Bugs Bunny, dies at 46",
+                   "Walter Koenig, Star Trek's Chekov, Dies at 90",
+                   "Star Trek Actor Richard Riehle Dies at 77"]
+        noticias = []
+        for i, titulo in enumerate(titulos):
+            n = radar.Noticia(titulo=titulo, link=f"https://example.com/{i}", resumo="", data=agora, fonte=f"F{i}", pais="INT")
+            self.assertTrue(radar.analisar(n, {"nome": "t"}))
+            noticias.append(n)
+        juntas = radar.juntar_repetidas(noticias)
+        self.assertEqual(len(juntas), 3)  # as duas do Eric Bauza juntas; Koenig e Riehle separados
+
+    def test_posts_de_redes_sociais_do_google_ficam_de_fora(self):
+        rss = (b'<rss><channel><item><title>Ator de Star Trek morre - Facebook</title>'
+               b'<link>https://news.google.com/rss/articles/CBMiAAAAAAAAAAAAAAAAAAAA</link>'
+               b'<pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate><source url="https://facebook.com">Facebook</source></item>'
+               b'<item><title>Ator de Star Trek morre - Omelete</title>'
+               b'<link>https://news.google.com/rss/articles/CBMiBBBBBBBBBBBBBBBBBBBB</link>'
+               b'<pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate><source url="https://omelete.com.br">Omelete</source></item>'
+               b'</channel></rss>')
+        with patch.object(radar, "baixar", return_value=rss):
+            _, noticias, erro = radar.buscar_fonte({"nome": "Google", "gnews": "x", "idioma": "pt", "pais": "BR"}, 1)
+        self.assertEqual(erro, "")
+        self.assertEqual([n.fonte for n in noticias], ["Omelete"])
+
+
 class EventoTests(unittest.TestCase):
     def test_evento_e_hashtag(self):
         casos = [("CCXP 2026: Marvel confirma painel com elenco de Doomsday", "ccxp", "#CCXP"),
