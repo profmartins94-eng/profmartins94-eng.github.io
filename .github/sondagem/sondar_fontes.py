@@ -120,20 +120,44 @@ def decodificar_google_news():
     return saida
 
 
+def pagina_youtube(url):
+    req = urllib.request.Request(url, headers={
+        "User-Agent": r.USER_AGENT, "Accept": "text/html,application/xhtml+xml",
+        "Accept-Language": "en-US,en;q=0.9", "Cookie": "CONSENT=YES+1; SOCS=CAI",
+    })
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return resp.read().decode("utf-8", "replace"), resp.geturl()
+
+
+def canal2(handle):
+    for url in (f"https://www.youtube.com/{handle}", f"https://www.youtube.com/{handle}/videos",
+                f"https://www.youtube.com/c/{handle.lstrip('@')}", f"https://www.youtube.com/user/{handle.lstrip('@')}"):
+        try:
+            pagina, final = pagina_youtube(url)
+        except Exception as e:  # noqa: BLE001
+            ultimo = f"{url} -> {type(e).__name__}: {str(e)[:60]}"
+            continue
+        m = re.search(r'"(?:channelId|externalId|browseId)":"(UC[0-9A-Za-z_-]{22})"', pagina) or \
+            re.search(r'youtube\.com/channel/(UC[0-9A-Za-z_-]{22})', pagina)
+        if not m:
+            ultimo = f"{url} -> sem id (tamanho {len(pagina)}, final {final[:60]})"
+            continue
+        try:
+            dados = r.baixar(f"https://www.youtube.com/feeds/videos.xml?channel_id={m.group(1)}", timeout=20)
+        except Exception as e:  # noqa: BLE001
+            return {"handle": handle, "ok": False, "id": m.group(1), "erro": f"feed: {type(e).__name__}: {str(e)[:60]}"}
+        titulo = re.search(rb"<title>([^<]+)</title>", dados)
+        itens = r.ler_feed(dados)
+        d = data_de(itens[0]) if itens else None
+        return {"handle": handle, "ok": bool(itens), "id": m.group(1), "canal": titulo.group(1).decode() if titulo else "",
+                "videos": len(itens), "ultimo": r.limpar_html(itens[0]["titulo"])[:70] if itens else "",
+                "data": d.isoformat()[:16] if d else ""}
+    return {"handle": handle, "ok": False, "erro": ultimo}
+
+
 if __name__ == "__main__":
-    tarefas = [(nome, u) for nome, urls in FEEDS.items() for u in urls]
-    with cf.ThreadPoolExecutor(max_workers=10) as pool:
-        resultados = list(pool.map(lambda t: (t[0], testar(t[1])), tarefas))
-    print("=== FEEDS ===")
-    for nome, res in resultados:
-        print(f"{'OK ' if res['ok'] else 'ERR'} | {nome} | {json.dumps(res, ensure_ascii=False)}")
-    print("=== YOUTUBE ===")
-    with cf.ThreadPoolExecutor(max_workers=5) as pool:
-        for res in pool.map(canal, CANAIS):
+    print("=== YOUTUBE (2a tentativa) ===")
+    canais = CANAIS + ["@CinemaWins", "@ComicBookGirl19", "@RedLetterMedia", "@PitchMeeting", "@HeyJimmy? ".strip("? ")]
+    with cf.ThreadPoolExecutor(max_workers=4) as pool:
+        for res in pool.map(canal2, CANAIS + ["@CinemaWins", "@RedLetterMedia", "@Collider", "@IGN"]):
             print(f"{'OK ' if res['ok'] else 'ERR'} | {json.dumps(res, ensure_ascii=False)}")
-    print("=== GOOGLE NEWS -> LINK REAL ===")
-    try:
-        for res in decodificar_google_news():
-            print(json.dumps(res, ensure_ascii=False))
-    except Exception as e:  # noqa: BLE001
-        print("falhou:", e)
