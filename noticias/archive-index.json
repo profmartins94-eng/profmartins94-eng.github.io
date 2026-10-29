@@ -1,7 +1,522 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T14:40:16.873612Z",
+  "updatedAt": "2026-10-29T19:52:36.910880Z",
   "articles": [
+    {
+      "id": "radar-03e3a906e8850507",
+      "publishedAt": "2026-10-29T19:51:36Z",
+      "title": "Xbox Game Pass obtém 4 novos títulos na grande onda de lançamentos de outubro de 2026"
+    },
+    {
+      "id": "radar-0f8e7fc0d9aaafd9",
+      "publishedAt": "2026-10-29T19:49:36Z",
+      "title": "Big Frank Grillo Plot Hole dos fãs da DCU obtém forte resposta e explicação de James Gunn"
+    },
+    {
+      "id": "radar-47dcd54b1a58b13d",
+      "publishedAt": "2026-10-29T19:48:28Z",
+      "title": "Revelada a onda de brinquedos McFarlane focada no Batman: quatro novas figuras do Batman do DC Multiverse pré-encomendadas amanhã!"
+    },
+    {
+      "id": "radar-2b31d7eb8fcc7d85",
+      "publishedAt": "2026-10-29T19:45:14Z",
+      "title": "Starfield pode ter sido um fracasso, mas seu melhor recurso deve retornar no Fallout 5"
+    },
+    {
+      "id": "radar-e68506e43895d301",
+      "publishedAt": "2026-10-29T19:44:18Z",
+      "title": "Estreia mundial de 'Vingadores: Dia do Juízo Final' supostamente marcada para Los Angeles antes de sua estreia no cinema"
+    },
+    {
+      "id": "radar-fa0cc196d1c8e11e",
+      "publishedAt": "2026-10-29T19:42:00Z",
+      "title": "Novos pôsteres de Vingadores: Doomsday para Dolby Cinema, ScreenX, Fandango, RealD 3D e 4DX revelados"
+    },
+    {
+      "id": "radar-2ece5043733c6a91",
+      "publishedAt": "2026-10-29T19:40:12Z",
+      "title": "Patrick Stewart, capitão de ‘Star Trek’ e super-herói de ‘X-Men’, morre aos 86 anos"
+    },
+    {
+      "id": "radar-0f5608d014247709",
+      "publishedAt": "2026-10-29T19:40:11Z",
+      "title": "Dragon Ball Super: Beerus Episódio 4, data e hora de lançamento"
+    },
+    {
+      "id": "radar-983a94cdc8f2843e",
+      "publishedAt": "2026-10-29T19:40:03Z",
+      "title": "James Gunn defende a estratégia do DCU e provoca grandes coisas que estão por vir em 'Superman: Man of Tomorrow'"
+    },
+    {
+      "id": "radar-12fad825db0017a9",
+      "publishedAt": "2026-10-29T19:37:15Z",
+      "title": "Aqui está a opinião do desenvolvedor da trilogia Metroid Prime sobre por que as seções de bicicleta de Metroid Prime 4 foram uma droga"
+    },
+    {
+      "id": "radar-0349e337ce0b0574",
+      "publishedAt": "2026-10-29T19:34:00Z",
+      "title": "Alan Ritchson: Três Horas Para Viver e mais filmes com o astro de Reacher"
+    },
+    {
+      "id": "radar-9988ec21768acce9",
+      "publishedAt": "2026-10-29T19:33:14Z",
+      "title": "Bethesda anunciou oficialmente 5 novos lançamentos de Fallout"
+    },
+    {
+      "id": "radar-486bfd8da52911e9",
+      "publishedAt": "2026-10-29T19:31:00Z",
+      "title": "O spin-off MonsterVerse da Apple TV enfrenta oficialmente grandes mudanças para a possível terceira temporada"
+    },
+    {
+      "id": "radar-32f3aed4283a7d30",
+      "publishedAt": "2026-10-29T19:30:18Z",
+      "title": "8 superarmas mais poderosas em romances de ficção científica"
+    },
+    {
+      "id": "radar-3b8244690fa25a95",
+      "publishedAt": "2026-10-29T19:30:14Z",
+      "title": "Novo jogo cooperativo Sim no Steam é lançado com 93% de críticas positivas"
+    },
+    {
+      "id": "radar-7b92e17edcc30c7a",
+      "publishedAt": "2026-10-29T19:30:14Z",
+      "title": "Black Clover, temporada 2, episódio 5, data e hora de lançamento"
+    },
+    {
+      "id": "radar-a1ac657c4a0cdd83",
+      "publishedAt": "2026-10-29T19:29:00Z",
+      "title": "Charlie Vickers diz que a terceira temporada de THE RINGS OF POWER oferece uma abordagem interessante sobre a forja do Um Anel"
+    },
+    {
+      "id": "radar-3117f65754aca059",
+      "publishedAt": "2026-10-29T19:28:03Z",
+      "title": "Por que Idris Elba não foi escalado como Pistoleiro ou Exterminador no Esquadrão Suicida, explicado"
+    },
+    {
+      "id": "radar-7f098dcc76ce7cca",
+      "publishedAt": "2026-10-29T19:24:54Z",
+      "title": "DC substitui oficialmente Robin como principal ajudante do Batman"
+    },
+    {
+      "id": "radar-86626321e0c6a5a6",
+      "publishedAt": "2026-10-29T19:16:58Z",
+      "title": "Vingadores: Mercadoria do Doomsday Theatre tem tudo a ver com Doctor Doom e os Sentinelas"
+    },
+    {
+      "id": "radar-918cadcbe9226902",
+      "publishedAt": "2026-10-29T19:13:55Z",
+      "title": "Superman & Bloodsport Kryptonite Bullet Batte recebe atualização de status da Canon DCU de James Gunn"
+    },
+    {
+      "id": "radar-765ff18b36c1021d",
+      "publishedAt": "2026-10-29T19:11:17Z",
+      "title": "Alden Ehrenreich quase se tornou o Homem-Aranha antes de Andrew Garfield, mas ele tinha um grande problema"
+    },
+    {
+      "id": "radar-abbe73f8c41499fb",
+      "publishedAt": "2026-10-29T19:10:26Z",
+      "title": "Os 5 protagonistas de isekai mais fortes dos animes"
+    },
+    {
+      "id": "radar-4ebcf5284328f3cd",
+      "publishedAt": "2026-10-29T19:10:22Z",
+      "title": "5 vilões de anime mais fortes que Sukuna"
+    },
+    {
+      "id": "radar-5ffff0355e452efb",
+      "publishedAt": "2026-10-29T19:10:08Z",
+      "title": "Os 10 personagens mais inteligentes dos animes"
+    },
+    {
+      "id": "radar-62e0138907dd2651",
+      "publishedAt": "2026-10-29T19:09:22Z",
+      "title": "5 animes em que o personagem mais forte acabou selado"
+    },
+    {
+      "id": "radar-b067110f665b12e3",
+      "publishedAt": "2026-10-29T19:08:10Z",
+      "title": "DCU: James Gunn oferece uma verificação da realidade sobre a história revisionista dos fãs do MCU"
+    },
+    {
+      "id": "radar-89ebc9585a545195",
+      "publishedAt": "2026-10-29T19:06:36Z",
+      "title": "As 4 Frutas do Diabo do tipo Logia mais fracas de One Piece"
+    },
+    {
+      "id": "radar-52686a4751e35868",
+      "publishedAt": "2026-10-29T19:00:37Z",
+      "title": "Ace Combat 8: Wings of Theve: a revisão do Kotaku"
+    },
+    {
+      "id": "radar-08e0c443e2610d4c",
+      "publishedAt": "2026-10-29T19:00:12Z",
+      "title": "De 'Os Traidores' a 'Vingadores: Dia do Juízo Final', Alan Cumming ainda tem alguns truques na manga"
+    },
+    {
+      "id": "radar-6a67063a68464882",
+      "publishedAt": "2026-10-29T19:00:00Z",
+      "title": "The Walking Dead anuncia retorno de Glenn quase 10 anos após sua morte na série"
+    },
+    {
+      "id": "radar-e7d66f03c7568d51",
+      "publishedAt": "2026-10-29T19:00:00Z",
+      "title": "Crystal Lake: criador confirma destino de personagem importante"
+    },
+    {
+      "id": "radar-5c7e9b848da74cf6",
+      "publishedAt": "2026-10-29T18:59:01Z",
+      "title": "Black Clover foi o anime mais assistido na Crunchyroll em outubro"
+    },
+    {
+      "id": "radar-7f78f4e2ae847aaa",
+      "publishedAt": "2026-10-29T18:57:28Z",
+      "title": "Waller: James Gunn finalmente dá atualizações sobre o status atual do programa Viola Davis DCU"
+    },
+    {
+      "id": "radar-59b7f673676746b0",
+      "publishedAt": "2026-10-29T18:51:38Z",
+      "title": "O retorno de Margot Robbie como Harley Quinn oficialmente provocado por DC Boss"
+    },
+    {
+      "id": "radar-157fa352f390cfe7",
+      "publishedAt": "2026-10-29T18:45:00Z",
+      "title": "Cinemark lança coleção de Vingadores: Doutor Destino, incluindo pins metálicos em parceria com a Iron Studios"
+    },
+    {
+      "id": "radar-0af33d55f7453204",
+      "publishedAt": "2026-10-29T18:43:49Z",
+      "title": "Frank Miller provoca o futuro da Cidade do Pecado e finalmente desenha Tartarugas Ninja Adolescentes Mutantes"
+    },
+    {
+      "id": "radar-e5a54171545baed4",
+      "publishedAt": "2026-10-29T18:42:52Z",
+      "title": "Marca se constrói reunindo pessoas, avalia cofundador da CCXP"
+    },
+    {
+      "id": "radar-329fc255a4ae2f15",
+      "publishedAt": "2026-10-29T18:39:46Z",
+      "title": "Demolidor e Sandman chegam ao seu bairro amigável Prévia do Homem-Aranha antes da 2ª temporada"
+    },
+    {
+      "id": "radar-41f7114430527cf7",
+      "publishedAt": "2026-10-29T18:38:02Z",
+      "title": "Thriller de ação de ficção científica \"imperdível\" de 2026 lança novo lançamento após grande sucesso no Rotten Tomatoes"
+    },
+    {
+      "id": "radar-6eff9cde6ad60b42",
+      "publishedAt": "2026-10-29T18:33:54Z",
+      "title": "O futuro DCU de Michael Rooker é uma atualização surpreendente de James Gunn, apesar da morte do Peacemaker na 2ª temporada"
+    },
+    {
+      "id": "radar-529ffdc24fc268b5",
+      "publishedAt": "2026-10-29T18:31:54Z",
+      "title": "Metro Redux recebe atualização gratuita para PS5 e Xbox Series X|S"
+    },
+    {
+      "id": "radar-66ad646a4c2d574a",
+      "publishedAt": "2026-10-29T18:30:00Z",
+      "title": "Ursinho Pooh: Sangue e Mel 3 ganha trailer; confira"
+    },
+    {
+      "id": "radar-17e90effd7b6102c",
+      "publishedAt": "2026-10-29T18:28:36Z",
+      "title": "O futuro DCU de Harley Quinn com Margot Robbie oficialmente abordado por James Gunn e se ele a substituirá"
+    },
+    {
+      "id": "radar-d588d64d4dd1f110",
+      "publishedAt": "2026-10-29T18:27:57Z",
+      "title": "James Gunn diz que Harley Quinn quase certamente aparecerá no DCU, mas o retorno de Margot Robbie ainda é incerto"
+    },
+    {
+      "id": "radar-b0719e0ebbd66c4b",
+      "publishedAt": "2026-10-29T18:25:45Z",
+      "title": "Fãs de lanternas que esperam pela ressurreição de Hal Jordan DCU recebem más notícias de James Gunn"
+    },
+    {
+      "id": "radar-f14ec2b3721c2c5f",
+      "publishedAt": "2026-10-29T18:24:45Z",
+      "title": "Doctor Doom domina todos os formatos nos novos pôsteres de 'Vingadores: Dia do Juízo Final', de vitrais a nuvens de tempestade"
+    },
+    {
+      "id": "radar-bc5d69b053f8cf1f",
+      "publishedAt": "2026-10-29T18:20:34Z",
+      "title": "Série Godzilla da Apple TV enfrenta redefinição da terceira temporada com novos titãs"
+    },
+    {
+      "id": "radar-d629d17243df4d80",
+      "publishedAt": "2026-10-29T18:16:47Z",
+      "title": "Duna: o balde de pipoca da parte três literalmente se duplica no design viral do verme da areia"
+    },
+    {
+      "id": "radar-bbcaae68530a564a",
+      "publishedAt": "2026-10-29T18:16:41Z",
+      "title": "'MASHLE: MAGIA E MÚSCULOS' tem 3ª temporada confirmada na Crunchyroll para janeiro de 2027"
+    },
+    {
+      "id": "radar-4a6a3b730d35a7db",
+      "publishedAt": "2026-10-29T18:12:51Z",
+      "title": "OBITUÁRIO: Diretor e Animador Croata Boris Kolar"
+    },
+    {
+      "id": "radar-8d7ace9eac96e05c",
+      "publishedAt": "2026-10-29T18:08:55Z",
+      "title": "As pré-vendas de bilheteria de Dunesday mostram um vencedor claro entre Vingadores: Dia do Juízo Final e Duna: Parte Três"
+    },
+    {
+      "id": "radar-489efa980319e8a6",
+      "publishedAt": "2026-10-29T18:05:14Z",
+      "title": "James Gunn confirma oficialmente os primeiros detalhes sobre a substituição do Batman de Robert Pattinson"
+    },
+    {
+      "id": "radar-1fe903f54eb99e57",
+      "publishedAt": "2026-10-29T18:02:13Z",
+      "title": "Prévia exclusiva da Marvel Comics: DESAFIOS DA DESTRUIÇÃO: DOUTOR ESTRANHO #1"
+    },
+    {
+      "id": "radar-8f18cdbafa13df63",
+      "publishedAt": "2026-10-29T18:00:00Z",
+      "title": "Ator de Han Solo e Coração de Ferro relembra teste para Homem-Aranha"
+    },
+    {
+      "id": "radar-997d5efab3299d64",
+      "publishedAt": "2026-10-29T18:00:00Z",
+      "title": "VisionQuest apareceu em um camafeu que remonta ao melhor momento de Ultron"
+    },
+    {
+      "id": "radar-60c673d380af57e1",
+      "publishedAt": "2026-10-29T17:58:00Z",
+      "title": "Novos pôsteres de VINGADORES: DOOMSDAY colocam Doutor Destino e suas misteriosas bruxas letãs em destaque"
+    },
+    {
+      "id": "radar-e665a98eef3eace7",
+      "publishedAt": "2026-10-29T17:55:09Z",
+      "title": "Prévia EXCLUSIVA da Marvel: Infernal Hulk vs. Homem-Aranha #1"
+    },
+    {
+      "id": "radar-707387344dca3fbe",
+      "publishedAt": "2026-10-29T17:47:18Z",
+      "title": "Relatório: Elenco de ‘Star Wars: Episódio X’ em andamento para dois protagonistas românticos"
+    },
+    {
+      "id": "radar-89a188e39ebfb356",
+      "publishedAt": "2026-10-29T17:46:45Z",
+      "title": "James Gunn revela firmemente se o capitão Boomerang de Jai Courtney está retornando ao DCU"
+    },
+    {
+      "id": "radar-47064f7f80942a8d",
+      "publishedAt": "2026-10-29T17:38:06Z",
+      "title": "Demon Slayer The Hinokami Chronicles 2 chega ao Nintendo Switch 2"
+    },
+    {
+      "id": "radar-e7de4ec3977b911b",
+      "publishedAt": "2026-10-29T17:33:00Z",
+      "title": "Flint Marko? E você está fazendo isso?"
+    },
+    {
+      "id": "radar-7576e69d4eef3f1e",
+      "publishedAt": "2026-10-29T17:30:00Z",
+      "title": "Donald Glover escrevendo, estrelando a adaptação de videogame ‘PUBG’ em andamento na Netflix"
+    },
+    {
+      "id": "radar-88469adc9ca55b00",
+      "publishedAt": "2026-10-29T17:28:47Z",
+      "title": "James Gunn sobre Margot Robbie retornando à DCU no papel de ‘Esquadrão Suicida’: “Não sei se ela quer interpretar Harley de novo; ela pode ter superado isso”"
+    },
+    {
+      "id": "radar-f246e8feff38ed2e",
+      "publishedAt": "2026-10-29T17:21:00Z",
+      "title": "Santoro e Ritchson entregam, mas Três Horas Para Viver sofre nas pausas da porrada"
+    },
+    {
+      "id": "radar-ecb941c78ef48fd2",
+      "publishedAt": "2026-10-29T17:13:30Z",
+      "title": "Os Minions de Meu Malvado Favorito retornam de forma surpreendente no próximo mês, com novo filme chegando ao Peacock"
+    },
+    {
+      "id": "radar-ed3693898f99f7bd",
+      "publishedAt": "2026-10-29T17:12:25Z",
+      "title": "The Suicide Squad Retcons da DCU expõe o maior problema de James Gunn como chefe de estúdio"
+    },
+    {
+      "id": "radar-1df381d8dbd112f6",
+      "publishedAt": "2026-10-29T17:06:43Z",
+      "title": "Parece que Eva Mendes tem um papel especial em Star Wars: Starfighter | Zumbido no bar"
+    },
+    {
+      "id": "radar-c7cf4aaab344a630",
+      "publishedAt": "2026-10-29T17:00:00Z",
+      "title": "Conheça os dubladores brasileiros de The Iceblade Sorcerer Shall Rule the World II"
+    },
+    {
+      "id": "radar-b08e2724cbfe95f9",
+      "publishedAt": "2026-10-29T16:57:18Z",
+      "title": "Xsolla destaca o mercado de jogos de US$ 5,6 bilhões do Sudeste Asiático à frente da Gamescom Asia"
+    },
+    {
+      "id": "radar-c06ff5e245db8266",
+      "publishedAt": "2026-10-29T16:57:11Z",
+      "title": "Máximo de X-Men, Vingadores e por que a Marvel Comics o chamou de Armagedom"
+    },
+    {
+      "id": "radar-3fea181b504e86f3",
+      "publishedAt": "2026-10-29T16:47:51Z",
+      "title": "Dune: Awakening terá expansão gratuita Blood and Ice em 1º de dezembro"
+    },
+    {
+      "id": "radar-17637f245ecc8f84",
+      "publishedAt": "2026-10-29T16:47:45Z",
+      "title": "‘Jogos Vorazes: Amanhecer na Colheita’ deve arrecadar US$ 60 milhões em estreia nos EUA"
+    },
+    {
+      "id": "radar-3e6e6944f44ebce7",
+      "publishedAt": "2026-10-29T16:45:00Z",
+      "title": "Crítica do jogo: Batman: Arkham City"
+    },
+    {
+      "id": "radar-fd6edb355320871e",
+      "publishedAt": "2026-10-29T16:39:11Z",
+      "title": "The Great Villainess: Strategy of Lily chega ao PS5 e Switch 2 em dezembro"
+    },
+    {
+      "id": "radar-8e0f93a689f88ffc",
+      "publishedAt": "2026-10-29T16:37:59Z",
+      "title": "O novo Batman da DCU “não está muito longe” de ser escalado e terá mais ou menos a mesma idade do Superman, diz James Gunn"
+    },
+    {
+      "id": "radar-ae06837ed74119bf",
+      "publishedAt": "2026-10-29T16:36:08Z",
+      "title": "Oferta geral para membros: ingressos de acesso antecipado para “STAR WARS™: The Experience”"
+    },
+    {
+      "id": "radar-62ca26c8ec859152",
+      "publishedAt": "2026-10-29T16:30:41Z",
+      "title": "O Halloween está próximo!"
+    },
+    {
+      "id": "radar-404f6048a2fde95d",
+      "publishedAt": "2026-10-29T16:30:06Z",
+      "title": "Tornar Gears of War: E-Day um console Xbox exclusivo não ajudou a Microsoft, descobriu o analista"
+    },
+    {
+      "id": "radar-fe17c760e16fe26d",
+      "publishedAt": "2026-10-29T16:29:34Z",
+      "title": "e então você vê que são 3 da manhã"
+    },
+    {
+      "id": "radar-ee7662ae5da3a905",
+      "publishedAt": "2026-10-29T16:28:03Z",
+      "title": "Relatório: The Elder Scrolls VI legendado Sentinel"
+    },
+    {
+      "id": "radar-04f79299caec3e65",
+      "publishedAt": "2026-10-29T16:16:54Z",
+      "title": "Star Wars: Corredor Galáctico, Revisão"
+    },
+    {
+      "id": "radar-0e323794c859992b",
+      "publishedAt": "2026-10-29T16:16:12Z",
+      "title": "Título de The Elder Scrolls 6 supostamente será revelado no próximo mês, apenas cerca de oito anos depois de ter sido anunciado"
+    },
+    {
+      "id": "radar-262ee58463d3222c",
+      "publishedAt": "2026-10-29T16:00:00Z",
+      "title": "Crítica do Anime Blu-ray da Princesa Vampira Miyu OVA"
+    },
+    {
+      "id": "radar-67ee04ae70304aad",
+      "publishedAt": "2026-10-29T16:00:00Z",
+      "title": "Rascal não sonha com um querido amigo será lançado filme de anime nos Estados Unidos, Canadá e Austrália em fevereiro de 2027"
+    },
+    {
+      "id": "radar-fdbb5877016575b8",
+      "publishedAt": "2026-10-29T15:47:57Z",
+      "title": "MeTV Toons homenageia Eric Bauza com programa especial e clássico de curtas do Bugs Bunny"
+    },
+    {
+      "id": "radar-e959b038dce2ccea",
+      "publishedAt": "2026-10-29T15:30:00Z",
+      "title": "Austin Powers 4: Mike Myers confirma sequência"
+    },
+    {
+      "id": "radar-966b8bee59cc9109",
+      "publishedAt": "2026-10-29T15:30:00Z",
+      "title": "Marvel, Stallone, Harry Potter e mais: O que vai rolar na CCXP26"
+    },
+    {
+      "id": "radar-0a0dc81b1e328647",
+      "publishedAt": "2026-10-29T15:29:24Z",
+      "title": "Navan Comic Con retorna com estrelas internacionais e diversão para a família"
+    },
+    {
+      "id": "radar-528c96207fc9d82c",
+      "publishedAt": "2026-10-29T15:22:37Z",
+      "title": "Desenvolvedora de Life Is Strange, Don't Nod, é duramente criticada por funcionários sindicalizados devido a práticas de gestão \"ilegais\", em meio a possíveis demissões"
+    },
+    {
+      "id": "radar-6b960773e9fde6d6",
+      "publishedAt": "2026-10-29T15:18:00Z",
+      "title": "Josephine | Filme de diretora brasileira com Channing Tatum ganha trailer nacional"
+    },
+    {
+      "id": "radar-15590f278f2e0928",
+      "publishedAt": "2026-10-29T15:15:00Z",
+      "title": "Jennifer Lawrence compartilha idéias sobre a reunião ‘emocional’ dos Jogos Vorazes no podcast Call Her Daddy"
+    },
+    {
+      "id": "radar-57ea63ce1fb4bb8a",
+      "publishedAt": "2026-10-29T15:11:00Z",
+      "title": "Morre Barbara Barrie, atriz indicada ao Oscar e dubladora de Hércules, aos 95"
+    },
+    {
+      "id": "radar-acb34c274f6031e8",
+      "publishedAt": "2026-10-29T15:09:44Z",
+      "title": "O Bosque Selvagem | Travis Knight conta qual foi a motivação para adaptar livro de Colin Meloy para as telas"
+    },
+    {
+      "id": "radar-072cdfabf0dbbcb1",
+      "publishedAt": "2026-10-29T15:06:13Z",
+      "title": "Virtua Fighter Crossroads adiciona Lionel Rafale"
+    },
+    {
+      "id": "radar-56ebdcc5b9c23ed8",
+      "publishedAt": "2026-10-29T15:00:50Z",
+      "title": "VisionQuest – Temporada 1, Episódio 6: Impasse (2026) – Revisão"
+    },
+    {
+      "id": "radar-bb1907b8d98c5dab",
+      "publishedAt": "2026-10-29T15:00:49Z",
+      "title": "Phantom Blade Zero acaba de chegar ao Steam com mais de 700.000 jogadores simultâneos"
+    },
+    {
+      "id": "radar-1856c212116ed059",
+      "publishedAt": "2026-10-29T15:00:40Z",
+      "title": "McDonald’s anuncia o retorno do Pokémon Happy Meal com 15 brinquedos e cromos"
+    },
+    {
+      "id": "radar-e06a81b26f27b1c5",
+      "publishedAt": "2026-10-29T15:00:00Z",
+      "title": "Apex Legends: Criptografia chega em 3 de novembro"
+    },
+    {
+      "id": "radar-290999a2ec78e06f",
+      "publishedAt": "2026-10-29T14:59:00Z",
+      "title": "Os cineastas de WILDWOOD analisam a insana batalha final que leva a animação stop-motion a um nível totalmente novo"
+    },
+    {
+      "id": "radar-22f63d5262cc8f1d",
+      "publishedAt": "2026-10-29T14:43:07Z",
+      "title": "Motoqueiro Fantasma: Roteirista pede versão mais assustadora do herói nos cinemas"
+    },
+    {
+      "id": "radar-f816b62235db2ae2",
+      "publishedAt": "2026-10-29T14:43:03Z",
+      "title": "JJJ depois de ver isso: Como isso foi parar aí!"
+    },
+    {
+      "id": "radar-740bac5c01d4ba78",
+      "publishedAt": "2026-10-29T14:43:01Z",
+      "title": "Nós fizemos isso"
+    },
     {
       "id": "radar-8fa77104cab5ce1b",
       "publishedAt": "2026-10-29T14:37:29Z",
@@ -93,9 +608,19 @@
       "title": "Novo jogo de aventura Switch 2 faz Zelda parecer ainda melhor com o tratamento do Studio Ghibli"
     },
     {
+      "id": "radar-e27abb95e9994f93",
+      "publishedAt": "2026-10-29T14:20:50Z",
+      "title": "Adorable Adventures chega ao Nintendo Switch 2 em 12 de novembro"
+    },
+    {
       "id": "radar-3d98d40171b324c8",
       "publishedAt": "2026-10-29T14:16:00Z",
       "title": "A Diplomata | Série de thriller político da Netflix é renovada para a 5ª temporada"
+    },
+    {
+      "id": "radar-fbb3a0bf21959637",
+      "publishedAt": "2026-10-29T14:15:24Z",
+      "title": "O exclusivo Switch 2 da FromSoftware, The Duskbloods, foi adiado para 2027"
     },
     {
       "id": "radar-81044cc272e98e1a",
@@ -116,6 +641,11 @@
       "id": "radar-e955c9b6ce59a199",
       "publishedAt": "2026-10-29T14:12:58Z",
       "title": "Phantom Blade Zero chega ao GeForce NOW com mais oito jogos"
+    },
+    {
+      "id": "radar-a4a5fd3ea8a6545e",
+      "publishedAt": "2026-10-29T14:10:00Z",
+      "title": "James Gunn diz que vai “estabelecer a lei” com um novo podcast sobre o que é e o que não é o cânone do DCU em Esquadrão Suicida"
     },
     {
       "id": "radar-e8564320dbfa3618",
