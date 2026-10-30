@@ -44,6 +44,7 @@ from dataclasses import dataclass, field
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
+import editorial
 
 PASTA = Path(__file__).resolve().parent
 ARQUIVO_HISTORICO = PASTA / ".historico.json"
@@ -898,7 +899,10 @@ def analisar(noticia: Noticia, fonte: dict) -> bool:
     titulo_norm = normalizar(noticia.titulo)
     if any(r.search(titulo_norm) for r in RE_IGNORAR) or re.search(r"\d+\s?% off", noticia.titulo, re.I):
         return False
-    if any(r.search(titulo_norm) for r in RE_ADULTO):
+    if any(r.search(titulo_norm) for r in RE_ADULTO) or editorial.adult_content({
+        'title': noticia.titulo, 'excerpt': noticia.resumo,
+        'sourceUrl': noticia.link, 'tagsText': noticia.tags_rss,
+    }):
         return False
     if fonte.get("meme") and fonte.get("gnews") and not RE_MEME.search(titulo_norm):
         return False  # busca de memes no Google News: só manchete que fala de meme
@@ -1074,6 +1078,17 @@ def arquivar_artigos(destino, payload):
         arquivo.parent.mkdir(parents=True, exist_ok=True)
         arquivo.write_text(json.dumps(artigo, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         indice[ident] = {k: artigo[k] for k in ("id", "publishedAt", "title")}
+    # O índice antigo também passa pela política; os arquivos e IDs permanecem.
+    for ident, item in indice.items():
+        arquivo = destino.parent / "artigos" / ident[6:8] / (ident + ".json")
+        try:
+            stored = json.loads(arquivo.read_text(encoding='utf-8'))
+            clean, reason = editorial.prepare(stored)
+            selected = clean or stored
+            item.update({k: selected.get(k) for k in ('title', 'sourceUrl', 'originalTitle', 'translated')})
+            item['editorialReview'] = clean['editorialReview'] if clean else {'status': 'blocked' if reason == 'adult-content' else 'pending', 'policyVersion': editorial.RULES['version']}
+        except (OSError, ValueError):
+            item['editorialReview'] = {'status': 'pending', 'policyVersion': editorial.RULES['version']}
     indice_path.write_text(json.dumps({"schemaVersion": 1, "updatedAt": payload["updatedAt"], "articles": sorted(indice.values(), key=lambda a: a["publishedAt"], reverse=True)}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
@@ -1171,7 +1186,7 @@ def completar_foto(artigo):
     return None  # Posts sem foto real não entram no site.
 
 
-def gerar_json(por_secao, agora):
+def gerar_json(por_secao, agora, revisao=None):
     """Chamadas curtas com data original para o site Geek em Órbita."""
     nomes = {"games": "Games", "cinema": "Cinema & séries", "animacao": "Anime", "colecionaveis": "Colecionáveis", "geek": "Universo geek"}
     artigos, vistos = [], set()
@@ -1179,8 +1194,6 @@ def gerar_json(por_secao, agora):
         for n in lista:
             if n.data is None or (n.via_google and not n.link_resolvido):
                 continue
-            if n.pais == "INT" and not n.titulo_original and not n.meme:
-                continue  # uma tradução indisponível não substitui o conteúdo em português
             url = urllib.parse.urlsplit(n.link)
             if not url_publica(n.link):
                 continue
@@ -1221,7 +1234,7 @@ def gerar_json(por_secao, agora):
             publicada = n.data if n.data.tzinfo else n.data.replace(tzinfo=dt.timezone.utc)
             local = publicada.astimezone(dt.timezone(dt.timedelta(hours=-3)))
             meses = ("jan.", "fev.", "mar.", "abr.", "mai.", "jun.", "jul.", "ago.", "set.", "out.", "nov.", "dez.")
-            artigos.append({
+            artigo = {
                 "id": "radar-" + hashlib.sha256(link.encode()).hexdigest()[:16],
                 "title": titulo, "excerpt": resumo,
                 "body": [f"Confira o meme completo na publicação original de {n.fonte}." if n.meme else f"Confira a cobertura completa em {n.fonte}. A matéria original reúne os detalhes desta atualização."],
@@ -1234,7 +1247,12 @@ def gerar_json(por_secao, agora):
                 "translated": bool(n.titulo_original), "originalTitle": n.titulo_original or n.titulo,
                 "tags": [t for t, ativo in (("escalacao", n.escalacao), ("luto", n.luto), ("analise", n.analise),
                                             ("evento", bool(n.evento)), ("furo", n.furo)) if ativo],
-            })
+            }
+            clean, reason = editorial.prepare(artigo, country=n.pais)
+            if clean:
+                artigos.append(clean)
+            elif revisao is not None and reason != 'adult-content':
+                revisao.append({**artigo, 'reviewReason': reason})
     artigos.sort(key=lambda a: a["publishedAt"], reverse=True)
     with cf.ThreadPoolExecutor(max_workers=8) as pool:
         com_foto = [a for a in pool.map(completar_foto, artigos[:120]) if a]
@@ -1698,7 +1716,11 @@ def main() -> int:
 
     if args.json:
         destino_json = Path(args.json)
-        payload = gerar_json(por_secao, agora)
+        revisao = []
+        payload = gerar_json(por_secao, agora, revisao=revisao)
+        if destino_json.exists():
+            editorial.sanitize_snapshot(destino_json)
+        editorial.write_queue(destino_json.parent / 'review-queue.json', revisao, payload['updatedAt'])
         if payload["articles"]:
             destino_json.parent.mkdir(parents=True, exist_ok=True)
             arquivar_artigos(destino_json, payload)

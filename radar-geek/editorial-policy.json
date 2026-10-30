@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "reviewHosts": ["intoxianime.com"],
+  "nativeHosts": ["omelete.com.br", "jovemnerd.com.br", "legiaodosherois.com.br", "br.ign.com", "criticalhits.com.br", "einerd.com", "ovicio.com.br", "pipocamoderna.com.br", "cinemacomrapadura.com.br", "universohq.com", "animenew.com.br", "intoxianime.com", "animeunited.com.br", "cinepop.com.br", "mixdeseries.com.br", "tecmundo.com.br", "arkade.com.br", "nintendoblast.com.br", "gamevicio.com", "pizzafria.com.br", "pizzafria.ig.com.br", "projectn.com.br", "gamerscore.com.br", "gamerscorebrasil.com.br", "adorocinema.com", "canaltech.com.br", "cnnbrasil.com.br", "metropoles.com"],
+  "blockedHosts": ["nhentai.net", "hentaihaven.xxx", "pornhub.com", "xvideos.com", "onlyfans.com"],
+  "adultPatterns": ["\\b(?:nsfw|hentai|ecchi|lewd|onlyfans|r34)\\b", "\\brule\\s*34\\b", "\\b(?:porn[a-z]*|nudes?|nudity|nudez)\\b", "\\blustful\\s*domination\\b", "\\b(?:manga|anime|quadrinho|comic)s?\\s+(?:adult[oa]s?|erotic[oa]s?|para\\s+adultos)\\b", "\\b(?:adult|erotic|steamy|sexually\\s+explicit)\\s+(?:manga|anime|comic)s?\\b", "\\b(?:conteudo|conteudos|cenas?)\\s+(?:adult[oa]s?|sexuais|erotic[oa]s?|sexualmente\\s+explicit[oa]s?)\\b"],
+  "brokenTitlePatterns": ["^(?!3D\\b|2D\\b|4K\\b|8K\\b|5G\\b)\\d+[a-zA-ZÀ-ÿ]", "(?:\\.\\.\\.|…)\\s*$", "ataque secreto de acao ao vivo na substituicao", "\\b(?:mystique surface|rpg stealth lancado|nivelamento solo)\\b"]
+}
