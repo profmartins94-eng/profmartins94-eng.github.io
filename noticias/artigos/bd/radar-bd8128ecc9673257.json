@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T08:11:37Z",
-  "displayDate": "28 out. 2026",
+  "publishedAt": "2026-10-30T07:56:01Z",
+  "displayDate": "30 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/clayface-filme-elseworlds-sombra-batman-gotham",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791802554.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Clayface ganhará terror corporal em Gotham e expõe o plano B de James Gunn para o Batman",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }

@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-29T08:40:56Z",
-  "displayDate": "29 out. 2026",
+  "publishedAt": "2026-10-30T09:55:51Z",
+  "displayDate": "30 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792342569.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }

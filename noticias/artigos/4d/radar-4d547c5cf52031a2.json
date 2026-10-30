@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T19:56:45Z",
-  "displayDate": "28 out. 2026",
+  "publishedAt": "2026-10-30T11:25:53Z",
+  "displayDate": "30 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/marvel-insinua-status-mutante-homem-aranha-brand-new-day",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1785785984.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Marvel insinua status mutante do Homem-Aranha em “Brand New Day” para abrir corredor aos X-Men",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }

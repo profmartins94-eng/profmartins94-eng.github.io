@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T12:11:01Z",
-  "displayDate": "28 out. 2026",
+  "publishedAt": "2026-10-30T08:56:09Z",
+  "displayDate": "30 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/dc-studios-cancelamentos-duas-series-james-gunn",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1786578970.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "DC enxuga o próprio universo e cancela duas séries de James Gunn antes da estreia",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }

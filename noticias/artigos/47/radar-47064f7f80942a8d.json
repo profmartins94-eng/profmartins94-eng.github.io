@@ -7,7 +7,7 @@
   ],
   "category": "games",
   "categoryName": "Games",
-  "publishedAt": "2026-10-29T17:38:06Z",
+  "publishedAt": "2026-10-29T18:29:21Z",
   "displayDate": "29 out. 2026",
   "sourceName": "Pizza Fria",
   "sourceUrl": "https://pizzafria.ig.com.br/news/demon-slayer-the-hinokami-2-switch-2",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Demon Slayer The Hinokami Chronicles 2 chega ao Nintendo Switch 2",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }

@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T09:11:10Z",
-  "displayDate": "28 out. 2026",
+  "publishedAt": "2026-10-30T02:11:20Z",
+  "displayDate": "29 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/james-gunn-legiao-do-mal-quinto-vilao-dcu",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1788216912.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }
