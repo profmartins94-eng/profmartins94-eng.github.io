@@ -1,53 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T15:18:19.787957Z",
+  "updatedAt": "2026-10-30T18:52:04.543386Z",
   "articles": [
     {
-      "id": "radar-e94882de289921a6",
-      "title": "EA cancelou Mass Effect para investir em Star Wars Battlefront 3, segundo jornalista",
+      "id": "radar-758af3497e980a43",
+      "title": "Pedro Pascal e 9 Emmys: o fenômeno da HBO Max que nasceu de um videogame",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Manual dos Games. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-30T15:14:30Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Manual dos Games",
-      "sourceUrl": "https://manualdosgames.com/ea-cancelou-mass-effect-investir-star-wars-26",
-      "image": "https://manualdosgames.com/wp-content/uploads/2024/11/mass-effect-1.jpg",
-      "alt": "Imagem publicada por Manual dos Games",
-      "imageCredit": "Imagem: Manual dos Games",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "EA cancelou Mass Effect para investir em Star Wars Battlefront 3, segundo jornalista",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d89196f5afa5f4a3",
-      "title": "John Romero confirma novo acordo de publicação para seu jogo cancelado pelo Xbox e traz parte da equipe de volta",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Central Xbox. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Revista Bula. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-10-30T15:12:27Z",
+      "publishedAt": "2026-10-30T18:48:25Z",
       "displayDate": "30 out. 2026",
-      "sourceName": "Central Xbox",
-      "sourceUrl": "https://centralxbox.com.br/2026/10/30/john-romero-confirma-novo-acordo-de-publicacao-para-seu-jogo-cancelado-pelo-xbox-e-traz-parte-da-equipe-de-volta",
-      "image": "https://centralxbox.com.br/wp-content/uploads/2026/10/John-Romero.jpg",
-      "alt": "Imagem publicada por Central Xbox",
-      "imageCredit": "Imagem: Central Xbox",
+      "sourceName": "Revista Bula",
+      "sourceUrl": "https://www.revistabula.com/170957-the-last-of-us-bula-streaming",
+      "image": "https://www.revistabula.com/wp/wp-content/uploads/2026/10/The-Last-of-Us.webp",
+      "alt": "Imagem publicada por Revista Bula",
+      "imageCredit": "Imagem: Revista Bula",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "John Romero confirma novo acordo de publicação para seu jogo cancelado pelo Xbox e traz parte da equipe de volta",
+      "originalTitle": "Pedro Pascal e 9 Emmys: o fenômeno da HBO Max que nasceu de um videogame",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -55,25 +29,51 @@
       }
     },
     {
-      "id": "radar-f34a0292356ea892",
-      "title": "Steel Aces estreia no PC e chegará ao Steam na próxima semana",
-      "excerpt": "A Armative Studios anunciou nesta sexta-feira, 30, que Steel Aces já está disponível em Acesso Antecipado para PC, por meio de sua plataforma própria.",
+      "id": "radar-02efb2aca767bd34",
+      "title": "5 aberturas de Naruto que continuam inesquecíveis",
+      "excerpt": "As aberturas de Naruto se tornaram parte essencial da experiência do anime ao combinar músicas marcantes, animações criativas e momentos importantes da trajetória de Naruto Uzumaki.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T18:30:16Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/5-aberturas-de-naruto-que-continuam-inesqueciveis",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/5-aberturas-de-naruto-que-continuam-inesqueciveis-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "5 aberturas de Naruto que continuam inesquecíveis",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4e905426c42e6408",
+      "title": "Guild Saga: Vanished Worlds revela modo Herói e nova masmorra",
+      "excerpt": "A Ocelot Technologies divulgou nesta sexta-feira, 30, novos detalhes de Guild Saga: Vanished Worlds , RPG tático que receberá um modo de dificuldade adicional, uma nova masmorra e habilidades inéditas em sua versão 1.0.",
       "body": [
         "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-30T15:11:39Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-30T18:27:44Z",
       "displayDate": "30 out. 2026",
       "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/steel-aces-acesso-antecipado-pc",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/Steel-Aces.png",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/guild-saga-vanished-worlds-modo-heroi",
+      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/09/Guild-Saga-Vanished-Worlds.jpg",
       "alt": "Imagem publicada por Pizza Fria",
       "imageCredit": "Imagem: Pizza Fria",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Steel Aces estreia no PC e chegará ao Steam na próxima semana",
+      "originalTitle": "Guild Saga: Vanished Worlds revela modo Herói e nova masmorra",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -81,77 +81,571 @@
       }
     },
     {
-      "id": "radar-034793f7f6d77132",
-      "title": "‘Percy Jackson’: 3ª temporada ganha cenas inéditas e promete guerra épica contra os Titãs",
-      "excerpt": "A terceira temporada de ‘Percy Jackson e os Olimpianos‘ ganhou uma prévia inédita durante o Lucca Comics & Games, na Itália.",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-30T15:07:13Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/percy-jackson-3a-temporada-ganha-cenas-ineditas-e-promete-guerra-epica-contra-os-titas-774489",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/07/percy-jackson-season-3-1024x679.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘Percy Jackson’: 3ª temporada ganha cenas inéditas e promete guerra épica contra os Titãs",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-97ed7877bbd530cb",
-      "title": "Explicando o final da 4ª temporada de Re:ZERO -Starting Life in Another World-",
-      "excerpt": "Foi uma temporada cheia de idas e voltas!",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T15:00:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/guides/2026/10/30/anime-re-zero-temporada-4-final-explicado",
-      "image": "https://a.storyblok.com/f/178900/960x540/492ad39fdf/rezero-season-4.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Explicando o final da 4ª temporada de Re:ZERO -Starting Life in Another World-",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f8c0176316c471bd",
-      "title": "Filme de Bloodborne tem atualização promissora do produtor Jacksepticeye",
-      "excerpt": "\"Estamos prestes a ter algo muito legal\"",
+      "id": "radar-3c43b547284fc8e3",
+      "title": "The Suicide Squad: Who Lives, Who Dies",
+      "excerpt": "",
       "body": [
         "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T14:58:33Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-30T18:04:23Z",
       "displayDate": "30 out. 2026",
       "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/bloodborne-1/157187/filme-de-bloodborne-tem-atualizacao-promissora-do-produtor-jacksepticeye",
-      "image": "https://sm.ign.com/ign_br/news/b/bloodborne/bloodborne-movie-gets-promising-update-from-producer-jacksep_zw5j.jpg",
+      "sourceUrl": "https://br.ign.com/suicide-squad-2-1/103286/the-suicide-squad-who-lives-who-dies",
+      "image": "https://sm.ign.com/ign_br/gallery/t/the-suicid/the-suicide-squad-who-lives-who-dies_y5p6.jpg",
       "alt": "Imagem publicada por IGN Brasil",
       "imageCredit": "Imagem: IGN Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Filme de Bloodborne tem atualização promissora do produtor Jacksepticeye",
+      "originalTitle": "The Suicide Squad: Who Lives, Who Dies",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-af9e24433b28f211",
+      "title": "James Gunn afirma que Arlequina acabará entrando para o Universo Cinematográfico da DC e que, se Margot Robbie quiser interpretá-la, ele “fará de tudo para explicar isso nesse mundo”",
+      "excerpt": "“É a Margot quem tem que decidir se ‘Esquadrão Suicida’ faz parte do cânone ou não” James Gunn abordou a situação em relação à interpretada e muito querida Arlequina de Margot Robbie, e se ela faz parte do cânone do Universo DC atual.",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T18:04:23Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/esquadrao-suicida/157199/james-gunn-afirma-que-arlequina-acabara-entrando-para-o-universo-cinematografico-da-dc-e-que-se-marg",
+      "image": "https://sm.ign.com/ign_br/news/j/james-gunn/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-an_dcz3.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "James Gunn afirma que Arlequina acabará entrando para o Universo Cinematográfico da DC e que, se Margot Robbie quiser interpretá-la, ele “fará de tudo para explicar isso nesse mundo”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-494293852bb26261",
+      "title": "CEO da OpenAI, Sam Altman acha que é “péssimo” você ter memória RAM no seu PC para jogos",
+      "excerpt": "Tá na Disney?",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-30T17:59:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/nvidia-rtx-5080/157196/ceo-da-openai-sam-altman-acha-que-e-pessimo-voce-ter-memoria-ram-no-seu-pc-para-jogos",
+      "image": "https://sm.ign.com/ign_br/news/o/openai-ceo/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ra_2wgd.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "CEO da OpenAI, Sam Altman acha que é “péssimo” você ter memória RAM no seu PC para jogos",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5d24416a17f2b592",
+      "title": "Anime-se! 3 reúne mais de 60 anos da história dos animês",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Alternativa Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T17:53:25Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Alternativa Nerd",
+      "sourceUrl": "https://alternativanerd.com.br/animes-mangas/anime-se-3-reune-mais-de-60-anos-da-historia-dos-animes",
+      "image": "https://uploads.alternativanerd.com.br/wp-content/uploads/2019/05/2017-09-02-yuyuhakusho1-.jpg",
+      "alt": "Imagem publicada por Alternativa Nerd",
+      "imageCredit": "Imagem: Alternativa Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Anime-se! 3 reúne mais de 60 anos da história dos animês",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-06b228d4f70f2836",
+      "title": "EA cancela novo Mass Effect para priorizar Star Wars Battlefront III",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-30T17:41:15Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "culpadolag.com.br",
+      "sourceUrl": "https://culpadolag.com.br/ea-cancela-novo-mass-effect-para-priorizar-star-wars-battlefront-iii",
+      "image": "https://culpadolag.com.br/storage/posts/ae9a19a3-5bee-4cb1-8942-791bb49ab4c5.webp",
+      "alt": "Imagem publicada por culpadolag.com.br",
+      "imageCredit": "Imagem: culpadolag.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "EA cancela novo Mass Effect para priorizar Star Wars Battlefront III",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-87895411ca95433b",
+      "title": "Quasimodo | Novo Corcunda de Notre-Dame da Netflix ganha trailer; assista",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T17:39:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/quasimodo-corcunda-notre-dame-netflix-trailer",
+      "image": "https://cdn.ome.lt/zPFeogC4XCn_PTqESQHGkHnmvis=/1200x630/smart/filters:format(webp)/extras/conteudos/QUASIMODO-4-SEPTEMBRE--50_V2.jpg",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Quasimodo | Novo Corcunda de Notre-Dame da Netflix ganha trailer; assista",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bdd27ab7b10956c0",
+      "title": "Cinemark abre pré-venda de balde colecionável de Jogos Vorazes: Amanhecer na Colheita",
+      "excerpt": "Cinemark inicia pré-venda do balde colecionável de Jogos Vorazes: Amanhecer na Colheita, com combo no app.",
+      "body": [
+        "Confira a cobertura completa em Geek Publicitário. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "colecionaveis",
+      "categoryName": "Colecionáveis",
+      "publishedAt": "2026-10-30T17:34:25Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Geek Publicitário",
+      "sourceUrl": "https://gkpb.com.br/200309/cinemark-jogos-vorazes-amanhecer-na-colheita",
+      "image": "https://gkpb.com.br/wp-content/uploads/2026/10/gkpb-cinemark-jogos-vorazes-1024x576.jpg",
+      "alt": "Imagem publicada por Geek Publicitário",
+      "imageCredit": "Imagem: Geek Publicitário",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Cinemark abre pré-venda de balde colecionável de Jogos Vorazes: Amanhecer na Colheita",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0485c0be5f469983",
+      "title": "Como está Alexa Vega, a Carmen de Pequenos Espiões, 25 anos depois?",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-30T17:19:04Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Legião dos Heróis",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/como-esta-alexa-vega-a-carmen-de-pequenos-espioes-25-anos-depois.html",
+      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/10/legiao_f8T76rcDs3wC.webp",
+      "alt": "Imagem publicada por Legião dos Heróis",
+      "imageCredit": "Imagem: Legião dos Heróis",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Como está Alexa Vega, a Carmen de Pequenos Espiões, 25 anos depois?",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b9704353c364bb07",
+      "title": "Alok fará show na CCXP26 após participar de painel sobre anime de Free Fire",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Gshow. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T17:16:50Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Gshow",
+      "sourceUrl": "https://gshow.globo.com/cultura-pop/noticia/alok-fara-show-na-ccxp26-apos-participar-de-painel-sobre-anime-de-free-fire.ghtml",
+      "image": "https://s2-gshow.glbimg.com/rLOmnoLclQTNReljq7NuFiRQT0I=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/3/B/NaxDVdSWO30gf4JOsE5A/alok.jpeg",
+      "alt": "Imagem publicada por Gshow",
+      "imageCredit": "Imagem: Gshow",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Alok fará show na CCXP26 após participar de painel sobre anime de Free Fire",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-60511d315f2763f2",
+      "title": "Mangá “Frau Faust” entra em pré-venda",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Biblioteca Brasileira de Mangás. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T17:12:57Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Biblioteca Brasileira de Mangás",
+      "sourceUrl": "https://blogbbm.com/2026/10/30/manga-frau-faust-entra-em-pre-venda/amp",
+      "image": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2025/11/Frau-Faust.jpg?fit=800%2C300&ssl=1",
+      "alt": "Imagem publicada por Biblioteca Brasileira de Mangás",
+      "imageCredit": "Imagem: Biblioteca Brasileira de Mangás",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Mangá “Frau Faust” entra em pré-venda",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f5042ff9f05b108b",
+      "title": "Cine A lança balde de pipoca para Vingadores: Doutor Destino",
+      "excerpt": "Cine A lança balde temático inspirado em Vingadores: Doutor Destino, com personagem de máscara e capuz em clima de cinema.",
+      "body": [
+        "Confira a cobertura completa em Geek Publicitário. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T17:06:12Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Geek Publicitário",
+      "sourceUrl": "https://gkpb.com.br/200306/cine-a-doutor-destino",
+      "image": "https://gkpb.com.br/wp-content/uploads/2026/10/cine-a-vingadores-1024x576.jpg",
+      "alt": "Imagem publicada por Geek Publicitário",
+      "imageCredit": "Imagem: Geek Publicitário",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Cine A lança balde de pipoca para Vingadores: Doutor Destino",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-eb09aab856d222f5",
+      "title": "Batman do DCU: tudo o que sabemos sobre a estreia no cinema",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Terra. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T17:01:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Terra",
+      "sourceUrl": "https://www.terra.com.br/diversao/entre-telas/batman-do-dcu-tudo-o-que-sabemos-sobre-a-estreia-no-cinema,7f65014102f11649d25630758e775d5fbs5xge3a.html",
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/30/1898936404-batman-dc-comcis-rolling-stone.jpg",
+      "alt": "Imagem publicada por Terra",
+      "imageCredit": "Imagem: Terra",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Batman do DCU: tudo o que sabemos sobre a estreia no cinema",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fdfef0403367f872",
+      "title": "Ator que fará o Batman de James Gunn ganha atualização empolgante",
+      "excerpt": "James Gunn confirma que o Batman do DCU ainda não foi escolhido, mas revela que a escalação deve acontecer em breve.",
+      "body": [
+        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T17:00:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Mix de Séries",
+      "sourceUrl": "https://mixdeseries.com.br/ator-que-fara-o-batman-de-james-gunn-atualizacao",
+      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/10/batman-parte-2-suspenso.webp",
+      "alt": "Imagem publicada por Mix de Séries",
+      "imageCredit": "Imagem: Mix de Séries",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Ator que fará o Batman de James Gunn ganha atualização empolgante",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8d9974d33a260918",
+      "title": "‘Jujutsu Kaisen’ ganha trailer macabro que antecipa momentos da 4ª temporada",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Imirante. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T16:58:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Imirante",
+      "sourceUrl": "https://m.imirante.com/entretenimento/mundo/amp/2026/10/30/jujutsu-kaisen-ganha-trailer-macabro-antecipa-momentos-4-temporada",
+      "image": "https://imagens.imirante.com.br/imagens/noticias/2026/03/28/5Z91SD1Fl6zbGsQD1rfyp5AiAf5brlUsFYant3TU.png?w=896&h=448&crop=648%2C+324%2C+0%2C+0&fit=crop&s=5d444cbb7ae3ee52d4556da5042439fd",
+      "alt": "Imagem publicada por Imirante",
+      "imageCredit": "Imagem: Imirante",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Jujutsu Kaisen’ ganha trailer macabro que antecipa momentos da 4ª temporada",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f44bee07389df45e",
+      "title": "Firefly Wedding: Dublagem do anime estreia na Crunchyroll",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em O Vício. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T16:52:10Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "O Vício",
+      "sourceUrl": "https://ovicio.com.br/firefly-wedding-dublagem-do-anime-estreia-na-crunchyroll",
+      "image": "https://ovicio.com.br/wp-content/uploads/2026/10/20261030-firefly-wedding-episodio-2-ovicio.webp",
+      "alt": "Imagem publicada por O Vício",
+      "imageCredit": "Imagem: O Vício",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Firefly Wedding: Dublagem do anime estreia na Crunchyroll",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e9aeba7faa835729",
+      "title": "Quarteto Fantastico 1994: O filme que a Marvel enterrou",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T16:46:38Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "culpadolag.com.br",
+      "sourceUrl": "https://culpadolag.com.br/quarteto-fantastico-1994-o-filme-que-a-marvel-enterrou",
+      "image": "https://culpadolag.com.br/storage/posts/582814fc-ba67-4d0c-bf4e-ce8d0ab69d37.webp",
+      "alt": "Imagem publicada por culpadolag.com.br",
+      "imageCredit": "Imagem: culpadolag.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Quarteto Fantastico 1994: O filme que a Marvel enterrou",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f09f422c22823a91",
+      "title": "Filme animado de Bloodborne já tem diretor e roteirista",
+      "excerpt": "A adaptação animada de Bloodborne está avançando na Sony Pictures e já conta com um diretor e um roteirista contratados.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T16:41:18Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/filme-animado-de-bloodborne-ja-tem-diretor-e-roteirista",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/filme-animado-de-bloodborne-ja-tem-diretor-e-roteirista-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Filme animado de Bloodborne já tem diretor e roteirista",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6bab0917b411bbc9",
+      "title": "Aclamada animação de TERROR da Netflix é RENOVADA para a 3ª temporada",
+      "excerpt": "A Netflix renovou oficialmente a série animada ‘Hotel Assombrado‘ (Haunted Hotel) para a 3ª temporada.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T16:22:32Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/aclamada-animacao-de-terror-da-netflix-e-renovada-para-a-3a-temporada-774534",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/09/hotel-assombrado-1024x576.webp",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Aclamada animação de TERROR da Netflix é RENOVADA para a 3ª temporada",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6fcc7fff13efa2df",
+      "title": "Vingadores: Doutor Destino: Novo pôster reúne X-Men, Quarteto Fantástico e heróis da Marvel contra o vilão; veja",
+      "excerpt": "Arte inédita destaca o Doutor Destino de Robert Downey Jr.",
+      "body": [
+        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T16:02:55Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Legião dos Heróis",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/vingadores-doutor-destino-novo-poster-reune-x-men-quarteto-fantastico-e-herois-da-marvel-contra-o-vilao-veja.html",
+      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/10/legiao_mxn6wlTvyCba.jpeg",
+      "alt": "Imagem publicada por Legião dos Heróis",
+      "imageCredit": "Imagem: Legião dos Heróis",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino: Novo pôster reúne X-Men, Quarteto Fantástico e heróis da Marvel contra o vilão; veja",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-861adbd4d56f238a",
+      "title": "Conheça os dubladores brasileiros de Firefly Wedding",
+      "excerpt": "Satoko Kirigaya e Shinpei Goto vivenciam um relacionamento nada comum, e muito mortal!",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T16:00:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/announcements/2026/10/30/dubladores-firefly-wedding",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/20c21f42d6/firefly-wedding.jpg",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Conheça os dubladores brasileiros de Firefly Wedding",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bbd5a404e4403e51",
+      "title": "Call of Duty: Modern Warfare 2 (2009) podería voltar com seu multiplayer clássico",
+      "excerpt": "Nova classificação do Modern Warfare 2 no Australian Classification Board menciona partidas online, chat e compras dentro do jogo.",
+      "body": [
+        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-30T15:47:38Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "GameVicio",
+      "sourceUrl": "https://www.gamevicio.com/noticias/2026/10/modern-warfare-2-2009-retorno-multiplayer",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/imagem-colada-2a1c34e6-e1a3-49f3-8e85-225b673f51a4.jpg",
+      "alt": "Imagem publicada por GameVicio",
+      "imageCredit": "Imagem: GameVicio",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Call of Duty: Modern Warfare 2 (2009) podería voltar com seu multiplayer clássico",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4bb03c27cc7d6b9c",
+      "title": "Crimson Desert ganha demo de cinco horas no PS5 e Xbox Series",
+      "excerpt": "Crimson Desert Enhanced Edition recebeu uma demo gratuita para PlayStation 5 e Xbox Series.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-30T15:40:33Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/crimson-desert-ganha-demo-de-cinco-horas-no-ps5-e-xbox-series",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/crimson-desert-ganha-demo-de-cinco-horas-no-ps5-e-xbox-series-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Crimson Desert ganha demo de cinco horas no PS5 e Xbox Series",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -185,25 +679,25 @@
       }
     },
     {
-      "id": "radar-424bfdfd29f8f1a3",
-      "title": "Jujutsu Kaisen ganha trailer macabro com spoilers da próxima temporada; assista",
-      "excerpt": "",
+      "id": "radar-e949b81025a6963f",
+      "title": "Jujutsu Kaisen ganha trailer com spoilers da 4ª temporada",
+      "excerpt": "A Shonen Jump divulgou um trailer macabro de Jujutsu Kaisen que reúne momentos importantes do mangá de Gege Akutami e antecipa cenas que devem aparecer nos próximos episódios do anime.",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
       "publishedAt": "2026-10-30T14:48:00Z",
       "displayDate": "30 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/mangas-animes/jujutsu-kaisen-trailer-macabro-spoilers-proxima-temporada",
-      "image": "https://cdn.ome.lt/-SHrpD3sNY3KQIv3b0Fs2uNQG8Q=/1200x630/smart/filters:format(webp)/extras/conteudos/Jujutsu-Kaisen-Exhibition-1536x1001.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/jujutsu-kaisen-trailer-sombrio-4-temporada",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/10/Jujutsu-Kaisen-ganha-trailer-com-spoilers-da-4a-temporada.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Jujutsu Kaisen ganha trailer macabro com spoilers da próxima temporada; assista",
+      "originalTitle": "Jujutsu Kaisen ganha trailer com spoilers da 4ª temporada",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -237,162 +731,6 @@
       }
     },
     {
-      "id": "radar-65020d1e47278d8d",
-      "title": "Os Anéis de Poder, Blade Runner 2099 e tudo o que chega ao Prime Video em novembro de 2026",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-30T14:32:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/prime-video-lancamentos-novembro-2026",
-      "image": "https://cdn.ome.lt/sjecrNZo8BTiqfkbiRse1gEqTXc=/1200x630/smart/filters:format(webp)/extras/conteudos/prime-video-lancamentos-novembro-2026.jpg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Os Anéis de Poder, Blade Runner 2099 e tudo o que chega ao Prime Video em novembro de 2026",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-49cd9c33f97d36b5",
-      "title": "Fortnite recebe colaboração com One Piece e A$AP Rocky na nova temporada Caçadores de Tesouros",
-      "excerpt": "Gomu Gomu no",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-30T14:19:39Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/fortnite/157185/fortnite-recebe-colaboracao-com-one-piece-e-aap-rocky-na-nova-temporada-cacadores-de-tesouros",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/fortnite-treasure-hunters-key-art-pt-br_ddzn.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Fortnite recebe colaboração com One Piece e A$AP Rocky na nova temporada Caçadores de Tesouros",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-af8bb311a377778b",
-      "title": "Por que tanta gente odeia o 3º Hokage, mesmo com o Naruto o idolatrando até hoje?",
-      "excerpt": "Poucos personagens dividem tanto os fãs quanto o velho safado do cachimbo!",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T14:15:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/terceiro-hokage-hiruzen-por-que-odeiam-naruto-boruto-dilemas",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Capa-Site-2026-10-30T024838.520.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Por que tanta gente odeia o 3º Hokage, mesmo com o Naruto o idolatrando até hoje?",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-dc72e1011a563e8f",
-      "title": "Crunchyroll anuncia terceira temporada de Mashle: Magia e Músculos para janeiro de 2027",
-      "excerpt": "A Crunchyroll confirmou que a terceira temporada de Mashle: Magia e Músculos estreia na plataforma em janeiro de 2027.",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T14:15:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/crunchyroll-anuncia-terceira-temporada-de-mashle-magia-e-musculos-para-janeiro-de-2027",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/10/crunchyroll-anuncia-terceira-temporada-de-mashle-magia-e-musculos-para-janeiro-d-1.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Crunchyroll anuncia terceira temporada de Mashle: Magia e Músculos para janeiro de 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-98ae06350cf9cb57",
-      "title": "Marvel Studios, colegas e amigos prestam homenagens a Patrick Stewart",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T14:15:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Estadão",
-      "sourceUrl": "https://www.estadao.com.br/minha-serie/cultura-geek/marvel-studios-colegas-e-amigos-prestam-homenagens-a-patrick-stewart",
-      "image": "https://www.estadao.com.br/resizer/v2/KSEO77TUVFPHFOJO6GC3VJ6INA.jpg?quality=80&auth=d70d23d719f135df1f16074199522e5080119e35a67b1bd92d6194b69e4321b3&width=1200&height=630&focal=482,193",
-      "alt": "Imagem publicada por Estadão",
-      "imageCredit": "Imagem: Estadão",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel Studios, colegas e amigos prestam homenagens a Patrick Stewart",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-23f1b22e3b34e2aa",
-      "title": "A Imperatriz se Casou Novamente | Shin Min-a encontra um novo amor em trailer do k-drama",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T14:05:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/korea/a-imperatriz-se-casou-novamente-k-drama-disney-plus-novo-trailer-shin-min-a",
-      "image": "https://cdn.ome.lt/UP5Qr2d_Z-QNnBQF3VCJqj3xyKY=/1200x630/smart/filters:format(webp)/extras/conteudos/the-remarried-empress-kdrama.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "A Imperatriz se Casou Novamente | Shin Min-a encontra um novo amor em trailer do k-drama",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-3e081e1e0f1b666b",
       "title": "Próxima Semana em XBOX: novos jogos de 2 a 6 de novembro",
       "excerpt": "",
@@ -412,32 +750,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Próxima Semana em XBOX: novos jogos de 2 a 6 de novembro",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3d099f3de15a5202",
-      "title": "James Gunn revela spin-off cogitado do Esquadrão Suicida",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T14:00:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/james-gunn-spin-off-the-krills-bolinha",
-      "image": "https://www.einerd.com/wp-content/uploads/2021/08/o-esquadrao-suicida-3.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "James Gunn revela spin-off cogitado do Esquadrão Suicida",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -471,25 +783,25 @@
       }
     },
     {
-      "id": "radar-e6bd804df506144c",
-      "title": "Vingadores: Doutor Destino ganha pôster internacional com título diferente",
+      "id": "radar-3d099f3de15a5202",
+      "title": "James Gunn revela spin-off cogitado do Esquadrão Suicida",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T13:47:00Z",
+      "publishedAt": "2026-10-30T14:00:00Z",
       "displayDate": "30 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-poster-internacional-5",
-      "image": "https://cdn.ome.lt/C7SOP6gC8Dwm6n2jdMD4pCaWx1A=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-10-30_105447.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/james-gunn-spin-off-the-krills-bolinha",
+      "image": "https://www.einerd.com/wp-content/uploads/2021/08/o-esquadrao-suicida-3.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino ganha pôster internacional com título diferente",
+      "originalTitle": "James Gunn revela spin-off cogitado do Esquadrão Suicida",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -497,25 +809,51 @@
       }
     },
     {
-      "id": "radar-b5540f3ce143b459",
-      "title": "Vegeta cita Super Saiyajin 5, 6 e 7 e obriga Dragon Ball a oficializar formas que só existiam em fanarts",
+      "id": "radar-05592e8838e9eeed",
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 é lançado para Nintendo Switch",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em ACidade ON. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-30T13:42:03Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "ACidade ON",
+      "sourceUrl": "https://www.acidadeon.com/tudoep/epgames/noticias/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-e-lancado-para-nintendo-switch",
+      "image": "https://www.acidadeon.com/tudoep/wp-content/uploads/sites/10/2026/04/d66fd9a8-8717-526b-c595-f18d1dc22c1b_2026-04-17_13-55-56.webp",
+      "alt": "Imagem publicada por ACidade ON",
+      "imageCredit": "Imagem: ACidade ON",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 é lançado para Nintendo Switch",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9af5e26ef4f842e1",
+      "title": "Novo corte de David Corenswet entrega salto temporal em ‘Superman 2’ e muda tom do DCU",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
       "publishedAt": "2026-10-30T13:26:35Z",
       "displayDate": "30 out. 2026",
       "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/vegeta-cita-super-saiyajin-5-6-e-7-e-oficializa-formas",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1785480028.webp",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-corte-david-corenswet-superman-2-salto-temporal",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1783748121.jpg",
       "alt": "Imagem publicada por Rádio Geek",
       "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Vegeta cita Super Saiyajin 5, 6 e 7 e obriga Dragon Ball a oficializar formas que só existiam em fanarts",
+      "originalTitle": "Novo corte de David Corenswet entrega salto temporal em ‘Superman 2’ e muda tom do DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -535,7 +873,7 @@
       "displayDate": "30 out. 2026",
       "sourceName": "Pizza Fria",
       "sourceUrl": "https://pizzafria.ig.com.br/news/attack-on-titan-3-pre-venda-switch-2",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/09/Attack-on-Titan-3.jpg",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjipLyUmsSWWyunmHr8aIPdvVAmuHc6jZk8U9ucCdH53yEgUDrkG7jpZLeDBYVV_mD50k0DY-OUNQKVkA2xG06JoCrJUMwInZSwj4Pgz3xbgX2h-DuOQAKjp7saXVBubSZdmvZmGE92SZfL0vjBjIiqeDjVLVo5devIHW-TU5ltrFgsArqOrL-64tQX4kc/s72-w640-h360-c/BlastCapa.jpg",
       "alt": "Imagem publicada por Pizza Fria",
       "imageCredit": "Imagem: Pizza Fria",
       "syndicated": true,
@@ -549,25 +887,25 @@
       }
     },
     {
-      "id": "radar-2e71d719f5874ae3",
-      "title": "Doutor Destino revela pôsteres e baldes de pipoca oficais",
-      "excerpt": "",
+      "id": "radar-d99ffa790f6d8a10",
+      "title": "Shelterra the Skyworld será lançado em 6 de novembro para PC e consoles",
+      "excerpt": "A KEMCO anunciou nesta sexta-feira, 30, que Shelterra the Skyworld será lançado em 6 de novembro para PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, Nintendo Switch, Nintendo Switch 2 e PC, via Steam e Microsoft Store.",
       "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T13:00:00Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-30T12:16:45Z",
       "displayDate": "30 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/vingadores-doutor-destino-posteres-pipoca",
-      "image": "https://www.einerd.com/wp-content/uploads/2015/12/cropped-ei-nerd-logo-dado.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
+      "sourceName": "Pizza Fria",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/shelterra-the-skyworld-lancamento",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI3PFkH4pN2l2zRaAoV53kcWyrZHmHCeg9QNUkvf9xjEuPJ7lerupL9KWHx48uEsL0qkOB_sjqK-LrtJEDvIHCX1wbpvMEB8gcl2cleuFMY5wYyV20x0CzBqOeuXoXRmyoPRA2zFaeBmeBDdwHIjbl9PvvNP7HzT1obOJPraTgDQepoynEzwvKykY3JE8/s72-w640-h360-c/Shelterra-the-Skyworld-1.jpg",
+      "alt": "Imagem publicada por Pizza Fria",
+      "imageCredit": "Imagem: Pizza Fria",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Doutor Destino revela pôsteres e baldes de pipoca oficais",
+      "originalTitle": "Shelterra the Skyworld será lançado em 6 de novembro para PC e consoles",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -575,25 +913,25 @@
       }
     },
     {
-      "id": "radar-dcdfc7fec0f507e1",
-      "title": "Marvel acelera 5 continuações para a Saga 3 e revela que a fase mutante será construída em terreno conhecido",
-      "excerpt": "",
+      "id": "radar-3973c55decfb4f23",
+      "title": "James Gunn explica se ‘O Esquadrão Suicida’ e ‘Pacificador’ são cânone no novo DCU",
+      "excerpt": "O chefão da DC Studios, James Gunn, resolveu acabar com uma velha dúvida dos fãs.",
       "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T11:56:12Z",
+      "publishedAt": "2026-10-30T12:00:10Z",
       "displayDate": "30 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-aposta-em-5-sequencias-para-lancar-saga-3-mutante",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1787337615.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/james-gunn-explica-se-o-esquadrao-suicida-e-pacificador-sao-canone-no-novo-dcu",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/07/James_Gunn-e1784654383309.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Marvel acelera 5 continuações para a Saga 3 e revela que a fase mutante será construída em terreno conhecido",
+      "originalTitle": "James Gunn explica se ‘O Esquadrão Suicida’ e ‘Pacificador’ são cânone no novo DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -620,32 +958,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "‘Young Americans’: Poorna Jagannathan, de ‘Lanternas’, entra para a nova série de SUSPENSE do Hulu",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4d547c5cf52031a2",
-      "title": "Marvel insinua status mutante do Homem-Aranha em “Brand New Day” para abrir corredor aos X-Men",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T11:25:53Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-insinua-status-mutante-homem-aranha-brand-new-day",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1785785984.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel insinua status mutante do Homem-Aranha em “Brand New Day” para abrir corredor aos X-Men",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -705,103 +1017,25 @@
       }
     },
     {
-      "id": "radar-84cb2b5c5fd30153",
-      "title": "Coringa inédito de Matthew Needham acelera virada noir de Batman: Caped Crusader",
+      "id": "radar-ec7469ba779aef22",
+      "title": "Hello Kitty Party Land reúne mais de 145 personagens em nova aventura para Nintendo Switch",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em ON Pop Life. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T08:56:09Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-30T06:01:38Z",
       "displayDate": "30 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/novo-coringa-matthew-needham-caped-crusader",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1785382808.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
+      "sourceName": "ON Pop Life",
+      "sourceUrl": "https://onpoplife.com.br/hello-kitty-party-land-reune-mais-de-145-personagens-em-nova-aventura-para-nintendo-switch",
+      "image": "https://onpoplife.com.br/wp-content/uploads/2026/10/assets_2026_06_1780989851_Keyart_ENLogo_RGB_16x9_LL_002_Agnostic_ENUS-2-1024x576.png",
+      "alt": "Imagem publicada por ON Pop Life",
+      "imageCredit": "Imagem: ON Pop Life",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Coringa inédito de Matthew Needham acelera virada noir de Batman: Caped Crusader",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-bd8128ecc9673257",
-      "title": "Clayface ganhará terror corporal em Gotham e expõe o plano B de James Gunn para o Batman",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T07:56:01Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filme-elseworlds-sombra-batman-gotham",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791802554.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Clayface ganhará terror corporal em Gotham e expõe o plano B de James Gunn para o Batman",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2d539cc95c12541b",
-      "title": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T04:40:53Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/adria-arjona-nova-mulher-maravilha-dcu-gunn-silencio",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791172574.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f6175b71b45d6e6b",
-      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em radiogeekbr.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T03:41:12Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "radiogeekbr.com.br",
-      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1793330756.jpg",
-      "alt": "Imagem publicada por radiogeekbr.com.br",
-      "imageCredit": "Imagem: radiogeekbr.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
+      "originalTitle": "Hello Kitty Party Land reúne mais de 145 personagens em nova aventura para Nintendo Switch",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -861,104 +1095,28 @@
       }
     },
     {
-      "id": "radar-428725aea2d6a612",
-      "title": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T02:11:20Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-legiao-do-mal-quinto-vilao-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1788216912.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9d6ebf8bc3b107a0",
-      "title": "James Gunn Anuncia Podcast Especial Nos Canais Da DC",
+      "id": "radar-a2a01e361dae4c68",
+      "title": "Morre Atriz Barbara Barrie, Dubladora De Hércules",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em InMagazine. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T00:59:16Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-30T00:23:29Z",
       "displayDate": "29 out. 2026",
       "sourceName": "InMagazine",
-      "sourceUrl": "https://inmagazine.ig.com.br/cinema-tv/james-gunn-anuncia-podcast",
-      "image": "https://inmagazine.ig.com.br/wp-content/uploads/2026/10/in-mag-thumb-99.png",
+      "sourceUrl": "https://inmagazine.ig.com.br/noticias/morre-atriz-dubladora-filme",
+      "image": "https://inmagazine.ig.com.br/wp-content/uploads/2026/10/morre-atriz-barbara-barrie-dubladora-de-hercules-1.jpg",
       "alt": "Imagem publicada por InMagazine",
       "imageCredit": "Imagem: InMagazine",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "James Gunn Anuncia Podcast Especial Nos Canais Da DC",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-572949cc5e6db113",
-      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      "originalTitle": "Morre Atriz Barbara Barrie, Dubladora De Hércules",
+      "tags": [
+        "luto"
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T00:41:06Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791174413.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3eda8a196617b2d8",
-      "title": "HELLO KITTY PARTY LAND é lançado para Nintendo Switch e Switch 2 com minigames e multiplayer",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Gamers & Games. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-29T22:29:09Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Gamers & Games",
-      "sourceUrl": "https://www.gamersegames.com.br/2026/10/29/hello-kitty-party-land-e-lancado-para-nintendo-switch-e-switch-2-com-minigames-e-multiplayer",
-      "image": "https://www.gamersegames.com.br/wp-content/uploads/2026/06/HELLO-KITTY-PARTY-LAND-1.webp",
-      "alt": "Imagem publicada por Gamers & Games",
-      "imageCredit": "Imagem: Gamers & Games",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "HELLO KITTY PARTY LAND é lançado para Nintendo Switch e Switch 2 com minigames e multiplayer",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -991,54 +1149,28 @@
       }
     },
     {
-      "id": "radar-d484084c162681c5",
-      "title": "Popeyes lança baldes de frango com coxinha e tulipa em parceria com a Seara e a CCXP",
+      "id": "radar-dec093f87ba70095",
+      "title": "Morre o ator, dublador e apresentador Roberto Maya, aos 91 anos",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Trambicast. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em O GLOBO. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-29T20:57:00Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-29T19:38:23Z",
       "displayDate": "29 out. 2026",
-      "sourceName": "Trambicast",
-      "sourceUrl": "https://www.trambicast.com.br/2026/10/popeyes-lanca-baldes-de-frango-com.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7xflzMXGFHEBtOGwjrd39w9EoU_-40vanFB6yXMHhTZ7GQDuDMdRDzn_rDxMK_0rRI2wqs5mJbAjELvWdAmpYDxkHDiZN-Vey4VtE9Fy6PxdjPj-1_kTznWkMNffS_E9mux18aDEiBJGBAfR5kML-BsbHVRF43FSRyhSutLb3zt0OfSPG7_LyfNXr/s1600/9=ImZ6EjMmRjZyojci5SbvNmLzVmc19GbA52by9GbuwWZpJnYhdmOwUDM5EDN1YjMzozZlBnauc3bsN2MlRWM2kTYiFDN2cTZlNWN0kjMihTNkFDZ4cTY3UWMGJTJ3UWMGJTJ3YDNxQjRyUiMyADNx8VL1ETLf9VLwITLfpjM.jpg",
-      "alt": "Imagem publicada por Trambicast",
-      "imageCredit": "Imagem: Trambicast",
+      "sourceName": "O GLOBO",
+      "sourceUrl": "https://oglobo.globo.com/cultura/noticia/2026/10/29/morre-o-ator-dublador-e-apresentador-roberto-maya-aos-91-anos.ghtml",
+      "image": "https://s2-oglobo.glbimg.com/DZA1jeEswNtiuavrZ5zQnM3E9Io=/4512x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/y/B/mJvXbrSueNXeu7JtSV3A/21024987-tv-rio-de-janeiro-rj-27-04-2011-roberto-maya-perfil-do-ator-que-esta-no-ar-no-seriado-lar.jpg",
+      "alt": "Imagem publicada por O GLOBO",
+      "imageCredit": "Imagem: O GLOBO",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Popeyes lança baldes de frango com coxinha e tulipa em parceria com a Seara e a CCXP",
+      "originalTitle": "Morre o ator, dublador e apresentador Roberto Maya, aos 91 anos",
       "tags": [
-        "evento"
+        "luto"
       ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d908575bb3ddcb10",
-      "title": "Marvel lamenta morte de Patrick Stewart, que estará no próximo Vingadores",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Metrópoles. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-29T20:14:00Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Metrópoles",
-      "sourceUrl": "https://www.metropoles.com/celebridades/marvel-lamenta-morte-de-patrick-stewart-que-estara-no-proximo-vingadores",
-      "image": "https://i.metroimg.com/F2nBxgmsvsXtwu9NSFdFMXmO_tcrqrSZ4EhiuseSoo8/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/antes-de-conquistar-hollywood-patrick-stewart-desenvolveu-uma-carreira-solida-no-teatro-britanico.jpg",
-      "alt": "Imagem publicada por Metrópoles",
-      "imageCredit": "Imagem: Metrópoles",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel lamenta morte de Patrick Stewart, que estará no próximo Vingadores",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -1066,224 +1198,6 @@
       "originalTitle": "The Walking Dead anuncia retorno de Glenn quase 10 anos após sua morte na série",
       "tags": [
         "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-47064f7f80942a8d",
-      "title": "Demon Slayer The Hinokami Chronicles 2 chega ao Nintendo Switch 2",
-      "excerpt": "A SEGA anunciou nesta quinta-feira, 29, que Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 já está disponível para Nintendo Switch 2.",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-29T18:29:21Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/demon-slayer-the-hinokami-2-switch-2",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/Demon-Slayer-Kimetsu-no-Yaiba-The-Hinokami-Chronicles-2-924x1024.jpg",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Demon Slayer The Hinokami Chronicles 2 chega ao Nintendo Switch 2",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7aab89e50c90f6c7",
-      "title": "Morre Roberto Maya, ator e dublador, aos 91 anos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Correio Braziliense. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-29T18:24:00Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Correio Braziliense",
-      "sourceUrl": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/10/7529617-morre-roberto-maya-ator-e-dublador-aos-91-anos.html",
-      "image": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/10/28/675x450/1_maya-vale-68090953.jpeg?20261028154638?20261028154638",
-      "alt": "Imagem publicada por Correio Braziliense",
-      "imageCredit": "Imagem: Correio Braziliense",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Morre Roberto Maya, ator e dublador, aos 91 anos",
-      "tags": [
-        "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5c128e6c648268c4",
-      "title": "Sylvester Stallone e Samuel L. Jackson vêm ao Brasil em dezembro para a CCXP",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Diario de Cuiabá. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-29T17:00:00Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Diario de Cuiabá",
-      "sourceUrl": "https://www.diariodecuiaba.com.br/ilustrado/sylvester-stallone-e-samuel-l-jackson-vem-ao-brasil-em-dezembro-para-a-ccxp/760681",
-      "image": "https://diariodecuiaba.nyc3.digitaloceanspaces.com/storage/webdisco/2026/10/27/1200x900/4d52bb477db64b46eb6c209c305ff213-diariodecuiaba-com-br.jpg",
-      "alt": "Imagem publicada por Diario de Cuiabá",
-      "imageCredit": "Imagem: Diario de Cuiabá",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sylvester Stallone e Samuel L. Jackson vêm ao Brasil em dezembro para a CCXP",
-      "tags": [
-        "evento"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c7cf4aaab344a630",
-      "title": "Conheça os dubladores brasileiros de The Iceblade Sorcerer Shall Rule the World II",
-      "excerpt": "As disputas entre as academias de magia se intensificam!",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-29T17:00:00Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/announcements/2026/10/29/dubladores-the-iceblade-sorcerer-shall-rule-the-world-ii",
-      "image": "https://a.storyblok.com/f/178900/1504x846/3d3d4c725b/the-iceblade-sorcerer-shall-rule-the-world-season-2.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Conheça os dubladores brasileiros de The Iceblade Sorcerer Shall Rule the World II",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7d77429cb6b8a63a",
-      "title": "Morre Barbara Barrie, atriz indicada ao Oscar e dubladora de Hércules, aos 95 anos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Portal Márcia Piovesan. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-29T16:59:41Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Portal Márcia Piovesan",
-      "sourceUrl": "https://www.marciapiovesan.com.br/luto/morre-barbara-barrie-atriz-indicada-ao-oscar-e-dubladora-de-hercules-aos-95-anos.phtml",
-      "image": "https://www.marciapiovesan.com.br/wp-content/uploads/2026/10/morre-barbara-barrie-atriz-indicada-ao-oscar-por.jpg",
-      "alt": "Imagem publicada por Portal Márcia Piovesan",
-      "imageCredit": "Imagem: Portal Márcia Piovesan",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Morre Barbara Barrie, atriz indicada ao Oscar e dubladora de Hércules, aos 95 anos",
-      "tags": [
-        "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1dbe0b13bc9261c7",
-      "title": "Tetsuya Chiba, lenda do mangá japonês, morre aos 87 anos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-29T16:49:30Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Estadão",
-      "sourceUrl": "https://www.estadao.com.br/em-alta/cultura/literatura/tetsuya-chiba-lenda-do-manga-japones-morre-aos-87-anos",
-      "image": "https://www.estadao.com.br/resizer/v2/RXKDVLKT65E7XPDWMPXWJSSSAI.jpg?quality=80&auth=e89246d8f326a5cc83bcc95bed8502236a72ee445034e3230801f89d5a5db5c9&width=1200&height=630&smart=true",
-      "alt": "Imagem publicada por Estadão",
-      "imageCredit": "Imagem: Estadão",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Tetsuya Chiba, lenda do mangá japonês, morre aos 87 anos",
-      "tags": [
-        "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3973c55decfb4f23",
-      "title": "James Gunn explica se ‘O Esquadrão Suicida’ e ‘Pacificador’ são cânone no novo DCU",
-      "excerpt": "O chefão da DC Studios, James Gunn, resolveu acabar com uma velha dúvida dos fãs.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-29T16:37:00Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/james-gunn-explica-se-o-esquadrao-suicida-e-pacificador-sao-canone-no-novo-dcu",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/07/James_Gunn-e1784654383309.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "James Gunn explica se ‘O Esquadrão Suicida’ e ‘Pacificador’ são cânone no novo DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ee1f8bb0cb68bedc",
-      "title": "Batman | James Gunn confirma primeiros detalhes do personagem no DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-29T16:10:00Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/batman-dcu-atualizacao",
-      "image": "https://cdn.ome.lt/jnzKTEVCfP8T8oZxAnLKu15coFc=/1200x630/smart/filters:format(webp)/extras/conteudos/batman-caped.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Batman | James Gunn confirma primeiros detalhes do personagem no DCU",
-      "tags": [
-        "escalacao"
       ],
       "editorialReview": {
         "status": "native",
