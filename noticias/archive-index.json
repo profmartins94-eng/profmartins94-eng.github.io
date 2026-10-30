@@ -1,7 +1,327 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T06:26:55.595305Z",
+  "updatedAt": "2026-10-30T13:34:31.651605Z",
   "articles": [
+    {
+      "id": "radar-476c14c83f5a6659",
+      "publishedAt": "2026-10-30T13:32:17Z",
+      "title": "Diretor de ‘Resident Evil’ admite que ficou FRUSTRADO com discussões sobre a falta de fidelidade aos jogos"
+    },
+    {
+      "id": "radar-a07b39dd041cd4ec",
+      "publishedAt": "2026-10-30T13:32:13Z",
+      "title": "Todos os filmes de vilões da DC, classificados do pior para o melhor"
+    },
+    {
+      "id": "radar-2944cba3a3d65bc0",
+      "publishedAt": "2026-10-30T13:32:13Z",
+      "title": "2026 lançou um ataque secreto de ação ao vivo na substituição de Titã e você não sabia"
+    },
+    {
+      "id": "radar-e361415faa28587e",
+      "publishedAt": "2026-10-30T13:31:43Z",
+      "title": "Tomb Raider: Como Legacy of Atlantis Recriou a Lara Croft Mais Detalhada no PlayStation 5"
+    },
+    {
+      "id": "radar-d1f739df01daf104",
+      "publishedAt": "2026-10-30T13:30:36Z",
+      "title": "O primeiro teaser do novo anime Death Stranding revela cripticamente: ‘My Mom Became A Crater’"
+    },
+    {
+      "id": "radar-8151a7c6e9378a6c",
+      "publishedAt": "2026-10-30T13:30:36Z",
+      "title": "A Snail’s Tale, RPG retrô com um caracol imortal, chega ao Switch em 11 de novembro"
+    },
+    {
+      "id": "radar-f008194828c53808",
+      "publishedAt": "2026-10-30T13:30:14Z",
+      "title": "O novo filme Clayface da DC apresenta um forte argumento para um jogo furtivo no estilo Hitman"
+    },
+    {
+      "id": "radar-89bbe18aa6aa5bd1",
+      "publishedAt": "2026-10-30T13:30:14Z",
+      "title": "Solo Leveling revela oficialmente a guilda de caçadores mais forte"
+    },
+    {
+      "id": "radar-18ba377b055bd395",
+      "publishedAt": "2026-10-30T13:28:31Z",
+      "title": "Cupiclaw, roguelike de máquina de garra, chega ao Switch 2 em 12 de novembro"
+    },
+    {
+      "id": "radar-db9f4ba45b2c1e22",
+      "publishedAt": "2026-10-30T13:27:45Z",
+      "title": "Cyberpunk 2077: atualização 2.5 chega ao Switch 2 com bugs"
+    },
+    {
+      "id": "radar-243615498689e821",
+      "publishedAt": "2026-10-30T13:26:47Z",
+      "title": "Kaketa Tsuki – Anime sobre garota reencarnada em vampiro ganha trailer"
+    },
+    {
+      "id": "radar-adebaa32f8c117c8",
+      "publishedAt": "2026-10-30T13:26:45Z",
+      "title": "Lustful Domination – Mangá Adulto sobre Protagonista com skill de “fazer bebês” tem anuncio de anime"
+    },
+    {
+      "id": "radar-ffb8a3f08648d435",
+      "publishedAt": "2026-10-30T13:26:00Z",
+      "title": "Talismã vence quarta edição do Prêmio Netflix na Mostra SP e terá distribuição do streaming"
+    },
+    {
+      "id": "radar-5c98226e5db62546",
+      "publishedAt": "2026-10-30T13:18:44Z",
+      "title": "“Podemos queimar a Marvel até o chão?”: Fãs furiosos após a revelação da batalha privada pela saúde de Patrick Stewart"
+    },
+    {
+      "id": "radar-28960399fd83c091",
+      "publishedAt": "2026-10-30T13:15:11Z",
+      "title": "5Obra-prima de anime de fantasia sombria como nivelamento solo, mas melhor"
+    },
+    {
+      "id": "radar-d067a2605987c196",
+      "publishedAt": "2026-10-30T13:15:00Z",
+      "title": "Equipe de ‘Naruto’ traz vídeo especial sobre a amizade entre Naruto e Kurama"
+    },
+    {
+      "id": "radar-7cc4e8d3beaffe35",
+      "publishedAt": "2026-10-30T13:15:00Z",
+      "title": "Nerd Experience 2027 chega ao Expominas com expectativa de 15 mil visitantes e mais de 50 atrações"
+    },
+    {
+      "id": "radar-e33884023af963b2",
+      "publishedAt": "2026-10-30T13:07:00Z",
+      "title": "Os 10 Melhores Filmes Que Vimos na 50ª Mostra SP"
+    },
+    {
+      "id": "radar-3ab52e0599d316f0",
+      "publishedAt": "2026-10-30T13:02:40Z",
+      "title": "Remaster do Sega PS3 RPG Stealth lançado no PS5 e PC"
+    },
+    {
+      "id": "radar-85b49024306b0713",
+      "publishedAt": "2026-10-30T13:02:06Z",
+      "title": "O novo curta de Curry Barker foi lançado e pode ser a sequência da obsessão que precisamos"
+    },
+    {
+      "id": "radar-116d14271c78e889",
+      "publishedAt": "2026-10-30T13:00:18Z",
+      "title": "A história mais subestimada de The Witcher também é uma de suas melhores histórias de terror"
+    },
+    {
+      "id": "radar-1b91924c129de242",
+      "publishedAt": "2026-10-30T13:00:18Z",
+      "title": "Todas as três versões do Capitão América em Vingadores: Dia do Juízo Final, classificadas por poder"
+    },
+    {
+      "id": "radar-79c8498acc2155ac",
+      "publishedAt": "2026-10-30T13:00:17Z",
+      "title": "The Witcher encontra Carrie em um novo livro épico de fantasia"
+    },
+    {
+      "id": "radar-67f42952673a25a4",
+      "publishedAt": "2026-10-30T13:00:16Z",
+      "title": "\"The Witcher Meets Edge of Tomorrow\" em 12 partes de ação e fantasia épica que está crescendo novamente no streaming"
+    },
+    {
+      "id": "radar-fdb1a33164b068ec",
+      "publishedAt": "2026-10-30T13:00:16Z",
+      "title": "O tão esperado épico de fantasia do Prime Video confirma o início de uma nova era maior que o pico de 'Game of Thrones'"
+    },
+    {
+      "id": "radar-791963a5c2296eff",
+      "publishedAt": "2026-10-30T13:00:14Z",
+      "title": "Horários de início da minitemporada dos caçadores de tesouros Fortnite (horários de término do tempo de inatividade)"
+    },
+    {
+      "id": "radar-277e79e1e9d36339",
+      "publishedAt": "2026-10-30T13:00:14Z",
+      "title": "6 livros de ficção científica de elite sem capítulos ruins, classificados"
+    },
+    {
+      "id": "radar-9022cea115981611",
+      "publishedAt": "2026-10-30T13:00:11Z",
+      "title": "Death Note retorna oficialmente com novo lançamento de edição limitada de US$ 140"
+    },
+    {
+      "id": "radar-cdf6b628c63208bb",
+      "publishedAt": "2026-10-30T13:00:11Z",
+      "title": "12 anos depois, a maior citação de X-Men de Patrick Stewart atinge mais forte do que nunca"
+    },
+    {
+      "id": "radar-872d9ce91a560665",
+      "publishedAt": "2026-10-30T13:00:00Z",
+      "title": "AI Vocal Modifier Voicemod assina acordo com a Disney para adicionar Star Wars e Marvel Soundboards à plataforma"
+    },
+    {
+      "id": "radar-53011a2146bf9610",
+      "publishedAt": "2026-10-30T13:00:00Z",
+      "title": "Novo vazamento dá uma visão antecipada da próxima colaboração entre Pokémon e McDonalds"
+    },
+    {
+      "id": "radar-2e71d719f5874ae3",
+      "publishedAt": "2026-10-30T13:00:00Z",
+      "title": "Doutor Destino revela pôsteres e baldes de pipoca oficais"
+    },
+    {
+      "id": "radar-d75081836996d836",
+      "publishedAt": "2026-10-30T13:00:00Z",
+      "title": "Como Patrick Stewart aprendeu a se soltar no set de Star Trek: a próxima geração"
+    },
+    {
+      "id": "radar-78157ae339bc194d",
+      "publishedAt": "2026-10-30T13:00:00Z",
+      "title": "O Ser Querido | Filme exibido em Cannes 2026 com Javier Bardem ganha trailer (Exclusivo)"
+    },
+    {
+      "id": "radar-c433905e0a2cafeb",
+      "publishedAt": "2026-10-30T12:51:05Z",
+      "title": "Rangiku 🛐"
+    },
+    {
+      "id": "radar-d0f2a1fd43d655cc",
+      "publishedAt": "2026-10-30T12:32:31Z",
+      "title": "Anime sem 2 temporada é assim"
+    },
+    {
+      "id": "radar-3fe60e3e08dc28c7",
+      "publishedAt": "2026-10-30T12:30:14Z",
+      "title": "Dragon Ball Z: 6 maneiras pelas quais a saga Cell mudou a franquia para sempre"
+    },
+    {
+      "id": "radar-52a7a461558dc75f",
+      "publishedAt": "2026-10-30T12:14:04Z",
+      "title": "Crítica: Clayface, filme de terror corporal carregado da DC, parece um risco que valeu a pena"
+    },
+    {
+      "id": "radar-23922f098fc71be4",
+      "publishedAt": "2026-10-30T12:07:49Z",
+      "title": "Me desculpe pessoal, gostei da primeira música de abertura do MT"
+    },
+    {
+      "id": "radar-79ed54ed839d911c",
+      "publishedAt": "2026-10-30T12:03:17Z",
+      "title": "Indústria de anime registra crescimento recorde globalmente"
+    },
+    {
+      "id": "radar-4b481491bd7084e5",
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "title": "Um programa de animação provou que Patrick Stewart era um gênio da comédia subestimado"
+    },
+    {
+      "id": "radar-5472a15ec6ed7be8",
+      "publishedAt": "2026-10-30T11:57:27Z",
+      "title": "Vingadores: Ultimato - Omelete"
+    },
+    {
+      "id": "radar-b17ad75232616c17",
+      "publishedAt": "2026-10-30T11:51:23Z",
+      "title": "Light Novel 'Mushoku Tensei: Dasoku-hen' termina com quarto volume"
+    },
+    {
+      "id": "radar-55ba17870d23331b",
+      "publishedAt": "2026-10-30T11:37:08Z",
+      "title": "Sir Patrick Stewart, James Gunn/DCU e rastreador: BCTV Daily Dispatch"
+    },
+    {
+      "id": "radar-22e5a634d524147c",
+      "publishedAt": "2026-10-30T11:30:36Z",
+      "title": "‘A Diplomata’: Netflix renova série com Keri Russell e Rufus Sewell para a 5ª temporada"
+    },
+    {
+      "id": "radar-9711e1fb7c7dcbc9",
+      "publishedAt": "2026-10-30T11:26:08Z",
+      "title": "‘Young Americans’: Poorna Jagannathan, de ‘Lanternas’, entra para a nova série de SUSPENSE do Hulu"
+    },
+    {
+      "id": "radar-054cc42ce4a590ce",
+      "publishedAt": "2026-10-30T11:14:44Z",
+      "title": "Fãs de Star Trek Online se reúnem para lembrar Patrick Stewart, com alguns esperando por um tributo “permanente”"
+    },
+    {
+      "id": "radar-e2dbd4c50fb193bf",
+      "publishedAt": "2026-10-30T11:13:22Z",
+      "title": "Kevin Feige, James Mangold e Irmãos Russo prestam TRIBUTO ao saudoso Patrick Stewart: “Um ator lendário”"
+    },
+    {
+      "id": "radar-b3bde9effe189f28",
+      "publishedAt": "2026-10-30T11:04:00Z",
+      "title": "Patrick Stewart trouxe seriedade e complexidade para a tela, de Star Trek a X-Men"
+    },
+    {
+      "id": "radar-1d37ad4baff513e4",
+      "publishedAt": "2026-10-30T11:00:45Z",
+      "title": "BLACKPINK recebe a Ordem do Mérito Cultural da Coreia no grau Coroa de Jade"
+    },
+    {
+      "id": "radar-801359f9ac327af8",
+      "publishedAt": "2026-10-30T11:00:00Z",
+      "title": "Sandra Hüller conta o que mudou após Oscar: “Não saio mais de roupão na rua”"
+    },
+    {
+      "id": "radar-2a2b5fb3332981c0",
+      "publishedAt": "2026-10-30T10:47:14Z",
+      "title": "Phantom Blade Zero – Detonado completo"
+    },
+    {
+      "id": "radar-6a72b87ce5c38c6b",
+      "publishedAt": "2026-10-30T10:34:51Z",
+      "title": "Phantom Blade Zero – Onde encontrar todos os locais de O Homem da Máscara Dourada"
+    },
+    {
+      "id": "radar-9f0a5d587dd71013",
+      "publishedAt": "2026-10-30T10:33:46Z",
+      "title": "Phantom Blade Zero – Onde encontrar todos os ladrões feridos na missão Misericórdia de um Curador"
+    },
+    {
+      "id": "radar-a149a8edb8fb4dcd",
+      "publishedAt": "2026-10-30T10:00:00Z",
+      "title": "Ellesmere Port Comic Con retorna com o convidado original do Star Wars Stormtrooper"
+    },
+    {
+      "id": "radar-a3ffce0fa8882c84",
+      "publishedAt": "2026-10-30T09:32:00Z",
+      "title": "Mercedes and the Waning Moon Anime revela novo trailer e elenco adicional"
+    },
+    {
+      "id": "radar-1815a3b0d9bb9787",
+      "publishedAt": "2026-10-30T09:00:00Z",
+      "title": "Mercedes and the Waning Moon TV Anime revela mais 4 membros do elenco no segundo vídeo promocional"
+    },
+    {
+      "id": "radar-3129e33e43b8bcfb",
+      "publishedAt": "2026-10-30T08:52:00Z",
+      "title": "James Gunn revela o spinoff secreto que a DC Studios discutiu e que pode mudar personagens estabelecidos"
+    },
+    {
+      "id": "radar-717d56616be22d45",
+      "publishedAt": "2026-10-30T08:33:22Z",
+      "title": "Seis jogos da Malásia sobem ao palco global na gamescom asia x Tailândia Game Show 2026"
+    },
+    {
+      "id": "radar-70ac6711e7f455d5",
+      "publishedAt": "2026-10-30T08:00:02Z",
+      "title": "'Destiny Unchain Online' revela elenco principal, equipe, teaser promocional, estreia em 2027"
+    },
+    {
+      "id": "radar-8fd2ee1cd60a55ff",
+      "publishedAt": "2026-10-30T07:51:12Z",
+      "title": "Edição limitada de 'Vingadores: Doomsday' Funko Pops do Professor X e Mystique Surface antes do lançamento em novembro"
+    },
+    {
+      "id": "radar-69a8af45556ac028",
+      "publishedAt": "2026-10-30T07:21:46Z",
+      "title": "'Kizuguchi to Houtai' revela elenco adicional, terceiro teaser promocional"
+    },
+    {
+      "id": "radar-c0c768df4724fdbd",
+      "publishedAt": "2026-10-30T07:01:00Z",
+      "title": "Recapitulação e revisão dos episódios 1 e 2 de Nocturne"
+    },
+    {
+      "id": "radar-1cb3e54c064136e8",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "title": "Avatar: Revisão e recapitulação final da primeira temporada de Seven Havens"
+    },
     {
       "id": "radar-4822e59e37cbb8c5",
       "publishedAt": "2026-10-30T06:26:53Z",
@@ -153,11 +473,6 @@
       "title": "Sir Ian McKellen, 87, homenageia seu ‘amor’, Sir Patrick Stewart, ao lado de estrelas de Star Trek e Marvel"
     },
     {
-      "id": "radar-b3bde9effe189f28",
-      "publishedAt": "2026-10-30T01:25:00Z",
-      "title": "Patrick Stewart trouxe seriedade e complexidade para a tela, de Star Trek a X-Men"
-    },
-    {
       "id": "radar-908ebe52fe42a0f5",
       "publishedAt": "2026-10-30T01:22:14Z",
       "title": "‘The Wolf Among Us Remastered’ é a entrada definitiva no mundo da Cidade das Fábulas"
@@ -166,6 +481,11 @@
       "id": "radar-219d150f56f01986",
       "publishedAt": "2026-10-30T01:05:30Z",
       "title": "Amigo de Patrick Stewart há 50 anos e X-Men Costar Pens tributo comovente: “Um homem para admirar”"
+    },
+    {
+      "id": "radar-81c4363b9dfcd122",
+      "publishedAt": "2026-10-30T01:01:00Z",
+      "title": "Os ingressos para o The Game Awards vão ao ar enquanto as discussões sobre os indicados esquentam"
     },
     {
       "id": "radar-9d6ebf8bc3b107a0",
@@ -343,6 +663,11 @@
       "title": "Revisão de \"impasse\" do VisionQuest"
     },
     {
+      "id": "radar-978413661102bc82",
+      "publishedAt": "2026-10-29T23:00:00Z",
+      "title": "Criadores de Lanternas mantiveram o grande spoiler do último episódio tão bem escondido que nem mesmo os atores sabiam: \"Eu teria agido como um robô\""
+    },
+    {
       "id": "radar-8c53e8ee6d25296b",
       "publishedAt": "2026-10-29T22:54:02Z",
       "title": "Com a voz de Lana Del Rey 🥹"
@@ -426,6 +751,11 @@
       "id": "radar-2b799eaf6b6e3024",
       "publishedAt": "2026-10-29T22:05:09Z",
       "title": "O último filme de Patrick Stewart é ‘Vingadores: Dia do Juízo Final’; Ele disse antes de sua morte que ‘não consigo imaginar me aposentar’. Serei para sempre um ator’"
+    },
+    {
+      "id": "radar-62f0fcf0c922d62d",
+      "publishedAt": "2026-10-29T22:02:22Z",
+      "title": "Bungie descarta revelação de Destiny no The Game Awards e define cronograma inabalável"
     },
     {
       "id": "radar-a4383f4738202184",
@@ -513,6 +843,11 @@
       "title": "Status de retorno de Daniela Melchior DCU recebe atualização esperançosa de James Gunn após o Esquadrão Suicida"
     },
     {
+      "id": "radar-6094a3d95866906c",
+      "publishedAt": "2026-10-29T20:17:02Z",
+      "title": "Uau, 100% de eficácia"
+    },
+    {
       "id": "radar-85553638e050cf28",
       "publishedAt": "2026-10-29T20:15:22Z",
       "title": "Papel da 2ª temporada de King Shark’s Creature Commandos recebe atualização que os fãs de DCU vão adorar"
@@ -531,6 +866,11 @@
       "id": "radar-7f05e5d7708de6fe",
       "publishedAt": "2026-10-29T20:13:48Z",
       "title": "‘Enxaguante bucal’ – Karyn Kusama dirige adaptação cinematográfica do popular videogame de terror"
+    },
+    {
+      "id": "radar-afd36d916b5a71d0",
+      "publishedAt": "2026-10-29T20:10:57Z",
+      "title": "'Esoteric Ebb' parece jogar Dungeons & Dragons sozinho em seu quarto (da melhor maneira) - análise do jogo"
     },
     {
       "id": "radar-59685208839af7eb",
@@ -586,6 +926,11 @@
       "id": "radar-2b31d7eb8fcc7d85",
       "publishedAt": "2026-10-29T19:45:14Z",
       "title": "Starfield pode ter sido um fracasso, mas seu melhor recurso deve retornar no Fallout 5"
+    },
+    {
+      "id": "radar-87a43c2faf3350df",
+      "publishedAt": "2026-10-29T19:45:12Z",
+      "title": "Críticas da DC Comics 28/10/26 – Batman Absoluto 25, JLU 24"
     },
     {
       "id": "radar-e68506e43895d301",
@@ -673,6 +1018,11 @@
       "title": "DC substitui oficialmente Robin como principal ajudante do Batman"
     },
     {
+      "id": "radar-07ec27ee68d076b7",
+      "publishedAt": "2026-10-29T19:19:16Z",
+      "title": "James Gunn diz que Margot Robbie pode terminar de interpretar Harley Quinn, mas ele quer o personagem no DCU"
+    },
+    {
       "id": "radar-86626321e0c6a5a6",
       "publishedAt": "2026-10-29T19:16:58Z",
       "title": "Vingadores: Mercadoria do Doomsday Theatre tem tudo a ver com Doctor Doom e os Sentinelas"
@@ -696,6 +1046,11 @@
       "id": "radar-fa12cd12f55e7858",
       "publishedAt": "2026-10-29T19:11:17Z",
       "title": "Alden Ehrenreich quase se tornou o Homem-Aranha antes de Andrew Garfield, mas ele tinha um grande problema"
+    },
+    {
+      "id": "radar-ff5cd7d4da292545",
+      "publishedAt": "2026-10-29T19:10:36Z",
+      "title": "Firefly Wedding TV Anime lança Natsuko Abe"
     },
     {
       "id": "radar-abbe73f8c41499fb",
