@@ -1,27 +1,731 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T20:17:35.528731Z",
+  "updatedAt": "2026-10-31T23:44:12.897354Z",
   "articles": [
     {
-      "id": "radar-5bfd8168246f65bb",
-      "title": "RAYE vence o Mercury Prize de álbum do ano e vem ao Lollapalooza Brasil 2027",
-      "excerpt": "A cantora britânica RAYE vive um dos melhores momentos da carreira.",
+      "id": "radar-3da8687ca9bf0c60",
+      "title": "7 melhores jogos de Pokémon fora dos consoles portáteis",
+      "excerpt": "Quando se fala em Pokémon , a imagem que vem à cabeça costuma ser a de um Game Boy ou de um Nintendo DS nas mãos de um treinador.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T23:15:00Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/7-jogos-de-pokemon-fora-dos-portateis-que-vale-conhecer",
+      "image": "https://www.estadao.com.br/resizer/v2/7PTJVOTMO5INDO45CZPEOZGIQQ.jpg?quality=80&auth=db8ae37c9de405a042960d6363675d8276cbce68e139ee60bdb419ebd136fae6&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "7 melhores jogos de Pokémon fora dos consoles portáteis",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d9a1b76fc9c10de0",
+      "title": "PS Plus de Novembro de 2026: Sony confirma Dead Island 2, Tomb Raider Remastered e Monster Train 2",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Seletronic. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T23:12:03Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Seletronic",
+      "sourceUrl": "https://seletronic.com.br/ps-plus-novembro-2026-jogos-dead-island-2-tomb-raider-remastered",
+      "image": "https://seletronic.com.br/wp-content/uploads/2026/10/ready_1400x788_ps-plus-novembro-2026-jogos-dead-island-2-tomb-raider-remastered.jpg",
+      "alt": "Imagem publicada por Seletronic",
+      "imageCredit": "Imagem: Seletronic",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "PS Plus de Novembro de 2026: Sony confirma Dead Island 2, Tomb Raider Remastered e Monster Train 2",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f66115ac563ccaed",
+      "title": "Ken Kutaragi nega que PlayStation foi vingança contra a Nintendo",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em projectn.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T23:11:05Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "projectn.com.br",
+      "sourceUrl": "https://projectn.com.br/ken-kutaragi-playstation-nintendo-vinganca-entrevista",
+      "image": "https://projectn.com.br/wp-content/uploads/2026/10/Ken-Kutaragi-PlayStation-Nintendo.jpg",
+      "alt": "Imagem publicada por projectn.com.br",
+      "imageCredit": "Imagem: projectn.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Ken Kutaragi nega que PlayStation foi vingança contra a Nintendo",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-343b78e3f95d90fb",
+      "title": "Final Fantasy VII Revelation aparece rodando no Switch 2 pela primeira vez",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Project N. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T23:08:56Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Project N",
+      "sourceUrl": "https://projectn.com.br/final-fantasy-vii-revelation-switch-2-gameplay-paris-games-week",
+      "image": "https://projectn.com.br/wp-content/uploads/2026/10/Final-Fantasy-VII-Revelation-Switch-2-destaque.jpg",
+      "alt": "Imagem publicada por Project N",
+      "imageCredit": "Imagem: Project N",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Final Fantasy VII Revelation aparece rodando no Switch 2 pela primeira vez",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b02264b79d2593cc",
+      "title": "Mercado de anime do Japão atinge recorde histórico",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Radio Shiga. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T22:56:44Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Radio Shiga",
+      "sourceUrl": "https://wp.radioshiga.com/2026/11/mercado-de-anime-do-japao-atinge-recorde-historico",
+      "image": "https://wp.radioshiga.com/wp-content/uploads/2026/11/69861.jpg",
+      "alt": "Imagem publicada por Radio Shiga",
+      "imageCredit": "Imagem: Radio Shiga",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Mercado de anime do Japão atinge recorde histórico",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-769e8e4bd4f81b87",
+      "title": "Anime deixa pista em relatório interno e crava janela de estreia da 3ª temporada de Solo Leveling",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em radiogeekbr.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T22:55:54Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "radiogeekbr.com.br",
+      "sourceUrl": "https://radiogeekbr.com.br/solo-leveling-terceira-temporada-janela-lancamento-relatorio",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1793485561.webp",
+      "alt": "Imagem publicada por radiogeekbr.com.br",
+      "imageCredit": "Imagem: radiogeekbr.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Anime deixa pista em relatório interno e crava janela de estreia da 3ª temporada de Solo Leveling",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-038677c9fe1bd9f8",
+      "title": "GTA 6 no PS5 Pro: o que muda em relação ao PlayStation 5 Base e o que já está confirmado",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Portal Viciados. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T22:44:36Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Portal Viciados",
+      "sourceUrl": "https://viciados.net/gta-6-ps5-pro-o-que-muda",
+      "image": "https://viciados.net/wp-content/uploads/2024/10/PS5-Pro-PlayStation-5-Pro-GTA-6-Grand-Theft-Auto-VI-Sony-Rockstar-Games-2025.webp",
+      "alt": "Imagem publicada por Portal Viciados",
+      "imageCredit": "Imagem: Portal Viciados",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "GTA 6 no PS5 Pro: o que muda em relação ao PlayStation 5 Base e o que já está confirmado",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6ea4b0a60b8c0251",
+      "title": "Minecraft no Switch 2 x PS5: fps com Vibrant Visuals",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em projectn.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T22:29:13Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "projectn.com.br",
+      "sourceUrl": "https://projectn.com.br/minecraft-switch-2-vs-ps5-comparacao-vibrant-visuals-fps",
+      "image": "https://projectn.com.br/wp-content/uploads/2026/10/Minecraft-Nintendo-Switch-2-key-art-destaque.jpeg",
+      "alt": "Imagem publicada por projectn.com.br",
+      "imageCredit": "Imagem: projectn.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Minecraft no Switch 2 x PS5: fps com Vibrant Visuals",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-735b385f114430ad",
+      "title": "Conquistas Míticas Xbox chegam ao console",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T22:24:17Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "culpadolag.com.br",
+      "sourceUrl": "https://culpadolag.com.br/conquistas-miticas-xbox-chegam-ao-console",
+      "image": "https://culpadolag.com.br/storage/posts/57d0d8a4-828f-44ff-bb89-50fba2fb6a12.webp",
+      "alt": "Imagem publicada por culpadolag.com.br",
+      "imageCredit": "Imagem: culpadolag.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Conquistas Míticas Xbox chegam ao console",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9b47e72ff83f671f",
+      "title": "Amazon atualiza o Echo Dot: som mais forte, hub integrado e novo acabamento",
+      "excerpt": "Chip AZ3, quarto microfone e sensores Omnisense chegam ao novo Echo Dot.",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T22:15:30Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/descontos/157217/amazon-atualiza-o-echo-dot-som-mais-forte-hub-integrado-e-novo-acabamento",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/ign-25_j6xv.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Amazon atualiza o Echo Dot: som mais forte, hub integrado e novo acabamento",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b0af8abb4bc86da0",
+      "title": "Invasão Secreta: Emilia Clarke se diz animada em fazer parte do MCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T22:15:19Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Estadão",
+      "sourceUrl": "https://www.estadao.com.br/minha-serie/play/247800-invasao-secreta-emilia-clarke-animada-mcu",
+      "image": "https://www.estadao.com.br/resizer/v2/7SMEXQCMOJMJDMIVPLMZ6VLRMQ.jpg?quality=80&auth=e61f7b53a3f36f0c3ca67d2f73a584b05ddb41a0f64aabe255477c2784c3c1a2&width=1200&height=630&smart=true",
+      "alt": "Imagem publicada por Estadão",
+      "imageCredit": "Imagem: Estadão",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Invasão Secreta: Emilia Clarke se diz animada em fazer parte do MCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-295a2c0ac38eed90",
+      "title": "Phantom Blade Zero: a origem secreta da franquia",
+      "excerpt": "",
       "body": [
         "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-10-31T20:00:45Z",
+      "publishedAt": "2026-10-31T22:15:00Z",
       "displayDate": "31 out. 2026",
       "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/raye-vence-o-mercury-prize-de-album-do-ano-e-vem-ao-lollapalooza-brasil-2027",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Raye-e1791901351153.png",
+      "sourceUrl": "https://www.einerd.com/phantom-blade-zero-origem-franquia-rainblood",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/imagem_2026-10-28_210331584.png",
       "alt": "Imagem publicada por Ei Nerd",
       "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "RAYE vence o Mercury Prize de álbum do ano e vem ao Lollapalooza Brasil 2027",
+      "originalTitle": "Phantom Blade Zero: a origem secreta da franquia",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce245168b1b6c1a4",
+      "title": "Echo Time chega ao Brasil: relógio inteligente com luz gradual, sons relaxantes e alarme no melhor momento",
+      "excerpt": "Com Alexa+ e com tela circular que simula o nascer do sol, o Echo Time une sons para relaxar e despertar no momento mais leve do sono.",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T22:02:24Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/descontos/157218/echo-time-chega-ao-brasil-relogio-inteligente-com-luz-gradual-sons-relaxantes-e-alarme-no-melhor-mom",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/ign-28_j5yg.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Echo Time chega ao Brasil: relógio inteligente com luz gradual, sons relaxantes e alarme no melhor momento",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3993a61d8d1bff05",
+      "title": "Black Clover episódio 175 estreia neste sábado; veja o horário",
+      "excerpt": "Black Clover episódio 175, o quinto capítulo da segunda temporada, estreia neste sábado, 31 de outubro de 2026, às 12h no horário de Brasília, pela Crunchyroll.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T21:56:47Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/black-clover-episodio-175-estreia-neste-sabado-veja-o-horario",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/black-clover-episodio-175-estreia-neste-sabado-veja-o-horario-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Black Clover episódio 175 estreia neste sábado; veja o horário",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5436c4ec3b4c216d",
+      "title": "Goku ou Vegeta: quem foi o saiyajin mais forte em cada saga de Dragon Ball Z?",
+      "excerpt": "A rivalidade entre Goku e Vegeta definiu boa parte de Dragon Ball Z, mas o equilíbrio entre os dois mudou diversas vezes ao longo da série.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T21:56:15Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/goku-ou-vegeta-quem-foi-o-saiyajin-mais-forte-em-cada-saga-de-dragon-ball-z",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/imagem-colada-a0f1ee2a-f946-4ac7-8b45-4c17fbe582ec.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Goku ou Vegeta: quem foi o saiyajin mais forte em cada saga de Dragon Ball Z?",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-305e63e2ca874155",
+      "title": "As 10 batalhas de anime mais marcantes desde 2000",
+      "excerpt": "As melhores batalhas de anime desde 2000 combinaram animação impactante, rivalidades bem construídas e momentos decisivos para suas histórias.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T21:52:24Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/as-10-batalhas-de-anime-mais-marcantes-desde-2000",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/as-10-batalhas-de-anime-mais-marcantes-desde-2000-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "As 10 batalhas de anime mais marcantes desde 2000",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-49209c0deead44f4",
+      "title": "Jon Snow retorna a Game of Thrones: Legends em novo evento",
+      "excerpt": "Jon Snow está de volta ao universo de Game of Thrones com o evento limitado Crow of the Free Folk, que chegará ao jogo mobile Game of Thrones: Legends em novembro.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T21:47:37Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/jon-snow-retorna-a-game-of-thrones-legends-em-novo-evento",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/jon-snow-retorna-a-game-of-thrones-legends-em-novo-evento-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Jon Snow retorna a Game of Thrones: Legends em novo evento",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6a8c7c89fe9ea789",
+      "title": "Taika Waititi rebate críticas após fracasso de Klara e o Sol",
+      "excerpt": "Taika Waititi reagiu à recepção negativa de Klara e o Sol, novo filme estrelado por Jenna Ortega e Amy Adams.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T21:45:43Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/taika-waititi-rebate-criticas-apos-fracasso-de-klara-e-o-sol",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/taika-waititi-rebate-criticas-apos-fracasso-de-klara-e-o-sol-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Taika Waititi rebate críticas após fracasso de Klara e o Sol",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d97b852e53ec8d84",
+      "title": "Dragon Ball Super: os 4 filmes do pior ao melhor",
+      "excerpt": "A franquia Dragon Ball Super conta com quatro filmes inseridos em sua continuidade moderna, mas eles não tiveram o mesmo impacto na história, nos personagens e nas batalhas.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T21:44:15Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/dragon-ball-super-os-4-filmes-do-pior-ao-melhor",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2023/11/broly-super-hero-feature.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Dragon Ball Super: os 4 filmes do pior ao melhor",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6a33035bf51a8ad2",
+      "title": "‘Steel Ball Run’: quem é Gyro Zeppeli? Qual é a sua origem?",
+      "excerpt": "As sextas de JoJo estão de volta com a nova leva de Steel Ball Run.",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T21:30:43Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/steel-ball-run-quem-e-gyro-zeppeli-qual-e-a-sua-origem",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Gyro-Zeppeli-jojos-bizarre-adventure-e1793114591600.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Steel Ball Run’: quem é Gyro Zeppeli? Qual é a sua origem?",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f3de6862629748fc",
+      "title": "Vingadores: Doutor Destino | Filme ultrapassa US$ 125 milhões em pré-vendas",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T21:15:00Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-arrecadacao-pre-vendas-31-out",
+      "image": "https://cdn.ome.lt/pmtUSgJSN22XoLs-dTka5DDt7Wo=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-10-31_181616.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino | Filme ultrapassa US$ 125 milhões em pré-vendas",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4f67bec2b803b3bc",
+      "title": "As músicas mais marcantes de ‘Stranger Things’, de Kate Bush a Metallica",
+      "excerpt": "Poucas séries combinam terror e trilha sonora tão bem quanto Stranger Things.",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T21:00:53Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/as-musicas-mais-marcantes-de-stranger-things-de-kate-bush-a-metallica",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Stranger-Things-Robyn-e1793114610615.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "As músicas mais marcantes de ‘Stranger Things’, de Kate Bush a Metallica",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7129e4f45e1f6895",
+      "title": "Chris Evans renasce em dose dupla e vira escudo-chave do plano da Marvel contra o fiasco iminente",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T20:55:52Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/chris-evans-dose-dupla-marvel-avengers-doomsday",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1790245537.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Chris Evans renasce em dose dupla e vira escudo-chave do plano da Marvel contra o fiasco iminente",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0c49c61c35f0bb20",
+      "title": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T20:55:52Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/man-of-tomorrow-superman-15-personagem-cinema-tv-dcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1786395399.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9147473580c47164",
+      "title": "GTA 6: meme que surgiu em GTA 4 agora faz parte das ruas de Vice City",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de TechTudo."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T20:53:14Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "TechTudo",
+      "sourceUrl": "https://www.techtudo.com.br/google/amp/noticias/2026/10/gta-6-meme-que-surgiu-em-gta-4-agora-faz-parte-das-ruas-de-vice-city-edjogos.ghtml",
+      "image": "https://s2-techtudo.glbimg.com/k5j8X6xowy_rxtktFjKN4-bkiZk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/A/Q/ax6HEqQ1CdUM5NJOHNqA/gta-6-4-scooter-brothers-servico-app-easter-egg-meme.jpg",
+      "alt": "Imagem publicada por TechTudo",
+      "imageCredit": "Imagem: TechTudo",
+      "syndicated": true,
+      "meme": true,
+      "translated": false,
+      "originalTitle": "GTA 6: meme que surgiu em GTA 4 agora faz parte das ruas de Vice City",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7fb7ae33d6b2d6ef",
+      "title": "Dark Horse pode ficar fora dos cinemas após derrota de Flávio Bolsonaro",
+      "excerpt": "Estreia nos cinemas ameaçadaO filme de maior orçamento do cinema brasileiro pode ficar sem exibição nos cinemas brasileiros.",
+      "body": [
+        "Confira a cobertura completa em Pipoca Moderna. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T20:23:42Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Pipoca Moderna",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/10/dark-horse-estreia-cinemas-ameacada",
+      "image": "https://cdn.pipocamoderna.com.br/wp-content/uploads/2026/05/Dark-Hourse-Jim-Caviezel-Jair-Bolsonaro-800x540.jpg",
+      "alt": "Imagem publicada por Pipoca Moderna",
+      "imageCredit": "Imagem: Pipoca Moderna",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Dark Horse pode ficar fora dos cinemas após derrota de Flávio Bolsonaro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-480d6d6accfcd991",
+      "title": "Marvel transforma trailer de brinquedos em porta-voz oficial dos X-Men dentro de Avengers: Doomsday",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "colecionaveis",
+      "categoryName": "Colecionáveis",
+      "publishedAt": "2026-10-31T20:11:08Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-trailer-brinquedos-x-men-avengers-doomsday",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789685723.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel transforma trailer de brinquedos em porta-voz oficial dos X-Men dentro de Avengers: Doomsday",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-328881170e679a59",
+      "title": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T20:11:08Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/black-lanterns-antecipam-apocalipse-dcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1788891931.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -55,26 +759,28 @@
       }
     },
     {
-      "id": "radar-1d3d24634f89e308",
-      "title": "‘Aquele Sobre Matthew Perry’: Netflix lança documentário sobre o eterno Chandler de ‘Friends’",
-      "excerpt": "A Netflix lança um retrato afetuoso de um dos atores mais queridos da TV.",
+      "id": "radar-cbe74bb2c9700f60",
+      "title": "Valor Mortis – Análise na PlayStation 5",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em OtakuPT. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T19:30:50Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T19:43:23Z",
       "displayDate": "31 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/aquele-sobre-matthew-perry-netflix-lanca-documentario-sobre-o-eterno-chandler-de-friends",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/09/The-One-About-Matthew-Perry-e1790694690213.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
+      "sourceName": "OtakuPT",
+      "sourceUrl": "https://www.otakupt.com/review/valor-mortis-analise-na-playstation-5",
+      "image": "https://www.otakupt.com/wp-content/uploads/2026/10/Valor-Mortis-key-visual.jpg",
+      "alt": "Imagem publicada por OtakuPT",
+      "imageCredit": "Imagem: OtakuPT",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "‘Aquele Sobre Matthew Perry’: Netflix lança documentário sobre o eterno Chandler de ‘Friends’",
-      "tags": [],
+      "originalTitle": "Valor Mortis – Análise na PlayStation 5",
+      "tags": [
+        "analise"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -133,25 +839,51 @@
       }
     },
     {
-      "id": "radar-2724ec5913b3ff5a",
-      "title": "Console retrô R36S por R$ 189,59 e teclado magnético Attack Shark no Garimpo Gamer",
-      "excerpt": "Portátil retrô, teclado magnético, webcam, headset sem fio e SSD NVMe formam uma seleção de cinco produtos com preços entre R$ 124,31 e R$ 268,53 e envio para o Brasil.",
+      "id": "radar-e93d873f2d3d7336",
+      "title": "Konohamaru vira ameaça real: o “sobrinho meme” de Naruto pode derrubar o 8.º Hokage",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
+        "Confira o meme completo na publicação original de Rádio Geek."
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-31T19:12:22Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T19:10:59Z",
       "displayDate": "31 out. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/console-retro-r36s-por-r-18959-e-teclado-magnetico-attack-shark-no-garimpo-gamer",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/10/console-portatil-retro-r36s-garimpo-gamer-1.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/konohamaru-ameaca-derrubar-oitavo-hokage",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789893622.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": true,
+      "translated": false,
+      "originalTitle": "Konohamaru vira ameaça real: o “sobrinho meme” de Naruto pode derrubar o 8.º Hokage",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3e00a7ee05c0ccbb",
+      "title": "De olho no pós-‘Brand New Day’, Marvel acelera filme solo do Hulk e testa nova fase sem amarras contratuais",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T19:10:59Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-acelera-filme-solo-hulk-pos-brand-new-day",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1790177117.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Console retrô R36S por R$ 189,59 e teclado magnético Attack Shark no Garimpo Gamer",
+      "originalTitle": "De olho no pós-‘Brand New Day’, Marvel acelera filme solo do Hulk e testa nova fase sem amarras contratuais",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -185,110 +917,6 @@
       }
     },
     {
-      "id": "radar-5c5ec3f834c869e2",
-      "title": "Os Imortais | Produtora de Ainda Estou Aqui anuncia adaptação de romance premiado de Paulliny Tort",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-31T18:32:00Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/os-imortais-rt-features-adaptacao-livro-paulliny-tort",
-      "image": "https://cdn.ome.lt/S7hvSbeZ6t3dLs9sb6PlKJPKxsc=/1200x630/smart/filters:format(webp)/extras/conteudos/OS_IMORTAIS.jpeg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Os Imortais | Produtora de Ainda Estou Aqui anuncia adaptação de romance premiado de Paulliny Tort",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b5aa8c5206591378",
-      "title": "BTS ganha coleção de cadernos e adesivos da Tilibra com os TinyTAN para 2027",
-      "excerpt": "O BTS vai ganhar um lugar de destaque no material escolar de 2027.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-31T18:30:15Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/bts-ganha-colecao-de-cadernos-e-adesivos-da-tilibra-com-os-tinytan-para-2027",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/09/BTS-1.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "BTS ganha coleção de cadernos e adesivos da Tilibra com os TinyTAN para 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1478a0da532ad06f",
-      "title": "COMPILADO: Ilustrações alucinantes dos animes e mangás para o Halloween de 2026",
-      "excerpt": "É uma grande leva de gostosuras e travessuras dos seus animes prediletos!",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-31T18:30:00Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/anime-halloween-arte-compilado-2026",
-      "image": "https://a.storyblok.com/f/178900/1500x1061/69bad35be8/mashle-magic-and-muscles-halloween-art-2026.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "COMPILADO: Ilustrações alucinantes dos animes e mangás para o Halloween de 2026",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7a3ffde75e7446d1",
-      "title": "Xbox | Asha Sharma diz que queda em 14% das vendas de Xbox Series são por falta de estoque",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-31T18:18:00Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/games/xbox-asha-sharma-queda-vendas-consoles-falta-estoque",
-      "image": "https://cdn.ome.lt/WkpCfya34IvvLgOhuVuhjROwaQw=/1200x630/smart/filters:format(webp)/extras/conteudos/GSZB47KXDVLKTCX4IF7S7DJRRU.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Xbox | Asha Sharma diz que queda em 14% das vendas de Xbox Series são por falta de estoque",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-5093a8a80cd8792a",
       "title": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
       "excerpt": "",
@@ -308,162 +936,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1aeb154bc22b0e40",
-      "title": "Colorful Palette cria estúdio de anime LATENT ONE para MVs e obras originais",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em pclabs.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-31T18:09:32Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "pclabs.com.br",
-      "sourceUrl": "https://pclabs.com.br/colorful-palette-cria-estudio-anime-latent-one",
-      "image": "https://pclabs.com.br/wp-content/uploads/2026/10/latent-one-estudio-anime-emerald-project-sekai.webp",
-      "alt": "Imagem publicada por pclabs.com.br",
-      "imageCredit": "Imagem: pclabs.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Colorful Palette cria estúdio de anime LATENT ONE para MVs e obras originais",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e10ec4404b35db3b",
-      "title": "Cleópatra | Scorsese revela que filme com Angelina Jolie foi arruinado por polêmica envolvendo Seth Rogen",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T18:05:00Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/cleopatra-martin-scorsese-angelina-jolie-arruinado-ataque-hacker-sony-seth-rogen",
-      "image": "https://cdn.ome.lt/sOO2jF7VKBGOyyaRyi8Ws8tgqtM=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-10-31_150313.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Cleópatra | Scorsese revela que filme com Angelina Jolie foi arruinado por polêmica envolvendo Seth Rogen",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5213afcd5c22a84d",
-      "title": "‘Magnatas do Crime’: 3ª temporada começa a ser filmada com Bruna Marquezine, Elijah Wood e Orlando Bloom",
-      "excerpt": "Magnatas do Crime vai ganhar ainda mais sangue nobre e muito crime.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-31T18:00:12Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/magnatas-do-crime-3a-temporada-comeca-a-ser-filmada-com-bruna-marquezine-elijah-wood-e-orlando-bloom",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/09/Magnatas-do-Crime-e1788795270955.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘Magnatas do Crime’: 3ª temporada começa a ser filmada com Bruna Marquezine, Elijah Wood e Orlando Bloom",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-63713a88a0859d8f",
-      "title": "Estes 3 animes recentes resgatam com perfeição a era de ouro dos anos 2000",
-      "excerpt": "A nostalgia pelos anos 2000 domina o público atual, e encontrar animes recentes que resgatem a essência daquela época virou o grande desejo de quem cresceu acompanhando o auge dos shonens clássicos.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-31T18:00:06Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/estes-3-animes-recentes-resgatam-com-perfeicao-a-era-de-ouro-dos-anos-2000",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/Daemons-of-the-Shadow-Realm-Siblings.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Estes 3 animes recentes resgatam com perfeição a era de ouro dos anos 2000",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-bced6a040db09b03",
-      "title": "Novo Snape fala sobre polêmica antes da estreia de Harry Potter na HBO",
-      "excerpt": "Paapa Essiedu fala sobre a reação à sua escalação como Snape na nova série de Harry Potter, que estreia em dezembro na HBO.",
-      "body": [
-        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T18:00:00Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Mix de Séries",
-      "sourceUrl": "https://mixdeseries.com.br/novo-snape-fala-sobre-polemica-de-harry-potter",
-      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/03/Harry-Potter-4.webp",
-      "alt": "Imagem publicada por Mix de Séries",
-      "imageCredit": "Imagem: Mix de Séries",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo Snape fala sobre polêmica antes da estreia de Harry Potter na HBO",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7fd69a502ffa0539",
-      "title": "Nintendo anuncia Pikmin Day com novidades de Pikmin 4, app e série de animação",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em TecStudio. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-31T17:54:23Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "TecStudio",
-      "sourceUrl": "https://www.tecstudio.com.br/produtos/nintendo-anuncia-pikmin-day-com-novidades-de-pikmin-4-app-e-serie-de-animacao",
-      "image": "https://i0.wp.com/www.tecstudio.com.br/wp-content/uploads/2025/01/nintendo-switch-2-thumb-gtg-jpg.webp",
-      "alt": "Imagem publicada por TecStudio",
-      "imageCredit": "Imagem: TecStudio",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Nintendo anuncia Pikmin Day com novidades de Pikmin 4, app e série de animação",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -497,188 +969,6 @@
       }
     },
     {
-      "id": "radar-d57e2a348ec1a1f4",
-      "title": "PlayStation reúne versões raras em seleção de consoles",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em SpaceMoney. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-31T17:45:30Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "SpaceMoney",
-      "sourceUrl": "https://www.spacemoney.com.br/tecnologia/consoles-especiais-playstation-edicoes-limitadas",
-      "image": "https://www.spacemoney.com.br/wp-content/uploads/2026/10/pexels-photo-15763955.webp",
-      "alt": "Imagem publicada por SpaceMoney",
-      "imageCredit": "Imagem: SpaceMoney",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "PlayStation reúne versões raras em seleção de consoles",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-435a63c8efc6634d",
-      "title": "7 k-dramas de viagem no tempo que você vai se arrepender de pular",
-      "excerpt": "As viagens no tempo viraram um dos ingredientes preferidos dos k-dramas.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-31T17:30:42Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/7-k-dramas-de-viagem-no-tempo-que-voce-vai-se-arrepender-de-pular",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/A-Esposa-do-Meu-Marido.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "7 k-dramas de viagem no tempo que você vai se arrepender de pular",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3948d73391d625ec",
-      "title": "Jean Grey entra “de penetra” em Brand New Day e revela nova tática da Marvel para lançar os X-Men",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T17:11:11Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/jean-grey-brand-new-day-estrategia-marvel-x-men",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792530721.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Jean Grey entra “de penetra” em Brand New Day e revela nova tática da Marvel para lançar os X-Men",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f729e3f1fc7140e5",
-      "title": "Vingadores: Doutor Destino | Show de drones transforma Homem de Ferro no vilão",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T17:09:00Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-show-drones-transforma-homem-de-ferro-em-vilao",
-      "image": "https://cdn.ome.lt/mSEiW5HbaYmwNMFZR5_rLcSY2_8=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-10-31_141439.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino | Show de drones transforma Homem de Ferro no vilão",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6ebe96bf7301357c",
-      "title": "Quem é Ahn Hyo-seop, o ator que brilhou como Jinu em ‘Guerreiras do K-Pop’",
-      "excerpt": "Ahn Hyo-seop ganhou projeção mundial com um fenômeno recente da Netflix.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-31T17:00:40Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/quem-e-ahn-hyo-seop-o-ator-que-brilhou-como-jinu-em-guerreiras-do-k-pop",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Ahn-Hyo-Seop-e1793035026438.jpeg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Quem é Ahn Hyo-seop, o ator que brilhou como Jinu em ‘Guerreiras do K-Pop’",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f614e6ff7d9e1528",
-      "title": "Com Doutor Estranho 3, Marvel transforma a “fase da cura” em estratégia oficial de sobrevivência pós-Guerras Secretas",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T16:41:22Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-oficializa-doutor-estranho-3-fase-7-estrategia-tresquels",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789193403.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Com Doutor Estranho 3, Marvel transforma a “fase da cura” em estratégia oficial de sobrevivência pós-Guerras Secretas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-65805484956d4d67",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T16:41:22Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792571177.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-95283e1f72bd83b7",
       "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
       "excerpt": "",
@@ -705,77 +995,25 @@
       }
     },
     {
-      "id": "radar-8f846a71edf4c01b",
-      "title": "Harry Potter: Primeiro episódio da série terá mais de 2 horas? Entenda",
-      "excerpt": "Rumor sobre a duração da estreia da nova adaptação da HBO circula nas redes sociais A nova série de Harry Potter está cada vez mais próxima de sua estreia, e os rumores sobre a produção continuam movimentando as redes sociais.",
+      "id": "radar-9af5e26ef4f842e1",
+      "title": "Novo corte de David Corenswet entrega salto temporal em ‘Superman 2’ e muda tom do DCU",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T16:35:55Z",
+      "publishedAt": "2026-10-31T16:41:22Z",
       "displayDate": "31 out. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/harry-potter-primeiro-episodio-da-serie-tera-mais-de-2-horas-entenda.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/10/legiao_ekHL8VA1sQY5.webp",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-corte-david-corenswet-superman-2-salto-temporal",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1783748121.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Harry Potter: Primeiro episódio da série terá mais de 2 horas? Entenda",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e21d4d9b64b0428c",
-      "title": "The Last of Us, Resident Evil e mais: 5 jogos do PS Plus e Game Pass para aproveitar o Halloween",
-      "excerpt": "Gostosuras ou travessuras?",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-31T16:33:27Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/the-last-of-us-part-ii-remastered/157215/the-last-of-us-resident-evil-e-mais-5-jogos-do-ps-plus-e-game-pass-para-aproveitar-o-halloween",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/the-last-ii_fbdg.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The Last of Us, Resident Evil e mais: 5 jogos do PS Plus e Game Pass para aproveitar o Halloween",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e1f465aa0cd59b5f",
-      "title": "Doutor Destino ganha balde de pipoca com olhos de LED",
-      "excerpt": "Colecionável traz o capuz verde e os olhos iluminados A máscara do Doutor Destino ganhou uma função bem menos ameaçadora: guardar pipoca.",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T14:34:46Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/doutor-destino-ganha-balde-de-pipoca-com-olhos-de-led.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/10/legiao_uy7ZAdQLH3_0.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Doutor Destino ganha balde de pipoca com olhos de LED",
+      "originalTitle": "Novo corte de David Corenswet entrega salto temporal em ‘Superman 2’ e muda tom do DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -828,60 +1066,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "5 jogos de terror para aproveitar no catálogo do PlayStation Plus neste Halloween",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-661f4c05dab500ae",
-      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T13:10:54Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1787454607.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "tags": [
-        "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1386bfb6b2f19165",
-      "title": "Primeiro Batman de James Gunn chega sem barulho esta semana e expõe a pressa da DC em reposicionar o herói",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T13:10:54Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/primeiro-batman-de-james-gunn-chega-esta-semana",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1787505897.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Primeiro Batman de James Gunn chega sem barulho esta semana e expõe a pressa da DC em reposicionar o herói",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -969,6 +1153,62 @@
       }
     },
     {
+      "id": "radar-8b5c5d58217915b5",
+      "title": "Sylvester Stallone e Samuel L. Jackson virão ao Brasil para a CCXP",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T11:14:59Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Estadão",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/cultura/series/sylvester-stallone-e-samuel-l-jackson-virao-ao-brasil-para-a-ccxp",
+      "image": "https://www.estadao.com.br/resizer/v2/DHFEBVZKJZBJRIZUC3X7UQ36FU.jfif?quality=80&auth=b49a6f3b92285109e4f1f8ba737271c421826ea0fc6e40564051ce3dbd94aa01&width=1200&height=630&smart=true",
+      "alt": "Imagem publicada por Estadão",
+      "imageCredit": "Imagem: Estadão",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Sylvester Stallone e Samuel L. Jackson virão ao Brasil para a CCXP",
+      "tags": [
+        "evento"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cee5d3dd180de2e8",
+      "title": "‘X-Men’: Jennifer Lawrence descarta retorno ao papel de Mística: “Absolutamente não!”",
+      "excerpt": "Jennifer Lawrence não parece ter a menor vontade de voltar a vestir a pele azul de Mística, sua personagem na franquia ‘X-Men‘.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T09:18:25Z",
+      "displayDate": "31 out. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/x-men-jennifer-lawrence-descarta-retorno-ao-papel-de-mistica-absolutamente-nao-774580",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/10/jennifer-lawrence-xmen.webp",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘X-Men’: Jennifer Lawrence descarta retorno ao papel de Mística: “Absolutamente não!”",
+      "tags": [
+        "escalacao"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-bd121b55b9999eb9",
       "title": "Quinto Jovem Titã é confirmado e expõe o plano silencioso de James Gunn para o DCU",
       "excerpt": "",
@@ -988,110 +1228,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Quinto Jovem Titã é confirmado e expõe o plano silencioso de James Gunn para o DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-79be9cc4e5587c3d",
-      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T09:11:01Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792342569.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ec5540810921a66e",
-      "title": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T08:55:50Z",
-      "displayDate": "31 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/safran-freia-boato-cancelamento-the-authority-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792122978.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2bcee511ed78abca",
-      "title": "Anime Inherit the Winds entra no clima do outono em nova ilustração",
-      "excerpt": "A série original estreia em janeiro de 2027",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-31T02:45:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/inherit-the-winds-anime-ilustracao-outono",
-      "image": "https://a.storyblok.com/f/178900/1200x848/4aa0c6bad5/inherit-the-winds-fall-illustration.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Anime Inherit the Winds entra no clima do outono em nova ilustração",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2df12ae7b19a62fa",
-      "title": "Novo anime de Cardfight!! Vanguard, intitulado Veil Lift, tem estreia prevista para 2027",
-      "excerpt": "O spin-off Ghost Meets Gal!",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-31T02:15:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/cardfight-vanguard-veil-lift-novo-anime-estreia-2027",
-      "image": "https://a.storyblok.com/f/178900/960x539/b3ab70e12d/cardfight-vanguard-veil-lift-header.png",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo anime de Cardfight!! Vanguard, intitulado Veil Lift, tem estreia prevista para 2027",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -1125,53 +1261,25 @@
       }
     },
     {
-      "id": "radar-cee5d3dd180de2e8",
-      "title": "‘X-Men’: Jennifer Lawrence descarta retorno ao papel de Mística: “Absolutamente não!”",
-      "excerpt": "Jennifer Lawrence não parece ter a menor vontade de voltar a vestir a pele azul de Mística, sua personagem na franquia ‘X-Men‘.",
+      "id": "radar-e0bd8895b2d45dde",
+      "title": "Hiragi-san’s House of Vampires ganhará anime",
+      "excerpt": "O mangá Hiragi-san’s House of Vampires (Hiiragi-san no Kyūketsu Jijō), de Miki Yoshikawa, terá uma adaptação para anime.",
       "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-31T01:12:38Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T01:30:00Z",
       "displayDate": "30 out. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/x-men-jennifer-lawrence-descarta-retorno-ao-papel-de-mistica-absolutamente-nao-774580",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/10/jennifer-lawrence-xmen.webp",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/hiragi-san-house-of-vampires-anime",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/10/Hiragi-sans-House-of-Vampires-ganhara-anime.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "‘X-Men’: Jennifer Lawrence descarta retorno ao papel de Mística: “Absolutamente não!”",
-      "tags": [
-        "escalacao"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-846c320ab84488e7",
-      "title": "Ator demitido pela Marvel diz que pretende se candidatar à presidência dos EUA",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Terra. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T23:19:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Terra",
-      "sourceUrl": "https://www.terra.com.br/diversao/ator-demitido-pela-marvel-diz-que-pretende-se-candidatar-a-presidencia-dos-eua,9124a00b511daee816278ca6320bbba51ki1xwbr.html",
-      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/30/marvel-ubguhbsyl9h2.png",
-      "alt": "Imagem publicada por Terra",
-      "imageCredit": "Imagem: Terra",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Ator demitido pela Marvel diz que pretende se candidatar à presidência dos EUA",
+      "originalTitle": "Hiragi-san’s House of Vampires ganhará anime",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -1179,25 +1287,25 @@
       }
     },
     {
-      "id": "radar-ef8eae767bd1e35e",
-      "title": "Hiragi-san's House of Vampires tem anime anunciado",
-      "excerpt": "A adaptação do mangá de comédia romântica de Miki Yoshikawa também ganhou uma arte teaser",
+      "id": "radar-922217e92cccf63c",
+      "title": "Anime Pole Princess!! anuncia filme Croix du Nord com estreia nos cinemas em 29 de janeiro",
+      "excerpt": "Nova produção em animação 3DCG será exibida exclusivamente nos cinemas por duas semanas",
       "body": [
         "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-10-30T20:50:00Z",
+      "publishedAt": "2026-10-31T01:25:00Z",
       "displayDate": "30 out. 2026",
       "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/30/hiragisans-house-of-vampires-anime-anuncio",
-      "image": "https://a.storyblok.com/f/178900/680x357/20e2c52d0a/hiragisans_house_of_vampires_header.jpg",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/pole-princess-anuncia-filme-croix-du-nord-estreia-29-janeiro",
+      "image": "https://a.storyblok.com/f/178900/1200x675/f6151ba38d/pole-princess-croix-du-nord-logo.png",
       "alt": "Imagem publicada por Crunchyroll Brasil",
       "imageCredit": "Imagem: Crunchyroll Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Hiragi-san's House of Vampires tem anime anunciado",
+      "originalTitle": "Anime Pole Princess!! anuncia filme Croix du Nord com estreia nos cinemas em 29 de janeiro",
       "tags": [],
       "editorialReview": {
         "status": "native",
