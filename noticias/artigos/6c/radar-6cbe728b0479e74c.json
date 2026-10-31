@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-29T20:40:59Z",
-  "displayDate": "29 out. 2026",
+  "publishedAt": "2026-10-31T05:56:07Z",
+  "displayDate": "31 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792028499.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }

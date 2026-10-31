@@ -1,7 +1,175 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T02:43:17.218728Z",
+  "updatedAt": "2026-10-31T09:57:22.948777Z",
   "articles": [
+    {
+      "id": "radar-9a170e055267c7f3",
+      "publishedAt": "2026-10-31T09:00:34Z",
+      "title": "4 temporadas, cada uma tão boa quanto a anterior — 3 anos depois, a série de roubos mais engraçada retorna à Netflix",
+      "sourceUrl": "https://br.ign.com/lupin/157208/4-temporadas-cada-uma-tao-boa-quanto-a-anterior-3-anos-depois-a-serie-de-roubos-mais-engracada-retor",
+      "originalTitle": "4 temporadas, cada uma tão boa quanto a anterior — 3 anos depois, a série de roubos mais engraçada retorna à Netflix",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b0133159d9291d07",
+      "publishedAt": "2026-10-31T09:00:00Z",
+      "title": "Atores coreanos contam como aprenderam japonês e inglês para 100 Dias de Mentiras",
+      "sourceUrl": "https://www.omelete.com.br/korea/100-dias-de-mentiras-dorama-entrevista-jinyoung-youjung",
+      "originalTitle": "Atores coreanos contam como aprenderam japonês e inglês para 100 Dias de Mentiras",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5515697adf925687",
+      "publishedAt": "2026-10-31T08:55:50Z",
+      "title": "Calendário estrangulado do estúdio Pierrot trava nova temporada de Black Clover — e não é por falta de público",
+      "sourceUrl": "https://radiogeekbr.com.br/calendario-estrangulado-pierrot-trava-black-clover-nova-temporada",
+      "originalTitle": "Calendário estrangulado do estúdio Pierrot trava nova temporada de Black Clover — e não é por falta de público",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7dd79b6f5c32aaca",
+      "publishedAt": "2026-10-31T08:06:34Z",
+      "title": "JoJo's Bizarre Adventure: 6ª parte do anime é anunciada oficialmente",
+      "sourceUrl": "https://www.estadao.com.br/minha-serie/play/215052-jojos-bizarre-adventure-6-parte-anime-anunciada-oficialmente",
+      "originalTitle": "JoJo's Bizarre Adventure: 6ª parte do anime é anunciada oficialmente",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-826eac9afd93040b",
+      "publishedAt": "2026-10-31T07:56:36Z",
+      "title": "Varanasi é história de pai e filho inspirada em Indiana Jones, diz Rajamouli",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ss-rajamouli-entrevista-varanasi",
+      "originalTitle": "Varanasi é história de pai e filho inspirada em Indiana Jones, diz Rajamouli",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-97f22d75f2eec9a6",
+      "publishedAt": "2026-10-31T07:49:21Z",
+      "title": "PlayStation anuncia coleção Prism com controles transparentes",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/tecmundo/voxel/playstation-anuncia-colecao-prism-com-controles-dualsense-transparentes-para-ps5",
+      "originalTitle": "PlayStation anuncia coleção Prism com controles transparentes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0a658070a878aaa3",
+      "publishedAt": "2026-10-31T07:40:35Z",
+      "title": "S.S. Rajamouli quer filmar no Brasil: “Se surgir uma boa história, adoraria”",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ss-rajamouli-entrevista-brasil",
+      "originalTitle": "S.S. Rajamouli quer filmar no Brasil: “Se surgir uma boa história, adoraria”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-51301c3b1f563b4b",
+      "publishedAt": "2026-10-31T06:41:00Z",
+      "title": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
+      "sourceUrl": "https://radiogeekbr.com.br/spiderman-cria-arma-contra-xmen-brand-new-day",
+      "originalTitle": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4702465e97b2f940",
+      "publishedAt": "2026-10-31T06:41:00Z",
+      "title": "Asha Sharma bate o martelo: Xbox fica na Microsoft e vira laboratório de recomeço",
+      "sourceUrl": "https://radiogeekbr.com.br/xbox-fica-na-microsoft-asha-sharma",
+      "originalTitle": "Asha Sharma bate o martelo: Xbox fica na Microsoft e vira laboratório de recomeço",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cbe728b0479e74c",
+      "publishedAt": "2026-10-31T05:56:07Z",
+      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
+      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ee599b08a408959c",
+      "publishedAt": "2026-10-31T05:56:07Z",
+      "title": "Gafe de Anthony Mackie embaralha cronologia de “Avengers: Doomsday” e expõe ruído interno na Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/gafe-anthony-mackie-cronologia-avengers-doomsday",
+      "originalTitle": "Gafe de Anthony Mackie embaralha cronologia de “Avengers: Doomsday” e expõe ruído interno na Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c51289d230f39329",
+      "publishedAt": "2026-10-31T04:59:20Z",
+      "title": "Console Wars: documentário sobre guerra entre Sega e Nintendo ganha trailer",
+      "sourceUrl": "https://www.estadao.com.br/minha-serie/play/177725-console-wars-documentario-guerra-entre-sega-nintendo-ganha-trailer",
+      "originalTitle": "Console Wars: documentário sobre guerra entre Sega e Nintendo ganha trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b9c908b0a0459ea7",
+      "publishedAt": "2026-10-31T02:47:41Z",
+      "title": "Loja oficial da Samsung surge com combo de Smart TV em preço arrasador na Amazon",
+      "sourceUrl": "https://br.ign.com/descontos/157206/loja-oficial-da-samsung-surge-com-combo-de-smart-tv-em-preco-arrasador-na-amazon",
+      "originalTitle": "Loja oficial da Samsung surge com combo de Smart TV em preço arrasador na Amazon",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2bcee511ed78abca",
+      "publishedAt": "2026-10-31T02:45:00Z",
+      "title": "Anime Inherit the Winds entra no clima do outono em nova ilustração",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/inherit-the-winds-anime-ilustracao-outono",
+      "originalTitle": "Anime Inherit the Winds entra no clima do outono em nova ilustração",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-2df12ae7b19a62fa",
       "publishedAt": "2026-10-31T02:15:00Z",
@@ -135,18 +303,6 @@
       }
     },
     {
-      "id": "radar-826eac9afd93040b",
-      "publishedAt": "2026-10-31T00:24:07Z",
-      "title": "Varanasi é história de pai e filho inspirada em Indiana Jones, diz Rajamouli",
-      "sourceUrl": "https://www.omelete.com.br/filmes/ss-rajamouli-entrevista-varanasi",
-      "originalTitle": "Varanasi é história de pai e filho inspirada em Indiana Jones, diz Rajamouli",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-584ec1fc93586b68",
       "publishedAt": "2026-10-31T00:19:19Z",
       "title": "Fone de ouvido Philips sem fio atinge menor preço do ano na Amazon: menos de R$ 100",
@@ -176,18 +332,6 @@
       "title": "Gift | Kim Woo-bin mergulha no mundo do beisebol em trailer do novo k-drama",
       "sourceUrl": "https://www.omelete.com.br/korea/gift-kim-woo-bin-mergulha-no-mundo-do-beisebol-trailer-k-drama",
       "originalTitle": "Gift | Kim Woo-bin mergulha no mundo do beisebol em trailer do novo k-drama",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0a658070a878aaa3",
-      "publishedAt": "2026-10-30T23:58:03Z",
-      "title": "S.S. Rajamouli quer filmar no Brasil: “Se surgir uma boa história, adoraria”",
-      "sourceUrl": "https://www.omelete.com.br/filmes/ss-rajamouli-entrevista-brasil",
-      "originalTitle": "S.S. Rajamouli quer filmar no Brasil: “Se surgir uma boa história, adoraria”",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -855,6 +999,18 @@
       }
     },
     {
+      "id": "radar-6dcd9d10bc1a6325",
+      "publishedAt": "2026-10-30T15:00:33Z",
+      "title": "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw já tem data de estreia",
+      "sourceUrl": "https://www.otakupt.com/anime/disney-twisted-wonderland-animation-episode-savanaclaw-estreia",
+      "originalTitle": "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw já tem data de estreia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-97ed7877bbd530cb",
       "publishedAt": "2026-10-30T15:00:00Z",
       "title": "Explicando o final da 4ª temporada de Re:ZERO -Starting Life in Another World-",
@@ -920,6 +1076,18 @@
       "title": "Hora de Aventura: Missões Secundárias já está no ar e mostra como Finn e Jake começaram suas jornadas",
       "sourceUrl": "https://arkade.com.br/hora-de-aventura-missoes-secundarias-ja-esta-no-ar-e-mostra-como-finn-e-jake-comecaram-suas-jornadas",
       "originalTitle": "Hora de Aventura: Missões Secundárias já está no ar e mostra como Finn e Jake começaram suas jornadas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-82c77d587dade48b",
+      "publishedAt": "2026-10-30T14:42:38Z",
+      "title": "Mercedes and the Waning Moon revela novos dubladores",
+      "sourceUrl": "https://animenew.com.br/mercedes-waning-moon-anime-novos-dubladores",
+      "originalTitle": "Mercedes and the Waning Moon revela novos dubladores",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1292,6 +1460,18 @@
       "title": "Nerd Experience 2027 chega ao Expominas com expectativa de 15 mil visitantes e mais de 50 atrações",
       "sourceUrl": "https://arkade.com.br/nerd-experience-2027-chega-ao-expominas-com-expectativa-de-15-mil-visitantes-e-mais-de-50-atracoes",
       "originalTitle": "Nerd Experience 2027 chega ao Expominas com expectativa de 15 mil visitantes e mais de 50 atrações",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7052ece8ac033293",
+      "publishedAt": "2026-10-30T13:15:00Z",
+      "title": "The Duskbloods, exclusivo de Switch 2 feito pela FromSoftware, é adiado para 2027; saiba motivo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/the-duskbloods-exclusivo-de-switch-2-feito-pela-fromsoftware-e-adiado-para-2027-saiba-o-motivo",
+      "originalTitle": "The Duskbloods, exclusivo de Switch 2 feito pela FromSoftware, é adiado para 2027; saiba motivo",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1683,6 +1863,18 @@
       }
     },
     {
+      "id": "radar-d25713a654dc7be4",
+      "publishedAt": "2026-10-30T11:28:19Z",
+      "title": "Anime Destiny Unchain Online tem estreia agendada para 2027 e revela elenco principal e equipe de produção em trailer",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/destiny-unchain-online-estreia-2027-trailer-elenco-equipe-producao",
+      "originalTitle": "Anime Destiny Unchain Online tem estreia agendada para 2027 e revela elenco principal e equipe de produção em trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-9711e1fb7c7dcbc9",
       "publishedAt": "2026-10-30T11:26:08Z",
       "title": "‘Young Americans’: Poorna Jagannathan, de ‘Lanternas’, entra para a nova série de SUSPENSE do Hulu",
@@ -1799,6 +1991,18 @@
       "translated": false,
       "editorialReview": {
         "status": "pending",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7fb17761e7e97b7b",
+      "publishedAt": "2026-10-30T10:03:36Z",
+      "title": "Death Stranding Isolations: anime de Hideo Kojima revela primeiro teaser e estreia em 2027",
+      "sourceUrl": "https://www.gamevicio.com/noticias/2026/10/death-stranding-isolations-anime-teaser-2027",
+      "originalTitle": "Death Stranding Isolations: anime de Hideo Kojima revela primeiro teaser e estreia em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
         "policyVersion": 2
       }
     },
@@ -3308,18 +3512,6 @@
       "title": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
       "sourceUrl": "https://radiogeekbr.com.br/safran-freia-boato-cancelamento-the-authority-dcu",
       "originalTitle": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "pending",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6cbe728b0479e74c",
-      "publishedAt": "2026-10-29T20:40:59Z",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
       "translated": false,
       "editorialReview": {
         "status": "pending",
@@ -5864,18 +6056,6 @@
       "title": "Cine Anime: concerto apresenta trilhas de desenhos e animações japonesas na Orla de Petrolina",
       "sourceUrl": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/29/cine-anime-concerto-apresenta-trilhas-de-desenhos-e-animacoes-japonesas-na-orla-de-petrolina.ghtml",
       "originalTitle": "Cine Anime: concerto apresenta trilhas de desenhos e animações japonesas na Orla de Petrolina",
-      "translated": false,
-      "editorialReview": {
-        "status": "pending",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-51301c3b1f563b4b",
-      "publishedAt": "2026-10-29T11:26:36Z",
-      "title": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
-      "sourceUrl": "https://radiogeekbr.com.br/spiderman-cria-arma-contra-xmen-brand-new-day",
-      "originalTitle": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
       "translated": false,
       "editorialReview": {
         "status": "pending",
