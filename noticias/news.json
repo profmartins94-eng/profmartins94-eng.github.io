@@ -1,7 +1,527 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T23:13:58.527370Z",
+  "updatedAt": "2026-10-31T02:43:17.218728Z",
   "articles": [
+    {
+      "id": "radar-2df12ae7b19a62fa",
+      "title": "Novo anime de Cardfight!! Vanguard, intitulado Veil Lift, tem estreia prevista para 2027",
+      "excerpt": "O spin-off Ghost Meets Gal!",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T02:15:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/cardfight-vanguard-veil-lift-novo-anime-estreia-2027",
+      "image": "https://a.storyblok.com/f/178900/960x539/b3ab70e12d/cardfight-vanguard-veil-lift-header.png",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Novo anime de Cardfight!! Vanguard, intitulado Veil Lift, tem estreia prevista para 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d2bef4137ed26e04",
+      "title": "Dubladora Amane Shindo divulga videoclipe de \"Nouvelle Vague\", sua música de estreia como artista solo",
+      "excerpt": "Mais duas músicas serão lançadas no futuro",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T02:05:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/amane-shindo-videoclipe-nouvelle-vague-estreia-artista-solo",
+      "image": "https://a.storyblok.com/f/178900/960x540/c5d072dca2/amane-shindo-nouvelle-vague-mv.jpg",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Dubladora Amane Shindo divulga videoclipe de \"Nouvelle Vague\", sua música de estreia como artista solo",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7e568b0aa35cd379",
+      "title": "Boruto – Os 8 pais mais poderosos do anime",
+      "excerpt": "Os pais de Boruto continuam entre os shinobi mais fortes do mundo, mesmo anos depois dos acontecimentos de Naruto.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T02:03:59Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/boruto-os-8-pais-mais-poderosos-do-anime",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/boruto-os-8-pais-mais-poderosos-do-anime-featured-scaled.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Boruto – Os 8 pais mais poderosos do anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c41fa57c46f903b4",
+      "title": "PlayStation resgata visual dos anos 1990; conheça os novos acessórios",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Times Brasil | CNBC. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-31T02:00:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Times Brasil | CNBC",
+      "sourceUrl": "https://timesbrasil.com.br/entretenimento/playstation-resgata-visual-dos-anos-1990-conheca-os-novos-acessorios",
+      "image": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/10/4ff2e2d7-apos-o-xbox-playstation-aposta-em-acessorios-com-visual-translucido.webp",
+      "alt": "Imagem publicada por Times Brasil | CNBC",
+      "imageCredit": "Imagem: Times Brasil | CNBC",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "PlayStation resgata visual dos anos 1990; conheça os novos acessórios",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2acd92c5d21e50f",
+      "title": "James Gunn diz que Margot Robbie é quem decide se Arlequina é canon pro DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T02:00:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/arlequina-margot-robbie-canone-dcu-james-gunn",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Arlequina.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "James Gunn diz que Margot Robbie é quem decide se Arlequina é canon pro DCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c12e3c43b84b7e24",
+      "title": "My Hero Academia – Os usuários de One For All que mais dariam trabalho a Tenshinhan de Dragonn Ball",
+      "excerpt": "Uma luta entre os principais usuários de One For All, de My Hero Academia, e Tien Shinhan, de Dragon Ball Z, colocaria força física, mobilidade e técnicas de energia frente a frente.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T01:58:35Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/my-hero-academia-os-usuarios-de-one-for-all-que-mais-dariam-trabalho-a-tenshinhan-de-dragonn-ball",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/my-hero-academia-os-usuarios-de-one-for-all-que-mais-dariam-trabalho-a-tien-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "My Hero Academia – Os usuários de One For All que mais dariam trabalho a Tenshinhan de Dragonn Ball",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-11b7142da425ee36",
+      "title": "Estúdio onde Akira Toriyama criou Dragon Ball é demolido no Japão",
+      "excerpt": "O Bird Studios, espaço de trabalho usado por Akira Toriyama durante grande parte de sua carreira, está sendo demolido no Japão.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T01:57:41Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/estudio-onde-akira-toriyama-criou-dragon-ball-e-demolido-no-japao",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/estudio-onde-akira-toriyama-criou-dragon-ball-e-demolido-no-japao-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Estúdio onde Akira Toriyama criou Dragon Ball é demolido no Japão",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3621e84da922643a",
+      "title": "BAND-MAID Releases BEYBLADE X Anime Bey Kingdom Arc Ending Theme Music Video",
+      "excerpt": "O CD single chegou recentemente às lojas japonesas",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T01:52:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/band-maid-videoclipe-encerramento-arco-bey-kingdom-beyblade-x",
+      "image": "https://a.storyblok.com/f/178900/960x540/ef1198f9c1/band-maid-spin-mv.png",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "BAND-MAID Releases BEYBLADE X Anime Bey Kingdom Arc Ending Theme Music Video",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6ec0d9d0ae59439d",
+      "title": "Jennifer Lawrence descarta voltar como Mística no MCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T01:12:38Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "culpadolag.com.br",
+      "sourceUrl": "https://culpadolag.com.br/jennifer-lawrence-descarta-voltar-como-mistica-no-mcu",
+      "image": "https://culpadolag.com.br/storage/posts/c40901bd-8370-4eb8-8343-f91e2a649ef6.webp",
+      "alt": "Imagem publicada por culpadolag.com.br",
+      "imageCredit": "Imagem: culpadolag.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Jennifer Lawrence descarta voltar como Mística no MCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a93b66941f21e460",
+      "title": "Segunda parte do anime Chitose Is in the Ramune Bottle celebra o verão com novo visual",
+      "excerpt": "A série está em exibição na Crunchyroll",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-10-31T01:05:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/chitose-is-in-the-ramune-bottle-segunda-parte-novo-visual-verao",
+      "image": "https://a.storyblok.com/f/178900/1200x675/3d196b0d48/chitose-is-in-the-ramune-bottle.jpg",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Segunda parte do anime Chitose Is in the Ramune Bottle celebra o verão com novo visual",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-54875af27a1b26c2",
+      "title": "Noturno | Stephen Graham revela influência da esposa na criação de serial killer",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T00:27:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/noturno-stephen-graham-influencia-da-esposa-criacao-serial-killer",
+      "image": "https://cdn.ome.lt/h7_3gTBJAW8yVt6wLcJCrKjIbw0=/1200x630/smart/filters:format(webp)/extras/conteudos/1182f10c-d019-447c-a910-754164d5.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Noturno | Stephen Graham revela influência da esposa na criação de serial killer",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-826eac9afd93040b",
+      "title": "Varanasi é história de pai e filho inspirada em Indiana Jones, diz Rajamouli",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T00:24:07Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ss-rajamouli-entrevista-varanasi",
+      "image": "https://cdn.ome.lt/i42PFGlfVVKfc9Y4idqLkVIgdTk=/1200x630/smart/filters:format(webp)/extras/conteudos/SnapInsta.to_582764676_18531560656053469_6546199072297973398_n.jpg",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Varanasi é história de pai e filho inspirada em Indiana Jones, diz Rajamouli",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-584ec1fc93586b68",
+      "title": "Fone de ouvido Philips sem fio atinge menor preço do ano na Amazon: menos de R$ 100",
+      "excerpt": "Fone combina drivers de 10 mm e até 24 horas de bateria com o estojo",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-31T00:19:19Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/descontos/157203/fone-de-ouvido-philips-sem-fio-atinge-menor-preco-do-ano-na-amazon-menos-de-r-100",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/philips-tat1109-capa-1280x720_5ep3.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Fone de ouvido Philips sem fio atinge menor preço do ano na Amazon: menos de R$ 100",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-605cc04ca955f9b9",
+      "title": "Ausência dos X-Men clássicos em “Avengers: Doomsday” aponta jogada calculada de Doutor Destino no MCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T00:10:52Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/ausencia-xmen-classicos-avengers-doomsday-doutor-destino",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1790641511.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Ausência dos X-Men clássicos em “Avengers: Doomsday” aponta jogada calculada de Doutor Destino no MCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-84c03dd983bb8856",
+      "title": "Gift | Kim Woo-bin mergulha no mundo do beisebol em trailer do novo k-drama",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-31T00:04:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/korea/gift-kim-woo-bin-mergulha-no-mundo-do-beisebol-trailer-k-drama",
+      "image": "https://cdn.ome.lt/IePkRM2JzSQkYJMBCdaHIyrfLJ4=/1200x630/smart/filters:format(webp)/extras/conteudos/images37.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Gift | Kim Woo-bin mergulha no mundo do beisebol em trailer do novo k-drama",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0a658070a878aaa3",
+      "title": "S.S. Rajamouli quer filmar no Brasil: “Se surgir uma boa história, adoraria”",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-30T23:58:03Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ss-rajamouli-entrevista-brasil",
+      "image": "https://cdn.ome.lt/hvXriKJjhct8ScaOcx2xJp8AaCQ=/1200x630/smart/filters:format(webp)/extras/conteudos/rajamouli_topo.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "S.S. Rajamouli quer filmar no Brasil: “Se surgir uma boa história, adoraria”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f4a6fdb038ab9103",
+      "title": "Normal People enfim voltará para um serviço de streaming no Brasil; veja qual",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-30T23:45:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/normal-people-enfim-voltara-para-um-servico-de-streaming-no-brasil-veja-qual",
+      "image": "https://cdn.ome.lt/etzGK3zssmkzie8l7aVCTVol8kc=/1200x630/smart/filters:format(webp)/extras/conteudos/53c1f13cc13f1ba7211b7c87888cc915.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Normal People enfim voltará para um serviço de streaming no Brasil; veja qual",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3640d69a612f3223",
+      "title": "Big Little Lies | Terceira temporada já teria começado as filmagens, mas com um porém; entenda",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-10-30T23:29:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/big-little-lies-terceira-temporada-teria-comecado-filmagens-com-um-porem",
+      "image": "https://cdn.ome.lt/eK2g4U8Kqtuol0-asdideU7F0Ug=/1200x630/smart/filters:format(webp)/extras/conteudos/53b4619c84071fd604e36159aa41c8dc.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Big Little Lies | Terceira temporada já teria começado as filmagens, mas com um porém; entenda",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-846c320ab84488e7",
+      "title": "Ator demitido pela Marvel diz que pretende se candidatar à presidência dos EUA",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Terra. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T23:19:00Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Terra",
+      "sourceUrl": "https://www.terra.com.br/diversao/ator-demitido-pela-marvel-diz-que-pretende-se-candidatar-a-presidencia-dos-eua,9124a00b511daee816278ca6320bbba51ki1xwbr.html",
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/30/marvel-ubguhbsyl9h2.png",
+      "alt": "Imagem publicada por Terra",
+      "imageCredit": "Imagem: Terra",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Ator demitido pela Marvel diz que pretende se candidatar à presidência dos EUA",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ca88604778dfdc6b",
+      "title": "Marvel segura duas cenas pós-créditos já prontas para religar o MCU direto em “Avengers: Doomsday”",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-10-30T23:11:18Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-segura-duas-cenas-pos-creditos-prontas-doomsday",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1784316099.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel segura duas cenas pós-créditos já prontas para religar o MCU direto em “Avengers: Doomsday”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-7ae3fbe101d262df",
       "title": "Dexter enfrenta crise de meia-idade na 2ª temporada de Ressurreição",
@@ -48,84 +568,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Law & Order: O Grande Gatsby? Série policial inspirada no clássico está em desenvolvimento",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7449129c1ec04ae2",
-      "title": "Bleach Mirrors High ganha trailer após final do anime; assista",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T22:32:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/mangas-animes/bleach-mirrors-high-ganha-trailer-apos-final-do-anime-assista",
-      "image": "https://cdn.ome.lt/CPClVTJY2M_ChVquRImR8gQl8Qw=/1200x630/smart/filters:format(webp)/extras/conteudos/BLEACH_Mirrors_High_Opening_Animation_CRITICAL_by_suisoh_-_0-1-09.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Bleach Mirrors High ganha trailer após final do anime; assista",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-471dad655a856b43",
-      "title": "GTA 6 terá Perfil Criminal que altera o mundo e a trama conforme as ações de Lucia e Jason",
-      "excerpt": "Intimidação, suborno e ataques não letais oferecem alternativas à violência, enquanto pequenos gestos de gentileza ajudam a recuperar a reputação.",
-      "body": [
-        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-30T22:18:45Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "GameVicio",
-      "sourceUrl": "https://www.gamevicio.com/noticias/2026/10/gta-6-perfil-criminal-historia",
-      "image": "https://www.gamevicio.com/wp-content/uploads/2026/10/gta-6-perfil-criminal-lucia-jason-historia.jpg",
-      "alt": "Imagem publicada por GameVicio",
-      "imageCredit": "Imagem: GameVicio",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "GTA 6 terá Perfil Criminal que altera o mundo e a trama conforme as ações de Lucia e Jason",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d1b794e6fc72df21",
-      "title": "Criminal Minds será encerrada após 20 temporadas",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-30T22:17:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/criminal-minds-sera-encerrada-apos-20-temporadas",
-      "image": "https://cdn.ome.lt/oeJBo9Gqpv-F-lPH7X427td6T78=/1200x630/smart/filters:format(webp)/extras/conteudos/Criminal-Minds.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Criminal Minds será encerrada após 20 temporadas",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -185,240 +627,6 @@
       }
     },
     {
-      "id": "radar-d0e1673dff07ff37",
-      "title": "Harry Potter | Novo ator de Snape diz que estava pronto para as reclamações",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-30T21:22:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/harry-potter-novo-ator-de-snape-diz-pronto-para-reclamacoes",
-      "image": "https://cdn.ome.lt/6qRygw_TdQLEeie5WqGowKhEg0U=/1200x630/smart/filters:format(webp)/extras/conteudos/Paapa-Essiedu-harry-potter.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Harry Potter | Novo ator de Snape diz que estava pronto para as reclamações",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-91453c0651e65107",
-      "title": "Club Kid, estreia diretorial de Jordan Firstman, é irresistível filme sobre pais e filhos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T21:12:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/club-kid-estreia-diretorial-de-jordan-firstman-e-irresistivel-filme-sobre-pais-e-filhos",
-      "image": "https://cdn.ome.lt/V-UxE8FiKguvN71WVfFSa8T2d2s=/1200x630/smart/filters:format(webp)/extras/conteudos/image_XG3Hovt.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Club Kid, estreia diretorial de Jordan Firstman, é irresistível filme sobre pais e filhos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-807d9c09734c1632",
-      "title": "John Romero revela nova publisher para seu FPS inédito",
-      "excerpt": "O cocriador de “Doom” e “Quake” confirmou que seu próximo shooter encontrou um novo parceiro.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-30T21:00:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/john-romero-nova-publisher-fps",
-      "image": "https://www.einerd.com/wp-content/uploads/2025/12/John-Romero.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "John Romero revela nova publisher para seu FPS inédito",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-dd0f682d3cf52d25",
-      "title": "4 personagens de Dragon Ball mais fortes que Beerus",
-      "excerpt": "Em Dragon Ball Super, Beerus, o Deus da Destruição do Universo 7, apareceu com um nível de poder que deixou Goku e Vegeta para trás.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T20:48:17Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/4-personagens-de-dragon-ball-mais-fortes-que-beerus",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/dragon-ball-super-beerus-revela-os-seis-mais-poderosos-do-episodio-2-5-scaled.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "4 personagens de Dragon Ball mais fortes que Beerus",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-71c74078939063f7",
-      "title": "5 animes de vampiro que são verdadeiras obras-primas",
-      "excerpt": "Vampiros aparecem nos animes há décadas, em histórias que vão de romances escolares a carnificinas góticas.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T20:48:15Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/5-animes-de-vampiro-que-sao-verdadeiras-obras-primas",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/Vampire-Hunter-D-Bloodlust.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "5 animes de vampiro que são verdadeiras obras-primas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2af89320b2f69576",
-      "title": "5 personagens poderosos dos animes que morreram cedo demais",
-      "excerpt": "Nos animes, estar entre os personagens mais fortes da história não garante uma vida longa, e às vezes é justamente a morte de um deles que empurra o protagonista adiante.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T20:48:12Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/5-personagens-poderosos-dos-animes-que-morreram-cedo-demais",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2022/05/Kyojuro-Rengoku.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "5 personagens poderosos dos animes que morreram cedo demais",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-bb0adfab9b338ef5",
-      "title": "5 personagens de Naruto que mereciam um final melhor",
-      "excerpt": "Naruto é uma história marcada por guerras, conspirações políticas e sacrifícios, e muitos personagens importantes saíram de cena antes de ver o resultado do que ajudaram a construir.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T20:48:10Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/5-personagens-de-naruto-que-mereciam-um-final-melhor",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2025/03/neji-s-death.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "5 personagens de Naruto que mereciam um final melhor",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c5f7eb3fb6fac295",
-      "title": "Novo Mass Effect foi cancelado para a EA produzir Star Wars Battlefront 3",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-10-30T19:56:30Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/por-que-ea-fechou-bioware-mass-effect-battlefront-3",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Mass-Effect.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo Mass Effect foi cancelado para a EA produzir Star Wars Battlefront 3",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c8e6aaf8a9ad4233",
-      "title": "Marvel Tōkon revela poder devastador do Ciclope Fênix em novo vídeo",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Combo Infinito. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T19:38:48Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Combo Infinito",
-      "sourceUrl": "https://www.comboinfinito.com.br/principal/marvel-tokon-ciclope-fenix-habilidades-transformacao-fenix-negra",
-      "image": "https://www.comboinfinito.com.br/principal/wp-content/uploads/2026/07/marvel-tokon-1200x628.jpg",
-      "alt": "Imagem publicada por Combo Infinito",
-      "imageCredit": "Imagem: Combo Infinito",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel Tōkon revela poder devastador do Ciclope Fênix em novo vídeo",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-af9e24433b28f211",
       "title": "James Gunn afirma que Arlequina acabará entrando para o Universo Cinematográfico da DC e que, se Margot Robbie quiser interpretá-la, ele “fará de tudo para explicar isso nesse mundo”",
       "excerpt": "“É a Margot quem tem que decidir se ‘Esquadrão Suicida’ faz parte do cânone ou não” James Gunn abordou a situação em relação à interpretada e muito querida Arlequina de Margot Robbie, e se ela faz parte do cânone do Universo DC atual.",
@@ -467,58 +675,6 @@
       "tags": [
         "luto"
       ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-eb09aab856d222f5",
-      "title": "Batman do DCU: tudo o que sabemos sobre a estreia no cinema",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Terra. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T17:01:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Terra",
-      "sourceUrl": "https://www.terra.com.br/diversao/entre-telas/batman-do-dcu-tudo-o-que-sabemos-sobre-a-estreia-no-cinema,7f65014102f11649d25630758e775d5fbs5xge3a.html",
-      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/30/1898936404-batman-dc-comcis-rolling-stone.jpg",
-      "alt": "Imagem publicada por Terra",
-      "imageCredit": "Imagem: Terra",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Batman do DCU: tudo o que sabemos sobre a estreia no cinema",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-fdfef0403367f872",
-      "title": "Ator que fará o Batman de James Gunn ganha atualização empolgante",
-      "excerpt": "James Gunn confirma que o Batman do DCU ainda não foi escolhido, mas revela que a escalação deve acontecer em breve.",
-      "body": [
-        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-10-30T17:00:00Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Mix de Séries",
-      "sourceUrl": "https://mixdeseries.com.br/ator-que-fara-o-batman-de-james-gunn-atualizacao",
-      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/10/batman-parte-2-suspenso.webp",
-      "alt": "Imagem publicada por Mix de Séries",
-      "imageCredit": "Imagem: Mix de Séries",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Ator que fará o Batman de James Gunn ganha atualização empolgante",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -641,7 +797,7 @@
       "displayDate": "30 out. 2026",
       "sourceName": "GameVicio",
       "sourceUrl": "https://www.gamevicio.com/noticias/2026/10/modern-warfare-2-2009-retorno-multiplayer",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/imagem-colada-2a1c34e6-e1a3-49f3-8e85-225b673f51a4.jpg",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/cod-mw2.jpg?w=1056",
       "alt": "Imagem publicada por GameVicio",
       "imageCredit": "Imagem: GameVicio",
       "syndicated": true,
@@ -655,25 +811,25 @@
       }
     },
     {
-      "id": "radar-4bb03c27cc7d6b9c",
-      "title": "Crimson Desert ganha demo de cinco horas no PS5 e Xbox Series",
-      "excerpt": "Crimson Desert Enhanced Edition recebeu uma demo gratuita para PlayStation 5 e Xbox Series.",
+      "id": "radar-4f01204162ee718d",
+      "title": "Crimson Desert recebe demo gratuita de 5 horas na PlayStation e Xbox",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Eurogamer.pt. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
       "publishedAt": "2026-10-30T15:40:33Z",
       "displayDate": "30 out. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/crimson-desert-ganha-demo-de-cinco-horas-no-ps5-e-xbox-series",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/10/crimson-desert-ganha-demo-de-cinco-horas-no-ps5-e-xbox-series-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "Eurogamer.pt",
+      "sourceUrl": "https://www.eurogamer.pt/crimson-desert-recebe-demo-de-5-horas-na-playstation-e-xbox",
+      "image": "https://assetsio.gnwcdn.com/Crimson-Desert_bEv3L1A.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "alt": "Imagem publicada por Eurogamer.pt",
+      "imageCredit": "Imagem: Eurogamer.pt",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Crimson Desert ganha demo de cinco horas no PS5 e Xbox Series",
+      "originalTitle": "Crimson Desert recebe demo gratuita de 5 horas na PlayStation e Xbox",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -703,6 +859,32 @@
       "tags": [
         "luto"
       ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-45eb25b60af8b8bc",
+      "title": "Exclusividade de Gears of War não eleva vendas do Xbox",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Portal ABC do ABC. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-10-30T15:22:49Z",
+      "displayDate": "30 out. 2026",
+      "sourceName": "Portal ABC do ABC",
+      "sourceUrl": "https://www.abcdoabc.com.br/exclusividade-de-gears-of-war-eleva-vendas",
+      "image": "https://cdn-imgs.s3.sa-east-1.amazonaws.com/wp-content/uploads/2026/10/gears-of-war-e-day.webp",
+      "alt": "Imagem publicada por Portal ABC do ABC",
+      "imageCredit": "Imagem: Portal ABC do ABC",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Exclusividade de Gears of War não eleva vendas do Xbox",
+      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -971,135 +1153,26 @@
       }
     },
     {
-      "id": "radar-2f796de793f5387a",
-      "title": "Exclusividade de Gears of War: E-Day não impulsionou vendas de Xbox, dizem analistas",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Gamers & Games. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-30T09:36:13Z",
-      "displayDate": "30 out. 2026",
-      "sourceName": "Gamers & Games",
-      "sourceUrl": "https://www.gamersegames.com.br/2026/10/30/exclusividade-de-gears-of-war-e-day-nao-impulsionou-vendas-de-xbox-dizem-analistas",
-      "image": "https://www.gamersegames.com.br/wp-content/uploads/2026/10/Gears-of-War-E-Day-1.webp",
-      "alt": "Imagem publicada por Gamers & Games",
-      "imageCredit": "Imagem: Gamers & Games",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Exclusividade de Gears of War: E-Day não impulsionou vendas de Xbox, dizem analistas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-44b9a673694004ff",
-      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T02:40:54Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792448791.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a2a01e361dae4c68",
-      "title": "Morre Atriz Barbara Barrie, Dubladora De Hércules",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em InMagazine. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-10-30T00:23:29Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "InMagazine",
-      "sourceUrl": "https://inmagazine.ig.com.br/noticias/morre-atriz-dubladora-filme",
-      "image": "https://inmagazine.ig.com.br/wp-content/uploads/2026/10/morre-atriz-barbara-barrie-dubladora-de-hercules-1.jpg",
-      "alt": "Imagem publicada por InMagazine",
-      "imageCredit": "Imagem: InMagazine",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Morre Atriz Barbara Barrie, Dubladora De Hércules",
-      "tags": [
-        "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-82cb93428e01e736",
-      "title": "Crimson Desert: DLC Charting the Unknown é lançada",
-      "excerpt": "A Pearl Abyss anunciou nesta quinta-feira, 29, o lançamento de Crimson Desert Enhanced: Charting the Unknown , primeira expansão paga de Crimson Desert Enhanced .",
+      "id": "radar-811d445a55a0b1ea",
+      "title": "Resonance of Fate Enhanced Remaster chega ao PS5 e PC",
+      "excerpt": "A tri-Ace anunciou na última quinta-feira, 29, que Resonance of Fate Enhanced Remaster está disponível para PlayStation 5 e PC, via Steam.",
       "body": [
         "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-10-30T00:11:44Z",
-      "displayDate": "29 out. 2026",
+      "publishedAt": "2026-10-30T12:10:33Z",
+      "displayDate": "30 out. 2026",
       "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/crimson-desert-charting-unknown-dlc",
-      "image": "https://cdn.mos.cms.futurecdn.net/Jyj9uaQSUoQ2XfCWcuxrBG-1920-80.jpg",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/resonance-of-fate-enhanced-remaster-ps5",
+      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/RESONANCE-OF-FATE-END-OF-ETERNITY-ENHANCED-REMASTER.jpg",
       "alt": "Imagem publicada por Pizza Fria",
       "imageCredit": "Imagem: Pizza Fria",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Crimson Desert: DLC Charting the Unknown é lançada",
+      "originalTitle": "Resonance of Fate Enhanced Remaster chega ao PS5 e PC",
       "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-051e922bb28a89a7",
-      "title": "Bethesda homenageia Patrick Stewart, voz do Uriel Septim VII em Oblivion, após morte do ator",
-      "excerpt": "Stewart impressionou a equipe da Bethesda com sua dedicação ao papel do Imperador.",
-      "body": [
-        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-10-29T23:22:58Z",
-      "displayDate": "29 out. 2026",
-      "sourceName": "GameVicio",
-      "sourceUrl": "https://www.gamevicio.com/noticias/2026/10/bethesda-homenagem-patrick-stewart-oblivion",
-      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/29cc3e42-ffab-4fca-b325-1396526d5c15/Patrick+Stewart+Remembered+by+Hugh+Jackman%2C+William+Shatner%2C+Marvel+Studios%2C+and+His+Star+Trek+Family.jpg?format=1000w",
-      "alt": "Imagem publicada por GameVicio",
-      "imageCredit": "Imagem: GameVicio",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Bethesda homenageia Patrick Stewart, voz do Uriel Septim VII em Oblivion, após morte do ator",
-      "tags": [
-        "escalacao",
-        "luto"
-      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
