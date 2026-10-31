@@ -1,7 +1,355 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T15:52:35.550406Z",
+  "updatedAt": "2026-10-31T20:17:35.528731Z",
   "articles": [
+    {
+      "id": "radar-5bfd8168246f65bb",
+      "publishedAt": "2026-10-31T20:00:45Z",
+      "title": "RAYE vence o Mercury Prize de álbum do ano e vem ao Lollapalooza Brasil 2027",
+      "sourceUrl": "https://www.einerd.com/raye-vence-o-mercury-prize-de-album-do-ano-e-vem-ao-lollapalooza-brasil-2027",
+      "originalTitle": "RAYE vence o Mercury Prize de álbum do ano e vem ao Lollapalooza Brasil 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dcafe8b8b827ad31",
+      "publishedAt": "2026-10-31T19:58:00Z",
+      "title": "Batman: Parte 2 | Acidente no set levou ator para o hospital",
+      "sourceUrl": "https://www.omelete.com.br/filmes/batman-parte-2-acidente-set-batmovel-filmagens-interrompidas",
+      "originalTitle": "Batman: Parte 2 | Acidente no set levou ator para o hospital",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1d3d24634f89e308",
+      "publishedAt": "2026-10-31T19:30:50Z",
+      "title": "‘Aquele Sobre Matthew Perry’: Netflix lança documentário sobre o eterno Chandler de ‘Friends’",
+      "sourceUrl": "https://www.einerd.com/aquele-sobre-matthew-perry-netflix-lanca-documentario-sobre-o-eterno-chandler-de-friends",
+      "originalTitle": "‘Aquele Sobre Matthew Perry’: Netflix lança documentário sobre o eterno Chandler de ‘Friends’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-97a2313b478e66d3",
+      "publishedAt": "2026-10-31T19:17:31Z",
+      "title": "Marvel | Estúdio planeja filme dos Filhos da Meia-Noite após estreia do Motoqueiro Fantasma, diz insider",
+      "sourceUrl": "https://www.omelete.com.br/filmes/marvel-planeja-projeto-filhos-da-meia-noite-apos-motoqueiro-fantasma",
+      "originalTitle": "Marvel | Estúdio planeja filme dos Filhos da Meia-Noite após estreia do Motoqueiro Fantasma, diz insider",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-91d00176bab04b2b",
+      "publishedAt": "2026-10-31T19:16:43Z",
+      "title": "X-Men: Ator do novo Professor Xavier não sabe se vai raspar a cabeça",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/x-men-novo-professor-xavier-pode-nao-ser-careca-ator-revela-duvida-sobre-visual-do-heroi.html",
+      "originalTitle": "X-Men: Ator do novo Professor Xavier não sabe se vai raspar a cabeça",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2724ec5913b3ff5a",
+      "publishedAt": "2026-10-31T19:12:22Z",
+      "title": "Console retrô R36S por R$ 189,59 e teclado magnético Attack Shark no Garimpo Gamer",
+      "sourceUrl": "https://arkade.com.br/console-retro-r36s-por-r-18959-e-teclado-magnetico-attack-shark-no-garimpo-gamer",
+      "originalTitle": "Console retrô R36S por R$ 189,59 e teclado magnético Attack Shark no Garimpo Gamer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a954d37e00fb763f",
+      "publishedAt": "2026-10-31T19:00:17Z",
+      "title": "“Vingadores, avante!”: relembre a evolução dos heróis da Marvel no MCU",
+      "sourceUrl": "https://www.einerd.com/vingadores-avante-relembre-a-evolucao-dos-herois-da-marvel-no-mcu",
+      "originalTitle": "“Vingadores, avante!”: relembre a evolução dos heróis da Marvel no MCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5c5ec3f834c869e2",
+      "publishedAt": "2026-10-31T18:32:00Z",
+      "title": "Os Imortais | Produtora de Ainda Estou Aqui anuncia adaptação de romance premiado de Paulliny Tort",
+      "sourceUrl": "https://www.omelete.com.br/filmes/os-imortais-rt-features-adaptacao-livro-paulliny-tort",
+      "originalTitle": "Os Imortais | Produtora de Ainda Estou Aqui anuncia adaptação de romance premiado de Paulliny Tort",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b5aa8c5206591378",
+      "publishedAt": "2026-10-31T18:30:15Z",
+      "title": "BTS ganha coleção de cadernos e adesivos da Tilibra com os TinyTAN para 2027",
+      "sourceUrl": "https://www.einerd.com/bts-ganha-colecao-de-cadernos-e-adesivos-da-tilibra-com-os-tinytan-para-2027",
+      "originalTitle": "BTS ganha coleção de cadernos e adesivos da Tilibra com os TinyTAN para 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1478a0da532ad06f",
+      "publishedAt": "2026-10-31T18:30:00Z",
+      "title": "COMPILADO: Ilustrações alucinantes dos animes e mangás para o Halloween de 2026",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/31/anime-halloween-arte-compilado-2026",
+      "originalTitle": "COMPILADO: Ilustrações alucinantes dos animes e mangás para o Halloween de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7a3ffde75e7446d1",
+      "publishedAt": "2026-10-31T18:18:00Z",
+      "title": "Xbox | Asha Sharma diz que queda em 14% das vendas de Xbox Series são por falta de estoque",
+      "sourceUrl": "https://www.omelete.com.br/games/xbox-asha-sharma-queda-vendas-consoles-falta-estoque",
+      "originalTitle": "Xbox | Asha Sharma diz que queda em 14% das vendas de Xbox Series são por falta de estoque",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5093a8a80cd8792a",
+      "publishedAt": "2026-10-31T18:15:00Z",
+      "title": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-final-fantasy-vii-remake-e-mais-jogos-esta-semana-veja-os-lancamentos-31",
+      "originalTitle": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1aeb154bc22b0e40",
+      "publishedAt": "2026-10-31T18:09:32Z",
+      "title": "Colorful Palette cria estúdio de anime LATENT ONE para MVs e obras originais",
+      "sourceUrl": "https://pclabs.com.br/colorful-palette-cria-estudio-anime-latent-one",
+      "originalTitle": "Colorful Palette cria estúdio de anime LATENT ONE para MVs e obras originais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e10ec4404b35db3b",
+      "publishedAt": "2026-10-31T18:05:00Z",
+      "title": "Cleópatra | Scorsese revela que filme com Angelina Jolie foi arruinado por polêmica envolvendo Seth Rogen",
+      "sourceUrl": "https://www.omelete.com.br/filmes/cleopatra-martin-scorsese-angelina-jolie-arruinado-ataque-hacker-sony-seth-rogen",
+      "originalTitle": "Cleópatra | Scorsese revela que filme com Angelina Jolie foi arruinado por polêmica envolvendo Seth Rogen",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5213afcd5c22a84d",
+      "publishedAt": "2026-10-31T18:00:12Z",
+      "title": "‘Magnatas do Crime’: 3ª temporada começa a ser filmada com Bruna Marquezine, Elijah Wood e Orlando Bloom",
+      "sourceUrl": "https://www.einerd.com/magnatas-do-crime-3a-temporada-comeca-a-ser-filmada-com-bruna-marquezine-elijah-wood-e-orlando-bloom",
+      "originalTitle": "‘Magnatas do Crime’: 3ª temporada começa a ser filmada com Bruna Marquezine, Elijah Wood e Orlando Bloom",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-63713a88a0859d8f",
+      "publishedAt": "2026-10-31T18:00:06Z",
+      "title": "Estes 3 animes recentes resgatam com perfeição a era de ouro dos anos 2000",
+      "sourceUrl": "https://criticalhits.com.br/anime/estes-3-animes-recentes-resgatam-com-perfeicao-a-era-de-ouro-dos-anos-2000",
+      "originalTitle": "Estes 3 animes recentes resgatam com perfeição a era de ouro dos anos 2000",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bced6a040db09b03",
+      "publishedAt": "2026-10-31T18:00:00Z",
+      "title": "Novo Snape fala sobre polêmica antes da estreia de Harry Potter na HBO",
+      "sourceUrl": "https://mixdeseries.com.br/novo-snape-fala-sobre-polemica-de-harry-potter",
+      "originalTitle": "Novo Snape fala sobre polêmica antes da estreia de Harry Potter na HBO",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7fd69a502ffa0539",
+      "publishedAt": "2026-10-31T17:54:23Z",
+      "title": "Nintendo anuncia Pikmin Day com novidades de Pikmin 4, app e série de animação",
+      "sourceUrl": "https://www.tecstudio.com.br/produtos/nintendo-anuncia-pikmin-day-com-novidades-de-pikmin-4-app-e-serie-de-animacao",
+      "originalTitle": "Nintendo anuncia Pikmin Day com novidades de Pikmin 4, app e série de animação",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ee8a89b68c219cca",
+      "publishedAt": "2026-10-31T17:47:55Z",
+      "title": "Veja os lançamentos da PlayStation Store entre 1º e 7 de novembro de 2026",
+      "sourceUrl": "https://psxbrasil.com.br/veja-os-lancamentos-da-playstation-store-entre-1o-e-7-de-novembro-de-2026",
+      "originalTitle": "Veja os lançamentos da PlayStation Store entre 1º e 7 de novembro de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d57e2a348ec1a1f4",
+      "publishedAt": "2026-10-31T17:45:30Z",
+      "title": "PlayStation reúne versões raras em seleção de consoles",
+      "sourceUrl": "https://www.spacemoney.com.br/tecnologia/consoles-especiais-playstation-edicoes-limitadas",
+      "originalTitle": "PlayStation reúne versões raras em seleção de consoles",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-435a63c8efc6634d",
+      "publishedAt": "2026-10-31T17:30:42Z",
+      "title": "7 k-dramas de viagem no tempo que você vai se arrepender de pular",
+      "sourceUrl": "https://www.einerd.com/7-k-dramas-de-viagem-no-tempo-que-voce-vai-se-arrepender-de-pular",
+      "originalTitle": "7 k-dramas de viagem no tempo que você vai se arrepender de pular",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3948d73391d625ec",
+      "publishedAt": "2026-10-31T17:11:11Z",
+      "title": "Jean Grey entra “de penetra” em Brand New Day e revela nova tática da Marvel para lançar os X-Men",
+      "sourceUrl": "https://radiogeekbr.com.br/jean-grey-brand-new-day-estrategia-marvel-x-men",
+      "originalTitle": "Jean Grey entra “de penetra” em Brand New Day e revela nova tática da Marvel para lançar os X-Men",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f729e3f1fc7140e5",
+      "publishedAt": "2026-10-31T17:09:00Z",
+      "title": "Vingadores: Doutor Destino | Show de drones transforma Homem de Ferro no vilão",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-show-drones-transforma-homem-de-ferro-em-vilao",
+      "originalTitle": "Vingadores: Doutor Destino | Show de drones transforma Homem de Ferro no vilão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6ebe96bf7301357c",
+      "publishedAt": "2026-10-31T17:00:40Z",
+      "title": "Quem é Ahn Hyo-seop, o ator que brilhou como Jinu em ‘Guerreiras do K-Pop’",
+      "sourceUrl": "https://www.einerd.com/quem-e-ahn-hyo-seop-o-ator-que-brilhou-como-jinu-em-guerreiras-do-k-pop",
+      "originalTitle": "Quem é Ahn Hyo-seop, o ator que brilhou como Jinu em ‘Guerreiras do K-Pop’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-10-31T16:41:22Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f614e6ff7d9e1528",
+      "publishedAt": "2026-10-31T16:41:22Z",
+      "title": "Com Doutor Estranho 3, Marvel transforma a “fase da cura” em estratégia oficial de sobrevivência pós-Guerras Secretas",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-oficializa-doutor-estranho-3-fase-7-estrategia-tresquels",
+      "originalTitle": "Com Doutor Estranho 3, Marvel transforma a “fase da cura” em estratégia oficial de sobrevivência pós-Guerras Secretas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95283e1f72bd83b7",
+      "publishedAt": "2026-10-31T16:41:22Z",
+      "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
+      "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8f846a71edf4c01b",
+      "publishedAt": "2026-10-31T16:35:55Z",
+      "title": "Harry Potter: Primeiro episódio da série terá mais de 2 horas? Entenda",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/harry-potter-primeiro-episodio-da-serie-tera-mais-de-2-horas-entenda.html",
+      "originalTitle": "Harry Potter: Primeiro episódio da série terá mais de 2 horas? Entenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e21d4d9b64b0428c",
+      "publishedAt": "2026-10-31T16:33:27Z",
+      "title": "The Last of Us, Resident Evil e mais: 5 jogos do PS Plus e Game Pass para aproveitar o Halloween",
+      "sourceUrl": "https://br.ign.com/the-last-of-us-part-ii-remastered/157215/the-last-of-us-resident-evil-e-mais-5-jogos-do-ps-plus-e-game-pass-para-aproveitar-o-halloween",
+      "originalTitle": "The Last of Us, Resident Evil e mais: 5 jogos do PS Plus e Game Pass para aproveitar o Halloween",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-0de496c99c938a7c",
       "publishedAt": "2026-10-31T15:33:13Z",
@@ -116,6 +464,18 @@
       "title": "Dragon Ball Super: Toyotaro divulga nova ilustração de vilão original do mangá",
       "sourceUrl": "https://ovicio.com.br/dragon-ball-super-toyotaro-divulga-nova-ilustracao-de-vilao-original-do-manga",
       "originalTitle": "Dragon Ball Super: Toyotaro divulga nova ilustração de vilão original do mangá",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e1f465aa0cd59b5f",
+      "publishedAt": "2026-10-31T14:34:46Z",
+      "title": "Doutor Destino ganha balde de pipoca com olhos de LED",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/doutor-destino-ganha-balde-de-pipoca-com-olhos-de-led.html",
+      "originalTitle": "Doutor Destino ganha balde de pipoca com olhos de LED",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -327,6 +687,18 @@
       }
     },
     {
+      "id": "radar-661f4c05dab500ae",
+      "publishedAt": "2026-10-31T13:10:54Z",
+      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
+      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-55532f36cfefa7d6",
       "publishedAt": "2026-10-31T13:00:00Z",
       "title": "Doutor Destino: o personagem excluído da divulgação",
@@ -464,6 +836,18 @@
       "title": "Calendário estrangulado do estúdio Pierrot trava nova temporada de Black Clover — e não é por falta de público",
       "sourceUrl": "https://radiogeekbr.com.br/calendario-estrangulado-pierrot-trava-black-clover-nova-temporada",
       "originalTitle": "Calendário estrangulado do estúdio Pierrot trava nova temporada de Black Clover — e não é por falta de público",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ec5540810921a66e",
+      "publishedAt": "2026-10-31T08:55:50Z",
+      "title": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/safran-freia-boato-cancelamento-the-authority-dcu",
+      "originalTitle": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -759,6 +1143,18 @@
       }
     },
     {
+      "id": "radar-cee5d3dd180de2e8",
+      "publishedAt": "2026-10-31T01:12:38Z",
+      "title": "‘X-Men’: Jennifer Lawrence descarta retorno ao papel de Mística: “Absolutamente não!”",
+      "sourceUrl": "https://cinepop.com.br/x-men-jennifer-lawrence-descarta-retorno-ao-papel-de-mistica-absolutamente-nao-774580",
+      "originalTitle": "‘X-Men’: Jennifer Lawrence descarta retorno ao papel de Mística: “Absolutamente não!”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-a93b66941f21e460",
       "publishedAt": "2026-10-31T01:05:00Z",
       "title": "Segunda parte do anime Chitose Is in the Ramune Bottle celebra o verão com novo visual",
@@ -1004,6 +1400,18 @@
       "title": "John Romero revela nova publisher para seu FPS inédito",
       "sourceUrl": "https://www.einerd.com/john-romero-nova-publisher-fps",
       "originalTitle": "John Romero revela nova publisher para seu FPS inédito",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ef8eae767bd1e35e",
+      "publishedAt": "2026-10-30T20:50:00Z",
+      "title": "Hiragi-san's House of Vampires tem anime anunciado",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/10/30/hiragisans-house-of-vampires-anime-anuncio",
+      "originalTitle": "Hiragi-san's House of Vampires tem anime anunciado",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -3969,18 +4377,6 @@
       "sourceUrl": "https://www.disneydining.com/report-star-wars-episode-x-casting-romantic-leads-th1",
       "originalTitle": "Report: ‘Star Wars: Episode X’ Casting Underway for Two Romantic Leads",
       "translated": true,
-      "editorialReview": {
-        "status": "pending",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ec5540810921a66e",
-      "publishedAt": "2026-10-29T20:40:59Z",
-      "title": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/safran-freia-boato-cancelamento-the-authority-dcu",
-      "originalTitle": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
-      "translated": false,
       "editorialReview": {
         "status": "pending",
         "policyVersion": 2
@@ -10425,18 +10821,6 @@
       "sourceUrl": "https://comicbook.com/movies/feature/long-before-batman-daredevil-ben-afflecks-first-superhero-role-saw-him-replacing-harrison-ford",
       "originalTitle": "Long Before Batman & Daredevil, Ben Affleck’s First Superhero Role Saw Him Replacing Harrison Ford",
       "translated": true,
-      "editorialReview": {
-        "status": "pending",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-10-28T10:11:32Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "translated": false,
       "editorialReview": {
         "status": "pending",
         "policyVersion": 2

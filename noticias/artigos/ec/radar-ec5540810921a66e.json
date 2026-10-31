@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-29T20:40:59Z",
-  "displayDate": "29 out. 2026",
+  "publishedAt": "2026-10-31T08:55:50Z",
+  "displayDate": "31 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/safran-freia-boato-cancelamento-the-authority-dcu",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792122978.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Safran freia boato de cancelamento e faz de “The Authority” teste decisivo para a credibilidade do novo DCU",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }
