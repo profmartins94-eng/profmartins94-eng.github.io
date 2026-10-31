@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T16:11:26Z",
-  "displayDate": "28 out. 2026",
+  "publishedAt": "2026-10-31T09:11:01Z",
+  "displayDate": "31 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/quinto-jovem-tita-confirmado-plano-silencioso-james-gunn-dcu",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1788489614.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Quinto Jovem Titã é confirmado e expõe o plano silencioso de James Gunn para o DCU",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }

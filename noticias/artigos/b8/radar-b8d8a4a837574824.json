@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T02:56:10Z",
-  "displayDate": "27 out. 2026",
+  "publishedAt": "2026-10-31T12:12:27Z",
+  "displayDate": "31 out. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/marvel-heroina-pacifista-x-force-deadpool-4",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789692000.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Marvel insere heroína pacifista na X-Force e aciona alarme criativo antes de Deadpool 4",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }
