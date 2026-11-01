@@ -1,7 +1,475 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T06:51:03.281924Z",
+  "updatedAt": "2026-11-01T14:30:32.443925Z",
   "articles": [
+    {
+      "id": "radar-91404e580aaae6d4",
+      "publishedAt": "2026-11-01T14:30:00Z",
+      "title": "Nem Demolidor, nem Batman: o 1º papel de Ben Affleck como super-herói",
+      "sourceUrl": "https://www.einerd.com/ben-affleck-primeiro-papel-heroi-jack-ryan",
+      "originalTitle": "Nem Demolidor, nem Batman: o 1º papel de Ben Affleck como super-herói",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e988c7664c6d62e0",
+      "publishedAt": "2026-11-01T14:20:00Z",
+      "title": "Green Room | Jeremy Saulnier diz que Patrick Stewart salvou filme do cancelamento",
+      "sourceUrl": "https://www.omelete.com.br/filmes/green-room-jeremy-saulnier-diz-que-patrick-stewart-salvou-filme-cancelamento",
+      "originalTitle": "Green Room | Jeremy Saulnier diz que Patrick Stewart salvou filme do cancelamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-11a88b4b74521acf",
+      "publishedAt": "2026-11-01T14:15:00Z",
+      "title": "GTA V baratinho, Final Fantasy 7 Remake Intergrade na Game Pass e mais! Veja as indicações de games",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-v-baratinho-final-fantasy-7-remake-intergrade-na-game-pass-e-mais-veja-as-indicacoes-de-games",
+      "originalTitle": "GTA V baratinho, Final Fantasy 7 Remake Intergrade na Game Pass e mais! Veja as indicações de games",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5650d178cf5152c2",
+      "publishedAt": "2026-11-01T14:07:46Z",
+      "title": "Doom de 1993 simula o DLSS 5 e é o vídeo mais f*** que você vai ver hoje",
+      "sourceUrl": "https://arkade.com.br/doom-1993-dlss-5-video-ia",
+      "originalTitle": "Doom de 1993 simula o DLSS 5 e é o vídeo mais f*** que você vai ver hoje",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c944fd18a50a7ffb",
+      "publishedAt": "2026-11-01T14:00:00Z",
+      "title": "Homem-Coisa: como Stan Lee criou o personagem mais assustador da Marvel?",
+      "sourceUrl": "https://www.einerd.com/stan-lee-homem-coisa-marvel-monstro-dc",
+      "originalTitle": "Homem-Coisa: como Stan Lee criou o personagem mais assustador da Marvel?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0ff6d614869b38d8",
+      "publishedAt": "2026-11-01T13:56:00Z",
+      "title": "Lobis-Homem | Aaron Taylor-Johnson surge em nova imagem do terror de Robert Eggers",
+      "sourceUrl": "https://www.omelete.com.br/filmes/lobis-homem-aaron-taylor-johnson-nova-imagem-werwulf-robert-eggers",
+      "originalTitle": "Lobis-Homem | Aaron Taylor-Johnson surge em nova imagem do terror de Robert Eggers",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ebc5cc50dabc3854",
+      "publishedAt": "2026-11-01T13:45:31Z",
+      "title": "Xbox quer superar PlayStation e Nintendo em lucratividade até 2030",
+      "sourceUrl": "https://www.hardware.com.br/games/xbox-superar-playstation-lucro",
+      "originalTitle": "Xbox quer superar PlayStation e Nintendo em lucratividade até 2030",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9935efbf1feb98db",
+      "publishedAt": "2026-11-01T13:45:26Z",
+      "title": "Xbox aposta em upscaling por IA para receber GTA 6",
+      "sourceUrl": "https://www.spacemoney.com.br/tecnologia/xbox-fsr-4-1-gta-6-upscaling-ia",
+      "originalTitle": "Xbox aposta em upscaling por IA para receber GTA 6",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-16c5f9bbef4a89bb",
+      "publishedAt": "2026-11-01T13:45:14Z",
+      "title": "Super Mario vira estojo de proteção para Nintendo Switch 2 com espaço para jogos",
+      "sourceUrl": "https://portalg.com.br/powera-estojo-super-mario-nintendo-switch-2",
+      "originalTitle": "Super Mario vira estojo de proteção para Nintendo Switch 2 com espaço para jogos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8aafa4b7126b5086",
+      "publishedAt": "2026-11-01T13:45:00Z",
+      "title": "Vingadores: Doutor Destino | Cosplayers da Marvel reagem de forma inusitada ao vilão na Comic Con LA",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-cosplayers-marvel-reagem-vilao-la-comic-con",
+      "originalTitle": "Vingadores: Doutor Destino | Cosplayers da Marvel reagem de forma inusitada ao vilão na Comic Con LA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-22226f8bc7d6ffbf",
+      "publishedAt": "2026-11-01T13:31:19Z",
+      "title": "Gigi Perez lança música INÉDITA para a trilha sonora de ‘Jogos Vorazes: Amanhecer na Colheita’",
+      "sourceUrl": "https://cinepop.com.br/gigi-perez-lanca-musica-inedita-para-a-trilha-sonora-de-jogos-vorazes-amanhecer-na-colheita-774629",
+      "originalTitle": "Gigi Perez lança música INÉDITA para a trilha sonora de ‘Jogos Vorazes: Amanhecer na Colheita’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b4c855e0bb6887dc",
+      "publishedAt": "2026-11-01T13:30:00Z",
+      "title": "Vingadores: Doutor Destino | Japão recebe desfile com estátua gigante do vilão; veja fotos e vídeos",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-desfile-japao-estatua-gigante",
+      "originalTitle": "Vingadores: Doutor Destino | Japão recebe desfile com estátua gigante do vilão; veja fotos e vídeos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6e8d98afbd2153e7",
+      "publishedAt": "2026-11-01T13:30:00Z",
+      "title": "Microsoft prepara \"arma secreta\" para receber GTA 6 no XBOX Series",
+      "sourceUrl": "https://canaltech.com.br/games/arma-secreta-xbox-series-lancamento-gta-6",
+      "originalTitle": "Microsoft prepara \"arma secreta\" para receber GTA 6 no XBOX Series",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-71b75bd8126aed10",
+      "publishedAt": "2026-11-01T13:30:00Z",
+      "title": "007: quem eram os concorrentes de Daniel Craig para James Bond?",
+      "sourceUrl": "https://www.einerd.com/atores-teste-james-bond-daniel-craig",
+      "originalTitle": "007: quem eram os concorrentes de Daniel Craig para James Bond?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e77186649f620308",
+      "publishedAt": "2026-11-01T13:19:13Z",
+      "title": "Kirby Air Riders – Nintendo cancela evento de Halloween por causa de um bug que congela o ecrã",
+      "sourceUrl": "https://www.futurebehind.com/noticias/kirby-air-riders-evento-halloween",
+      "originalTitle": "Kirby Air Riders – Nintendo cancela evento de Halloween por causa de um bug que congela o ecrã",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-86d2fa42f4527333",
+      "publishedAt": "2026-11-01T13:08:00Z",
+      "title": "Diogo Defante expande olhar pelo país na 2ª temporada de Repórter Doidão: \"O Brasil são muitos Brasis\"",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/diogo-defante-reporter-doidao-pelo-brasil-2a-temporada-yt-entrevista-omelete",
+      "originalTitle": "Diogo Defante expande olhar pelo país na 2ª temporada de Repórter Doidão: \"O Brasil são muitos Brasis\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5418aa8d428d442a",
+      "publishedAt": "2026-11-01T13:00:00Z",
+      "title": "Do mangá ao Prime Video: a estratégia da Amazon MGM para conquistar o mundo",
+      "sourceUrl": "https://timesbrasil.com.br/videos/entretenimento-videos/do-manga-ao-prime-video-a-estrategia-da-amazon-mgm-para-conquistar-o-mundo",
+      "originalTitle": "Do mangá ao Prime Video: a estratégia da Amazon MGM para conquistar o mundo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-badddb65573a4fb7",
+      "publishedAt": "2026-11-01T13:00:00Z",
+      "title": "Crise Infinita: quando a DC tentou trazer o passado de volta",
+      "sourceUrl": "https://www.einerd.com/crise-infinita-20-anos-dc-comics",
+      "originalTitle": "Crise Infinita: quando a DC tentou trazer o passado de volta",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b9a8950868da899c",
+      "publishedAt": "2026-11-01T12:30:00Z",
+      "title": "X-Men: a redenção de um vilão que pode acontecer também no MCU",
+      "sourceUrl": "https://www.einerd.com/omega-vermelho-redencao-krakoa-x-men-mcu",
+      "originalTitle": "X-Men: a redenção de um vilão que pode acontecer também no MCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-506dfbea1f7e47b0",
+      "publishedAt": "2026-11-01T12:20:44Z",
+      "title": "Ex-ator da Marvel, Terrence Howard quer disputar Presidência dos EUA",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/terrence-howard-presidencia-eua",
+      "originalTitle": "Ex-ator da Marvel, Terrence Howard quer disputar Presidência dos EUA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-17c8d335575cfbc5",
+      "publishedAt": "2026-11-01T12:18:34Z",
+      "title": "Os 6 personagens mais velhos de Dragon Ball",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-6-personagens-mais-velhos-de-dragon-ball",
+      "originalTitle": "Os 6 personagens mais velhos de Dragon Ball",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-84ea245b83ca708a",
+      "publishedAt": "2026-11-01T12:15:00Z",
+      "title": "Com GTA 6 e Zelda, novembro começa como o mês do ‘Barbenheimer’ dos games",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/com-gta-6-e-zelda-novembro-comeca-como-o-mes-do-barbenheimer-dos-games",
+      "originalTitle": "Com GTA 6 e Zelda, novembro começa como o mês do ‘Barbenheimer’ dos games",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a30d08aae03d5a45",
+      "publishedAt": "2026-11-01T11:56:00Z",
+      "title": "Supernatural: Dean Winchester #4 coloca Dean contra um exército de criaturas",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/supernatural-dean-winchester-4-coloca-dean-contra-um-exercito-de-criaturas",
+      "originalTitle": "Supernatural: Dean Winchester #4 coloca Dean contra um exército de criaturas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1f6e3669b32435c0",
+      "publishedAt": "2026-11-01T11:55:32Z",
+      "title": "Boruto reacende o legado do temido clã Uzumaki",
+      "sourceUrl": "https://criticalhits.com.br/anime/boruto-reacende-o-legado-do-temido-cla-uzumaki",
+      "originalTitle": "Boruto reacende o legado do temido clã Uzumaki",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7f0ce52824cb66ae",
+      "publishedAt": "2026-11-01T11:49:49Z",
+      "title": "Attack on Titan – 5 personagens poderosos que foram nerfados pela história",
+      "sourceUrl": "https://criticalhits.com.br/games/attack-on-titan-5-personagens-poderosos-que-foram-nerfados-pela-historia",
+      "originalTitle": "Attack on Titan – 5 personagens poderosos que foram nerfados pela história",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-34fe8775c53d4cb4",
+      "publishedAt": "2026-11-01T11:47:24Z",
+      "title": "7 habilidades de Goku que quase nunca são usadas",
+      "sourceUrl": "https://criticalhits.com.br/anime/7-habilidades-de-goku-que-quase-nunca-sao-usadas",
+      "originalTitle": "7 habilidades de Goku que quase nunca são usadas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-af5d584bf05fc4ae",
+      "publishedAt": "2026-11-01T11:44:59Z",
+      "title": "Por que Dwight usa uma bengala na 4ª temporada de Tulsa King",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/por-que-dwight-usa-uma-bengala-na-4a-temporada-de-tulsa-king",
+      "originalTitle": "Por que Dwight usa uma bengala na 4ª temporada de Tulsa King",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c3fdafd50a21134c",
+      "publishedAt": "2026-11-01T11:29:27Z",
+      "title": "Pikmin 4 Nintendo Switch 2 Edition chega em 12 de novembro com demo já em 2/11",
+      "sourceUrl": "https://www.edivaldobrito.com.br/pikmin-4-nintendo-switch-2-edition-chega-em-12-de-novembro-com-demo-ja-em-2-11",
+      "originalTitle": "Pikmin 4 Nintendo Switch 2 Edition chega em 12 de novembro com demo já em 2/11",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4f3ac1343af2f1db",
+      "publishedAt": "2026-11-01T11:16:38Z",
+      "title": "Hideo Kojima publica sua crítica para Cara-de-Barro",
+      "sourceUrl": "https://ovicio.com.br/hideo-kojima-publica-sua-critica-para-cara-de-barro",
+      "originalTitle": "Hideo Kojima publica sua crítica para Cara-de-Barro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d4c3795820ddc70f",
+      "publishedAt": "2026-11-01T11:11:49Z",
+      "title": "Novo ranking de poder em anime toma as redes, muda o pódio e revela guerra de influência entre estúdios",
+      "sourceUrl": "https://radiogeekbr.com.br/ranking-poder-anime-disputa-influencia",
+      "originalTitle": "Novo ranking de poder em anime toma as redes, muda o pódio e revela guerra de influência entre estúdios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f4460e998554d885",
+      "publishedAt": "2026-11-01T11:01:07Z",
+      "title": "Christopher Abbott: quem é o novo Professor X da Marvel",
+      "sourceUrl": "https://www.otempo.com.br/opiniao/janio-nazareth/2026/11/1/christopher-abbott-quem-e-o-novo-professor-x-da-marvel",
+      "originalTitle": "Christopher Abbott: quem é o novo Professor X da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2798e03faa094f2",
+      "publishedAt": "2026-11-01T10:11:16Z",
+      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
+      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b4e3d5a7299e4a45",
+      "publishedAt": "2026-11-01T10:00:33Z",
+      "title": "Yoko Taro, criador de NieR: \"Acredito que nossas vidas não têm sentido e que nossa existência é profundamente absurda\"",
+      "sourceUrl": "https://br.ign.com/nier-automata/157221/yoko-taro-criador-de-nier-acredito-que-nossas-vidas-nao-tem-sentido-e-que-nossa-existencia-e-profund",
+      "originalTitle": "Yoko Taro, criador de NieR: \"Acredito que nossas vidas não têm sentido e que nossa existência é profundamente absurda\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dd1cbb0a201e64fb",
+      "publishedAt": "2026-11-01T09:33:17Z",
+      "title": "Crítica | ‘Meu Superman’ – Frágil narrativa se atropela em um sentimentalismo gritante [CineFest Votorantim]",
+      "sourceUrl": "https://cinepop.com.br/critica-meu-superman-fragil-narrativa-se-atropela-em-um-sentimentalismo-gritante-cinefest-votorantim-774616",
+      "originalTitle": "Crítica | ‘Meu Superman’ – Frágil narrativa se atropela em um sentimentalismo gritante [CineFest Votorantim]",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3ba55574bf740a80",
+      "publishedAt": "2026-11-01T09:00:34Z",
+      "title": "Fox confirma o desenvolvimento do novo filme da franquia Alien: ele se afastará de Romulus para se conectar com Prometheus e Covenant",
+      "sourceUrl": "https://br.ign.com/alien-romulus/157220/fox-confirma-o-desenvolvimento-do-novo-filme-da-franquia-alien-ele-se-afastara-de-romulus-para-se-co",
+      "originalTitle": "Fox confirma o desenvolvimento do novo filme da franquia Alien: ele se afastará de Romulus para se conectar com Prometheus e Covenant",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-243f11bf2884ac3a",
+      "publishedAt": "2026-11-01T08:24:21Z",
+      "title": "Star Wars Jedi 3 será anunciado em breve, segundo jornalista da Bloomberg",
+      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/star-wars-jedi-3-anuncio",
+      "originalTitle": "Star Wars Jedi 3 será anunciado em breve, segundo jornalista da Bloomberg",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95452a5dc68e9c54",
+      "publishedAt": "2026-11-01T08:16:54Z",
+      "title": "Persona 1 Remake? Vídeo com suposto gameplay vaza e divide os fãs",
+      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/vazamento-suposto-gameplay-remake-persona-1",
+      "originalTitle": "Persona 1 Remake? Vídeo com suposto gameplay vaza e divide os fãs",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1c47f08ebf7e8d9d",
+      "publishedAt": "2026-11-01T08:10:54Z",
+      "title": "Cartaz secreto em Xangai reúne 11 Vingadores e revela quem realmente vai liderar “Avengers: Doomsday”",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-cartaz-xangai-11-herois-avengers-doomsday",
+      "originalTitle": "Cartaz secreto em Xangai reúne 11 Vingadores e revela quem realmente vai liderar “Avengers: Doomsday”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-63b3d36d70d649fe",
+      "publishedAt": "2026-11-01T06:28:12Z",
+      "title": "Robert Downey Jr. e Pedro Pascal trocam papéis da Marvel no Halloween",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/robert-downey-jr-e-pedro-pascal-trocam-papeis-da-marvel-no-halloween",
+      "originalTitle": "Robert Downey Jr. e Pedro Pascal trocam papéis da Marvel no Halloween",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-9a6d80438f3e59e4",
       "publishedAt": "2026-11-01T04:58:54Z",
@@ -848,6 +1316,18 @@
       "title": "The Last of Us, Resident Evil e mais: 5 jogos do PS Plus e Game Pass para aproveitar o Halloween",
       "sourceUrl": "https://br.ign.com/the-last-of-us-part-ii-remastered/157215/the-last-of-us-resident-evil-e-mais-5-jogos-do-ps-plus-e-game-pass-para-aproveitar-o-halloween",
       "originalTitle": "The Last of Us, Resident Evil e mais: 5 jogos do PS Plus e Game Pass para aproveitar o Halloween",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a9a26b6118a0c583",
+      "publishedAt": "2026-10-31T15:42:13Z",
+      "title": "Pikmin recebe Nintendo Direct para o Pikmin Day",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/10/pikmin-recebe-nintendo-direct-para-o-pikmin-day.html",
+      "originalTitle": "Pikmin recebe Nintendo Direct para o Pikmin Day",
       "translated": false,
       "editorialReview": {
         "status": "native",
