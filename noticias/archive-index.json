@@ -1,7 +1,115 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T23:44:12.897354Z",
+  "updatedAt": "2026-11-01T06:51:03.281924Z",
   "articles": [
+    {
+      "id": "radar-9a6d80438f3e59e4",
+      "publishedAt": "2026-11-01T04:58:54Z",
+      "title": "O mercado japonês de animes bate recorde de faturamento.",
+      "sourceUrl": "https://www.vietnam.vn/pt/thi-truong-anime-nhat-ban-lap-ky-luc-doanh-thu",
+      "originalTitle": "O mercado japonês de animes bate recorde de faturamento.",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bd2b78e92329a027",
+      "publishedAt": "2026-11-01T04:53:34Z",
+      "title": "Demon Slayer: The Hinokami Chronicles 2 chega ao Nintendo Switch 2 com melhorias gráficas e 60 FPS",
+      "sourceUrl": "https://onpoplife.com.br/demon-slayer-the-hinokami-chronicles-2-chega-ao-nintendo-switch-2-com-melhorias-graficas-e-60-fps",
+      "originalTitle": "Demon Slayer: The Hinokami Chronicles 2 chega ao Nintendo Switch 2 com melhorias gráficas e 60 FPS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-50fbb2ec0c6a90b6",
+      "publishedAt": "2026-11-01T04:01:00Z",
+      "title": "GTA 6, Zelda e mais: 7 jogos que chegam em novembro e você precisa conferir",
+      "sourceUrl": "https://www.techtudo.com.br/google/amp/listas/2026/11/gta-6-zelda-e-mais-7-jogos-que-chegam-em-novembro-e-voce-precisa-conferir-edjogos.ghtml",
+      "originalTitle": "GTA 6, Zelda e mais: 7 jogos que chegam em novembro e você precisa conferir",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0229306d18d153df",
+      "publishedAt": "2026-11-01T01:56:42Z",
+      "title": "Morre Roberto Maya, ator, apresentador e dublador, aos 91 anos",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/emais/tv/morre-roberto-maya-ator-apresentador-e-dublador-aos-91-anos-nprec",
+      "originalTitle": "Morre Roberto Maya, ator, apresentador e dublador, aos 91 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-44bc5831073d2af9",
+      "publishedAt": "2026-11-01T01:00:00Z",
+      "title": "Alien: Isolation 2 terá Xenomorfo que ouve o microfone",
+      "sourceUrl": "https://www.einerd.com/alien-isolation-2-xenomorfo-microfone-modo-foto",
+      "originalTitle": "Alien: Isolation 2 terá Xenomorfo que ouve o microfone",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ca134adc1770db92",
+      "publishedAt": "2026-11-01T00:55:00Z",
+      "title": "2ª parte do anime Romelia War Chronicle tem estreia marcada para abril de 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/1/romelia-war-chronicle-segunda-parte-estreia-abril-2027",
+      "originalTitle": "2ª parte do anime Romelia War Chronicle tem estreia marcada para abril de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95f7efea68fe8d94",
+      "publishedAt": "2026-11-01T00:35:00Z",
+      "title": "Anime Inherit the Winds anuncia mais quatro nomes para o elenco",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/1/inherit-the-winds-anime-anuncia-mais-quatro-nomes-elenco",
+      "originalTitle": "Anime Inherit the Winds anuncia mais quatro nomes para o elenco",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79031442359db426",
+      "publishedAt": "2026-11-01T00:05:00Z",
+      "title": "Dublador Nobuhiko Okamoto lançará livro de fotos em comemoração aos seus 40 anos em fevereiro de 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/1/nobuhiko-okamoto-livro-fotos-40-anos-fevereiro-2027",
+      "originalTitle": "Dublador Nobuhiko Okamoto lançará livro de fotos em comemoração aos seus 40 anos em fevereiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-91586eb0e509cd81",
+      "publishedAt": "2026-10-31T23:26:37Z",
+      "title": "Clive Barker’s Hellraiser: Revival – Análise (PS5)",
+      "sourceUrl": "https://www.salvandonerd.blog.br/clive-barkers-hellraiser-revival-analise-ps5",
+      "originalTitle": "Clive Barker’s Hellraiser: Revival – Análise (PS5)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-3da8687ca9bf0c60",
       "publishedAt": "2026-10-31T23:15:00Z",
@@ -44,6 +152,18 @@
       "title": "Final Fantasy VII Revelation aparece rodando no Switch 2 pela primeira vez",
       "sourceUrl": "https://projectn.com.br/final-fantasy-vii-revelation-switch-2-gameplay-paris-games-week",
       "originalTitle": "Final Fantasy VII Revelation aparece rodando no Switch 2 pela primeira vez",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a02fc81bd1330432",
+      "publishedAt": "2026-10-31T23:00:00Z",
+      "title": "Final Fantasy XIV: Evercold chega em 23 de fevereiro de 2027",
+      "sourceUrl": "https://www.einerd.com/final-fantasy-xiv-evercold-23-de-fevereiro-2027",
+      "originalTitle": "Final Fantasy XIV: Evercold chega em 23 de fevereiro de 2027",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2024,18 +2144,6 @@
       "title": "Cinemark abre pré-venda de balde colecionável de Jogos Vorazes: Amanhecer na Colheita",
       "sourceUrl": "https://gkpb.com.br/200309/cinemark-jogos-vorazes-amanhecer-na-colheita",
       "originalTitle": "Cinemark abre pré-venda de balde colecionável de Jogos Vorazes: Amanhecer na Colheita",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0229306d18d153df",
-      "publishedAt": "2026-10-30T17:29:06Z",
-      "title": "Morre Roberto Maya, ator, apresentador e dublador, aos 91 anos",
-      "sourceUrl": "https://www.estadao.com.br/em-alta/emais/tv/morre-roberto-maya-ator-apresentador-e-dublador-aos-91-anos-nprec",
-      "originalTitle": "Morre Roberto Maya, ator, apresentador e dublador, aos 91 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
