@@ -1,7 +1,295 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T19:12:28.211751Z",
+  "updatedAt": "2026-11-01T23:04:45.735791Z",
   "articles": [
+    {
+      "id": "radar-476a8fce1cb1f899",
+      "publishedAt": "2026-11-01T23:00:00Z",
+      "title": "Revelado motivo o fechamento da BioWare e cancelamento de Mass Effect",
+      "sourceUrl": "https://www.einerd.com/bioware-fechada-novo-mass-effect-cancelado",
+      "originalTitle": "Revelado motivo o fechamento da BioWare e cancelamento de Mass Effect",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-50ba8e8cedccc7c6",
+      "publishedAt": "2026-11-01T22:30:56Z",
+      "title": "Star Wars: The Clone Wars (2008) – filme que criou Ahsoka",
+      "sourceUrl": "https://culpadolag.com.br/star-wars-the-clone-wars-2008-filme-que-criou-ahsoka",
+      "originalTitle": "Star Wars: The Clone Wars (2008) – filme que criou Ahsoka",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64d377bca0bddfd3",
+      "publishedAt": "2026-11-01T22:30:00Z",
+      "title": "The Legend of Zelda Ocarina of Time, WoW Forever e mais! Veja os lançamentos de games da semana",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/the-legend-of-zelda-ocarina-of-time-wow-forever-e-mais-veja-os-lancamentos-de-games-da-semana",
+      "originalTitle": "The Legend of Zelda Ocarina of Time, WoW Forever e mais! Veja os lançamentos de games da semana",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4aae44d27ac498a3",
+      "publishedAt": "2026-11-01T22:30:00Z",
+      "title": "Uma Thurman promete plano de redenção violento em Dexter: Ressurreição",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/dexter-ressurreicao-2a-temporada-entrevista-uma-thurman-futuro-charley",
+      "originalTitle": "Uma Thurman promete plano de redenção violento em Dexter: Ressurreição",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e8037e1997dd9135",
+      "publishedAt": "2026-11-01T21:48:00Z",
+      "title": "De Volta para o Futuro | Christopher Lloyd revela que só se tornou amigo de Michael J. Fox após a franquia",
+      "sourceUrl": "https://www.omelete.com.br/filmes/de-volta-para-o-futuro-christopher-lloyd-revela-quando-se-tornou-amigo-de-michael-j-fox",
+      "originalTitle": "De Volta para o Futuro | Christopher Lloyd revela que só se tornou amigo de Michael J. Fox após a franquia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-48ef42a102613701",
+      "publishedAt": "2026-11-01T21:40:54Z",
+      "title": "Efeito gangorra: ranking oficial de verão derruba Mushoku Tensei e coroa anime “estranho” como favorito do Japão",
+      "sourceUrl": "https://radiogeekbr.com.br/ranking-anime-verao-2026-japao-mushoku-tensei-queda",
+      "originalTitle": "Efeito gangorra: ranking oficial de verão derruba Mushoku Tensei e coroa anime “estranho” como favorito do Japão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f4177e9b2d4ad7d8",
+      "publishedAt": "2026-11-01T21:30:26Z",
+      "title": "‘Guerreiras do K-Pop’: Netflix libera as coreografias oficiais de ‘Golden’, ‘Soda Pop’ e mais",
+      "sourceUrl": "https://www.einerd.com/guerreiras-do-k-pop-netflix-libera-as-coreografias-oficiais-de-golden-soda-pop-e-mais",
+      "originalTitle": "‘Guerreiras do K-Pop’: Netflix libera as coreografias oficiais de ‘Golden’, ‘Soda Pop’ e mais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-26b56d9bba1c20f4",
+      "publishedAt": "2026-11-01T21:18:00Z",
+      "title": "My Chemical Romance chega ao topo da Billboard 200 pela primeira vez com The Black Parade",
+      "sourceUrl": "https://www.omelete.com.br/musica/my-chemical-romance-chega-ao-topo-da-billboard-200-pela-primeira-vez-com-the-black-parade",
+      "originalTitle": "My Chemical Romance chega ao topo da Billboard 200 pela primeira vez com The Black Parade",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65020d1e47278d8d",
+      "publishedAt": "2026-11-01T21:06:15Z",
+      "title": "Os Anéis de Poder, Blade Runner 2099 e tudo o que chega ao Prime Video em novembro de 2026",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/prime-video-lancamentos-novembro-2026",
+      "originalTitle": "Os Anéis de Poder, Blade Runner 2099 e tudo o que chega ao Prime Video em novembro de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7652d20dcc8b7886",
+      "publishedAt": "2026-11-01T21:06:00Z",
+      "title": "Homem-Aranha | Alden Ehrenreich revela que fez teste para viver o herói antes de Andrew Garfield",
+      "sourceUrl": "https://www.omelete.com.br/filmes/alden-ehrenreich-revela-teste-para-homem-aranha-antes-de-andrew-garfield",
+      "originalTitle": "Homem-Aranha | Alden Ehrenreich revela que fez teste para viver o herói antes de Andrew Garfield",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-77e1ab98e3b7443e",
+      "publishedAt": "2026-11-01T21:03:00Z",
+      "title": "Anthropic bloqueia uso do Claude para ports e clonagem de jogos com IA generativa",
+      "sourceUrl": "https://www.omelete.com.br/tech/anthropic-claude-bloqueia-clonagem-de-jogos-e-restringe-desenvolvimento",
+      "originalTitle": "Anthropic bloqueia uso do Claude para ports e clonagem de jogos com IA generativa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4d6983f093dbd895",
+      "publishedAt": "2026-11-01T21:02:06Z",
+      "title": "5 isekais de MMORPG para quem gosta de Sword Art Online",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-isekais-de-mmorpg-para-quem-gosta-de-sword-art-online",
+      "originalTitle": "5 isekais de MMORPG para quem gosta de Sword Art Online",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a8e6afff09a81be3",
+      "publishedAt": "2026-11-01T21:00:42Z",
+      "title": "Todos os animes que estreiam em Novembro de 2026",
+      "sourceUrl": "https://www.otakupt.com/estreias/animes-estreiam-novembro-2026",
+      "originalTitle": "Todos os animes que estreiam em Novembro de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-df9d497a1ee37191",
+      "publishedAt": "2026-11-01T21:00:39Z",
+      "title": "Ariana Grande estrela a campanha de Natal da Swarovski, ‘JOY: O Musical da Swarovski’",
+      "sourceUrl": "https://www.einerd.com/ariana-grande-estrela-a-campanha-de-natal-da-swarovski-joy-o-musical-da-swarovski",
+      "originalTitle": "Ariana Grande estrela a campanha de Natal da Swarovski, ‘JOY: O Musical da Swarovski’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5221af9a98b0a13e",
+      "publishedAt": "2026-11-01T20:30:19Z",
+      "title": "Céline Dion faz retorno recorde em Paris e arrecada US$ 125,5 milhões em 16 shows",
+      "sourceUrl": "https://www.einerd.com/celine-dion-faz-retorno-recorde-em-paris-e-arrecada-us-1255-milhoes-em-16-shows",
+      "originalTitle": "Céline Dion faz retorno recorde em Paris e arrecada US$ 125,5 milhões em 16 shows",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-15929d5ef505f682",
+      "publishedAt": "2026-11-01T20:30:00Z",
+      "title": "Obsessão | Curry Barker diz que há versão estendida do filme com 20 minutos extras",
+      "sourceUrl": "https://www.omelete.com.br/filmes/obsessao-curry-barker-revela-versao-estendida-com-20-minutos-extras",
+      "originalTitle": "Obsessão | Curry Barker diz que há versão estendida do filme com 20 minutos extras",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e8868076e643fe5b",
+      "publishedAt": "2026-11-01T20:16:00Z",
+      "title": "Ninguém Quer | Atriz comenta clima entre equipe após declaração de Adam Brody",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/ninguem-quer-tovah-feldshuh-comenta-clima-equipe-declaracao-adam-brody-israel-palestina",
+      "originalTitle": "Ninguém Quer | Atriz comenta clima entre equipe após declaração de Adam Brody",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-53a381eb18156165",
+      "publishedAt": "2026-11-01T20:08:00Z",
+      "title": "X-Men | Maya Boyd inicia preparação para viver Tempestade no reboot da Marvel",
+      "sourceUrl": "https://www.omelete.com.br/filmes/x-men-maya-boyd-treinamento-tempestade-reboot",
+      "originalTitle": "X-Men | Maya Boyd inicia preparação para viver Tempestade no reboot da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f7fa20e7ef5fa98f",
+      "publishedAt": "2026-11-01T20:05:00Z",
+      "title": "Zootopia 3 | Diretor da Disney confirma chegada de aves e expansão do mundo da franquia",
+      "sourceUrl": "https://www.omelete.com.br/filmes/zootopia-3-confirma-chegada-de-aves-expansao-universo-franquia",
+      "originalTitle": "Zootopia 3 | Diretor da Disney confirma chegada de aves e expansão do mundo da franquia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9954f49c0bd6e1be",
+      "publishedAt": "2026-11-01T20:00:18Z",
+      "title": "‘Jogos Vorazes: Amanhecer na Colheita’ tem 1ªs reações elogiando o ‘melhor filme da franquia’",
+      "sourceUrl": "https://www.einerd.com/jogos-vorazes-amanhecer-na-colheita-tem-1as-reacoes-elogiando-o-melhor-filme-da-franquia",
+      "originalTitle": "‘Jogos Vorazes: Amanhecer na Colheita’ tem 1ªs reações elogiando o ‘melhor filme da franquia’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d9176d6dd88afd32",
+      "publishedAt": "2026-11-01T19:58:56Z",
+      "title": "Bocchi the Rock! Ganha Filme Anime em 2027 Focado na História Prólogo das Irmãs Ijichi",
+      "sourceUrl": "https://www.animeunited.com.br/noticias/bocchi-the-rock-ganha-filme-anime-em-2027-focado-na-historia-prologo-das-irmas-ijichi",
+      "originalTitle": "Bocchi the Rock! Ganha Filme Anime em 2027 Focado na História Prólogo das Irmãs Ijichi",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ad38d579b2dc10e",
+      "publishedAt": "2026-11-01T19:41:09Z",
+      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
+      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6175b71b45d6e6b",
+      "publishedAt": "2026-11-01T19:41:09Z",
+      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
+      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1f6bc451c94d45fe",
+      "publishedAt": "2026-11-01T19:13:00Z",
+      "title": "Anime de Charisma ganha data de estreia em novo trailer",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/1/charisma-anime-trailer-data-7-de-janeiro",
+      "originalTitle": "Anime de Charisma ganha data de estreia em novo trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-99e5e096d241922e",
       "publishedAt": "2026-11-01T19:06:50Z",
@@ -44,6 +332,18 @@
       "title": "Os jogos mais aguardados do mês de novembro de 2026 para Switch e Switch 2",
       "sourceUrl": "https://www.nintendoblast.com.br/2026/10/jogos-mais-aguardados-novembro-de-2026-switch-switch2.html",
       "originalTitle": "Os jogos mais aguardados do mês de novembro de 2026 para Switch e Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8cfe9c582f15afed",
+      "publishedAt": "2026-11-01T18:45:22Z",
+      "title": "Batman do DCU está próximo de ser escalado, revela James Gunn",
+      "sourceUrl": "https://universoheroico.com.br/batman-do-dcu-esta-proximo-de-ser-escalado",
+      "originalTitle": "Batman do DCU está próximo de ser escalado, revela James Gunn",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -152,18 +452,6 @@
       "title": "Qual o melhor console para jogar GTA 6? Confira as opções",
       "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/qual-o-melhor-console-para-jogar-gta-6-confira-as-opcoes",
       "originalTitle": "Qual o melhor console para jogar GTA 6? Confira as opções",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-65020d1e47278d8d",
-      "publishedAt": "2026-11-01T18:01:29Z",
-      "title": "Os Anéis de Poder, Blade Runner 2099 e tudo o que chega ao Prime Video em novembro de 2026",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/prime-video-lancamentos-novembro-2026",
-      "originalTitle": "Os Anéis de Poder, Blade Runner 2099 e tudo o que chega ao Prime Video em novembro de 2026",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -375,6 +663,18 @@
       }
     },
     {
+      "id": "radar-4ffe4468fe5c3137",
+      "publishedAt": "2026-11-01T15:25:52Z",
+      "title": "Re-lançamento de Endgame esconde 4 novos universos e expõe novo laboratório secreto da Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/avengers-endgame-encore-4-universos-marvel",
+      "originalTitle": "Re-lançamento de Endgame esconde 4 novos universos e expõe novo laboratório secreto da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-0294d21c87f39a2a",
       "publishedAt": "2026-11-01T15:15:00Z",
       "title": "VisionQuest | Paul Bettany revela rompimento de vasos sanguíneos: \"Exagerei na atuação\"",
@@ -536,6 +836,18 @@
       "title": "Vingadores: Doutor Destino | Cosplayers da Marvel reagem de forma inusitada ao vilão na Comic Con LA",
       "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-cosplayers-marvel-reagem-vilao-la-comic-con",
       "originalTitle": "Vingadores: Doutor Destino | Cosplayers da Marvel reagem de forma inusitada ao vilão na Comic Con LA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5ed30b8d709e08d3",
+      "publishedAt": "2026-11-01T13:37:19Z",
+      "title": "Série derivada de Superman finaliza gravações e promete mudar tudo na DC",
+      "sourceUrl": "https://mixdeseries.com.br/serie-derivada-de-superman-finaliza-gravacoes",
+      "originalTitle": "Série derivada de Superman finaliza gravações e promete mudar tudo na DC",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1052,18 +1364,6 @@
       "title": "GTA 6, Zelda e mais: 7 jogos que chegam em novembro e você precisa conferir",
       "sourceUrl": "https://www.techtudo.com.br/google/amp/listas/2026/11/gta-6-zelda-e-mais-7-jogos-que-chegam-em-novembro-e-voce-precisa-conferir-edjogos.ghtml",
       "originalTitle": "GTA 6, Zelda e mais: 7 jogos que chegam em novembro e você precisa conferir",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1ad38d579b2dc10e",
-      "publishedAt": "2026-11-01T03:40:51Z",
-      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
-      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
-      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -4811,18 +5111,6 @@
       "translated": true,
       "editorialReview": {
         "status": "pending",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f6175b71b45d6e6b",
-      "publishedAt": "2026-10-30T03:41:12Z",
-      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
-      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
         "policyVersion": 2
       }
     },
