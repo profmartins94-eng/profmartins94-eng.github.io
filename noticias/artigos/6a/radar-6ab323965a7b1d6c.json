@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T11:10:54Z",
-  "displayDate": "28 out. 2026",
+  "publishedAt": "2026-11-02T07:56:10Z",
+  "displayDate": "2 nov. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/classificacao-r-spin-off-batman-james-gunn-dcu",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791223894.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Classificação R do novo spin-off de Batman expõe guinada brutal de James Gunn no DCU",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }
