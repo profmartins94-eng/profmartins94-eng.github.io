@@ -1,7 +1,223 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T03:04:20.383002Z",
+  "updatedAt": "2026-11-03T11:20:42.094925Z",
   "articles": [
+    {
+      "id": "radar-1e2cc8b7d6cd5c3c",
+      "publishedAt": "2026-11-03T11:19:37Z",
+      "title": "GTA 6 deve chegar sem modo de 60 FPS",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-deve-chegar-sem-modo-de-60-fps",
+      "originalTitle": "GTA 6 deve chegar sem modo de 60 FPS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3efc105904918bee",
+      "publishedAt": "2026-11-03T11:18:20Z",
+      "title": "Demon Slayer: os Hashira mais resistentes, do último ao primeiro",
+      "sourceUrl": "https://criticalhits.com.br/anime/demon-slayer-os-hashira-mais-resistentes-do-ultimo-ao-primeiro",
+      "originalTitle": "Demon Slayer: os Hashira mais resistentes, do último ao primeiro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b2af8d0170881ad5",
+      "publishedAt": "2026-11-03T11:11:09Z",
+      "title": "Ano 2 de Sonic Racing: CrossWorlds começa hoje com o pacote do Godzilla",
+      "sourceUrl": "https://projectn.com.br/sonic-racing-crossworlds-godzilla-pack-ano-2-3-novembro",
+      "originalTitle": "Ano 2 de Sonic Racing: CrossWorlds começa hoje com o pacote do Godzilla",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ad72f8b5179f1feb",
+      "publishedAt": "2026-11-03T11:05:52Z",
+      "title": "Desenvolvedor de South of Midnight admite que sabia que o jogo não seria lucrativo e que só foi desenvolvido por causa do cheque em branco do Xbox",
+      "sourceUrl": "https://criticalhits.com.br/games/desenvolvedor-de-south-of-midnight-admite-que-sabia-que-o-jogo-nao-seria-lucrativo-e-que-so-foi-desenvolvido-por-causa-do-cheque-em-branco-do-xbox",
+      "originalTitle": "Desenvolvedor de South of Midnight admite que sabia que o jogo não seria lucrativo e que só foi desenvolvido por causa do cheque em branco do Xbox",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-48e8c32964c632cc",
+      "publishedAt": "2026-11-03T11:00:10Z",
+      "title": "‘Ramayana: O Nascimento de uma Lenda’ ganha trailer do épico indiano com Hans Zimmer na trilha",
+      "sourceUrl": "https://www.einerd.com/ramayana-o-nascimento-de-uma-lenda-ganha-trailer-do-epico-indiano-com-hans-zimmer-na-trilha",
+      "originalTitle": "‘Ramayana: O Nascimento de uma Lenda’ ganha trailer do épico indiano com Hans Zimmer na trilha",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9cc69ff566c3a18f",
+      "publishedAt": "2026-11-03T11:00:00Z",
+      "title": "Criador de Stick revela que história de Pryce foi inspirada na carreira do próprio pai; leia",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/stick-criador-revela-historia-pryce-inspirada-carreira-pai",
+      "originalTitle": "Criador de Stick revela que história de Pryce foi inspirada na carreira do próprio pai; leia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b7dd0a667a2201ca",
+      "publishedAt": "2026-11-03T10:33:02Z",
+      "title": "Terrible Lizards: Terror Dinossáurico e Parkour Frenético Chegam ao Xbox e Game Pass – Sem Armas, Só Fuga!",
+      "sourceUrl": "https://www.gamerscore.com.br/terrible-lizards-terror-dinossaurico-e-parkour-frenetico-chegam-ao-xbox-e-game-pass-sem-armas-so-fuga",
+      "originalTitle": "Terrible Lizards: Terror Dinossáurico e Parkour Frenético Chegam ao Xbox e Game Pass – Sem Armas, Só Fuga!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b0c4c23ffa838f75",
+      "publishedAt": "2026-11-03T10:30:29Z",
+      "title": "‘Funk do Patinho’: clipes de ‘Bento e Totó’ chegam à Netflix e viram hit infantil",
+      "sourceUrl": "https://www.einerd.com/funk-do-patinho-clipes-de-bento-e-toto-chegam-a-netflix-e-viram-hit-infantil",
+      "originalTitle": "‘Funk do Patinho’: clipes de ‘Bento e Totó’ chegam à Netflix e viram hit infantil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2e2765379788764c",
+      "publishedAt": "2026-11-03T10:03:57Z",
+      "title": "AETHUS, o Survival de Mineração Sem Combate, Chega aos Consoles (Incluindo Nintendo Switch 2) em 2027",
+      "sourceUrl": "https://www.gamerscore.com.br/aethus-o-survival-de-mineracao-sem-combate-chega-aos-consoles-incluindo-nintendo-switch-2-em-2027",
+      "originalTitle": "AETHUS, o Survival de Mineração Sem Combate, Chega aos Consoles (Incluindo Nintendo Switch 2) em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ea17be8d578a21b7",
+      "publishedAt": "2026-11-03T09:45:00Z",
+      "title": "\"Tão lindo que subi aos céus\" e \"As rosas combinam demais com você, Tengen\": ilustrações inéditas de 6 personagens de Demon Slayer: Kimetsu no Yaiba em uma mansão com rosas de outono rendem muitas reações | Notícias de Anime | ANIME FREAKS",
+      "sourceUrl": "https://times.abema.tv/pt/articles/-/10285489",
+      "originalTitle": "\"Tão lindo que subi aos céus\" e \"As rosas combinam demais com você, Tengen\": ilustrações inéditas de 6 personagens de Demon Slayer: Kimetsu no Yaiba em uma mansão com rosas de outono rendem muitas reações | Notícias de Anime | ANIME FREAKS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3c17a862d2d860d6",
+      "publishedAt": "2026-11-03T08:39:00Z",
+      "title": "Dubladores de Tokyo Revengers surpreendem com fantasias de Halloween: \"Nem dá para saber qual é o projeto\", \"Adoro, todo ano é uma loucura\" | Notícias de Anime | ANIME FREAKS",
+      "sourceUrl": "https://times.abema.tv/pt/articles/-/10285478",
+      "originalTitle": "Dubladores de Tokyo Revengers surpreendem com fantasias de Halloween: \"Nem dá para saber qual é o projeto\", \"Adoro, todo ano é uma loucura\" | Notícias de Anime | ANIME FREAKS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5b5b3112658e4828",
+      "publishedAt": "2026-11-03T08:09:00Z",
+      "title": "Cena adicionada de Jinshi! No episódio do encontro com Bai Niangniang, fãs reagem: \"Jinshi também está aqui?!\" e \"É original do anime!\" – episódio 53 de Diários de uma Apotecária",
+      "sourceUrl": "https://times.abema.tv/pt/articles/-/10285525",
+      "originalTitle": "Cena adicionada de Jinshi! No episódio do encontro com Bai Niangniang, fãs reagem: \"Jinshi também está aqui?!\" e \"É original do anime!\" – episódio 53 de Diários de uma Apotecária",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8bfb50ebc153b18b",
+      "publishedAt": "2026-11-03T08:00:06Z",
+      "title": "5 animes esquecidos que envelheceram como vinho",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-animes-esquecidos-que-envelheceram-como-vinho",
+      "originalTitle": "5 animes esquecidos que envelheceram como vinho",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9db2c993c0b6fc38",
+      "publishedAt": "2026-11-03T07:56:07Z",
+      "title": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
+      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-posteres-nostalgia-upgrades-poder",
+      "originalTitle": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7ec6f27991e1cec7",
+      "publishedAt": "2026-11-03T07:50:27Z",
+      "title": "5 animes para assistir enquanto a 4ª temporada de Jujutsu Kaisen não chega",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-animes-para-assistir-enquanto-a-4a-temporada-de-jujutsu-kaisen-nao-chega",
+      "originalTitle": "5 animes para assistir enquanto a 4ª temporada de Jujutsu Kaisen não chega",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3462bb4450a72610",
+      "publishedAt": "2026-11-03T07:40:09Z",
+      "title": "5 duplas dos animes mais icônicas que Asta e Yuno",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-duplas-dos-animes-mais-iconicas-que-asta-e-yuno",
+      "originalTitle": "5 duplas dos animes mais icônicas que Asta e Yuno",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1e6f0dddda13bc84",
+      "publishedAt": "2026-11-03T07:30:10Z",
+      "title": "Os 5 usuários de Haki mais fortes de One Piece",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-5-usuarios-de-haki-mais-fortes-de-one-piece",
+      "originalTitle": "Os 5 usuários de Haki mais fortes de One Piece",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-921c47d6e8719951",
+      "publishedAt": "2026-11-03T03:00:00Z",
+      "title": "Godzilla Minus Zero amplia traumas do primeiro filme em história maior, mais dramática e violenta",
+      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/godzilla-minus-zero-critica",
+      "originalTitle": "Godzilla Minus Zero amplia traumas do primeiro filme em história maior, mais dramática e violenta",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-d18cdbc14fb4611e",
       "publishedAt": "2026-11-03T02:16:08Z",
