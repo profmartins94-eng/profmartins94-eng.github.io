@@ -1,7 +1,499 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T11:20:42.094925Z",
+  "updatedAt": "2026-11-03T18:40:28.086844Z",
   "articles": [
+    {
+      "id": "radar-f77b1098e2fe5f6f",
+      "publishedAt": "2026-11-03T18:30:30Z",
+      "title": "Fã de LEGO encontra 7 conjuntos da década de 1950 avaliados em milhares de dólares na antiga casa dos pais",
+      "sourceUrl": "https://br.ign.com/lego/157271/fa-de-lego-encontra-7-conjuntos-da-decada-de-1950-avaliados-em-milhares-de-dolares-na-antiga-casa-do",
+      "originalTitle": "Fã de LEGO encontra 7 conjuntos da década de 1950 avaliados em milhares de dólares na antiga casa dos pais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-858f222d24d01525",
+      "publishedAt": "2026-11-03T18:23:00Z",
+      "title": "Dupla Dinâmica | Peter Safran elogia Mason Thames como Dick Grayson: \"Ele queria muito\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/dupla-dinamica-peter-safran-mason-thames-dick-grayson",
+      "originalTitle": "Dupla Dinâmica | Peter Safran elogia Mason Thames como Dick Grayson: \"Ele queria muito\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f7b18b7cba86cdd3",
+      "publishedAt": "2026-11-03T18:13:39Z",
+      "title": "Live-action de Naruto inicia gravações a partir de março de 2027; Lionsgate e Sony se unem para a produção",
+      "sourceUrl": "https://br.ign.com/naruto-live-action-movie/157273/live-action-de-naruto-inicia-gravacoes-a-partir-de-marco-de-2027-lionsgate-e-sony-se-unem-para-a-pro",
+      "originalTitle": "Live-action de Naruto inicia gravações a partir de março de 2027; Lionsgate e Sony se unem para a produção",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-17bea45e318cb68b",
+      "publishedAt": "2026-11-03T18:00:09Z",
+      "title": "Chegando ao XBOX Game Pass: Warhammer Survivors, Escape Academy 2: Back 2 School, Thronefall e mais",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/03/xbox-game-pass-novembro-2026-wave-1",
+      "originalTitle": "Chegando ao XBOX Game Pass: Warhammer Survivors, Escape Academy 2: Back 2 School, Thronefall e mais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-378821b99a2a7e9f",
+      "publishedAt": "2026-11-03T18:00:00Z",
+      "title": "Godzilla Minus Zero chega para provar que o Rei dos Monstros ainda tem muita história para contar",
+      "sourceUrl": "https://arkade.com.br/godzilla-minus-zero-chega-para-provar-que-o-rei-dos-monstros-ainda-tem-muita-historia-para-contar",
+      "originalTitle": "Godzilla Minus Zero chega para provar que o Rei dos Monstros ainda tem muita história para contar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-caf74f5ca46ddcf2",
+      "publishedAt": "2026-11-03T17:56:22Z",
+      "title": "Compositores de Rayman Legends Retold enfrentaram desafios divertidos ao \"Raymanizar\" músicas e na construção de uma trilha sonora inédita",
+      "sourceUrl": "https://br.ign.com/rayman-legends-retold/156933/compositores-de-rayman-legends-retold-enfrentaram-desafios-divertidos-ao-raymanizar-musicas-e-na-con",
+      "originalTitle": "Compositores de Rayman Legends Retold enfrentaram desafios divertidos ao \"Raymanizar\" músicas e na construção de uma trilha sonora inédita",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6ce5090ef64baa17",
+      "publishedAt": "2026-11-03T17:56:04Z",
+      "title": "Black Clover consegue o melhor episódio anime de 2026",
+      "sourceUrl": "https://www.eurogamer.pt/black-clover-consegue-o-melhor-episodio-anime-de-2026",
+      "originalTitle": "Black Clover consegue o melhor episódio anime de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-11283566d6bca1a8",
+      "publishedAt": "2026-11-03T17:54:31Z",
+      "title": "Para entrar no lado sombrio da Força: máscara de Darth Vader atinge menor preço em 365 dias na Amazon",
+      "sourceUrl": "https://br.ign.com/descontos/157265/para-entrar-no-lado-sombrio-da-forca-mascara-de-darth-vader-atinge-menor-preco-em-365-dias-na-amazon",
+      "originalTitle": "Para entrar no lado sombrio da Força: máscara de Darth Vader atinge menor preço em 365 dias na Amazon",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6eb6b34b391f895a",
+      "publishedAt": "2026-11-03T17:52:23Z",
+      "title": "Microsoft anuncia Xbox Series X em forma de jacaré para lançamento de GTA 6",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/microsoft-anuncia-xbox-series-x-em-forma-de-jacare-para-lancamento-de-gta-6",
+      "originalTitle": "Microsoft anuncia Xbox Series X em forma de jacaré para lançamento de GTA 6",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fa785b6936fc9ca9",
+      "publishedAt": "2026-11-03T17:37:28Z",
+      "title": "Dead by Daylight 10th Anniversary Broadcast Visual Overhaul Reveal - Screenshots",
+      "sourceUrl": "https://br.ign.com/dead-by-daylight/157269/dead-by-daylight-10th-anniversary-broadcast-visual-overhaul-reveal-screenshots",
+      "originalTitle": "Dead by Daylight 10th Anniversary Broadcast Visual Overhaul Reveal - Screenshots",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-230dcc293822945a",
+      "publishedAt": "2026-11-03T17:37:28Z",
+      "title": "“Ao colaborar com um novo criador, normalmente analisamos minuciosamente seu conteúdo anterior\": desenvolvedora de Dead by Daylight pede desculpas e retira itens gratuitos da conta do streamer TheBurntPeanut",
+      "sourceUrl": "https://br.ign.com/dead-by-daylight/157268/ao-colaborar-com-um-novo-criador-normalmente-analisamos-minuciosamente-seu-conteudo-anterior-desenvo",
+      "originalTitle": "“Ao colaborar com um novo criador, normalmente analisamos minuciosamente seu conteúdo anterior\": desenvolvedora de Dead by Daylight pede desculpas e retira itens gratuitos da conta do streamer TheBurntPeanut",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f8a2f911c1b96b6e",
+      "publishedAt": "2026-11-03T17:34:46Z",
+      "title": "Xbox está sorteando um Series X que foi \"engolido\" por um crocodilo",
+      "sourceUrl": "https://centralxbox.com.br/2026/11/03/xbox-esta-sorteando-um-series-x-que-foi-engolido-por-um-crocodilo",
+      "originalTitle": "Xbox está sorteando um Series X que foi \"engolido\" por um crocodilo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-197e91fa1fedad51",
+      "publishedAt": "2026-11-03T17:31:00Z",
+      "title": "Abbott Elementary | Bill Hader fará participação especial na série",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/abott-elementary-bill-hader-participacao-especial",
+      "originalTitle": "Abbott Elementary | Bill Hader fará participação especial na série",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2cb29d17b25a6f26",
+      "publishedAt": "2026-11-03T17:19:01Z",
+      "title": "Bleach acabou para sempre? Entenda se o anime ainda pode voltar",
+      "sourceUrl": "https://gameoverdrive.com.br/bleach-acabou-para-sempre-anime-pode-voltar",
+      "originalTitle": "Bleach acabou para sempre? Entenda se o anime ainda pode voltar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bd3fa624835e198c",
+      "publishedAt": "2026-11-03T17:15:00Z",
+      "title": "Rockstar confirma que GTA 6 terá mais de 200 GB, revela data do preload e mapa grátis",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/rockstar-confirma-que-gta-6-tera-mais-de-200-gb-revela-data-do-preload-e-mapa-gratis",
+      "originalTitle": "Rockstar confirma que GTA 6 terá mais de 200 GB, revela data do preload e mapa grátis",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e3d2c23e39d68213",
+      "publishedAt": "2026-11-03T17:14:00Z",
+      "title": "Duna: Parte 3 | Trilha sonora será quase inteiramente nova, diz Hans Zimmer",
+      "sourceUrl": "https://www.omelete.com.br/filmes/duna-parte-3-trilha-sonora-sera-quase-inteira-nova-hans-zimmer",
+      "originalTitle": "Duna: Parte 3 | Trilha sonora será quase inteiramente nova, diz Hans Zimmer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c39f59f6d230b8cf",
+      "publishedAt": "2026-11-03T16:39:15Z",
+      "title": "One Piece 1198 – Spoilers e Data de lançamento",
+      "sourceUrl": "https://criticalhits.com.br/anime/one-piece-1198-spoilers-e-data-de-lancamento",
+      "originalTitle": "One Piece 1198 – Spoilers e Data de lançamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-996fc373155b407f",
+      "publishedAt": "2026-11-03T16:32:00Z",
+      "title": "As Novas Desventuras de Cliff Booth | Longa terá trilha sonora de Trent Reznor e Atticus Ross",
+      "sourceUrl": "https://www.omelete.com.br/filmes/as-novas-desventuras-de-cliff-booth-trilha-sonora-trent-reznor-atticus-ross",
+      "originalTitle": "As Novas Desventuras de Cliff Booth | Longa terá trilha sonora de Trent Reznor e Atticus Ross",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6d0960656a1ae81c",
+      "publishedAt": "2026-11-03T16:31:27Z",
+      "title": "\"Ajudá-los a dar um desfecho melhor\": Johnny Depp está aberto a interpretar Jack Sparrow novamente em novo filme de Piratas do Caribe",
+      "sourceUrl": "https://br.ign.com/piratas-do-caribe/157258/ajuda-los-a-dar-um-desfecho-melhor-johnny-depp-esta-aberto-a-interpretar-jack-sparrow-novamente-em-n",
+      "originalTitle": "\"Ajudá-los a dar um desfecho melhor\": Johnny Depp está aberto a interpretar Jack Sparrow novamente em novo filme de Piratas do Caribe",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6ede5d7c251546e7",
+      "publishedAt": "2026-11-03T16:16:54Z",
+      "title": "One Piece: Primeiros spoilers do mangá 1198",
+      "sourceUrl": "https://geekdama.com.br/news/one-piece-primeiros-spoilers-do-manga-1198",
+      "originalTitle": "One Piece: Primeiros spoilers do mangá 1198",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c011013023d14539",
+      "publishedAt": "2026-11-03T16:00:00Z",
+      "title": "Haruhi Suzumiya e as comemorações do seu 20º aniversário",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/features/2026/11/3/anime-haruhi-suzumiya-exposicao-aniversario-20-anos-cobertura-fotos",
+      "originalTitle": "Haruhi Suzumiya e as comemorações do seu 20º aniversário",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4a8ab1460048ca30",
+      "publishedAt": "2026-11-03T15:33:02Z",
+      "title": "GTA 6 terá até 212 GB no PS5 e Xbox Series X|S, confirma Rockstar",
+      "sourceUrl": "https://www.techtudo.com.br/noticias/2026/11/gta-6-tera-ate-212-gb-no-ps5-e-xbox-series-xors-entenda-o-pre-carregamento-edjogos.ghtml",
+      "originalTitle": "GTA 6 terá até 212 GB no PS5 e Xbox Series X|S, confirma Rockstar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fe6a876836e31814",
+      "publishedAt": "2026-11-03T15:32:00Z",
+      "title": "Homem-Aranha: A Saga do Clone e o multiverso Aranha no Prime Video",
+      "sourceUrl": "https://www.omelete.com.br/podcasts/homem-aranha-a-saga-do-clone-e-o-multiverso-aranha-no-prime-video",
+      "originalTitle": "Homem-Aranha: A Saga do Clone e o multiverso Aranha no Prime Video",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0033d764f2993190",
+      "publishedAt": "2026-11-03T15:27:32Z",
+      "title": "Grand Theft Auto VI terá pré-carregamento em 10 de novembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/grand-theft-auto-vi-pre-carregamento",
+      "originalTitle": "Grand Theft Auto VI terá pré-carregamento em 10 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-987e7f8b05b9df59",
+      "publishedAt": "2026-11-03T15:20:10Z",
+      "title": "GTA 6 pode começar o pré-download em 10 de novembro",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-pode-comecar-o-pre-download-em-10-de-novembro",
+      "originalTitle": "GTA 6 pode começar o pré-download em 10 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-894f3134946f0c10",
+      "publishedAt": "2026-11-03T15:20:00Z",
+      "title": "Naruto | Sony firma parceria com Lionsgate para produzir live-action",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/naruto-sony-live-action",
+      "originalTitle": "Naruto | Sony firma parceria com Lionsgate para produzir live-action",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b1133b799c842d51",
+      "publishedAt": "2026-11-03T15:12:00Z",
+      "title": "O que é Sentinel? Conheça a história por trás do título oficial de The Elder Scrolls 6",
+      "sourceUrl": "https://br.ign.com/the-elder-scrolls-vi/157266/o-que-e-sentinel-conheca-a-historia-por-tras-do-titulo-oficial-de-the-elder-scrolls-6",
+      "originalTitle": "O que é Sentinel? Conheça a história por trás do título oficial de The Elder Scrolls 6",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6861f327bda76c51",
+      "publishedAt": "2026-11-03T15:11:10Z",
+      "title": "Elbaf vira tabuleiro: mangá crava tripulação de Shanks como força máxima e reposiciona One Piece",
+      "sourceUrl": "https://radiogeekbr.com.br/elbaf-revela-piratas-shanks-forca-maxima-one-piece",
+      "originalTitle": "Elbaf vira tabuleiro: mangá crava tripulação de Shanks como força máxima e reposiciona One Piece",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce33a919a1ae600d",
+      "publishedAt": "2026-11-03T15:11:10Z",
+      "title": "Saída de Evangelion do Prime Video expõe virada da gigante no mercado de anime",
+      "sourceUrl": "https://radiogeekbr.com.br/saida-evangelion-prime-video-virada-no-mercado-anime",
+      "originalTitle": "Saída de Evangelion do Prime Video expõe virada da gigante no mercado de anime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0eef3bc22b8e6778",
+      "publishedAt": "2026-11-03T15:11:10Z",
+      "title": "Sete heróis trocam de rosto em “Avengers: Doomsday” e expõem a guinada industrial da Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-recast-sete-super-herois-mudanca-marvel",
+      "originalTitle": "Sete heróis trocam de rosto em “Avengers: Doomsday” e expõem a guinada industrial da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b131becc66c07382",
+      "publishedAt": "2026-11-03T15:00:00Z",
+      "title": "Escape Academy 2: Back 2 School | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/escape-academy-2-back-2-school-review",
+      "originalTitle": "Escape Academy 2: Back 2 School | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-898b3d8b83e9edb2",
+      "publishedAt": "2026-11-03T15:00:00Z",
+      "title": "Howard, o Pato: o herói improvável que já teve até filme solo",
+      "sourceUrl": "https://www.einerd.com/howard-o-pato-quadrinhos-steve-gerber-filme",
+      "originalTitle": "Howard, o Pato: o herói improvável que já teve até filme solo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e30aaefd3025834c",
+      "publishedAt": "2026-11-03T14:38:54Z",
+      "title": "Disney abandona plano de lançar Frozen 4 logo após Frozen 3",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/disney-abandona-plano-de-lancar-frozen-4-logo-apos-frozen-3.html",
+      "originalTitle": "Disney abandona plano de lançar Frozen 4 logo após Frozen 3",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d33ce2b81ad34f3c",
+      "publishedAt": "2026-11-03T14:37:14Z",
+      "title": "Let’s Sing 2027 e Let’s Sing ABBA são lançados para consoles",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/lets-sing-2027-lets-sing-abba-lancamento",
+      "originalTitle": "Let’s Sing 2027 e Let’s Sing ABBA são lançados para consoles",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dc626a0770d19972",
+      "publishedAt": "2026-11-03T14:35:00Z",
+      "title": "2ª temporada de Samurai de Olhos Azuis confirma data de estreia em janeiro de 2027",
+      "sourceUrl": "https://br.ign.com/blue-eye-samurai/157257/2a-temporada-de-samurai-de-olhos-azuis-confirma-data-de-estreia-em-janeiro-de-2027",
+      "originalTitle": "2ª temporada de Samurai de Olhos Azuis confirma data de estreia em janeiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a491269a3e6726be",
+      "publishedAt": "2026-11-03T14:20:01Z",
+      "title": "Morre Silvio Matos, ator e dublador, aos 82 anos",
+      "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/celebridades/morre-silvio-matos-ator-e-dublador-aos-82-anos-149824",
+      "originalTitle": "Morre Silvio Matos, ator e dublador, aos 82 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8cf6e95b07912045",
+      "publishedAt": "2026-11-03T14:05:00Z",
+      "title": "Foto de The Batman Parte 2 teria revelado que vilão fará Sebastian Stan",
+      "sourceUrl": "https://mixdeseries.com.br/foto-batman-parte-2-revela-sebastian-stan-vilao",
+      "originalTitle": "Foto de The Batman Parte 2 teria revelado que vilão fará Sebastian Stan",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bbc6fc99af479334",
+      "publishedAt": "2026-11-03T14:03:00Z",
+      "title": "Panini inicia primeiras pré-vendas para 2027 em sua loja online",
+      "sourceUrl": "https://blogbbm.com/2026/11/03/panini-inicia-primeiras-pre-vendas-para-2027-em-sua-loja-online",
+      "originalTitle": "Panini inicia primeiras pré-vendas para 2027 em sua loja online",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fbd8754980d18182",
+      "publishedAt": "2026-11-03T13:59:56Z",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered já está disponível para PC e consoles",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/godzilla-destroy-all-monsters-remastered",
+      "originalTitle": "Godzilla: Destroy All Monsters Melee Remastered já está disponível para PC e consoles",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e22da26e3a15692a",
+      "publishedAt": "2026-11-03T13:49:21Z",
+      "title": "Norihiro Yagi, autor de Claymore, lança novo mangá",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/3/claymore-autor-norihiro-yagi-bartlet-fairy-basslet",
+      "originalTitle": "Norihiro Yagi, autor de Claymore, lança novo mangá",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ff39f323669412f9",
+      "publishedAt": "2026-11-03T13:33:21Z",
+      "title": "Nintendo Switch Sports Resort | Vale a pena?",
+      "sourceUrl": "https://vgbr.com/nintendo-switch-sports-resort-vale-a-pena",
+      "originalTitle": "Nintendo Switch Sports Resort | Vale a pena?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-1e2cc8b7d6cd5c3c",
       "publishedAt": "2026-11-03T11:19:37Z",
@@ -207,6 +699,30 @@
       }
     },
     {
+      "id": "radar-79be9cc4e5587c3d",
+      "publishedAt": "2026-11-03T05:56:01Z",
+      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
+      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6175b71b45d6e6b",
+      "publishedAt": "2026-11-03T03:26:02Z",
+      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
+      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-921c47d6e8719951",
       "publishedAt": "2026-11-03T03:00:00Z",
       "title": "Godzilla Minus Zero amplia traumas do primeiro filme em história maior, mais dramática e violenta",
@@ -392,6 +908,18 @@
       "title": "Vingadores: Doutor Destino | Confira novas imagens dos X-Men e mais",
       "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-novas-imagens-x-men-e-mais",
       "originalTitle": "Vingadores: Doutor Destino | Confira novas imagens dos X-Men e mais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-44b9a673694004ff",
+      "publishedAt": "2026-11-02T20:41:07Z",
+      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
+      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -591,6 +1119,18 @@
       }
     },
     {
+      "id": "radar-60d18214acb9735e",
+      "publishedAt": "2026-11-02T19:37:34Z",
+      "title": "14 jogos deixam o Xbox Game Pass em 15 de novembro",
+      "sourceUrl": "https://www.einerd.com/xbox-game-pass-14-jogos-saem-15-de-novembro",
+      "originalTitle": "14 jogos deixam o Xbox Game Pass em 15 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-54c410718be55634",
       "publishedAt": "2026-11-02T19:29:00Z",
       "title": "X-Men | Ben Wang deve viver o Homem de Gelo no MCU, diz site",
@@ -723,18 +1263,6 @@
       }
     },
     {
-      "id": "radar-60d18214acb9735e",
-      "publishedAt": "2026-11-02T16:06:03Z",
-      "title": "14 jogos deixam o Xbox Game Pass em 15 de novembro",
-      "sourceUrl": "https://www.einerd.com/xbox-game-pass-14-jogos-saem-15-de-novembro",
-      "originalTitle": "14 jogos deixam o Xbox Game Pass em 15 de novembro",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-6383d8e41b26aff2",
       "publishedAt": "2026-11-02T14:59:00Z",
       "title": "Emulador de PS3 para Android recria interface clássica do console",
@@ -752,18 +1280,6 @@
       "title": "Confira o 1º episódio COMPLETO de ‘Avatar: Os Sete Refúgios’, sequência de ‘A Lenda de Korra’",
       "sourceUrl": "https://cinepop.com.br/confira-o-1o-episodio-completo-de-avatar-os-sete-refugios-sequencia-de-a-lenda-de-korra-774694",
       "originalTitle": "Confira o 1º episódio COMPLETO de ‘Avatar: Os Sete Refúgios’, sequência de ‘A Lenda de Korra’",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f6175b71b45d6e6b",
-      "publishedAt": "2026-11-02T14:56:07Z",
-      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
-      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1208,18 +1724,6 @@
       "title": "Shiba Inu Rooms tem anime anunciado",
       "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/2/shiba-inu-rooms-anime-anuncio-julho-2027",
       "originalTitle": "Shiba Inu Rooms tem anime anunciado",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-79be9cc4e5587c3d",
-      "publishedAt": "2026-11-02T05:55:49Z",
-      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
-      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2000,18 +2504,6 @@
       "title": "Crítica | VisionQuest – 1X05 e 06: Firewall e Impasse",
       "sourceUrl": "https://www.planocritico.com/critica-visionquest-1x05-e-06-firewall-e-impasse",
       "originalTitle": "Crítica | VisionQuest – 1X05 e 06: Firewall e Impasse",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-44b9a673694004ff",
-      "publishedAt": "2026-11-01T15:25:52Z",
-      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
-      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "translated": false,
       "editorialReview": {
         "status": "native",
