@@ -1,7 +1,415 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T11:34:40.760663Z",
+  "updatedAt": "2026-11-04T18:52:06.637760Z",
   "articles": [
+    {
+      "id": "radar-1fb016288bb73ee7",
+      "publishedAt": "2026-11-04T18:32:00Z",
+      "title": "Mii-chan and Miss Yamada: anime pode ser cancelado pela Kodansha, devido polêmicas da história",
+      "sourceUrl": "https://anmtv.com.br/mii-chan-and-miss-yamada-anime-pode-ser-cancelado-pela-kodansha-devido-polemicas-da-historia",
+      "originalTitle": "Mii-chan and Miss Yamada: anime pode ser cancelado pela Kodansha, devido polêmicas da história",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5201d12c300a0ad9",
+      "publishedAt": "2026-11-04T18:23:50Z",
+      "title": "Xbox acusada de sabotar a Arkane e Marvel's Blade",
+      "sourceUrl": "https://www.eurogamer.pt/xbox-acusada-de-sabotar-a-arkane-e-marvels-blade",
+      "originalTitle": "Xbox acusada de sabotar a Arkane e Marvel's Blade",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c37625aa7d133afc",
+      "publishedAt": "2026-11-04T18:07:04Z",
+      "title": "Marvel Tōkon recebe Phoenix Cyclops e mudanças importantes no combate",
+      "sourceUrl": "https://www.comboinfinito.com.br/principal/marvel-tokon-phoenix-cyclops-atualizacao-melhorias-gameplay",
+      "originalTitle": "Marvel Tōkon recebe Phoenix Cyclops e mudanças importantes no combate",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-28fd1d8792ac314a",
+      "publishedAt": "2026-11-04T17:51:42Z",
+      "title": "Ciclo de Mangá // Fênix, de Osamu Tezuka",
+      "sourceUrl": "https://japanhousesp.com.br/evento/ciclo-de-manga-fenix-de-osamu-tezuka",
+      "originalTitle": "Ciclo de Mangá // Fênix, de Osamu Tezuka",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-39f9ff286c65ae45",
+      "publishedAt": "2026-11-04T17:26:28Z",
+      "title": "Solo Leveling: ARISE OVERDRIVE está disponível para PlayStation 5 e Xbox Series X|S",
+      "sourceUrl": "https://www.gameblast.com.br/2026/11/solo-leveling-arise-overdrive-esta-disponivel-playstation-5-xbox-series-xs.html",
+      "originalTitle": "Solo Leveling: ARISE OVERDRIVE está disponível para PlayStation 5 e Xbox Series X|S",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ade331840b7e6b8d",
+      "publishedAt": "2026-11-04T17:26:00Z",
+      "title": "Frozen 3 | Diretor da Disney Animation fala sobre vilã que enfrentará Elsa e mais detalhes do longa",
+      "sourceUrl": "https://www.omelete.com.br/filmes/frozen-3-diretor-disney-animation-vila-elsa-planos-4",
+      "originalTitle": "Frozen 3 | Diretor da Disney Animation fala sobre vilã que enfrentará Elsa e mais detalhes do longa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ff5656877440b4ad",
+      "publishedAt": "2026-11-04T17:15:00Z",
+      "title": "Que horas o remake de Zelda Ocarina of Time será lançado no Switch 2? Confira",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/que-horas-o-remake-de-zelda-ocarina-of-time-sera-lancado-no-switch-2-confira",
+      "originalTitle": "Que horas o remake de Zelda Ocarina of Time será lançado no Switch 2? Confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8a9da3b4142a616b",
+      "publishedAt": "2026-11-04T17:15:00Z",
+      "title": "LEGO divulga o novo set de Godzilla com mais de 5 mil peças!",
+      "sourceUrl": "https://www.einerd.com/lego-ideas-godzilla-21375-5363-pecas-lancamento-black-friday",
+      "originalTitle": "LEGO divulga o novo set de Godzilla com mais de 5 mil peças!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-770eebd676462dd4",
+      "publishedAt": "2026-11-04T16:51:00Z",
+      "title": "Vingadores: Doutor Destino | Channing Tatum revela universo de origem de Gambit",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-channing-tatum-origem-gambit",
+      "originalTitle": "Vingadores: Doutor Destino | Channing Tatum revela universo de origem de Gambit",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-07c237a56a932968",
+      "publishedAt": "2026-11-04T16:36:00Z",
+      "title": "Lords of War, sequência de O Senhor das Armas, ganha primeiro trailer com Nicolas Cage e Bill Skarsgård; assista",
+      "sourceUrl": "https://www.omelete.com.br/filmes/lords-of-war-senhor-das-armas-nicolas-cage-bill-skarsgard-trailer",
+      "originalTitle": "Lords of War, sequência de O Senhor das Armas, ganha primeiro trailer com Nicolas Cage e Bill Skarsgård; assista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4a86ee6c074859e8",
+      "publishedAt": "2026-11-04T16:27:00Z",
+      "title": "La Bola Negra | Longa supera público de Homem-Aranha: Um Novo Dia e bate mais recordes na Espanha",
+      "sourceUrl": "https://www.omelete.com.br/filmes/la-bola-negra-supera-bilheteria-homem-aranha-recordes-espanha",
+      "originalTitle": "La Bola Negra | Longa supera público de Homem-Aranha: Um Novo Dia e bate mais recordes na Espanha",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7f25a9b9cbd45662",
+      "publishedAt": "2026-11-04T16:21:51Z",
+      "title": "Comédia e drama são os gêneros de anime preferidos de brasileiros, segundo levantamento",
+      "sourceUrl": "https://br.ign.com/anime/157316/comedia-e-drama-sao-os-generos-de-anime-preferidos-de-brasileiros-segundo-levantamento",
+      "originalTitle": "Comédia e drama são os gêneros de anime preferidos de brasileiros, segundo levantamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cb7a12add3121989",
+      "publishedAt": "2026-11-04T16:20:38Z",
+      "title": "Samuel L. Jackson elege One Piece como o seu anime favorito",
+      "sourceUrl": "https://ovicio.com.br/samuel-l-jackson-elege-one-piece-como-o-seu-anime-favorito",
+      "originalTitle": "Samuel L. Jackson elege One Piece como o seu anime favorito",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9c347dc31b5dfbd6",
+      "publishedAt": "2026-11-04T16:10:41Z",
+      "title": "Jogamos Alien: Isolation 2 na BGS 2026 e o terror espacial impressiona pela ambientação",
+      "sourceUrl": "https://selectgame.gamehall.com.br/alien-isolation-2-primeiras-impressoes-bgs-2026",
+      "originalTitle": "Jogamos Alien: Isolation 2 na BGS 2026 e o terror espacial impressiona pela ambientação",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4d104233127b02ac",
+      "publishedAt": "2026-11-04T16:07:00Z",
+      "title": "Angry Birds 3 | Jisoo, do Blackpink, terá música na trilha sonora do filme",
+      "sourceUrl": "https://www.omelete.com.br/filmes/angry-birds-3-jisoo-musica-blackpink",
+      "originalTitle": "Angry Birds 3 | Jisoo, do Blackpink, terá música na trilha sonora do filme",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2257442e57bf420f",
+      "publishedAt": "2026-11-04T16:00:00Z",
+      "title": "Poderes do Flash podem transformar ele em vilão? Entenda",
+      "sourceUrl": "https://www.einerd.com/flash-wally-west-flashes-de-insight",
+      "originalTitle": "Poderes do Flash podem transformar ele em vilão? Entenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cd79f3483af23122",
+      "publishedAt": "2026-11-04T15:33:25Z",
+      "title": "\"Estou chorando como nunca chorei na vida\": The Walking Dead The Telltale Definitive Series está por menos de R$ 15 no Steam — mas por tempo limitado",
+      "sourceUrl": "https://br.ign.com/the-walking-dead-the-telltale-definitive-series/157312/estou-chorando-como-nunca-chorei-na-vida-the-walking-dead-the-telltale-definitive-series-esta-por-me",
+      "originalTitle": "\"Estou chorando como nunca chorei na vida\": The Walking Dead The Telltale Definitive Series está por menos de R$ 15 no Steam — mas por tempo limitado",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f32e55c14d41997d",
+      "publishedAt": "2026-11-04T15:20:00Z",
+      "title": "Nárnia: O Sobrinho do Mago | Liam Neeson reage a Meryl Streep como Aslan na versão de Greta Gerwig",
+      "sourceUrl": "https://www.omelete.com.br/filmes/narnia-o-sobrinho-do-mago-liam-neeson-meryl-streep-greta-gerwig",
+      "originalTitle": "Nárnia: O Sobrinho do Mago | Liam Neeson reage a Meryl Streep como Aslan na versão de Greta Gerwig",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce645a6794c8a3c9",
+      "publishedAt": "2026-11-04T15:15:00Z",
+      "title": "GOTY? Remake de Zelda Ocarina of Time estreia no Metacritic com nota mais alta de 2026",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/goty-remake-de-zelda-ocarina-of-time-estreia-no-metacritic-com-nota-mais-alta-de-2026",
+      "originalTitle": "GOTY? Remake de Zelda Ocarina of Time estreia no Metacritic com nota mais alta de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-43b6fc0e4ed3243c",
+      "publishedAt": "2026-11-04T15:06:00Z",
+      "title": "Tinto Brass, diretor de Calígula e Salão Kitty, morre aos 93 anos; leia",
+      "sourceUrl": "https://www.omelete.com.br/filmes/tinto-brass-diretor-caligula-morre-93-anos",
+      "originalTitle": "Tinto Brass, diretor de Calígula e Salão Kitty, morre aos 93 anos; leia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5d085f290f579463",
+      "publishedAt": "2026-11-04T15:00:00Z",
+      "title": "Antes de Blade, Wesley Snipes foi vilão de Demolidor? Entenda",
+      "sourceUrl": "https://www.einerd.com/demolidor-wesley-snipes-stallone",
+      "originalTitle": "Antes de Blade, Wesley Snipes foi vilão de Demolidor? Entenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ca4b4d74003f7c0e",
+      "publishedAt": "2026-11-04T14:57:00Z",
+      "title": "A Morte Não Tem Dono usa o horror gótico para falar de destino social",
+      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/a-morte-nao-tem-dono-critica-filme",
+      "originalTitle": "A Morte Não Tem Dono usa o horror gótico para falar de destino social",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-788dff4936af69a2",
+      "publishedAt": "2026-11-04T14:51:00Z",
+      "title": "O Nascimento de Cristo: ZERO D.C., do mesmo diretor de Som da Liberdade, ganha novo trailer e data de lançamento",
+      "sourceUrl": "https://www.omelete.com.br/filmes/o-nascimento-de-cristo-zero-dc-data-trailer-novo",
+      "originalTitle": "O Nascimento de Cristo: ZERO D.C., do mesmo diretor de Som da Liberdade, ganha novo trailer e data de lançamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f0f70c2358961ad7",
+      "publishedAt": "2026-11-04T14:39:00Z",
+      "title": "Marta, cinebiografia da maior jogadora do futebol feminino, revela primeiro teaser com Alice Carvalho; assista",
+      "sourceUrl": "https://www.omelete.com.br/filmes/marta-cinebiografia-futebol-feminino-trailer-teaser-alice-carvalho",
+      "originalTitle": "Marta, cinebiografia da maior jogadora do futebol feminino, revela primeiro teaser com Alice Carvalho; assista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2a24c3ea8e667909",
+      "publishedAt": "2026-11-04T14:25:00Z",
+      "title": "Pokémon Pokopia: Parte 2 da DLC chega em 9 de dezembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/pokemon-pokopia-dlc-parte-2-data",
+      "originalTitle": "Pokémon Pokopia: Parte 2 da DLC chega em 9 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7d78c1deac7e253b",
+      "publishedAt": "2026-11-04T13:45:00Z",
+      "title": "Demo de Inquisitor Shepherd, game lovecraftiano de mistério, chega ao Steam em novembro com dublagem em japonês",
+      "sourceUrl": "https://arkade.com.br/demo-de-inquisitor-shepherd-game-lovecraftiano-de-misterio-chega-ao-steam-em-novembro-com-dublagem-em-japones",
+      "originalTitle": "Demo de Inquisitor Shepherd, game lovecraftiano de mistério, chega ao Steam em novembro com dublagem em japonês",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2bc9f12028b70a3d",
+      "publishedAt": "2026-11-04T13:30:23Z",
+      "title": "PROCEDURE ZERO será lançado para PC em 12 de novembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/procedure-zero-lancamento-pc",
+      "originalTitle": "PROCEDURE ZERO será lançado para PC em 12 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ee1960e4c98c9241",
+      "publishedAt": "2026-11-04T13:27:50Z",
+      "title": "ROG Xbox Ally X20 chega ao Brasil por R$ 15.999",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/rog-xbox-ally-x20-preco-brasil",
+      "originalTitle": "ROG Xbox Ally X20 chega ao Brasil por R$ 15.999",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dd567cb34df67d22",
+      "publishedAt": "2026-11-04T13:00:00Z",
+      "title": "Cara-de-Barro: a teoria mais popular sobre o filme da DC",
+      "sourceUrl": "https://www.einerd.com/cara-de-barro-teoria-hagen-corr",
+      "originalTitle": "Cara-de-Barro: a teoria mais popular sobre o filme da DC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6ff2fe47fdd825b",
+      "publishedAt": "2026-11-04T12:36:45.417000Z",
+      "title": "Console Archives: Elevator Action chega ao Switch 2 em 5 de novembro",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/console-archives-elevator-action-chega-switch2-5-novembro.html",
+      "originalTitle": "Console Archives: Elevator Action chega ao Switch 2 em 5 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce07fadf13c6b4b0",
+      "publishedAt": "2026-11-04T12:35:41Z",
+      "title": "Macronix, principal fabricantes de memórias para a Nintendo, encerra fabricação de chips ROM para cartuchos do Switch e Switch 2",
+      "sourceUrl": "https://arkade.com.br/macronix-principal-fabricantes-de-memorias-para-a-nintendo-encerra-fabricacao-de-chips-rom-para-cartuchos-do-switch-e-switch-2",
+      "originalTitle": "Macronix, principal fabricantes de memórias para a Nintendo, encerra fabricação de chips ROM para cartuchos do Switch e Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9a4117828990ba4d",
+      "publishedAt": "2026-11-04T12:26:15Z",
+      "title": "Sony antecipa estreia internacional de Beyond the Spider-Verse e lança recado velado a Hollywood",
+      "sourceUrl": "https://radiogeekbr.com.br/sony-antecipa-beyond-the-spider-verse-estreia-internacional",
+      "originalTitle": "Sony antecipa estreia internacional de Beyond the Spider-Verse e lança recado velado a Hollywood",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d1535f518734dd07",
+      "publishedAt": "2026-11-04T12:03:44Z",
+      "title": "RUMOR: Personagens de ‘Pacificador’ podem aparecer em ‘The People v. Gorilla Grodd’, série derivada de ‘Superman’",
+      "sourceUrl": "https://cinepop.com.br/rumor-personagens-de-pacificador-podem-aparecer-em-the-people-v-gorilla-grodd-serie-derivada-de-superman-774870",
+      "originalTitle": "RUMOR: Personagens de ‘Pacificador’ podem aparecer em ‘The People v. Gorilla Grodd’, série derivada de ‘Superman’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-15c8af29e40065f5",
+      "publishedAt": "2026-11-04T11:34:32Z",
+      "title": "Xbox enfiou uma Xbox Series X num jacaré gigante",
+      "sourceUrl": "https://www.eurogamer.pt/xbox-enfiou-uma-xbox-series-x-num-jacare-gigante",
+      "originalTitle": "Xbox enfiou uma Xbox Series X num jacaré gigante",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-8fc252658200ee85",
       "publishedAt": "2026-11-04T11:30:44Z",
@@ -51,11 +459,35 @@
       }
     },
     {
+      "id": "radar-4839eb37e5ab2ebf",
+      "publishedAt": "2026-11-04T10:57:40Z",
+      "title": "The Legend of Zelda Ocarina of Time Remake é versão definitiva de um clássico quase impecável",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/remake-de-ocarina-of-time-se-torna-a-versao-definitiva-de-um-classico-quase-impecavel",
+      "originalTitle": "The Legend of Zelda Ocarina of Time Remake é versão definitiva de um clássico quase impecável",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-d71b76c2aa9bb533",
       "publishedAt": "2026-11-04T10:56:32Z",
       "title": "Saint Seiya: Next Dimension – Conheça os 12 Cavaleiros de Ouro do século XVIII",
       "sourceUrl": "https://criticalhits.com.br/anime/saint-seiya-next-dimension-conheca-os-12-cavaleiros-de-ouro-do-seculo-xviii",
       "originalTitle": "Saint Seiya: Next Dimension – Conheça os 12 Cavaleiros de Ouro do século XVIII",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-974f3a9b43dae74d",
+      "publishedAt": "2026-11-04T10:48:55Z",
+      "title": "GTA 6 já soma US$ 750 milhões em pré-vendas",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-ja-soma-us-750-milhoes-em-pre-vendas",
+      "originalTitle": "GTA 6 já soma US$ 750 milhões em pré-vendas",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -327,6 +759,18 @@
       }
     },
     {
+      "id": "radar-d1258cebb1f7fa42",
+      "publishedAt": "2026-11-04T02:37:03Z",
+      "title": "Bomba!, mangá de Osamu Tezuka, é anunciado pela Veneta",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/4/bomba-manga-anuncio-veneta",
+      "originalTitle": "Bomba!, mangá de Osamu Tezuka, é anunciado pela Veneta",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-9db2c993c0b6fc38",
       "publishedAt": "2026-11-04T02:26:37Z",
       "title": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
@@ -435,6 +879,18 @@
       }
     },
     {
+      "id": "radar-507ce2e9b527473d",
+      "publishedAt": "2026-11-04T00:49:00Z",
+      "title": "A Idade Dourada, Cidade de Deus e mais: todas as estreias da HBO Max em novembro de 2026",
+      "sourceUrl": "https://br.ign.com/hbo-max/157301/a-idade-dourada-cidade-de-deus-e-mais-todas-as-estreias-da-hbo-max-em-novembro-de-2026",
+      "originalTitle": "A Idade Dourada, Cidade de Deus e mais: todas as estreias da HBO Max em novembro de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-22fb14543f82fd72",
       "publishedAt": "2026-11-04T00:42:00Z",
       "title": "Vingadores: Doutor Destino | Nova imagem promocional mostra Boris e as Bruxas da Latvéria; veja",
@@ -519,11 +975,35 @@
       }
     },
     {
+      "id": "radar-ad8ba580a12bd7f2",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "title": "The Legend of Zelda: as 10 melhores músicas de Ocarina of Time",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-top-10-melhores-musicas.html",
+      "originalTitle": "The Legend of Zelda: as 10 melhores músicas de Ocarina of Time",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-9c6822cb4110bf0e",
       "publishedAt": "2026-11-03T23:15:00Z",
       "title": "Eglantine: Emulador de Nintendo Switch 2 evolui no PC e consegue rodar Mario Kart World a 60 FPS",
       "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/eglantine-emulador-de-nintendo-switch-2-evolui-no-pc-e-consegue-rodar-mario-kart-world-a-60-fps",
       "originalTitle": "Eglantine: Emulador de Nintendo Switch 2 evolui no PC e consegue rodar Mario Kart World a 60 FPS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-be0edff62b58d21a",
+      "publishedAt": "2026-11-03T23:05:00Z",
+      "title": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-mais-13-jogos-no-inicio-de-novembro-confira-a-lista",
+      "originalTitle": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -656,6 +1136,18 @@
       "title": "Eu sou o Rocky terá sessões especiais antecipadas; veja quando",
       "sourceUrl": "https://www.omelete.com.br/filmes/eu-sou-o-rocky-tera-sessoes-especiais-antecipadas-veja-quanto",
       "originalTitle": "Eu sou o Rocky terá sessões especiais antecipadas; veja quando",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0a0a49d428f81075",
+      "publishedAt": "2026-11-03T21:34:46Z",
+      "title": "Godzilla Destroy All Monsters Melee Remastered recebe versão de Switch e DLC de lançamento",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/godzilla-destroy-all-monsters-melee-remastered-recebe-versao-de-switch-e-dlc-de-lancamento.html",
+      "originalTitle": "Godzilla Destroy All Monsters Melee Remastered recebe versão de Switch e DLC de lançamento",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2600,18 +3092,6 @@
       "title": "Os 5 melhores vilões de Gundam",
       "sourceUrl": "https://criticalhits.com.br/anime/os-5-melhores-viloes-de-gundam",
       "originalTitle": "Os 5 melhores vilões de Gundam",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9a4117828990ba4d",
-      "publishedAt": "2026-11-02T07:56:10Z",
-      "title": "Sony antecipa estreia internacional de Beyond the Spider-Verse e lança recado velado a Hollywood",
-      "sourceUrl": "https://radiogeekbr.com.br/sony-antecipa-beyond-the-spider-verse-estreia-internacional",
-      "originalTitle": "Sony antecipa estreia internacional de Beyond the Spider-Verse e lança recado velado a Hollywood",
       "translated": false,
       "editorialReview": {
         "status": "native",

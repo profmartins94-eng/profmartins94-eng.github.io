@@ -1,27 +1,419 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T11:34:40.760663Z",
+  "updatedAt": "2026-11-04T18:52:06.637760Z",
   "articles": [
     {
-      "id": "radar-8fc252658200ee85",
-      "title": "Operação na Flórida prende 281 pessoas por tráfico e abuso infantil; 17 são funcionários da Disney e da Universal",
-      "excerpt": "Uma grande operação policial na Flórida terminou com 281 pessoas presas.",
+      "id": "radar-1fb016288bb73ee7",
+      "title": "Mii-chan and Miss Yamada: anime pode ser cancelado pela Kodansha, devido polêmicas da história",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em ANMTV – Anime, Mangá e TV. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T18:32:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "ANMTV – Anime, Mangá e TV",
+      "sourceUrl": "https://anmtv.com.br/mii-chan-and-miss-yamada-anime-pode-ser-cancelado-pela-kodansha-devido-polemicas-da-historia",
+      "image": "https://i0.wp.com/anmtv.com.br/wp-content/uploads/2026/11/mii-chan-miss-yamada-4-1-1.jpg?fit=600%2C300&ssl=1",
+      "alt": "Imagem publicada por ANMTV – Anime, Mangá e TV",
+      "imageCredit": "Imagem: ANMTV – Anime, Mangá e TV",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Mii-chan and Miss Yamada: anime pode ser cancelado pela Kodansha, devido polêmicas da história",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5201d12c300a0ad9",
+      "title": "Xbox acusada de sabotar a Arkane e Marvel's Blade",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Eurogamer.pt. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T18:23:50Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Eurogamer.pt",
+      "sourceUrl": "https://www.eurogamer.pt/xbox-acusada-de-sabotar-a-arkane-e-marvels-blade",
+      "image": "https://assetsio.gnwcdn.com/Blade_6cp0mNY.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "alt": "Imagem publicada por Eurogamer.pt",
+      "imageCredit": "Imagem: Eurogamer.pt",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Xbox acusada de sabotar a Arkane e Marvel's Blade",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c37625aa7d133afc",
+      "title": "Marvel Tōkon recebe Phoenix Cyclops e mudanças importantes no combate",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Combo Infinito. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T18:07:04Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Combo Infinito",
+      "sourceUrl": "https://www.comboinfinito.com.br/principal/marvel-tokon-phoenix-cyclops-atualizacao-melhorias-gameplay",
+      "image": "https://www.comboinfinito.com.br/principal/wp-content/uploads/2026/10/Marvel-Tokon-Phoenix-Cyclops-1200x628.jpg",
+      "alt": "Imagem publicada por Combo Infinito",
+      "imageCredit": "Imagem: Combo Infinito",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel Tōkon recebe Phoenix Cyclops e mudanças importantes no combate",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-28fd1d8792ac314a",
+      "title": "Ciclo de Mangá // Fênix, de Osamu Tezuka",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Japan House São Paulo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T17:51:42Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Japan House São Paulo",
+      "sourceUrl": "https://japanhousesp.com.br/evento/ciclo-de-manga-fenix-de-osamu-tezuka",
+      "image": "https://japanhousesp.com.br/wp-content/uploads/scw_webpify/2026/11/JHSP-ARTE-CICLODEMANDA-NOV-Thumb-02.webp",
+      "alt": "Imagem publicada por Japan House São Paulo",
+      "imageCredit": "Imagem: Japan House São Paulo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Ciclo de Mangá // Fênix, de Osamu Tezuka",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-39f9ff286c65ae45",
+      "title": "Solo Leveling: ARISE OVERDRIVE está disponível para PlayStation 5 e Xbox Series X|S",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em GameBlast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T17:26:28Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "GameBlast",
+      "sourceUrl": "https://www.gameblast.com.br/2026/11/solo-leveling-arise-overdrive-esta-disponivel-playstation-5-xbox-series-xs.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdmZxqFi3WVL3hIO_DiENHmEQLpj9rzpfvPQaP_cTBDGdOSPN2VrxsaKPBVVBpcT_nyHXE4oi2rA_OpC8t5VL0T7KRhUiuEx2j9j0I5qeUNZHtiUIgeQRRiSVv09mHw6DHChJ-7WVDxmkFBBpCRl5IX9K5p8fLjJBuKBe30mPMDPbi9vpLIeTg-CFtnBkF/w1200-h630-p-k-no-nu/SololevelingAOblast2.png",
+      "alt": "Imagem publicada por GameBlast",
+      "imageCredit": "Imagem: GameBlast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Solo Leveling: ARISE OVERDRIVE está disponível para PlayStation 5 e Xbox Series X|S",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ade331840b7e6b8d",
+      "title": "Frozen 3 | Diretor da Disney Animation fala sobre vilã que enfrentará Elsa e mais detalhes do longa",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T17:26:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/frozen-3-diretor-disney-animation-vila-elsa-planos-4",
+      "image": "https://cdn.ome.lt/Qx0FzDn0hXxUVb0krD1LyE5O-Ok=/1200x630/smart/filters:format(webp)/extras/conteudos/frozen3_o0ahUjX.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Frozen 3 | Diretor da Disney Animation fala sobre vilã que enfrentará Elsa e mais detalhes do longa",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ff5656877440b4ad",
+      "title": "Que horas o remake de Zelda Ocarina of Time será lançado no Switch 2? Confira",
+      "excerpt": "Finalmente chegamos em novembro, o mês mais aguardado do ano pela indústria de games.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T17:15:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/que-horas-o-remake-de-zelda-ocarina-of-time-sera-lancado-no-switch-2-confira",
+      "image": "https://www.estadao.com.br/resizer/v2/UJL7WMJ44ZDLDNWUXZ3CJ2OYLQ.jpg?quality=80&auth=964126845243acf4dcb7b325f552ac32fdb128cf01ac62b37038670b876eebfd&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Que horas o remake de Zelda Ocarina of Time será lançado no Switch 2? Confira",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8a9da3b4142a616b",
+      "title": "LEGO divulga o novo set de Godzilla com mais de 5 mil peças!",
+      "excerpt": "O Rei dos Monstros agora é de tijolinhos, e do tamanho de um adulto sentado!",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "colecionaveis",
+      "categoryName": "Colecionáveis",
+      "publishedAt": "2026-11-04T17:15:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/lego-ideas-godzilla-21375-5363-pecas-lancamento-black-friday",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Capa-Site-2026-11-03T233303.356.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "LEGO divulga o novo set de Godzilla com mais de 5 mil peças!",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-770eebd676462dd4",
+      "title": "Vingadores: Doutor Destino | Channing Tatum revela universo de origem de Gambit",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T16:51:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-channing-tatum-origem-gambit",
+      "image": "https://cdn.ome.lt/yWA49yjLLWfwT1IXCzG_plVooEE=/1200x630/smart/filters:format(webp)/extras/conteudos/gambit2.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino | Channing Tatum revela universo de origem de Gambit",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-07c237a56a932968",
+      "title": "Lords of War, sequência de O Senhor das Armas, ganha primeiro trailer com Nicolas Cage e Bill Skarsgård; assista",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T16:36:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/lords-of-war-senhor-das-armas-nicolas-cage-bill-skarsgard-trailer",
+      "image": "https://cdn.ome.lt/hjPRXk7F5mN_-ks-q7WR5c6-sa0=/1200x630/smart/filters:format(webp)/extras/conteudos/nicolas_gdttS7b.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Lords of War, sequência de O Senhor das Armas, ganha primeiro trailer com Nicolas Cage e Bill Skarsgård; assista",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4a86ee6c074859e8",
+      "title": "La Bola Negra | Longa supera público de Homem-Aranha: Um Novo Dia e bate mais recordes na Espanha",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T16:27:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/la-bola-negra-supera-bilheteria-homem-aranha-recordes-espanha",
+      "image": "https://cdn.ome.lt/AKcrBG3f_wZmrvR8gdgfCyOJYr8=/1200x630/smart/filters:format(webp)/extras/conteudos/La-Bola-Negra_WmLxI1J.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "La Bola Negra | Longa supera público de Homem-Aranha: Um Novo Dia e bate mais recordes na Espanha",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7f25a9b9cbd45662",
+      "title": "Comédia e drama são os gêneros de anime preferidos de brasileiros, segundo levantamento",
+      "excerpt": "A plataforma brasileira ANIQuim é responsável pela pesquisa Entre os diversos gêneros de anime, os preferidos dos brasileiros são comédia e drama.",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T16:21:51Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/anime/157316/comedia-e-drama-sao-os-generos-de-anime-preferidos-de-brasileiros-segundo-levantamento",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/sf_cbqd.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Comédia e drama são os gêneros de anime preferidos de brasileiros, segundo levantamento",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cb7a12add3121989",
+      "title": "Samuel L. Jackson elege One Piece como o seu anime favorito",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em O Vício. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T16:20:38Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "O Vício",
+      "sourceUrl": "https://ovicio.com.br/samuel-l-jackson-elege-one-piece-como-o-seu-anime-favorito",
+      "image": "https://ovicio.com.br/wp-content/uploads/2026/11/20261104-luffy-e-samuel-l-jackson-ovicio.webp",
+      "alt": "Imagem publicada por O Vício",
+      "imageCredit": "Imagem: O Vício",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Samuel L. Jackson elege One Piece como o seu anime favorito",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9c347dc31b5dfbd6",
+      "title": "Jogamos Alien: Isolation 2 na BGS 2026 e o terror espacial impressiona pela ambientação",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Select Game. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T16:10:41Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Select Game",
+      "sourceUrl": "https://selectgame.gamehall.com.br/alien-isolation-2-primeiras-impressoes-bgs-2026",
+      "image": "https://cdn.selectgame.net/wp-content/uploads/2026/11/stand-sega-bgs26-alien-isolation.webp",
+      "alt": "Imagem publicada por Select Game",
+      "imageCredit": "Imagem: Select Game",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Jogamos Alien: Isolation 2 na BGS 2026 e o terror espacial impressiona pela ambientação",
+      "tags": [
+        "evento"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4d104233127b02ac",
+      "title": "Angry Birds 3 | Jisoo, do Blackpink, terá música na trilha sonora do filme",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T16:07:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/angry-birds-3-jisoo-musica-blackpink",
+      "image": "https://cdn.ome.lt/fWpFcygzUQn6X0ufcb9EWXxd8r8=/1200x630/smart/filters:format(webp)/extras/conteudos/1793805823908626.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Angry Birds 3 | Jisoo, do Blackpink, terá música na trilha sonora do filme",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2257442e57bf420f",
+      "title": "Poderes do Flash podem transformar ele em vilão? Entenda",
+      "excerpt": "",
       "body": [
         "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-04T11:30:44Z",
+      "publishedAt": "2026-11-04T16:00:00Z",
       "displayDate": "4 nov. 2026",
       "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/operacao-na-florida-prende-281-pessoas-por-trafico-e-abuso-infantil-17-sao-funcionarios-da-disney-e-da-universal",
-      "image": "https://www.einerd.com/wp-content/uploads/2024/11/Universal.jpg",
+      "sourceUrl": "https://www.einerd.com/flash-wally-west-flashes-de-insight",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/06/flash-barry-allen-dc-e1782236445922.jpg",
       "alt": "Imagem publicada por Ei Nerd",
       "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Operação na Flórida prende 281 pessoas por tráfico e abuso infantil; 17 são funcionários da Disney e da Universal",
+      "originalTitle": "Poderes do Flash podem transformar ele em vilão? Entenda",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -29,155 +421,25 @@
       }
     },
     {
-      "id": "radar-0923d952d0a877ee",
-      "title": "Um Jacaré Engoliu um XBOX Series X-Bite",
-      "excerpt": "",
+      "id": "radar-cd79f3483af23122",
+      "title": "\"Estou chorando como nunca chorei na vida\": The Walking Dead The Telltale Definitive Series está por menos de R$ 15 no Steam — mas por tempo limitado",
+      "excerpt": "Corre!",
       "body": [
-        "Confira a cobertura completa em Xboxers. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-04T11:11:56Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Xboxers",
-      "sourceUrl": "https://xboxers.com.br/um-jacare-engoliu-um-xbox-series-x-bite",
-      "image": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/Introducing_XBOX_Series_16x9_NO_TEXT-cd8b848ba743a5977563.jpg?fit=1920%2C1080&ssl=1",
-      "alt": "Imagem publicada por Xboxers",
-      "imageCredit": "Imagem: Xboxers",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Um Jacaré Engoliu um XBOX Series X-Bite",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1ec541d0ba0c8445",
-      "title": "Remake de 'Ocarina of Time' impressiona e sinaliza bom futuro para Zelda",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Correio Braziliense. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-04T11:01:00Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Correio Braziliense",
-      "sourceUrl": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/11/7532237-remake-de-ocarina-of-time-impressiona-e-sinaliza-bom-futuro-para-zelda.html",
-      "image": "https://midias.correiobraziliense.com.br/_midias/png/2026/11/03/675x450/1_review-68127470.png",
-      "alt": "Imagem publicada por Correio Braziliense",
-      "imageCredit": "Imagem: Correio Braziliense",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Remake de 'Ocarina of Time' impressiona e sinaliza bom futuro para Zelda",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-60f443d3d5be5688",
-      "title": "5 técnicas de anime que rivalizam com o poder de Magna em Black Clover",
-      "excerpt": "A técnica Soul Chain Deathmatch, usada por Magna Swing em Black Clover, transforma confrontos contra inimigos muito mais poderosos em disputas de estratégia e resistência.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T11:00:41Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/5-tecnicas-de-anime-que-rivalizam-com-o-poder-de-magna-em-black-clover",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/5-tecnicas-de-anime-que-rivalizam-com-o-poder-de-magna-em-black-clover-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "5 técnicas de anime que rivalizam com o poder de Magna em Black Clover",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d71b76c2aa9bb533",
-      "title": "Saint Seiya: Next Dimension – Conheça os 12 Cavaleiros de Ouro do século XVIII",
-      "excerpt": "Saint Seiya: Next Dimension apresenta uma geração diferente de Cavaleiros de Ouro, responsáveis por proteger Atena durante a Guerra Santa contra Hades no século XVIII.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T10:56:32Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/saint-seiya-next-dimension-conheca-os-12-cavaleiros-de-ouro-do-seculo-xviii",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2021/04/odisseu-cavaleiro-de-ouro-de-serpentario-1504802673690_v2_1442x1059.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Saint Seiya: Next Dimension – Conheça os 12 Cavaleiros de Ouro do século XVIII",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-63ba985f740886f0",
-      "title": "One Piece revela segredos que mudam o rumo da saga final",
-      "excerpt": "Atenção: este texto contém spoilers do mangá de One Piece.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T10:46:27Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/one-piece-revela-segredos-que-mudam-o-rumo-da-saga-final",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/one-piece-revela-segredos-que-mudam-o-rumo-da-saga-final-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "One Piece revela segredos que mudam o rumo da saga final",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-583bc0481f5513dd",
-      "title": "As 10 inteligências artificiais mais poderosas da Marvel",
-      "excerpt": "A Marvel criou algumas das inteligências artificiais mais perigosas e avançadas dos quadrinhos.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T10:42:08Z",
+      "publishedAt": "2026-11-04T15:33:25Z",
       "displayDate": "4 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/as-10-inteligencias-artificiais-mais-poderosas-da-marvel",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/imagem-colada-8520b123-a682-49a1-ac31-34c405119750.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/the-walking-dead-the-telltale-definitive-series/157312/estou-chorando-como-nunca-chorei-na-vida-the-walking-dead-the-telltale-definitive-series-esta-por-me",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/blob_yjq5.png",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "As 10 inteligências artificiais mais poderosas da Marvel",
+      "originalTitle": "\"Estou chorando como nunca chorei na vida\": The Walking Dead The Telltale Definitive Series está por menos de R$ 15 no Steam — mas por tempo limitado",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -185,25 +447,25 @@
       }
     },
     {
-      "id": "radar-443bc57a033aa2b4",
-      "title": "Naruto: Filme live-action ganha novidades e tem previsão para começar as gravações em 2027",
+      "id": "radar-f32e55c14d41997d",
+      "title": "Nárnia: O Sobrinho do Mago | Liam Neeson reage a Meryl Streep como Aslan na versão de Greta Gerwig",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T10:41:14Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-04T15:20:00Z",
       "displayDate": "4 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/naruto-filme-live-action-ganha-novidades-e-tem-previsao-para-comecar-as-gravacoes-em-2027.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_XKSfhZaFWOws-scaled.jpeg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/narnia-o-sobrinho-do-mago-liam-neeson-meryl-streep-greta-gerwig",
+      "image": "https://cdn.ome.lt/Jv6OiMP470csGrqyRUXfvKd_n8Q=/1200x630/smart/filters:format(webp)/extras/conteudos/aslan_2.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Naruto: Filme live-action ganha novidades e tem previsão para começar as gravações em 2027",
+      "originalTitle": "Nárnia: O Sobrinho do Mago | Liam Neeson reage a Meryl Streep como Aslan na versão de Greta Gerwig",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -211,25 +473,81 @@
       }
     },
     {
-      "id": "radar-98dddbfa70da71fa",
-      "title": "‘Aeroporto: Área Restrita’: 8ª temporada estreia no Discovery e na HBO Max em 11 de novembro",
-      "excerpt": "Uma das franquias de maior sucesso da TV paga brasileira está de volta.",
+      "id": "radar-ce645a6794c8a3c9",
+      "title": "GOTY? Remake de Zelda Ocarina of Time estreia no Metacritic com nota mais alta de 2026",
+      "excerpt": "Falta pouco para o grande lançamento do remake de The Legend of Zelda: Ocarina of Time , que chega ao Nintendo Switch 2 nesta quinta-feira (5).",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T15:15:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/goty-remake-de-zelda-ocarina-of-time-estreia-no-metacritic-com-nota-mais-alta-de-2026",
+      "image": "https://www.estadao.com.br/resizer/v2/BJMIHDYERBCXJHIHJAUKAIMFX4.jpeg?quality=80&auth=f4d94fcc0af8ac44b3fde7140d97492466b770df98a300c952976b6c8e48614b&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "GOTY? Remake de Zelda Ocarina of Time estreia no Metacritic com nota mais alta de 2026",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-43b6fc0e4ed3243c",
+      "title": "Tinto Brass, diretor de Calígula e Salão Kitty, morre aos 93 anos; leia",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-04T15:06:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/tinto-brass-diretor-caligula-morre-93-anos",
+      "image": "https://cdn.ome.lt/UFAVeHWJ2nAuBk2FCOebH37G72g=/1200x630/smart/filters:format(webp)/extras/conteudos/tinto_brass.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Tinto Brass, diretor de Calígula e Salão Kitty, morre aos 93 anos; leia",
+      "tags": [
+        "luto"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5d085f290f579463",
+      "title": "Antes de Blade, Wesley Snipes foi vilão de Demolidor? Entenda",
+      "excerpt": "",
       "body": [
         "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T10:30:30Z",
+      "publishedAt": "2026-11-04T15:00:00Z",
       "displayDate": "4 nov. 2026",
       "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/aeroporto-area-restrita-8a-temporada-estreia-no-discovery-e-na-hbo-max-em-11-de-novembro",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Aeroporto-1.png",
+      "sourceUrl": "https://www.einerd.com/demolidor-wesley-snipes-stallone",
+      "image": "https://www.einerd.com/wp-content/uploads/2024/10/Blade-2-e1786393544568.jpg",
       "alt": "Imagem publicada por Ei Nerd",
       "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "‘Aeroporto: Área Restrita’: 8ª temporada estreia no Discovery e na HBO Max em 11 de novembro",
+      "originalTitle": "Antes de Blade, Wesley Snipes foi vilão de Demolidor? Entenda",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -237,25 +555,389 @@
       }
     },
     {
-      "id": "radar-77cf1383bd406ba9",
-      "title": "Dragon Ball Gekishin Squadra adia reformulação para março de 2027 em meio à queda de jogadores",
-      "excerpt": "O jogo perdeu grande parte do público no Steam e prepara mudanças profundas no combate para atrair novos jogadores.",
+      "id": "radar-ca4b4d74003f7c0e",
+      "title": "A Morte Não Tem Dono usa o horror gótico para falar de destino social",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T10:20:00Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-04T14:57:00Z",
       "displayDate": "4 nov. 2026",
-      "sourceName": "GameVicio",
-      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/dragon-ball-gekishin-squadra-atualizacao-2027",
-      "image": "https://www.gamevicio.com/wp-content/uploads/2026/11/dragon-ball-gekishin-squadra-adia-atualizacao-2027.jpg",
-      "alt": "Imagem publicada por GameVicio",
-      "imageCredit": "Imagem: GameVicio",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/a-morte-nao-tem-dono-critica-filme",
+      "image": "https://cdn.ome.lt/KvxjSEdlKDMoXoW8aQpjoASQCOM=/1200x630/smart/filters:format(webp)/extras/conteudos/morte.jfif",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Dragon Ball Gekishin Squadra adia reformulação para março de 2027 em meio à queda de jogadores",
+      "originalTitle": "A Morte Não Tem Dono usa o horror gótico para falar de destino social",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-788dff4936af69a2",
+      "title": "O Nascimento de Cristo: ZERO D.C., do mesmo diretor de Som da Liberdade, ganha novo trailer e data de lançamento",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T14:51:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/o-nascimento-de-cristo-zero-dc-data-trailer-novo",
+      "image": "https://cdn.ome.lt/yI544GTMbH86IDqFzX-_vTp3-oI=/1200x630/smart/filters:format(webp)/extras/conteudos/THE_NEW_EVE_D27_20241016_548.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "O Nascimento de Cristo: ZERO D.C., do mesmo diretor de Som da Liberdade, ganha novo trailer e data de lançamento",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f0f70c2358961ad7",
+      "title": "Marta, cinebiografia da maior jogadora do futebol feminino, revela primeiro teaser com Alice Carvalho; assista",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-04T14:39:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/marta-cinebiografia-futebol-feminino-trailer-teaser-alice-carvalho",
+      "image": "https://cdn.ome.lt/v1IayCQ8JkEd0qzoGiyHVajcv1M=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura-de-Tela-2026-11-04-at-11.34.48.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marta, cinebiografia da maior jogadora do futebol feminino, revela primeiro teaser com Alice Carvalho; assista",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2a24c3ea8e667909",
+      "title": "Pokémon Pokopia: Parte 2 da DLC chega em 9 de dezembro",
+      "excerpt": "A The Pokémon Company anunciou nesta quarta-feira, 4, que a Parte 2 do passe de expansão pago de Pokémon Pokopia , intitulada Dazzling Decorations , será lançada em 9 de dezembro de 2026 para Nintendo Switch 2.",
+      "body": [
+        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T14:25:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Pizza Fria",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/pokemon-pokopia-dlc-parte-2-data",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiiVchwp2LDx21_nPJXq5DN6_QGUnGEKim8HqsSVvu68F3SoXyte1UB1PZbzCK6DGzbyUmQ8kpqj8U5tYRo3JcU9lnYS1hjOhtrSP4DCl9SAgnuXgV_Zkc-1ME3bwlWMjTVLyJwVJ1yDH45xdLMiWV2pEW7kYrgg_bWaONZCDboMF8x0Ka4CdCyEosH9Ig=s72-c",
+      "alt": "Imagem publicada por Pizza Fria",
+      "imageCredit": "Imagem: Pizza Fria",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Pokémon Pokopia: Parte 2 da DLC chega em 9 de dezembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7d78c1deac7e253b",
+      "title": "Demo de Inquisitor Shepherd, game lovecraftiano de mistério, chega ao Steam em novembro com dublagem em japonês",
+      "excerpt": "O estúdio coreano NarrowDeep anunciou em 4 de novembro de 2026 que a visual novel Inquisitor Shepherd terá demo no Steam no dia 11 de novembro, com dublagem em japonês.",
+      "body": [
+        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T13:45:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Arkade",
+      "sourceUrl": "https://arkade.com.br/demo-de-inquisitor-shepherd-game-lovecraftiano-de-misterio-chega-ao-steam-em-novembro-com-dublagem-em-japones",
+      "image": "https://arkade.com.br/wp-content/uploads/2026/11/IMG_4412.webp",
+      "alt": "Imagem publicada por Arkade",
+      "imageCredit": "Imagem: Arkade",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Demo de Inquisitor Shepherd, game lovecraftiano de mistério, chega ao Steam em novembro com dublagem em japonês",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2bc9f12028b70a3d",
+      "title": "PROCEDURE ZERO será lançado para PC em 12 de novembro",
+      "excerpt": "A DELANIVO GAMES anunciou nesta quarta-feira, 4, que PROCEDURE ZERO será lançado em 12 de novembro para PC, via Steam.",
+      "body": [
+        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T13:30:23Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Pizza Fria",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/procedure-zero-lancamento-pc",
+      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/procedure-zero-key-art-main-1232x706-1.jpg",
+      "alt": "Imagem publicada por Pizza Fria",
+      "imageCredit": "Imagem: Pizza Fria",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "PROCEDURE ZERO será lançado para PC em 12 de novembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ee1960e4c98c9241",
+      "title": "ROG Xbox Ally X20 chega ao Brasil por R$ 15.999",
+      "excerpt": "A ASUS anunciou nesta quarta-feira, 4, a chegada do ROG Xbox Ally X20 ao Brasil.",
+      "body": [
+        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T13:27:50Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Pizza Fria",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/rog-xbox-ally-x20-preco-brasil",
+      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/ASUS-ROG-XBOX-Ally-20-anos-1024x576.jpg",
+      "alt": "Imagem publicada por Pizza Fria",
+      "imageCredit": "Imagem: Pizza Fria",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "ROG Xbox Ally X20 chega ao Brasil por R$ 15.999",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dd567cb34df67d22",
+      "title": "Cara-de-Barro: a teoria mais popular sobre o filme da DC",
+      "excerpt": "Uma teoria sobre o romance de Matt Hagen e Dra.",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T13:00:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/cara-de-barro-teoria-hagen-corr",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/CLAYFACE.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Cara-de-Barro: a teoria mais popular sobre o filme da DC",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6ff2fe47fdd825b",
+      "title": "Console Archives: Elevator Action chega ao Switch 2 em 5 de novembro",
+      "excerpt": "Console Archives: Elevator Action será lançado no Nintendo Switch 2 em 5 de novembro.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T12:36:45.417000Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/console-archives-elevator-action-chega-switch2-5-novembro.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnrtRWDUUdMm43ds-Dh9NjxUwJnFc5FrVE8YtQe8DdL2LdiJh-oWd_CIe6bHsvgW9fECf9gWnEGYFDr6juvxkmYRo7mMdW8gS4DuSgDzuZKExuhPuFmUbPPVAZb71hIZg3BEDXND1HDx1OTUkuAjfuPv7j4uZiXLShZPPcdXz-7ldfUlVQDRJy_xR3SdA/s72-w640-h360-c/Console-Archives-Elevator-Action-Ann_11-04-26-1024x576.jpg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Console Archives: Elevator Action chega ao Switch 2 em 5 de novembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce07fadf13c6b4b0",
+      "title": "Macronix, principal fabricantes de memórias para a Nintendo, encerra fabricação de chips ROM para cartuchos do Switch e Switch 2",
+      "excerpt": "A Macronix, principal fabricante de chips de memória ROM usados nos cartuchos de jogos do Nintendo Switch e do Nintendo Switch 2, está abandonando essa linha de negócio.",
+      "body": [
+        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T12:35:41Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Arkade",
+      "sourceUrl": "https://arkade.com.br/macronix-principal-fabricantes-de-memorias-para-a-nintendo-encerra-fabricacao-de-chips-rom-para-cartuchos-do-switch-e-switch-2",
+      "image": "https://arkade.com.br/wp-content/uploads/2026/11/Capa-Materias-3.webp",
+      "alt": "Imagem publicada por Arkade",
+      "imageCredit": "Imagem: Arkade",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Macronix, principal fabricantes de memórias para a Nintendo, encerra fabricação de chips ROM para cartuchos do Switch e Switch 2",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9a4117828990ba4d",
+      "title": "Sony antecipa estreia internacional de Beyond the Spider-Verse e lança recado velado a Hollywood",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T12:26:15Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/sony-antecipa-beyond-the-spider-verse-estreia-internacional",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792719671.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Sony antecipa estreia internacional de Beyond the Spider-Verse e lança recado velado a Hollywood",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d1535f518734dd07",
+      "title": "RUMOR: Personagens de ‘Pacificador’ podem aparecer em ‘The People v. Gorilla Grodd’, série derivada de ‘Superman’",
+      "excerpt": "‘The People v.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T12:03:44Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/rumor-personagens-de-pacificador-podem-aparecer-em-the-people-v-gorilla-grodd-serie-derivada-de-superman-774870",
+      "image": "https://cinepop.com.br/wp-content/uploads/pacificador_temporada_1-1024x683.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "RUMOR: Personagens de ‘Pacificador’ podem aparecer em ‘The People v. Gorilla Grodd’, série derivada de ‘Superman’",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-15c8af29e40065f5",
+      "title": "Xbox enfiou uma Xbox Series X num jacaré gigante",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Eurogamer.pt. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T11:34:32Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Eurogamer.pt",
+      "sourceUrl": "https://www.eurogamer.pt/xbox-enfiou-uma-xbox-series-x-num-jacare-gigante",
+      "image": "https://assetsio.gnwcdn.com/XBOX_Series_Details_Eye-ad394b64c37d3a09ed93.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "alt": "Imagem publicada por Eurogamer.pt",
+      "imageCredit": "Imagem: Eurogamer.pt",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Xbox enfiou uma Xbox Series X num jacaré gigante",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4839eb37e5ab2ebf",
+      "title": "The Legend of Zelda Ocarina of Time Remake é versão definitiva de um clássico quase impecável",
+      "excerpt": "The Legend of Zelda: Ocarina of Time é um daqueles raros jogos que carrega um enorme peso em seu nome.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T10:57:40Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/remake-de-ocarina-of-time-se-torna-a-versao-definitiva-de-um-classico-quase-impecavel",
+      "image": "https://www.estadao.com.br/resizer/v2/DS2FMOQ6GJBM5K6QDXX27XASIU.jpg?quality=80&auth=f8e6774f258917903457ee1b334f24fd30e16d58d98b1c2ab0bca66a877fd5cd&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "The Legend of Zelda Ocarina of Time Remake é versão definitiva de um clássico quase impecável",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-974f3a9b43dae74d",
+      "title": "GTA 6 já soma US$ 750 milhões em pré-vendas",
+      "excerpt": "GTA 6 já ultrapassou a marca de 750 milhões de dólares em receita estimada com pré-vendas, pouco mais de duas semanas antes do lançamento.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T10:48:55Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-ja-soma-us-750-milhoes-em-pre-vendas",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/gta-6-ja-soma-us-750-milhoes-em-pre-vendas-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "GTA 6 já soma US$ 750 milhões em pré-vendas",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -289,389 +971,25 @@
       }
     },
     {
-      "id": "radar-70e0c8d7502b42f5",
-      "title": "Judi Dench diz que Daniel Craig sugeriu a morte de M em 007",
-      "excerpt": "Judi Dench revelou que a morte de M em 007: Operação Skyfall, lançado em 2012, foi uma ideia de Daniel Craig.",
+      "id": "radar-d1258cebb1f7fa42",
+      "title": "Bomba!, mangá de Osamu Tezuka, é anunciado pela Veneta",
+      "excerpt": "Obra chega ao Brasil em 2027.",
       "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-04T10:16:43Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/judi-dench-diz-que-daniel-craig-sugeriu-a-morte-de-m-em-007",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/judi-dench-diz-que-daniel-craig-sugeriu-a-morte-de-m-em-007-featured.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Judi Dench diz que Daniel Craig sugeriu a morte de M em 007",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-69f50b0792722850",
-      "title": "Criador de Black Clover lança arte inédita após fim do mangá",
-      "excerpt": "Yuki Tabata voltou a desenhar Black Clover após o encerramento do mangá, apresentando uma ilustração inédita criada especialmente para o novo livro de arte digital da franquia.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-04T10:15:52Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/criador-de-black-clover-lanca-arte-inedita-apos-fim-do-manga",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/criador-de-black-clover-lanca-arte-inedita-apos-fim-do-manga-featured.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Criador de Black Clover lança arte inédita após fim do mangá",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1639c6733a724b6c",
-      "title": "Owen Wilson explica por que Pryce é seu pior inimigo em Stick;",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-04T10:00:00Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/stick-owen-wilson-explica-pryce-pior-inimigo",
-      "image": "https://cdn.ome.lt/B1wAFv_6ZL_YiGyhu6GUsb9jUUk=/1200x630/smart/filters:format(webp)/extras/conteudos/stick_vZgzB0K.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Owen Wilson explica por que Pryce é seu pior inimigo em Stick;",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c66716ba8492ca5a",
-      "title": "Shin Min-a: “Assim como a Imperatriz, também tenho que esconder certas emoções do público”",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-04T09:00:00Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/korea/a-imperatriz-se-casou-novamente-entrevista-shin-min-a-dorama",
-      "image": "https://cdn.ome.lt/TU88IXQUDjcpGI7l1OFI9qUKWcA=/1200x630/smart/filters:format(webp)/extras/conteudos/The-Remarried-Empress2026-Disney-and-its-related-entities.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Shin Min-a: “Assim como a Imperatriz, também tenho que esconder certas emoções do público”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7cfce0576ffb90fe",
-      "title": "VisionQuest: quando estreia o último episódio da série da Marvel",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Agora Litoral. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T08:26:15Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Agora Litoral",
-      "sourceUrl": "https://agoralitoral.com.br/2026/11/04/visionquest-quando-estreia-o-ultimo-episodio-da-serie-da-marvel",
-      "image": "https://agoralitoral.com.br/wp-content/uploads/2026/11/quando-estreia-o-8o-e-ultimo-episodio-de-visionquest-novo-spin-off-de-wandavision-1793780687.jpg",
-      "alt": "Imagem publicada por Agora Litoral",
-      "imageCredit": "Imagem: Agora Litoral",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "VisionQuest: quando estreia o último episódio da série da Marvel",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6861f327bda76c51",
-      "title": "Elbaf vira tabuleiro: mangá crava tripulação de Shanks como força máxima e reposiciona One Piece",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T08:25:54Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/elbaf-revela-piratas-shanks-forca-maxima-one-piece",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1784896764.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Elbaf vira tabuleiro: mangá crava tripulação de Shanks como força máxima e reposiciona One Piece",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-480d6d6accfcd991",
-      "title": "Marvel transforma trailer de brinquedos em porta-voz oficial dos X-Men dentro de Avengers: Doomsday",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "colecionaveis",
-      "categoryName": "Colecionáveis",
-      "publishedAt": "2026-11-04T08:25:54Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-trailer-brinquedos-x-men-avengers-doomsday",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789685723.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel transforma trailer de brinquedos em porta-voz oficial dos X-Men dentro de Avengers: Doomsday",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-cc27e1fdb8ca1178",
-      "title": "Black Panther 3 aposta no núcleo original de Wakanda para liderar a virada política do MCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T08:25:54Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/black-panther-3-aposta-nucleo-original-wakanda",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1785298185.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Black Panther 3 aposta no núcleo original de Wakanda para liderar a virada política do MCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6bb4c3fc5ddf1ee6",
-      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T08:25:54Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793724082.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-834458912c5d853e",
-      "title": "Marvel usa a bissexualidade de Tommy Maximoff para chacoalhar regras antigas – e ela não é a única cartada em VisionQuest",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T07:55:55Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-bissexualidade-tommy-maximoff-visionquest-cartada",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791350772.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel usa a bissexualidade de Tommy Maximoff para chacoalhar regras antigas – e ela não é a única cartada em VisionQuest",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3b52e16662855ab4",
-      "title": "De Gojo a Sephiroth: A dublagem japonesa de 'Vingadores: Doomsday' está repleta de estrelas",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Hypebeast. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T07:53:13Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Hypebeast",
-      "sourceUrl": "https://hypebeast.com/pt/2026/11/marvel-avengers-doomsday-japanese-dub-cast-anime-voice-actors-toshiyuki-morikawa-doctor-doom-announcement",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbr.hypebeast.com%2Ffiles%2F2026%2F11%2Fmarvel-avengers-doomsday-japanese-dub-cast-anime-voice-actors-toshiyuki-morikawa-doctor-doom-announcement-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-      "alt": "Imagem publicada por Hypebeast",
-      "imageCredit": "Imagem: Hypebeast",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "De Gojo a Sephiroth: A dublagem japonesa de 'Vingadores: Doomsday' está repleta de estrelas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6aefa46ba785d7fd",
-      "title": "Sinestro assume o posto de próximo vilão de Superman e escancara a tática de costura do novo DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T07:11:21Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/sinestro-proximo-vilao-de-superman-e-tatica-de-costura-do-novo-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793768210.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sinestro assume o posto de próximo vilão de Superman e escancara a tática de costura do novo DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-8c473fb7a0405d6b",
-      "title": "Tempestade em órbita: a rejeição precoce a Hal Jordan obscurece o verdadeiro risco de “Lanterns”",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T07:11:21Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/rejeicao-precoce-hal-jordan-obscurece-risco-de-lanterns",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793727689.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Tempestade em órbita: a rejeição precoce a Hal Jordan obscurece o verdadeiro risco de “Lanterns”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3264f829fea16734",
-      "title": "Falha de comunicação entre “Lanterns” e “Superman 2” acende alerta no novo DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T07:11:21Z",
-      "displayDate": "4 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/falha-comunicacao-lanterns-superman-2-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793546756.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Falha de comunicação entre “Lanterns” e “Superman 2” acende alerta no novo DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-572949cc5e6db113",
-      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T22:41:09Z",
+      "publishedAt": "2026-11-04T02:37:03Z",
       "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791174413.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/4/bomba-manga-anuncio-veneta",
+      "image": "https://a.storyblok.com/f/178900/1024x731/0fd384192b/bomba.jpg",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "originalTitle": "Bomba!, mangá de Osamu Tezuka, é anunciado pela Veneta",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -679,25 +997,131 @@
       }
     },
     {
-      "id": "radar-73a0930bb39ca06a",
-      "title": "Xbox cria console em formato de jacaré às vésperas de GTA 6 e provoca a Sony",
-      "excerpt": "",
+      "id": "radar-e498f157d3336129",
+      "title": "Criador de Claymore lança novo mangá de fantasia",
+      "excerpt": "O mangaká Norihiro Yagi, conhecido por Claymore, iniciou uma nova série intitulada BARTLET FAIRY BASSLET.",
       "body": [
-        "Confira a cobertura completa em Game Overdrive. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T01:49:12Z",
+      "displayDate": "3 nov. 2026",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/bartlet-fairy-basslet-novo-manga-norihiro-yagi",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Criador-de-Claymore-lanca-novo-manga.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Criador de Claymore lança novo mangá de fantasia",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-507ce2e9b527473d",
+      "title": "A Idade Dourada, Cidade de Deus e mais: todas as estreias da HBO Max em novembro de 2026",
+      "excerpt": "Confira a lista completa das obras que chegam à plataforma de streaming",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T00:49:00Z",
+      "displayDate": "3 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/hbo-max/157301/a-idade-dourada-cidade-de-deus-e-mais-todas-as-estreias-da-hbo-max-em-novembro-de-2026",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/blob_mhpn.png",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "A Idade Dourada, Cidade de Deus e mais: todas as estreias da HBO Max em novembro de 2026",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ad8ba580a12bd7f2",
+      "title": "The Legend of Zelda: as 10 melhores músicas de Ocarina of Time",
+      "excerpt": "Poucos jogos conseguem permanecer tão vivos na memória quanto The Legend of Zelda: Ocarina of Time .",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-03T20:51:52Z",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "displayDate": "3 nov. 2026",
-      "sourceName": "Game Overdrive",
-      "sourceUrl": "https://gameoverdrive.com.br/xbox-series-x-bite-jacare-gta-6-sony",
-      "image": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/xbox-cria-console-em-formato-de-jacare-as-vesperas-de-gta-6-4-1600x900.webp",
-      "alt": "Imagem publicada por Game Overdrive",
-      "imageCredit": "Imagem: Game Overdrive",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-top-10-melhores-musicas.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-t8xjYtPHYMDinQqJH6lSAVRFEuz8AUGpVw1d5CAy816hVMb1-Vxrah4HkQc-QHjKXjtA6fsW0N3daPbDbv52jdLFs5OuMfURua7yDbQQNP2HnoHnaVdXaf6obmOf-ZFulQn_o3Wj1GtC_A6-icu5jdnCfoFMkBF8QGrqx6I0QDaYwV8ERBBUpESJIo0/s72-w640-h360-c/image.jpeg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Xbox cria console em formato de jacaré às vésperas de GTA 6 e provoca a Sony",
+      "originalTitle": "The Legend of Zelda: as 10 melhores músicas de Ocarina of Time",
+      "tags": [
+        "escalacao"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-be0edff62b58d21a",
+      "title": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
+      "excerpt": "O catálogo do Xbox Game Pass continua recebendo grandes novidades — e ficará ainda maior em novembro.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-03T23:05:00Z",
+      "displayDate": "3 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-mais-13-jogos-no-inicio-de-novembro-confira-a-lista",
+      "image": "https://www.estadao.com.br/resizer/v2/D4LL5CD2AVOERP534YDKTVLNNY.jpg?quality=80&auth=35a858451c11584863a10e92263c82cdb2698cf65c1395a9366b45796b81710e&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0a0a49d428f81075",
+      "title": "Godzilla Destroy All Monsters Melee Remastered recebe versão de Switch e DLC de lançamento",
+      "excerpt": "Pegando todos de surpresa, a Atari e a Pipework Studios anunciaram a versão de Switch original para Godzilla Destroy All Monsters Melee Remastered , com o mesmo valor da versão de Switch 2 (R$ 76,95).",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-03T21:34:46Z",
+      "displayDate": "3 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/godzilla-destroy-all-monsters-melee-remastered-recebe-versao-de-switch-e-dlc-de-lancamento.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEdhYjuIt9IL6NGtr6aOc8atmteC5Wtlz9lcvI5pk9kyxay0qH4L6j6LD6o_2tyugKAPx4MaHxLOaGBJAJkA1XYgEq6uCypmo2uua52nFwQlqjoqhv4DGeiLliexX7RrTTOtGB3Vhw-5uAXPvZqf00tFoMI9279Kd-N0ufWx3OlTflSaM-bWDy47nutYgn/s72-w640-h360-c/image.png",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Godzilla Destroy All Monsters Melee Remastered recebe versão de Switch e DLC de lançamento",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -727,426 +1151,6 @@
       "tags": [
         "luto"
       ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-858f222d24d01525",
-      "title": "Dupla Dinâmica | Peter Safran elogia Mason Thames como Dick Grayson: \"Ele queria muito\"",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T18:23:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/dupla-dinamica-peter-safran-mason-thames-dick-grayson",
-      "image": "https://cdn.ome.lt/QqjTL4c5SZoYBVpFkafpIO2N8sg=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-11-03_152125.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Dupla Dinâmica | Peter Safran elogia Mason Thames como Dick Grayson: \"Ele queria muito\"",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-17bea45e318cb68b",
-      "title": "Chegando ao XBOX Game Pass: Warhammer Survivors, Escape Academy 2: Back 2 School, Thronefall e mais",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Xbox Wire Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-03T18:00:09Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Xbox Wire Brasil",
-      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/03/xbox-game-pass-novembro-2026-wave-1",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/XGP_ComingSoon031126_16x9_PT-BR-b3afc3bf38a76c887395.jpg",
-      "alt": "Imagem publicada por Xbox Wire Brasil",
-      "imageCredit": "Imagem: Xbox Wire Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Chegando ao XBOX Game Pass: Warhammer Survivors, Escape Academy 2: Back 2 School, Thronefall e mais",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5deb0296e0388188",
-      "title": "Black Clover conquista o episódio de anime mais bem avaliado de 2026 no IMDb com nota 9,9",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em soulsgamer.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-03T18:00:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "soulsgamer.com.br",
-      "sourceUrl": "https://soulsgamer.com.br/noticias/black-clover-conquista-o-episodio-de-anime-mais-bem-avaliado-de-2026-no-imdb-com-nota-9-9",
-      "image": "https://soulsgamer.com.br/imagens/img_6aea215916e20.webp",
-      "alt": "Imagem publicada por soulsgamer.com.br",
-      "imageCredit": "Imagem: soulsgamer.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Black Clover conquista o episódio de anime mais bem avaliado de 2026 no IMDb com nota 9,9",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b1c4c93c021aa5b8",
-      "title": "Catálogo “sem defeitos” do Adult Swim vira peça-chave na próxima disputa de direitos de anime",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-03T17:41:25Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/catalogo-sem-defeitos-adult-swim-disputa-direitos-anime",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791213093.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Catálogo “sem defeitos” do Adult Swim vira peça-chave na próxima disputa de direitos de anime",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-154ad1a3bc6bf2a1",
-      "title": "Novo dub de Banana Fish chega à Netflix e sepulta a era da dublagem por IA",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-03T16:41:18Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/banana-fish-dublagem-ingles-netflix-agosto",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1783902923.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo dub de Banana Fish chega à Netflix e sepulta a era da dublagem por IA",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6d0960656a1ae81c",
-      "title": "\"Ajudá-los a dar um desfecho melhor\": Johnny Depp está aberto a interpretar Jack Sparrow novamente em novo filme de Piratas do Caribe",
-      "excerpt": "Ainda não se sabe se o personagem retornará, mas Deep parece estar mais interessado na ideia do que antes",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T16:31:27Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/piratas-do-caribe/157258/ajuda-los-a-dar-um-desfecho-melhor-johnny-depp-esta-aberto-a-interpretar-jack-sparrow-novamente-em-n",
-      "image": "https://sm.ign.com/ign_br/news/j/johnny-dep/johnny-depp-is-open-to-playing-jack-sparrow-again-in-a-new-p_grfm.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "\"Ajudá-los a dar um desfecho melhor\": Johnny Depp está aberto a interpretar Jack Sparrow novamente em novo filme de Piratas do Caribe",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0033d764f2993190",
-      "title": "Grand Theft Auto VI terá pré-carregamento em 10 de novembro",
-      "excerpt": "A Rockstar Games anunciou nesta terça-feira, 3, que o pré-carregamento digital de Grand Theft Auto VI começará em 10 de novembro para PlayStation 5 e Xbox Series X|S, com horários diferentes entre as plataformas.",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-03T15:27:32Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/grand-theft-auto-vi-pre-carregamento",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/06/Grand-Theft-Auto-VI-playstation-5-1024x576.webp",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Grand Theft Auto VI terá pré-carregamento em 10 de novembro",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-65805484956d4d67",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T15:11:10Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792571177.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6cbe728b0479e74c",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T15:11:10Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792028499.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a1e44b11ba1c734c",
-      "title": "The Legend of Zelda: Ocarina of Time Artwork",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-03T14:40:25Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157239/the-legend-of-zelda-ocarina-of-time-artwork",
-      "image": "https://sm.ign.com/ign_br/gallery/t/the-legend/the-legend-of-zelda-ocarina-of-time-artwork_fpbn.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The Legend of Zelda: Ocarina of Time Artwork",
-      "tags": [
-        "escalacao"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e30aaefd3025834c",
-      "title": "Disney abandona plano de lançar Frozen 4 logo após Frozen 3",
-      "excerpt": "As irmãs de Arendelle terão uma aventura com desfecho próprio A Disney deixou de lado o plano de lançar Frozen 4 logo depois de Frozen 3.",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-03T14:38:54Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/disney-abandona-plano-de-lancar-frozen-4-logo-apos-frozen-3.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_i6yoYQ0N8mq4.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Disney abandona plano de lançar Frozen 4 logo após Frozen 3",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a491269a3e6726be",
-      "title": "Morre Silvio Matos, ator e dublador, aos 82 anos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Notícias da TV. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-03T14:20:01Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Notícias da TV",
-      "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/celebridades/morre-silvio-matos-ator-e-dublador-aos-82-anos-149824",
-      "image": "https://noticiasdatv.uol.com.br/media/uploads/artigos_2024/silvio_matos_.jpg",
-      "alt": "Imagem publicada por Notícias da TV",
-      "imageCredit": "Imagem: Notícias da TV",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Morre Silvio Matos, ator e dublador, aos 82 anos",
-      "tags": [
-        "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-8cf6e95b07912045",
-      "title": "Foto de The Batman Parte 2 teria revelado que vilão fará Sebastian Stan",
-      "excerpt": "Detalhe escondido em foto pode revelar papel de Sebastian Stan em The Batman 2",
-      "body": [
-        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T14:05:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Mix de Séries",
-      "sourceUrl": "https://mixdeseries.com.br/foto-batman-parte-2-revela-sebastian-stan-vilao",
-      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/11/vilao-batman-parte-2.webp",
-      "alt": "Imagem publicada por Mix de Séries",
-      "imageCredit": "Imagem: Mix de Séries",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Foto de The Batman Parte 2 teria revelado que vilão fará Sebastian Stan",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-bbc6fc99af479334",
-      "title": "Panini inicia primeiras pré-vendas para 2027 em sua loja online",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Biblioteca Brasileira de Mangás. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-03T14:03:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Biblioteca Brasileira de Mangás",
-      "sourceUrl": "https://blogbbm.com/2026/11/03/panini-inicia-primeiras-pre-vendas-para-2027-em-sua-loja-online",
-      "image": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2026/11/fgfddfgdfgdfg.jpg?fit=1200%2C450&ssl=1",
-      "alt": "Imagem publicada por Biblioteca Brasileira de Mangás",
-      "imageCredit": "Imagem: Biblioteca Brasileira de Mangás",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Panini inicia primeiras pré-vendas para 2027 em sua loja online",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-fbd8754980d18182",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered já está disponível para PC e consoles",
-      "excerpt": "A Atari anunciou nesta terça-feira, 3, que Godzilla: Destroy All Monsters Melee Remastered já está disponível para PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2 e PC, via Steam.",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-03T13:59:20Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/godzilla-destroy-all-monsters-remastered",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/06/image-4-22.jpg",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Godzilla: Destroy All Monsters Melee Remastered já está disponível para PC e consoles",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e22da26e3a15692a",
-      "title": "Norihiro Yagi, autor de Claymore, lança novo mangá",
-      "excerpt": "Intitulado Bartlet Fairy Basslet, o mangá está disponível para ler no MANGA Plus",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-03T13:49:21Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/3/claymore-autor-norihiro-yagi-bartlet-fairy-basslet",
-      "image": "https://a.storyblok.com/f/178900/960x540/cd56127c96/bartlet-fairy-basslet.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Norihiro Yagi, autor de Claymore, lança novo mangá",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
