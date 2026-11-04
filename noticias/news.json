@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T03:20:28.406250Z",
+  "updatedAt": "2026-11-04T11:34:40.760663Z",
   "articles": [
     {
-      "id": "radar-84c1fcc3578b1c97",
-      "title": "Homem-Aranha: Um Novo Dia ganha data para estreia nas plataformas digitais, confira",
-      "excerpt": "",
+      "id": "radar-8fc252658200ee85",
+      "title": "Operação na Flórida prende 281 pessoas por tráfico e abuso infantil; 17 são funcionários da Disney e da Universal",
+      "excerpt": "Uma grande operação policial na Flórida terminou com 281 pessoas presas.",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T03:09:35Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-04T11:30:44Z",
       "displayDate": "4 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/homem-aranha-um-novo-dia-onde-assistir",
-      "image": "https://cdn.ome.lt/I5AJt-NugBEhG_KS1Sly9x-bN_w=/1200x630/smart/filters:format(webp)/extras/conteudos/homem-aranha-um-novo-dia-poster_Sm35THo.jpg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/operacao-na-florida-prende-281-pessoas-por-trafico-e-abuso-infantil-17-sao-funcionarios-da-disney-e-da-universal",
+      "image": "https://www.einerd.com/wp-content/uploads/2024/11/Universal.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Homem-Aranha: Um Novo Dia ganha data para estreia nas plataformas digitais, confira",
+      "originalTitle": "Operação na Flórida prende 281 pessoas por tráfico e abuso infantil; 17 são funcionários da Disney e da Universal",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -29,469 +29,25 @@
       }
     },
     {
-      "id": "radar-b4f8dcda761f7915",
-      "title": "BOMBA!: Editora Veneta publicará mais um mangá de Osamu Tezuka",
+      "id": "radar-0923d952d0a877ee",
+      "title": "Um Jacaré Engoliu um XBOX Series X-Bite",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Biblioteca Brasileira de Mangás. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T02:37:03Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Biblioteca Brasileira de Mangás",
-      "sourceUrl": "https://blogbbm.com/2026/11/03/bomba-editora-veneta-publicara-mais-um-manga-de-osamu-tezuka",
-      "image": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2026/11/bomba.jpg?fit=800%2C300&ssl=1",
-      "alt": "Imagem publicada por Biblioteca Brasileira de Mangás",
-      "imageCredit": "Imagem: Biblioteca Brasileira de Mangás",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "BOMBA!: Editora Veneta publicará mais um mangá de Osamu Tezuka",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-df8f7eebaea0deec",
-      "title": "Supermágicos do anime: como magos imbatíveis tomaram o trono da fantasia televisiva",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T02:26:37Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/supermagicos-anime-magos-imbativeis",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793663821.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Supermágicos do anime: como magos imbatíveis tomaram o trono da fantasia televisiva",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9db2c993c0b6fc38",
-      "title": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T02:26:37Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-posteres-nostalgia-upgrades-poder",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793696166.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-26b1088940388c4e",
-      "title": "Sete veteranos de antes do MCU voltam em “Avengers: Doomsday” e revelam a aposta de nostalgia que decide o futuro da Marvel",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T02:26:37Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/veteranos-pre-mcu-avengers-doomsday-nostalgia-marvel",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793655720.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sete veteranos de antes do MCU voltam em “Avengers: Doomsday” e revelam a aposta de nostalgia que decide o futuro da Marvel",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b9d6e06c7b2a9977",
-      "title": "Como migrar um site WordPress para a Hostinger: veja o passo a passo",
-      "excerpt": "Veja como fazer uma migração assistida, os plugins necessários e os cuidados que se deve ter para testar o site e configurar domínio e e-mail",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-04T02:08:14Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/tech/157295/como-migrar-um-site-wordpress-para-a-hostinger-veja-o-passo-a-passo",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/00-migracao-wordpress-capa-1280x720_w641.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Como migrar um site WordPress para a Hostinger: veja o passo a passo",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7762dc636f0ce92e",
-      "title": "Tudo É Justo | Cauã Reymond surge sem camisa em cena com Glenn Close e Kim Kardashian; veja",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-04T02:05:40Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/tudo-e-justo-caua-reymond-surge-sem-camisa-cena-glenn-close-kim-kardashian",
-      "image": "https://cdn.ome.lt/DDO4suy8SXQUCPFSetXEfjAF86k=/1200x630/smart/filters:format(webp)/extras/conteudos/caua-reymond-em-tudo-e-justo.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Tudo É Justo | Cauã Reymond surge sem camisa em cena com Glenn Close e Kim Kardashian; veja",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d1e9724c97f70f35",
-      "title": "Anunciado anime de The Bloodthirsty Bride Devours the King para 2027",
-      "excerpt": "O mangá The Bloodthirsty Bride Devours the King (Chi ni Ueta Hanayome wa Ō o Kurau) ganhará uma adaptação em anime para TV em 2027.",
-      "body": [
-        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T01:58:47Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "AnimeNew",
-      "sourceUrl": "https://animenew.com.br/the-bloodthirsty-bride-devours-the-king-anime",
-      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Anunciado-anime-de-The-Bloodthirsty-Bride-Devours-the-King-para-2027.webp",
-      "alt": "Imagem publicada por AnimeNew",
-      "imageCredit": "Imagem: AnimeNew",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Anunciado anime de The Bloodthirsty Bride Devours the King para 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e498f157d3336129",
-      "title": "Criador de Claymore lança novo mangá de fantasia",
-      "excerpt": "O mangaká Norihiro Yagi, conhecido por Claymore, iniciou uma nova série intitulada BARTLET FAIRY BASSLET.",
-      "body": [
-        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T01:49:12Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "AnimeNew",
-      "sourceUrl": "https://animenew.com.br/bartlet-fairy-basslet-novo-manga-norihiro-yagi",
-      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Criador-de-Claymore-lanca-novo-manga.webp",
-      "alt": "Imagem publicada por AnimeNew",
-      "imageCredit": "Imagem: AnimeNew",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Criador de Claymore lança novo mangá de fantasia",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-22ed2ba7eb0b033e",
-      "title": "Orquestra Petrobras Sinfônica apresenta trilha de Cidade de Deus ao vivo no Rio",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-04T00:56:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/orquestra-petrobras-sinfonica-trilha-cidade-de-deus-ao-vivo-no-rio",
-      "image": "https://cdn.ome.lt/UBFzsVVYb8FgWP0myLNC13jsBMM=/1200x630/smart/filters:format(webp)/extras/conteudos/images41.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Orquestra Petrobras Sinfônica apresenta trilha de Cidade de Deus ao vivo no Rio",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2d5b823c0d8f2ae9",
-      "title": "Cidade de Deus, Estômago e mais chegam à HBO Max em novembro; veja lista",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T00:49:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/cidade-de-deus-estomago-e-mais-chegam-a-hbo-max-em-novembro-veja-lista",
-      "image": "https://cdn.ome.lt/XmFUUrIRXd8oWdROZt6PxGvGDkU=/1200x630/smart/filters:format(webp)/extras/conteudos/hbo-max-2026-1.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Cidade de Deus, Estômago e mais chegam à HBO Max em novembro; veja lista",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-22fb14543f82fd72",
-      "title": "Vingadores: Doutor Destino | Nova imagem promocional mostra Boris e as Bruxas da Latvéria; veja",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T00:42:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-nova-imagem-promocional-personagem-supostamente-cortado",
-      "image": "https://cdn.ome.lt/HkIzFrLK21NfrGUkrTEBgmri9bI=/1200x630/smart/filters:format(webp)/extras/conteudos/New_AVENGERS-_DOOMSDAY_Posters_P.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino | Nova imagem promocional mostra Boris e as Bruxas da Latvéria; veja",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3cb482f76ce4b2a0",
-      "title": "Estrela dos anos 1980 diz que filme da Marvel com cena íntima infame rendeu 'muito dinheiro' apesar de críticas e fracasso de bilheteria",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Globo. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T00:32:15Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Globo",
-      "sourceUrl": "https://revistamonet.globo.com/google/amp/filmes/noticia/2026/11/estrela-dos-anos-1980-diz-que-filme-da-marvel-com-cena-intima-infame-rendeu-muito-dinheiro-apesar-de-criticas-e-fracasso-de-bilheteria.ghtml",
-      "image": "https://s2-monet.glbimg.com/hjqGSQGzHb9aD4wiESRfBzsdO24=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e7c91519bbbb4fadb4e509085746275d/internal_photos/bs/2026/3/M/qeeM0jRUCgwgH8tYfBHA/abre-monet-1980-x-1080-2026-11-03t204648.757.png",
-      "alt": "Imagem publicada por Globo",
-      "imageCredit": "Imagem: Globo",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Estrela dos anos 1980 diz que filme da Marvel com cena íntima infame rendeu 'muito dinheiro' apesar de críticas e fracasso de bilheteria",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-694b4f819a2ce235",
-      "title": "Mangá Seraph of the End é finalizado e encerra sua publicação em 4 de dezembro",
-      "excerpt": "O mangá Seraph of the End: Vampire Reign, criado por Takaya Kagami, Yamato Yamamoto e Daisuke Furuya, terminará na próxima edição da revista Jump SQ.",
-      "body": [
-        "Confira a cobertura completa em Anime United. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T00:28:55Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Anime United",
-      "sourceUrl": "https://www.animeunited.com.br/noticias/manga-seraph-of-the-end-e-finalizado-e-encerra-sua-publicacao-em-4-de-dezembro",
-      "image": "https://www.animeunited.com.br/wp-content/uploads/2026/11/image-16-1024x576.png",
-      "alt": "Imagem publicada por Anime United",
-      "imageCredit": "Imagem: Anime United",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Mangá Seraph of the End é finalizado e encerra sua publicação em 4 de dezembro",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9ece1a22ea5ec50a",
-      "title": "Marvel Zodiac: orçamento menor e foco em novos fãs",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T00:26:38Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "culpadolag.com.br",
-      "sourceUrl": "https://culpadolag.com.br/marvel-zodiac-orcamento-menor-e-foco-em-novos-fas",
-      "image": "https://culpadolag.com.br/storage/posts/c4c89579-9afb-476d-a793-c88a67200e90.webp",
-      "alt": "Imagem publicada por culpadolag.com.br",
-      "imageCredit": "Imagem: culpadolag.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel Zodiac: orçamento menor e foco em novos fãs",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1b4c06ef0c957d88",
-      "title": "Netflix lança aba de descoberta com IA para encontrar conteúdos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-04T00:26:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/netflix-lanca-aba-de-descoberta-com-ia-para-encontrar-conteudos",
-      "image": "https://cdn.ome.lt/pg2peVB3G5U_C6391zfsgYea-Dg=/1200x630/smart/filters:format(webp)/extras/conteudos/images40.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Netflix lança aba de descoberta com IA para encontrar conteúdos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0856ad186265d2c2",
-      "title": "Quatro episódios são isca: novo anime de Naruto prepara virada definitiva da franquia",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-04T00:25:53Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/novo-anime-naruto-virada-franquia",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1790295968.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Quatro episódios são isca: novo anime de Naruto prepara virada definitiva da franquia",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-620bbbb1b59530f4",
-      "title": "Frutas Proibidas mina significado de um universo visto como vazio",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-04T00:08:06Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/frutas-proibidas-filme-critica",
-      "image": "https://cdn.ome.lt/4Pz63wPjL4v3WRNVkWpKqnI6rpA=/1200x630/smart/filters:format(webp)/extras/conteudos/frutas_proibidas.jpg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Frutas Proibidas mina significado de um universo visto como vazio",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9c6822cb4110bf0e",
-      "title": "Eglantine: Emulador de Nintendo Switch 2 evolui no PC e consegue rodar Mario Kart World a 60 FPS",
-      "excerpt": "A cena de emulação de videogames segue avançando cada vez mais rápido — e o Nintendo Switch 2 já começou a aparecer nesse contexto.",
-      "body": [
-        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Xboxers. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-03T23:15:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "TecMundo",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/eglantine-emulador-de-nintendo-switch-2-evolui-no-pc-e-consegue-rodar-mario-kart-world-a-60-fps",
-      "image": "https://www.estadao.com.br/resizer/v2/VLKAFWQAEJCFRGDKXAKGWMFXIM.jpg?quality=80&auth=3c083d946063b085236796cc5c7976cf511b0c704e78a5802af37763d3093931&width=710",
-      "alt": "Imagem publicada por TecMundo",
-      "imageCredit": "Imagem: TecMundo",
+      "publishedAt": "2026-11-04T11:11:56Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Xboxers",
+      "sourceUrl": "https://xboxers.com.br/um-jacare-engoliu-um-xbox-series-x-bite",
+      "image": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/Introducing_XBOX_Series_16x9_NO_TEXT-cd8b848ba743a5977563.jpg?fit=1920%2C1080&ssl=1",
+      "alt": "Imagem publicada por Xboxers",
+      "imageCredit": "Imagem: Xboxers",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Eglantine: Emulador de Nintendo Switch 2 evolui no PC e consegue rodar Mario Kart World a 60 FPS",
+      "originalTitle": "Um Jacaré Engoliu um XBOX Series X-Bite",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -499,25 +55,597 @@
       }
     },
     {
-      "id": "radar-9d168ec8492fe480",
-      "title": "Vingadores: Doutor Destino ganha vídeo promocional de colaboração com o KFC; confira",
+      "id": "radar-1ec541d0ba0c8445",
+      "title": "Remake de 'Ocarina of Time' impressiona e sinaliza bom futuro para Zelda",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Correio Braziliense. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-04T11:01:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Correio Braziliense",
+      "sourceUrl": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/11/7532237-remake-de-ocarina-of-time-impressiona-e-sinaliza-bom-futuro-para-zelda.html",
+      "image": "https://midias.correiobraziliense.com.br/_midias/png/2026/11/03/675x450/1_review-68127470.png",
+      "alt": "Imagem publicada por Correio Braziliense",
+      "imageCredit": "Imagem: Correio Braziliense",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Remake de 'Ocarina of Time' impressiona e sinaliza bom futuro para Zelda",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-60f443d3d5be5688",
+      "title": "5 técnicas de anime que rivalizam com o poder de Magna em Black Clover",
+      "excerpt": "A técnica Soul Chain Deathmatch, usada por Magna Swing em Black Clover, transforma confrontos contra inimigos muito mais poderosos em disputas de estratégia e resistência.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T11:00:41Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-tecnicas-de-anime-que-rivalizam-com-o-poder-de-magna-em-black-clover",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/5-tecnicas-de-anime-que-rivalizam-com-o-poder-de-magna-em-black-clover-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "5 técnicas de anime que rivalizam com o poder de Magna em Black Clover",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d71b76c2aa9bb533",
+      "title": "Saint Seiya: Next Dimension – Conheça os 12 Cavaleiros de Ouro do século XVIII",
+      "excerpt": "Saint Seiya: Next Dimension apresenta uma geração diferente de Cavaleiros de Ouro, responsáveis por proteger Atena durante a Guerra Santa contra Hades no século XVIII.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T10:56:32Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/saint-seiya-next-dimension-conheca-os-12-cavaleiros-de-ouro-do-seculo-xviii",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2021/04/odisseu-cavaleiro-de-ouro-de-serpentario-1504802673690_v2_1442x1059.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Saint Seiya: Next Dimension – Conheça os 12 Cavaleiros de Ouro do século XVIII",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-63ba985f740886f0",
+      "title": "One Piece revela segredos que mudam o rumo da saga final",
+      "excerpt": "Atenção: este texto contém spoilers do mangá de One Piece.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T10:46:27Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/one-piece-revela-segredos-que-mudam-o-rumo-da-saga-final",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/one-piece-revela-segredos-que-mudam-o-rumo-da-saga-final-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "One Piece revela segredos que mudam o rumo da saga final",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-583bc0481f5513dd",
+      "title": "As 10 inteligências artificiais mais poderosas da Marvel",
+      "excerpt": "A Marvel criou algumas das inteligências artificiais mais perigosas e avançadas dos quadrinhos.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T10:42:08Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/as-10-inteligencias-artificiais-mais-poderosas-da-marvel",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/imagem-colada-8520b123-a682-49a1-ac31-34c405119750.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "As 10 inteligências artificiais mais poderosas da Marvel",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-443bc57a033aa2b4",
+      "title": "Naruto: Filme live-action ganha novidades e tem previsão para começar as gravações em 2027",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T10:41:14Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Legião dos Heróis",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/naruto-filme-live-action-ganha-novidades-e-tem-previsao-para-comecar-as-gravacoes-em-2027.html",
+      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_XKSfhZaFWOws-scaled.jpeg",
+      "alt": "Imagem publicada por Legião dos Heróis",
+      "imageCredit": "Imagem: Legião dos Heróis",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Naruto: Filme live-action ganha novidades e tem previsão para começar as gravações em 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-98dddbfa70da71fa",
+      "title": "‘Aeroporto: Área Restrita’: 8ª temporada estreia no Discovery e na HBO Max em 11 de novembro",
+      "excerpt": "Uma das franquias de maior sucesso da TV paga brasileira está de volta.",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T10:30:30Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/aeroporto-area-restrita-8a-temporada-estreia-no-discovery-e-na-hbo-max-em-11-de-novembro",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Aeroporto-1.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Aeroporto: Área Restrita’: 8ª temporada estreia no Discovery e na HBO Max em 11 de novembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-77cf1383bd406ba9",
+      "title": "Dragon Ball Gekishin Squadra adia reformulação para março de 2027 em meio à queda de jogadores",
+      "excerpt": "O jogo perdeu grande parte do público no Steam e prepara mudanças profundas no combate para atrair novos jogadores.",
+      "body": [
+        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T10:20:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "GameVicio",
+      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/dragon-ball-gekishin-squadra-atualizacao-2027",
+      "image": "https://www.gamevicio.com/wp-content/uploads/2026/11/dragon-ball-gekishin-squadra-adia-atualizacao-2027.jpg",
+      "alt": "Imagem publicada por GameVicio",
+      "imageCredit": "Imagem: GameVicio",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Dragon Ball Gekishin Squadra adia reformulação para março de 2027 em meio à queda de jogadores",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b6337052b49c6afb",
+      "title": "James Gunn aprova cronologia do DCU criada por fã e revela o que pensa sobre a linha do tempo da DC",
+      "excerpt": "Diretor comentou lista que organiza os acontecimentos das produções do universo da DC Com filmes e séries ambientados em diferentes períodos, entender a cronologia do novo Universo DC pode não ser uma tarefa tão simples.",
+      "body": [
+        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T10:18:53Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Legião dos Heróis",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/james-gunn-aprova-cronologia-do-dcu-criada-por-fa-e-revela-o-que-pensa-sobre-a-linha-do-tempo-da-dc.html",
+      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_0yeTV3OmouQc-scaled.jpeg",
+      "alt": "Imagem publicada por Legião dos Heróis",
+      "imageCredit": "Imagem: Legião dos Heróis",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "James Gunn aprova cronologia do DCU criada por fã e revela o que pensa sobre a linha do tempo da DC",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-70e0c8d7502b42f5",
+      "title": "Judi Dench diz que Daniel Craig sugeriu a morte de M em 007",
+      "excerpt": "Judi Dench revelou que a morte de M em 007: Operação Skyfall, lançado em 2012, foi uma ideia de Daniel Craig.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-04T10:16:43Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/judi-dench-diz-que-daniel-craig-sugeriu-a-morte-de-m-em-007",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/judi-dench-diz-que-daniel-craig-sugeriu-a-morte-de-m-em-007-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Judi Dench diz que Daniel Craig sugeriu a morte de M em 007",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-69f50b0792722850",
+      "title": "Criador de Black Clover lança arte inédita após fim do mangá",
+      "excerpt": "Yuki Tabata voltou a desenhar Black Clover após o encerramento do mangá, apresentando uma ilustração inédita criada especialmente para o novo livro de arte digital da franquia.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T10:15:52Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/criador-de-black-clover-lanca-arte-inedita-apos-fim-do-manga",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/criador-de-black-clover-lanca-arte-inedita-apos-fim-do-manga-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Criador de Black Clover lança arte inédita após fim do mangá",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1639c6733a724b6c",
+      "title": "Owen Wilson explica por que Pryce é seu pior inimigo em Stick;",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T22:43:00Z",
-      "displayDate": "3 nov. 2026",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-04T10:00:00Z",
+      "displayDate": "4 nov. 2026",
       "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-video-promocional-colaboracao-kfc",
-      "image": "https://cdn.ome.lt/MGRpyNjUso7yMm0OujC86pAh_fs=/1200x630/smart/filters:format(webp)/extras/conteudos/2026929113858.webp",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/stick-owen-wilson-explica-pryce-pior-inimigo",
+      "image": "https://cdn.ome.lt/B1wAFv_6ZL_YiGyhu6GUsb9jUUk=/1200x630/smart/filters:format(webp)/extras/conteudos/stick_vZgzB0K.webp",
       "alt": "Imagem publicada por Omelete",
       "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino ganha vídeo promocional de colaboração com o KFC; confira",
+      "originalTitle": "Owen Wilson explica por que Pryce é seu pior inimigo em Stick;",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c66716ba8492ca5a",
+      "title": "Shin Min-a: “Assim como a Imperatriz, também tenho que esconder certas emoções do público”",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-04T09:00:00Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/korea/a-imperatriz-se-casou-novamente-entrevista-shin-min-a-dorama",
+      "image": "https://cdn.ome.lt/TU88IXQUDjcpGI7l1OFI9qUKWcA=/1200x630/smart/filters:format(webp)/extras/conteudos/The-Remarried-Empress2026-Disney-and-its-related-entities.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Shin Min-a: “Assim como a Imperatriz, também tenho que esconder certas emoções do público”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7cfce0576ffb90fe",
+      "title": "VisionQuest: quando estreia o último episódio da série da Marvel",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Agora Litoral. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T08:26:15Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Agora Litoral",
+      "sourceUrl": "https://agoralitoral.com.br/2026/11/04/visionquest-quando-estreia-o-ultimo-episodio-da-serie-da-marvel",
+      "image": "https://agoralitoral.com.br/wp-content/uploads/2026/11/quando-estreia-o-8o-e-ultimo-episodio-de-visionquest-novo-spin-off-de-wandavision-1793780687.jpg",
+      "alt": "Imagem publicada por Agora Litoral",
+      "imageCredit": "Imagem: Agora Litoral",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "VisionQuest: quando estreia o último episódio da série da Marvel",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6861f327bda76c51",
+      "title": "Elbaf vira tabuleiro: mangá crava tripulação de Shanks como força máxima e reposiciona One Piece",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T08:25:54Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/elbaf-revela-piratas-shanks-forca-maxima-one-piece",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1784896764.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Elbaf vira tabuleiro: mangá crava tripulação de Shanks como força máxima e reposiciona One Piece",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-480d6d6accfcd991",
+      "title": "Marvel transforma trailer de brinquedos em porta-voz oficial dos X-Men dentro de Avengers: Doomsday",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "colecionaveis",
+      "categoryName": "Colecionáveis",
+      "publishedAt": "2026-11-04T08:25:54Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-trailer-brinquedos-x-men-avengers-doomsday",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789685723.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel transforma trailer de brinquedos em porta-voz oficial dos X-Men dentro de Avengers: Doomsday",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cc27e1fdb8ca1178",
+      "title": "Black Panther 3 aposta no núcleo original de Wakanda para liderar a virada política do MCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T08:25:54Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/black-panther-3-aposta-nucleo-original-wakanda",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1785298185.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Black Panther 3 aposta no núcleo original de Wakanda para liderar a virada política do MCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6bb4c3fc5ddf1ee6",
+      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T08:25:54Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793724082.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-834458912c5d853e",
+      "title": "Marvel usa a bissexualidade de Tommy Maximoff para chacoalhar regras antigas – e ela não é a única cartada em VisionQuest",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T07:55:55Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-bissexualidade-tommy-maximoff-visionquest-cartada",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791350772.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel usa a bissexualidade de Tommy Maximoff para chacoalhar regras antigas – e ela não é a única cartada em VisionQuest",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3b52e16662855ab4",
+      "title": "De Gojo a Sephiroth: A dublagem japonesa de 'Vingadores: Doomsday' está repleta de estrelas",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Hypebeast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-04T07:53:13Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Hypebeast",
+      "sourceUrl": "https://hypebeast.com/pt/2026/11/marvel-avengers-doomsday-japanese-dub-cast-anime-voice-actors-toshiyuki-morikawa-doctor-doom-announcement",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbr.hypebeast.com%2Ffiles%2F2026%2F11%2Fmarvel-avengers-doomsday-japanese-dub-cast-anime-voice-actors-toshiyuki-morikawa-doctor-doom-announcement-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "alt": "Imagem publicada por Hypebeast",
+      "imageCredit": "Imagem: Hypebeast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "De Gojo a Sephiroth: A dublagem japonesa de 'Vingadores: Doomsday' está repleta de estrelas",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6aefa46ba785d7fd",
+      "title": "Sinestro assume o posto de próximo vilão de Superman e escancara a tática de costura do novo DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T07:11:21Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/sinestro-proximo-vilao-de-superman-e-tatica-de-costura-do-novo-dcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793768210.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Sinestro assume o posto de próximo vilão de Superman e escancara a tática de costura do novo DCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8c473fb7a0405d6b",
+      "title": "Tempestade em órbita: a rejeição precoce a Hal Jordan obscurece o verdadeiro risco de “Lanterns”",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T07:11:21Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/rejeicao-precoce-hal-jordan-obscurece-risco-de-lanterns",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793727689.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Tempestade em órbita: a rejeição precoce a Hal Jordan obscurece o verdadeiro risco de “Lanterns”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3264f829fea16734",
+      "title": "Falha de comunicação entre “Lanterns” e “Superman 2” acende alerta no novo DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-04T07:11:21Z",
+      "displayDate": "4 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/falha-comunicacao-lanterns-superman-2-dcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793546756.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Falha de comunicação entre “Lanterns” e “Superman 2” acende alerta no novo DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -551,32 +679,6 @@
       }
     },
     {
-      "id": "radar-1cdaa83b2836e7eb",
-      "title": "Easter egg de The Legend of Zelda leva Google para os anos 90! Veja como usar",
-      "excerpt": "O Checkpoint desta terça (03) é nostalgia pura.",
-      "body": [
-        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-03T21:15:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "TecMundo",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/easter-egg-de-the-legend-of-zelda-leva-google-para-os-anos-90-veja-como-usar",
-      "image": "https://www.estadao.com.br/resizer/v2/5MO2AQHWUBDUNACHQAF2K6ZOZA.jpeg?quality=80&auth=4bed1dc2f6ed2b9081ab1fea991f4a294a0e8f8a847537a21288c53acda1e5c4&width=710",
-      "alt": "Imagem publicada por TecMundo",
-      "imageCredit": "Imagem: TecMundo",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Easter egg de The Legend of Zelda leva Google para os anos 90! Veja como usar",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-73a0930bb39ca06a",
       "title": "Xbox cria console em formato de jacaré às vésperas de GTA 6 e provoca a Sony",
       "excerpt": "",
@@ -603,52 +705,28 @@
       }
     },
     {
-      "id": "radar-eddf364f65fb7d04",
-      "title": "Control Resonant é o jogo que mais rápido vendeu na história da Remedy e impulsiona receita da empresa",
-      "excerpt": "Control Resonant se tornou o jogo mais vendido da história da Remedy Entertainment e impulsionou os resultados financeiros da empresa no terceiro trimestre de 2026.",
+      "id": "radar-dfef60c40fc21047",
+      "title": "Morre Patrick Stewart aos 86 anos, ator de ‘Jornada nas Estrelas’ e ‘X-Men’",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em tvlw.com.br. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-03T18:47:02Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-03T19:06:00Z",
       "displayDate": "3 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/control-resonant-e-o-jogo-que-mais-rapido-vendeu-na-historia-da-remedy-e-impulsiona-receita-da-empresa",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/07/Control-Resonant-2.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "tvlw.com.br",
+      "sourceUrl": "https://www.tvlw.com.br/noticia/29641/diversidades/morre-patrick-stewart-aos-86-anos-ator-de-lsquo-jornada-nas-estrelas-rsquo-e-lsquo-x-men-rsquo.html",
+      "image": "https://www.tvlw.com.br/arquivos/noticias/29641/morre-patrick-stewart-aos-86-anos-ator-de-lsquo-jornada-nas-estrelas-rsquo-e-lsquo-x-men-rsquo.jpg",
+      "alt": "Imagem publicada por tvlw.com.br",
+      "imageCredit": "Imagem: tvlw.com.br",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Control Resonant é o jogo que mais rápido vendeu na história da Remedy e impulsiona receita da empresa",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-dc0067662e0a7cd1",
-      "title": "Desenvolvedor recria Castlevania: Symphony of the Night para Super Nintendo com demo jogável",
-      "excerpt": "Kaffeeware desenvolve a adaptação sem código gerado por IA e pretende respeitar o hardware original.",
-      "body": [
-        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
+      "originalTitle": "Morre Patrick Stewart aos 86 anos, ator de ‘Jornada nas Estrelas’ e ‘X-Men’",
+      "tags": [
+        "luto"
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-03T18:29:38Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "GameVicio",
-      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/castlevania-symphony-of-the-night-snes-demo",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/castlevania-symphony-of-the-night-ganha-demo-feita-para-o-super-nintendo-featured.jpg",
-      "alt": "Imagem publicada por GameVicio",
-      "imageCredit": "Imagem: GameVicio",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Desenvolvedor recria Castlevania: Symphony of the Night para Super Nintendo com demo jogável",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -674,32 +752,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Dupla Dinâmica | Peter Safran elogia Mason Thames como Dick Grayson: \"Ele queria muito\"",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0c9659b3d3005d47",
-      "title": "SAIU! Confira os primeiros jogos do Xbox Game Pass para novembro",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Central Xbox. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-03T18:14:30Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Central Xbox",
-      "sourceUrl": "https://centralxbox.com.br/2026/11/03/saiu-confira-os-primeiros-jogos-do-xbox-game-pass-para-novembro",
-      "image": "https://centralxbox.com.br/wp-content/uploads/2026/11/XGP_ComingSoon031126_16x9_PT-BR-b3afc3bf38a76c887395.jpg",
-      "alt": "Imagem publicada por Central Xbox",
-      "imageCredit": "Imagem: Central Xbox",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "SAIU! Confira os primeiros jogos do Xbox Game Pass para novembro",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -733,25 +785,25 @@
       }
     },
     {
-      "id": "radar-0457c615863cad89",
-      "title": "Cutscenes de Halo: Campaign Evolved viram meme e expõem dilema do remake",
+      "id": "radar-5deb0296e0388188",
+      "title": "Black Clover conquista o episódio de anime mais bem avaliado de 2026 no IMDb com nota 9,9",
       "excerpt": "",
       "body": [
-        "Confira o meme completo na publicação original de Rádio Geek."
+        "Confira a cobertura completa em soulsgamer.com.br. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-03T17:41:25Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-03T18:00:00Z",
       "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/cutscenes-halo-campaign-evolved-viram-meme-e-dilema-remake",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1785045295.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
+      "sourceName": "soulsgamer.com.br",
+      "sourceUrl": "https://soulsgamer.com.br/noticias/black-clover-conquista-o-episodio-de-anime-mais-bem-avaliado-de-2026-no-imdb-com-nota-9-9",
+      "image": "https://soulsgamer.com.br/imagens/img_6aea215916e20.webp",
+      "alt": "Imagem publicada por soulsgamer.com.br",
+      "imageCredit": "Imagem: soulsgamer.com.br",
       "syndicated": true,
-      "meme": true,
+      "meme": false,
       "translated": false,
-      "originalTitle": "Cutscenes de Halo: Campaign Evolved viram meme e expõem dilema do remake",
+      "originalTitle": "Black Clover conquista o episódio de anime mais bem avaliado de 2026 no IMDb com nota 9,9",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -759,25 +811,77 @@
       }
     },
     {
-      "id": "radar-2d539cc95c12541b",
-      "title": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
+      "id": "radar-b1c4c93c021aa5b8",
+      "title": "Catálogo “sem defeitos” do Adult Swim vira peça-chave na próxima disputa de direitos de anime",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
+      "category": "animacao",
+      "categoryName": "Anime",
       "publishedAt": "2026-11-03T17:41:25Z",
       "displayDate": "3 nov. 2026",
       "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/adria-arjona-nova-mulher-maravilha-dcu-gunn-silencio",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791172574.webp",
+      "sourceUrl": "https://radiogeekbr.com.br/catalogo-sem-defeitos-adult-swim-disputa-direitos-anime",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791213093.webp",
       "alt": "Imagem publicada por Rádio Geek",
       "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
+      "originalTitle": "Catálogo “sem defeitos” do Adult Swim vira peça-chave na próxima disputa de direitos de anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-154ad1a3bc6bf2a1",
+      "title": "Novo dub de Banana Fish chega à Netflix e sepulta a era da dublagem por IA",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-03T16:41:18Z",
+      "displayDate": "3 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/banana-fish-dublagem-ingles-netflix-agosto",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1783902923.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Novo dub de Banana Fish chega à Netflix e sepulta a era da dublagem por IA",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6d0960656a1ae81c",
+      "title": "\"Ajudá-los a dar um desfecho melhor\": Johnny Depp está aberto a interpretar Jack Sparrow novamente em novo filme de Piratas do Caribe",
+      "excerpt": "Ainda não se sabe se o personagem retornará, mas Deep parece estar mais interessado na ideia do que antes",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-03T16:31:27Z",
+      "displayDate": "3 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/piratas-do-caribe/157258/ajuda-los-a-dar-um-desfecho-melhor-johnny-depp-esta-aberto-a-interpretar-jack-sparrow-novamente-em-n",
+      "image": "https://sm.ign.com/ign_br/news/j/johnny-dep/johnny-depp-is-open-to-playing-jack-sparrow-again-in-a-new-p_grfm.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "\"Ajudá-los a dar um desfecho melhor\": Johnny Depp está aberto a interpretar Jack Sparrow novamente em novo filme de Piratas do Caribe",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -863,26 +967,28 @@
       }
     },
     {
-      "id": "radar-6bb4c3fc5ddf1ee6",
-      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "id": "radar-a1e44b11ba1c734c",
+      "title": "The Legend of Zelda: Ocarina of Time Artwork",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T15:11:10Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-03T14:40:25Z",
       "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793724082.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157239/the-legend-of-zelda-ocarina-of-time-artwork",
+      "image": "https://sm.ign.com/ign_br/gallery/t/the-legend/the-legend-of-zelda-ocarina-of-time-artwork_fpbn.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
-      "tags": [],
+      "originalTitle": "The Legend of Zelda: Ocarina of Time Artwork",
+      "tags": [
+        "escalacao"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -908,32 +1014,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Disney abandona plano de lançar Frozen 4 logo após Frozen 3",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-dc626a0770d19972",
-      "title": "2ª temporada de Samurai de Olhos Azuis confirma data de estreia em janeiro de 2027",
-      "excerpt": "Netflix confirma a data exata do retorno da série Já sabíamos que a 2ª temporada de Samurai de Olhos Azuis deveria chegar em algum momento de janeiro de 2027.",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-03T14:35:00Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/blue-eye-samurai/157257/2a-temporada-de-samurai-de-olhos-azuis-confirma-data-de-estreia-em-janeiro-de-2027",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/s1_n6gp.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "2ª temporada de Samurai de Olhos Azuis confirma data de estreia em janeiro de 2027",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -1066,136 +1146,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Norihiro Yagi, autor de Claymore, lança novo mangá",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-07f6a439486bec05",
-      "title": "Paul Bettany rompe vasos sanguíneos no olho durante gravações de VisionQuest, da Marvel",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Portal Márcia Piovesan. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T13:29:59Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Portal Márcia Piovesan",
-      "sourceUrl": "https://www.marciapiovesan.com.br/famosos/paul-bettany-rompe-vasos-sanguineos-no-olho-durante-gravacoes-de-visionquest-da-marvel.phtml",
-      "image": "https://www.marciapiovesan.com.br/wp-content/uploads/2026/11/paul-bettany-e1793666493127.jpg",
-      "alt": "Imagem publicada por Portal Márcia Piovesan",
-      "imageCredit": "Imagem: Portal Márcia Piovesan",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Paul Bettany rompe vasos sanguíneos no olho durante gravações de VisionQuest, da Marvel",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7a5cd973c890b4c0",
-      "title": "Do Toonami ao streaming fragmentado: o legado anime do Cartoon Network que ainda movimenta milhões",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-03T09:56:29Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/legado-anime-cartoon-network-anos-2000",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792917673.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Do Toonami ao streaming fragmentado: o legado anime do Cartoon Network que ainda movimenta milhões",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5bed2c10a982c668",
-      "title": "DCU adianta Hawkgirl e esconde Mulher-Maravilha para reorganizar o pódio das heroínas",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T06:56:14Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/dcu-adianta-hawkgirl-e-esconde-mulher-maravilha",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1787057707.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "DCU adianta Hawkgirl e esconde Mulher-Maravilha para reorganizar o pódio das heroínas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-79be9cc4e5587c3d",
-      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T05:56:01Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792342569.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f6175b71b45d6e6b",
-      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-03T03:26:02Z",
-      "displayDate": "3 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1793330756.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
