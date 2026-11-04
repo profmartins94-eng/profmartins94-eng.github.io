@@ -1,7 +1,223 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T23:42:13.505686Z",
+  "updatedAt": "2026-11-04T03:20:28.406250Z",
   "articles": [
+    {
+      "id": "radar-84c1fcc3578b1c97",
+      "publishedAt": "2026-11-04T03:09:35Z",
+      "title": "Homem-Aranha: Um Novo Dia ganha data para estreia nas plataformas digitais, confira",
+      "sourceUrl": "https://www.omelete.com.br/filmes/homem-aranha-um-novo-dia-onde-assistir",
+      "originalTitle": "Homem-Aranha: Um Novo Dia ganha data para estreia nas plataformas digitais, confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b4f8dcda761f7915",
+      "publishedAt": "2026-11-04T02:37:03Z",
+      "title": "BOMBA!: Editora Veneta publicará mais um mangá de Osamu Tezuka",
+      "sourceUrl": "https://blogbbm.com/2026/11/03/bomba-editora-veneta-publicara-mais-um-manga-de-osamu-tezuka",
+      "originalTitle": "BOMBA!: Editora Veneta publicará mais um mangá de Osamu Tezuka",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9db2c993c0b6fc38",
+      "publishedAt": "2026-11-04T02:26:37Z",
+      "title": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
+      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-posteres-nostalgia-upgrades-poder",
+      "originalTitle": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-df8f7eebaea0deec",
+      "publishedAt": "2026-11-04T02:26:37Z",
+      "title": "Supermágicos do anime: como magos imbatíveis tomaram o trono da fantasia televisiva",
+      "sourceUrl": "https://radiogeekbr.com.br/supermagicos-anime-magos-imbativeis",
+      "originalTitle": "Supermágicos do anime: como magos imbatíveis tomaram o trono da fantasia televisiva",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-26b1088940388c4e",
+      "publishedAt": "2026-11-04T02:26:37Z",
+      "title": "Sete veteranos de antes do MCU voltam em “Avengers: Doomsday” e revelam a aposta de nostalgia que decide o futuro da Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/veteranos-pre-mcu-avengers-doomsday-nostalgia-marvel",
+      "originalTitle": "Sete veteranos de antes do MCU voltam em “Avengers: Doomsday” e revelam a aposta de nostalgia que decide o futuro da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b9d6e06c7b2a9977",
+      "publishedAt": "2026-11-04T02:08:14Z",
+      "title": "Como migrar um site WordPress para a Hostinger: veja o passo a passo",
+      "sourceUrl": "https://br.ign.com/tech/157295/como-migrar-um-site-wordpress-para-a-hostinger-veja-o-passo-a-passo",
+      "originalTitle": "Como migrar um site WordPress para a Hostinger: veja o passo a passo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7762dc636f0ce92e",
+      "publishedAt": "2026-11-04T02:05:40Z",
+      "title": "Tudo É Justo | Cauã Reymond surge sem camisa em cena com Glenn Close e Kim Kardashian; veja",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/tudo-e-justo-caua-reymond-surge-sem-camisa-cena-glenn-close-kim-kardashian",
+      "originalTitle": "Tudo É Justo | Cauã Reymond surge sem camisa em cena com Glenn Close e Kim Kardashian; veja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d1e9724c97f70f35",
+      "publishedAt": "2026-11-04T01:58:47Z",
+      "title": "Anunciado anime de The Bloodthirsty Bride Devours the King para 2027",
+      "sourceUrl": "https://animenew.com.br/the-bloodthirsty-bride-devours-the-king-anime",
+      "originalTitle": "Anunciado anime de The Bloodthirsty Bride Devours the King para 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e498f157d3336129",
+      "publishedAt": "2026-11-04T01:49:12Z",
+      "title": "Criador de Claymore lança novo mangá de fantasia",
+      "sourceUrl": "https://animenew.com.br/bartlet-fairy-basslet-novo-manga-norihiro-yagi",
+      "originalTitle": "Criador de Claymore lança novo mangá de fantasia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-22ed2ba7eb0b033e",
+      "publishedAt": "2026-11-04T00:56:00Z",
+      "title": "Orquestra Petrobras Sinfônica apresenta trilha de Cidade de Deus ao vivo no Rio",
+      "sourceUrl": "https://www.omelete.com.br/filmes/orquestra-petrobras-sinfonica-trilha-cidade-de-deus-ao-vivo-no-rio",
+      "originalTitle": "Orquestra Petrobras Sinfônica apresenta trilha de Cidade de Deus ao vivo no Rio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2d5b823c0d8f2ae9",
+      "publishedAt": "2026-11-04T00:49:00Z",
+      "title": "Cidade de Deus, Estômago e mais chegam à HBO Max em novembro; veja lista",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/cidade-de-deus-estomago-e-mais-chegam-a-hbo-max-em-novembro-veja-lista",
+      "originalTitle": "Cidade de Deus, Estômago e mais chegam à HBO Max em novembro; veja lista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-22fb14543f82fd72",
+      "publishedAt": "2026-11-04T00:42:00Z",
+      "title": "Vingadores: Doutor Destino | Nova imagem promocional mostra Boris e as Bruxas da Latvéria; veja",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-nova-imagem-promocional-personagem-supostamente-cortado",
+      "originalTitle": "Vingadores: Doutor Destino | Nova imagem promocional mostra Boris e as Bruxas da Latvéria; veja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3cb482f76ce4b2a0",
+      "publishedAt": "2026-11-04T00:32:15Z",
+      "title": "Estrela dos anos 1980 diz que filme da Marvel com cena íntima infame rendeu 'muito dinheiro' apesar de críticas e fracasso de bilheteria",
+      "sourceUrl": "https://revistamonet.globo.com/google/amp/filmes/noticia/2026/11/estrela-dos-anos-1980-diz-que-filme-da-marvel-com-cena-intima-infame-rendeu-muito-dinheiro-apesar-de-criticas-e-fracasso-de-bilheteria.ghtml",
+      "originalTitle": "Estrela dos anos 1980 diz que filme da Marvel com cena íntima infame rendeu 'muito dinheiro' apesar de críticas e fracasso de bilheteria",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-694b4f819a2ce235",
+      "publishedAt": "2026-11-04T00:28:55Z",
+      "title": "Mangá Seraph of the End é finalizado e encerra sua publicação em 4 de dezembro",
+      "sourceUrl": "https://www.animeunited.com.br/noticias/manga-seraph-of-the-end-e-finalizado-e-encerra-sua-publicacao-em-4-de-dezembro",
+      "originalTitle": "Mangá Seraph of the End é finalizado e encerra sua publicação em 4 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9ece1a22ea5ec50a",
+      "publishedAt": "2026-11-04T00:26:38Z",
+      "title": "Marvel Zodiac: orçamento menor e foco em novos fãs",
+      "sourceUrl": "https://culpadolag.com.br/marvel-zodiac-orcamento-menor-e-foco-em-novos-fas",
+      "originalTitle": "Marvel Zodiac: orçamento menor e foco em novos fãs",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1b4c06ef0c957d88",
+      "publishedAt": "2026-11-04T00:26:00Z",
+      "title": "Netflix lança aba de descoberta com IA para encontrar conteúdos",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/netflix-lanca-aba-de-descoberta-com-ia-para-encontrar-conteudos",
+      "originalTitle": "Netflix lança aba de descoberta com IA para encontrar conteúdos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0856ad186265d2c2",
+      "publishedAt": "2026-11-04T00:25:53Z",
+      "title": "Quatro episódios são isca: novo anime de Naruto prepara virada definitiva da franquia",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-anime-naruto-virada-franquia",
+      "originalTitle": "Quatro episódios são isca: novo anime de Naruto prepara virada definitiva da franquia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-620bbbb1b59530f4",
+      "publishedAt": "2026-11-04T00:08:06Z",
+      "title": "Frutas Proibidas mina significado de um universo visto como vazio",
+      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/frutas-proibidas-filme-critica",
+      "originalTitle": "Frutas Proibidas mina significado de um universo visto como vazio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-9c6822cb4110bf0e",
       "publishedAt": "2026-11-03T23:15:00Z",
@@ -20,6 +236,18 @@
       "title": "Vingadores: Doutor Destino ganha vídeo promocional de colaboração com o KFC; confira",
       "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-video-promocional-colaboracao-kfc",
       "originalTitle": "Vingadores: Doutor Destino ganha vídeo promocional de colaboração com o KFC; confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-572949cc5e6db113",
+      "publishedAt": "2026-11-03T22:41:09Z",
+      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
+      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -207,18 +435,6 @@
       }
     },
     {
-      "id": "radar-620bbbb1b59530f4",
-      "publishedAt": "2026-11-03T19:34:47Z",
-      "title": "Frutas Proibidas mina significado de um universo visto como vazio",
-      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/frutas-proibidas-filme-critica",
-      "originalTitle": "Frutas Proibidas mina significado de um universo visto como vazio",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-42232369d305d3fe",
       "publishedAt": "2026-11-03T19:32:55.571000Z",
       "title": "Marvel’s Guardians of the Galaxy: vídeo compara gráficos do Switch 2 com o PS5",
@@ -272,6 +488,18 @@
       "title": "Dupla Dinâmica | Peter Safran elogia Mason Thames como Dick Grayson: \"Ele queria muito\"",
       "sourceUrl": "https://www.omelete.com.br/filmes/dupla-dinamica-peter-safran-mason-thames-dick-grayson",
       "originalTitle": "Dupla Dinâmica | Peter Safran elogia Mason Thames como Dick Grayson: \"Ele queria muito\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0c9659b3d3005d47",
+      "publishedAt": "2026-11-03T18:14:30Z",
+      "title": "SAIU! Confira os primeiros jogos do Xbox Game Pass para novembro",
+      "sourceUrl": "https://centralxbox.com.br/2026/11/03/saiu-confira-os-primeiros-jogos-do-xbox-game-pass-para-novembro",
+      "originalTitle": "SAIU! Confira os primeiros jogos do Xbox Game Pass para novembro",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -368,6 +596,18 @@
       "title": "Cutscenes de Halo: Campaign Evolved viram meme e expõem dilema do remake",
       "sourceUrl": "https://radiogeekbr.com.br/cutscenes-halo-campaign-evolved-viram-meme-e-dilema-remake",
       "originalTitle": "Cutscenes de Halo: Campaign Evolved viram meme e expõem dilema do remake",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2d539cc95c12541b",
+      "publishedAt": "2026-11-03T17:41:25Z",
+      "title": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
+      "sourceUrl": "https://radiogeekbr.com.br/adria-arjona-nova-mulher-maravilha-dcu-gunn-silencio",
+      "originalTitle": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -644,6 +884,30 @@
       "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
       "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
       "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cbe728b0479e74c",
+      "publishedAt": "2026-11-03T15:11:10Z",
+      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
+      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6bb4c3fc5ddf1ee6",
+      "publishedAt": "2026-11-03T15:11:10Z",
+      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
+      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -975,18 +1239,6 @@
       }
     },
     {
-      "id": "radar-9db2c993c0b6fc38",
-      "publishedAt": "2026-11-03T07:56:07Z",
-      "title": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
-      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-posteres-nostalgia-upgrades-poder",
-      "originalTitle": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-7ec6f27991e1cec7",
       "publishedAt": "2026-11-03T07:50:27Z",
       "title": "5 animes para assistir enquanto a 4ª temporada de Jujutsu Kaisen não chega",
@@ -1016,6 +1268,18 @@
       "title": "Os 5 usuários de Haki mais fortes de One Piece",
       "sourceUrl": "https://criticalhits.com.br/anime/os-5-usuarios-de-haki-mais-fortes-de-one-piece",
       "originalTitle": "Os 5 usuários de Haki mais fortes de One Piece",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5bed2c10a982c668",
+      "publishedAt": "2026-11-03T06:56:14Z",
+      "title": "DCU adianta Hawkgirl e esconde Mulher-Maravilha para reorganizar o pódio das heroínas",
+      "sourceUrl": "https://radiogeekbr.com.br/dcu-adianta-hawkgirl-e-esconde-mulher-maravilha",
+      "originalTitle": "DCU adianta Hawkgirl e esconde Mulher-Maravilha para reorganizar o pódio das heroínas",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -4899,18 +5163,6 @@
       }
     },
     {
-      "id": "radar-6cbe728b0479e74c",
-      "publishedAt": "2026-10-31T05:56:07Z",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-ee599b08a408959c",
       "publishedAt": "2026-10-31T05:56:07Z",
       "title": "Gafe de Anthony Mackie embaralha cronologia de “Avengers: Doomsday” e expõe ruído interno na Marvel",
@@ -7167,18 +7419,6 @@
       }
     },
     {
-      "id": "radar-2d539cc95c12541b",
-      "publishedAt": "2026-10-30T04:40:53Z",
-      "title": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
-      "sourceUrl": "https://radiogeekbr.com.br/adria-arjona-nova-mulher-maravilha-dcu-gunn-silencio",
-      "originalTitle": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-8517054449949e63",
       "publishedAt": "2026-10-30T04:40:35Z",
       "title": "Estrelas de 'X-Men' Ian McKellen, Hugh Jackman, Rebecca Romijn e Famke Janssen homenageiam “Companheiro Mutante” Patrick Stewart: “Um dos Grandes”",
@@ -7475,18 +7715,6 @@
       "translated": true,
       "editorialReview": {
         "status": "pending",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-572949cc5e6db113",
-      "publishedAt": "2026-10-30T00:41:06Z",
-      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
-      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
         "policyVersion": 2
       }
     },
