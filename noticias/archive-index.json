@@ -1,7 +1,535 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T07:24:06.822092Z",
+  "updatedAt": "2026-11-05T15:49:13.910860Z",
   "articles": [
+    {
+      "id": "radar-1ee5f561173e0930",
+      "publishedAt": "2026-11-05T15:40:24Z",
+      "title": "Smart TV 4K de 55\" com MiniLED e QLED por menos de R$ 2,4 mil na Amazon",
+      "sourceUrl": "https://br.ign.com/descontos/157358/smart-tv-4k-de-55-com-miniled-e-qled-por-menos-de-r-24-mil-na-amazon",
+      "originalTitle": "Smart TV 4K de 55\" com MiniLED e QLED por menos de R$ 2,4 mil na Amazon",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-62fdfcf957ac23f9",
+      "publishedAt": "2026-11-05T15:26:49Z",
+      "title": "‘Jogos Vorazes: Amanhecer na Colheita’ ganha novos cartazes oficiais; Confira!",
+      "sourceUrl": "https://cinepop.com.br/jogos-vorazes-amanhecer-na-colheita-ganha-novos-cartazes-oficiais-confira-775037",
+      "originalTitle": "‘Jogos Vorazes: Amanhecer na Colheita’ ganha novos cartazes oficiais; Confira!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-52a678cba1517cb7",
+      "publishedAt": "2026-11-05T15:15:28Z",
+      "title": "Marvel Tōkon: Dubladores brasileiros contam como deram voz aos personagens sem ver o jogo",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/marvel-tokon-dubladores-brasileiros-contam-como-deram-voz-aos-personagens-sem-ver-o-jogo.html",
+      "originalTitle": "Marvel Tōkon: Dubladores brasileiros contam como deram voz aos personagens sem ver o jogo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e64b2c709ac0a0b0",
+      "publishedAt": "2026-11-05T15:00:50Z",
+      "title": "3 Momentos de Dragon Ball que transformaram o orgulho de Vegeta em heroísmo",
+      "sourceUrl": "https://criticalhits.com.br/anime/3-momentos-de-dragon-ball-que-transformaram-o-orgulho-de-vegeta-em-heroismo",
+      "originalTitle": "3 Momentos de Dragon Ball que transformaram o orgulho de Vegeta em heroísmo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-66498c435f596a70",
+      "publishedAt": "2026-11-05T15:00:37Z",
+      "title": "A ruptura é oficial: reboot de Harry Potter revela o castelo de Hogwarts e ele não se parece mais com o dos filmes",
+      "sourceUrl": "https://br.ign.com/harry-potter-the-series/157330/a-ruptura-e-oficial-reboot-de-harry-potter-revela-o-castelo-de-hogwarts-e-ele-nao-se-parece-mais-com",
+      "originalTitle": "A ruptura é oficial: reboot de Harry Potter revela o castelo de Hogwarts e ele não se parece mais com o dos filmes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9988a27b29c1a429",
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "title": "Batman: Parte II tem vários vazamentos importantes",
+      "sourceUrl": "https://www.einerd.com/the-batman-parte-ii-vazamento-moldes",
+      "originalTitle": "Batman: Parte II tem vários vazamentos importantes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce20e7c3925b7b07",
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "title": "Análise: Stellar Blade desafia os limites do Switch 2 em um port surpreendente",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/analise-stellar-blade-switch2-review.html",
+      "originalTitle": "Análise: Stellar Blade desafia os limites do Switch 2 em um port surpreendente",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1028c3693901dee3",
+      "publishedAt": "2026-11-05T14:51:00Z",
+      "title": "The Pitt | Justiça nega recurso da Warner, e processo por suposto plágio de ER vai a júri",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/the-pitt-recurso-warner-processo-plagio-er-juri",
+      "originalTitle": "The Pitt | Justiça nega recurso da Warner, e processo por suposto plágio de ER vai a júri",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1fa90cb05a9218f5",
+      "publishedAt": "2026-11-05T14:49:00Z",
+      "title": "Marvel's Blade | Fechar Arkane Lyon seria mais caro do que terminar jogo, diz união",
+      "sourceUrl": "https://www.omelete.com.br/games/marvels-blade-fechar-arkane-lyon-seria-mais-caro-do-que-terminar-jogo-diz-uniao",
+      "originalTitle": "Marvel's Blade | Fechar Arkane Lyon seria mais caro do que terminar jogo, diz união",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-44fdfc5c734c98e1",
+      "publishedAt": "2026-11-05T14:44:09Z",
+      "title": "Anime & Manga Sacred Sites EXPO 2026 reúne 19 municípios japoneses em Tóquio",
+      "sourceUrl": "https://www.jwave.com.br/2026/11/anime-manga-sacred-sites-expo-2026-reune-19-municipios-japoneses-em-toquio",
+      "originalTitle": "Anime & Manga Sacred Sites EXPO 2026 reúne 19 municípios japoneses em Tóquio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c53f7cc0e4ae611b",
+      "publishedAt": "2026-11-05T14:34:00Z",
+      "title": "Estrada das Lágrimas | K-drama da Netflix mostra caça por serial killer; veja novo trailer",
+      "sourceUrl": "https://www.omelete.com.br/korea/estrada-das-lagrimas-k-drama-netflix-novo-trailer",
+      "originalTitle": "Estrada das Lágrimas | K-drama da Netflix mostra caça por serial killer; veja novo trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bd8083712a8cc8dc",
+      "publishedAt": "2026-11-05T14:31:00Z",
+      "title": "Diretor de ‘Obsessão’ quer comandar versão para MAIORES de ‘Indiana Jones’",
+      "sourceUrl": "https://cinepop.com.br/diretor-de-obsessao-quer-comandar-versao-para-maiores-de-indiana-jones-775017",
+      "originalTitle": "Diretor de ‘Obsessão’ quer comandar versão para MAIORES de ‘Indiana Jones’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b7282f6ce20d6ca2",
+      "publishedAt": "2026-11-05T14:28:04Z",
+      "title": "One Piece: Loki surge em sua forma híbrida em imagem vazada do mangá 1198!",
+      "sourceUrl": "https://geekdama.com.br/news/one-piece-loki-surge-em-sua-forma-hibrida-em-imagem-vazada-do-manga-1198",
+      "originalTitle": "One Piece: Loki surge em sua forma híbrida em imagem vazada do mangá 1198!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cf9c7892b3556bfa",
+      "publishedAt": "2026-11-05T14:16:42Z",
+      "title": "Wolcen 2 terá novo alpha fechado em 26 de novembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/wolcen-2-alpha-fechado-novembro",
+      "originalTitle": "Wolcen 2 terá novo alpha fechado em 26 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2bf708c9cdb5f899",
+      "publishedAt": "2026-11-05T14:15:42Z",
+      "title": "Code Geass: Novo anime ganha pôster oficial apresentando os personagens principais",
+      "sourceUrl": "https://ovicio.com.br/code-geass-novo-anime-ganha-poster-oficial-apresentando-os-personagens-principais",
+      "originalTitle": "Code Geass: Novo anime ganha pôster oficial apresentando os personagens principais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b9998e0ad0546fda",
+      "publishedAt": "2026-11-05T14:15:00Z",
+      "title": "Wolverine tem 2,4 milhões de cópias vendidas em 2 meses, ficando atrás de Marvel’s Spider-Man",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/wolverine-tem-24-milhoes-de-copias-vendidas-em-2-meses-ficando-atras-de-marvels-spider-man",
+      "originalTitle": "Wolverine tem 2,4 milhões de cópias vendidas em 2 meses, ficando atrás de Marvel’s Spider-Man",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-104db8adc536f57e",
+      "publishedAt": "2026-11-05T14:05:53Z",
+      "title": "Wondering Mate: anime curto estreia no YouTube 16/12",
+      "sourceUrl": "https://culpadolag.com.br/wondering-mate-anime-curto-estreia-no-youtube-1612",
+      "originalTitle": "Wondering Mate: anime curto estreia no YouTube 16/12",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64c1dce72c700506",
+      "publishedAt": "2026-11-05T14:00:37Z",
+      "title": "Xenoblade Chronicles: Definitive Edition Review",
+      "sourceUrl": "https://br.ign.com/video/82023/xenoblade-chronicles-definitive-edition-review",
+      "originalTitle": "Xenoblade Chronicles: Definitive Edition Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-019df8ee7d158d3e",
+      "publishedAt": "2026-11-05T14:00:00Z",
+      "title": "SONIC PICO PARK | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/sonic-pico-park-review",
+      "originalTitle": "SONIC PICO PARK | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e28669f0561d9d11",
+      "publishedAt": "2026-11-05T13:47:00Z",
+      "title": "Duna: Parte 3 | Zendaya diz que filme tem “várias diferenças” em relação ao livro",
+      "sourceUrl": "https://www.omelete.com.br/filmes/duna-parte-3-zendaya-filme-varias-mudancas-livro",
+      "originalTitle": "Duna: Parte 3 | Zendaya diz que filme tem “várias diferenças” em relação ao livro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3213428d6e97f3f4",
+      "publishedAt": "2026-11-05T13:43:24Z",
+      "title": "Henry Cavill cria jogo inspirado no polêmico bigode de Superman em Liga da Justiça",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/henry-cavill-cria-jogo-inspirado-no-polemico-bigode-de-superman-em-liga-da-justica.html",
+      "originalTitle": "Henry Cavill cria jogo inspirado no polêmico bigode de Superman em Liga da Justiça",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f8982d5aa6b4eafd",
+      "publishedAt": "2026-11-05T13:38:43Z",
+      "title": "DC prepara novo filme de Constantine, mas retorno de Keanu Reeves segue incerto",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/dc-prepara-novo-filme-de-constantine-mas-retorno-de-keanu-reeves-segue-incerto.html",
+      "originalTitle": "DC prepara novo filme de Constantine, mas retorno de Keanu Reeves segue incerto",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ac56e9717f68bdf0",
+      "publishedAt": "2026-11-05T13:27:38Z",
+      "title": "Nicolas Cage reage à escolha de Ryan Gosling como novo Motoqueiro Fantasma",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/nicolas-cage-reage-a-escolha-de-ryan-gosling-como-novo-motoqueiro-fantasma.html",
+      "originalTitle": "Nicolas Cage reage à escolha de Ryan Gosling como novo Motoqueiro Fantasma",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d7a277209e09f128",
+      "publishedAt": "2026-11-05T13:24:53Z",
+      "title": "Dragon Ball Super mostra como humanos podem acessar a energia de um Super Saiyajin",
+      "sourceUrl": "https://criticalhits.com.br/anime/dragon-ball-super-mostra-como-humanos-podem-acessar-a-energia-de-um-super-saiyajin",
+      "originalTitle": "Dragon Ball Super mostra como humanos podem acessar a energia de um Super Saiyajin",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d545989ec86eeb07",
+      "publishedAt": "2026-11-05T13:24:23Z",
+      "title": "Os 8 maiores rivais de Izuku em My Hero Academia",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-8-maiores-rivais-de-izuku-em-my-hero-academia",
+      "originalTitle": "Os 8 maiores rivais de Izuku em My Hero Academia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7a6beedc97d8a2f9",
+      "publishedAt": "2026-11-05T13:13:46Z",
+      "title": "‘Homem-Aranha: Um Novo Dia’ garante lucro EXPRESSIVO para a Sony Pictures em 2026",
+      "sourceUrl": "https://cinepop.com.br/homem-aranha-um-novo-dia-garante-lucro-expressivo-para-a-sony-pictures-em-2026-775003",
+      "originalTitle": "‘Homem-Aranha: Um Novo Dia’ garante lucro EXPRESSIVO para a Sony Pictures em 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-23f5b5e5cffec14c",
+      "publishedAt": "2026-11-05T13:10:54Z",
+      "title": "Selfie vazada do set entrega Ramrod em Spider-Man: Brand New Day e revela novo laboratório de vilões B da Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/selfie-vazada-ramrod-brand-new-day-marvel",
+      "originalTitle": "Selfie vazada do set entrega Ramrod em Spider-Man: Brand New Day e revela novo laboratório de vilões B da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-42f0f2b073db7c99",
+      "publishedAt": "2026-11-05T13:00:35Z",
+      "title": "Nintendo descarta novos aumentos no preço do Switch 2 em meio à queda nas vendas e nos lucros do console",
+      "sourceUrl": "https://br.ign.com/nintendo-switch-2/157343/nintendo-descarta-novos-aumentos-no-preco-do-switch-2-em-meio-a-queda-nas-vendas-e-nos-lucros-do-con",
+      "originalTitle": "Nintendo descarta novos aumentos no preço do Switch 2 em meio à queda nas vendas e nos lucros do console",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ec97ddc16358c630",
+      "publishedAt": "2026-11-05T13:00:00Z",
+      "title": "Doutor Destino: dois atores ajudaram a escrever roteiro?",
+      "sourceUrl": "https://www.einerd.com/vingadores-doutor-destino-creditos-roteiro",
+      "originalTitle": "Doutor Destino: dois atores ajudaram a escrever roteiro?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5295985df898b8da",
+      "publishedAt": "2026-11-05T12:52:01Z",
+      "title": "Jovem toma decisão DRÁSTICA no trailer inédito do anime distópico ‘Fool Night’; Confira!",
+      "sourceUrl": "https://cinepop.com.br/jovem-toma-decisao-drastica-no-trailer-inedito-do-anime-distopico-fool-night-confira-774997",
+      "originalTitle": "Jovem toma decisão DRÁSTICA no trailer inédito do anime distópico ‘Fool Night’; Confira!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-20e707e932ab9894",
+      "publishedAt": "2026-11-05T12:41:27Z",
+      "title": "AMD lança FSR 4.1.2 para Xbox Series às vésperas de GTA 6",
+      "sourceUrl": "https://www.hardware.com.br/games/amd-fsr-4-1-2-para-xbox-series-gta-6",
+      "originalTitle": "AMD lança FSR 4.1.2 para Xbox Series às vésperas de GTA 6",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-44d39575e082898e",
+      "publishedAt": "2026-11-05T12:32:35Z",
+      "title": "Meg’s Monster anunciado para PlayStation 5",
+      "sourceUrl": "https://www.otakupt.com/jogos/megs-monster-anunciado-para-playstation-5",
+      "originalTitle": "Meg’s Monster anunciado para PlayStation 5",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d6e85aebf02c9305",
+      "publishedAt": "2026-11-05T12:20:07Z",
+      "title": "Fool Night anime revela trailer, músicas e visual",
+      "sourceUrl": "https://culpadolag.com.br/fool-night-anime-revela-trailer-musicas-e-visual",
+      "originalTitle": "Fool Night anime revela trailer, músicas e visual",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-561901e1baa1791c",
+      "publishedAt": "2026-11-05T12:05:57Z",
+      "title": "O primeiro super-herói da Marvel acaba de fazer sua estreia no MCU",
+      "sourceUrl": "https://mixdeseries.com.br/primeiro-super-heroi-da-marvel-acaba-de-estrear",
+      "originalTitle": "O primeiro super-herói da Marvel acaba de fazer sua estreia no MCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-91978834172cf8af",
+      "publishedAt": "2026-11-05T11:38:21Z",
+      "title": "Nintendo revela calendário de jogos para o Switch 2 até 2027",
+      "sourceUrl": "https://criticalhits.com.br/games/nintendo-revela-calendario-de-jogos-para-o-switch-2-ate-2027",
+      "originalTitle": "Nintendo revela calendário de jogos para o Switch 2 até 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b3f24918b1d3d027",
+      "publishedAt": "2026-11-05T11:29:01.524000Z",
+      "title": "The Legend of Zelda: Ocarina of Time recebe ícones no Nintendo Switch Online",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-recebe-icones-no-nintendo-switch-online.html",
+      "originalTitle": "The Legend of Zelda: Ocarina of Time recebe ícones no Nintendo Switch Online",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0e04e0dc0239d27a",
+      "publishedAt": "2026-11-05T11:26:51Z",
+      "title": "Marvel resgata os Eternos e confirma o primeiro filme da Fase 7 — decisão reposiciona o MCU depois de Secret Wars",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-confirma-eternos-2-primeiro-filme-fase-7",
+      "originalTitle": "Marvel resgata os Eternos e confirma o primeiro filme da Fase 7 — decisão reposiciona o MCU depois de Secret Wars",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d744207d9c7d031f",
+      "publishedAt": "2026-11-05T11:20:42Z",
+      "title": "Nintendo Switch 2 ultrapassa 26,35 milhões de unidades vendidas mundialmente",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-switch-2-ultrapassa-26-milhoes-vendas.html",
+      "originalTitle": "Nintendo Switch 2 ultrapassa 26,35 milhões de unidades vendidas mundialmente",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c6c06163bf8da662",
+      "publishedAt": "2026-11-05T10:45:00Z",
+      "title": "Constantine terá reboot em novo filme no DC Studios com diretor de Evil Dead",
+      "sourceUrl": "https://www.omelete.com.br/filmes/constantine-tera-reboot-em-novo-filme-no-dc-studios-com-diretor-de-evil-dead",
+      "originalTitle": "Constantine terá reboot em novo filme no DC Studios com diretor de Evil Dead",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e81c009765e93331",
+      "publishedAt": "2026-11-05T10:30:51Z",
+      "title": "‘Percy Jackson e os Olimpianos’: 3ª temporada ganha trailer e estreia em novembro",
+      "sourceUrl": "https://www.einerd.com/percy-jackson-e-os-olimpianos-3a-temporada-ganha-trailer-e-estreia-em-novembro",
+      "originalTitle": "‘Percy Jackson e os Olimpianos’: 3ª temporada ganha trailer e estreia em novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-11-05T10:26:41Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-549d1e89137f547f",
+      "publishedAt": "2026-11-05T09:55:42Z",
+      "title": "Remake de Ocarina of Time já roda no PC com emulação do Switch 2",
+      "sourceUrl": "https://criticalhits.com.br/games/remake-de-ocarina-of-time-ja-roda-no-pc-com-emulacao-do-switch-2",
+      "originalTitle": "Remake de Ocarina of Time já roda no PC com emulação do Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6335e154ec11ff65",
+      "publishedAt": "2026-11-05T08:40:51Z",
+      "title": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-chega-com-cinco-cortes-diferentes-e-laboratorio-dcu",
+      "originalTitle": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-906b3866de3257d2",
+      "publishedAt": "2026-11-05T07:41:17Z",
+      "title": "Lenda da DC detona Lobo de Jason Momoa e expõe rachadura precoce no reboot de James Gunn",
+      "sourceUrl": "https://radiogeekbr.com.br/lenda-da-dc-detona-lobo-de-jason-momoa-no-reboot-dc",
+      "originalTitle": "Lenda da DC detona Lobo de Jason Momoa e expõe rachadura precoce no reboot de James Gunn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-d02c87dfdfecbbdd",
       "publishedAt": "2026-11-05T07:04:56Z",
@@ -27,11 +555,35 @@
       }
     },
     {
+      "id": "radar-44b9a673694004ff",
+      "publishedAt": "2026-11-05T06:40:50Z",
+      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
+      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-db964fbbf366ac6e",
       "publishedAt": "2026-11-05T05:40:50Z",
       "title": "Marvel antecipa 2028 e define Ms. Marvel como novo rosto do MCU — decisão mira geração Z e alivia crise de vilões",
       "sourceUrl": "https://radiogeekbr.com.br/marvel-elege-ms-marvel-novo-rosto-mcu-pos-vingadores",
       "originalTitle": "Marvel antecipa 2028 e define Ms. Marvel como novo rosto do MCU — decisão mira geração Z e alivia crise de vilões",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2c40209c5b02aa72",
+      "publishedAt": "2026-11-05T05:40:50Z",
+      "title": "Auto-crítica de Chugong expõe a rachadura narrativa por trás do fenômeno Solo Leveling",
+      "sourceUrl": "https://radiogeekbr.com.br/autocritica-chugong-sololeveling-rachadura-narrativa",
+      "originalTitle": "Auto-crítica de Chugong expõe a rachadura narrativa por trás do fenômeno Solo Leveling",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -231,11 +783,47 @@
       }
     },
     {
+      "id": "radar-983bbfcfd7e7da77",
+      "publishedAt": "2026-11-04T23:48:56Z",
+      "title": "Checklist novembro de 2026 – Editora Panini",
+      "sourceUrl": "https://blogbbm.com/2026/11/04/checklist-novembro-de-2026-editora-panini",
+      "originalTitle": "Checklist novembro de 2026 – Editora Panini",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d9352c8230c92a0f",
+      "publishedAt": "2026-11-04T23:45:00Z",
+      "title": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/rog-xbox-ally-x20-chega-ao-brasil-com-visual-retro-por-r-15999",
+      "originalTitle": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-c5a5a685798f9f44",
       "publishedAt": "2026-11-04T23:35:00Z",
       "title": "Mackenyu será Mashle no filme live-action; assista ao primeiro trailer",
       "sourceUrl": "https://www.omelete.com.br/mangas-animes/mackenyu-sera-mashle-no-filme-live-action-assista-ao-primeiro-trailer",
       "originalTitle": "Mackenyu será Mashle no filme live-action; assista ao primeiro trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2a3361136d6c672d",
+      "publishedAt": "2026-11-04T23:31:19Z",
+      "title": "Mangá Otaku Vampire’s Love Bite É Anunciado em Adaptação para Anime para Televisão",
+      "sourceUrl": "https://www.animeunited.com.br/noticias/manga-otaku-vampires-love-bite-e-anunciado-em-adaptacao-para-anime-para-televisao",
+      "originalTitle": "Mangá Otaku Vampire’s Love Bite É Anunciado em Adaptação para Anime para Televisão",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -968,18 +1556,6 @@
       "title": "Sony antecipa estreia internacional de Beyond the Spider-Verse e lança recado velado a Hollywood",
       "sourceUrl": "https://radiogeekbr.com.br/sony-antecipa-beyond-the-spider-verse-estreia-internacional",
       "originalTitle": "Sony antecipa estreia internacional de Beyond the Spider-Verse e lança recado velado a Hollywood",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-11-04T12:26:15Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2888,18 +3464,6 @@
       "title": "Vingadores: Doutor Destino | Confira novas imagens dos X-Men e mais",
       "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-novas-imagens-x-men-e-mais",
       "originalTitle": "Vingadores: Doutor Destino | Confira novas imagens dos X-Men e mais",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-44b9a673694004ff",
-      "publishedAt": "2026-11-02T20:41:07Z",
-      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
-      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "translated": false,
       "editorialReview": {
         "status": "native",
