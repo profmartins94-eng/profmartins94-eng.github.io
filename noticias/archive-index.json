@@ -1,7 +1,331 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T18:52:06.637760Z",
+  "updatedAt": "2026-11-05T00:31:52.324106Z",
   "articles": [
+    {
+      "id": "radar-f98a4a55770c9f1a",
+      "publishedAt": "2026-11-05T00:16:00Z",
+      "title": "Bocchi the Rock! vai ganhar novo filme em 2027; veja teaser",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/bocchi-the-rock-vai-ganhar-novo-filme-em-2027-veja-teaser",
+      "originalTitle": "Bocchi the Rock! vai ganhar novo filme em 2027; veja teaser",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a3504689d5878578",
+      "publishedAt": "2026-11-05T00:02:09Z",
+      "title": "Compra antecipada não garante download automático de GTA 6",
+      "sourceUrl": "https://dropsdejogos.uai.com.br/noticias/industria/compra-antecipada-nao-garante-download-automatico-de-gta-6",
+      "originalTitle": "Compra antecipada não garante download automático de GTA 6",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1f2c6e4e65d1ffce",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "title": "Arkane em Risco: Microsoft é acusada de sabotar Marvel’s Blade",
+      "sourceUrl": "https://www.einerd.com/microsoft-sabotagem-marvels-blade-arkane-risco",
+      "originalTitle": "Arkane em Risco: Microsoft é acusada de sabotar Marvel’s Blade",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-be956d8b6d197098",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "title": "Análise: Azure Striker Gunvolt Trilogy Enhanced Nintendo Switch 2 Edition reúne as três aventuras de Gunvolt em uma ótima coletânea",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/azure-striker-gunvolt-trilogy-enhanced-nintendo-switch-2-edition-analise-critica-review.html",
+      "originalTitle": "Análise: Azure Striker Gunvolt Trilogy Enhanced Nintendo Switch 2 Edition reúne as três aventuras de Gunvolt em uma ótima coletânea",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aa8c5da51a255a6a",
+      "publishedAt": "2026-11-04T23:58:00Z",
+      "title": "Disney prepara nova grande rodada de demissões",
+      "sourceUrl": "https://www.omelete.com.br/filmes/disney-prepara-nova-grande-rodada-de-demissoes",
+      "originalTitle": "Disney prepara nova grande rodada de demissões",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c3b385a2f3efec41",
+      "publishedAt": "2026-11-04T23:51:16Z",
+      "title": "Reincarnated as a Sword 2 revela trailer e novos dubladores",
+      "sourceUrl": "https://animenew.com.br/reincarnated-as-a-sword-2-trailer-elenco",
+      "originalTitle": "Reincarnated as a Sword 2 revela trailer e novos dubladores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c5a5a685798f9f44",
+      "publishedAt": "2026-11-04T23:35:00Z",
+      "title": "Mackenyu será Mashle no filme live-action; assista ao primeiro trailer",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/mackenyu-sera-mashle-no-filme-live-action-assista-ao-primeiro-trailer",
+      "originalTitle": "Mackenyu será Mashle no filme live-action; assista ao primeiro trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1a0469120d106c84",
+      "publishedAt": "2026-11-04T23:10:12Z",
+      "title": "Xbox Cloud Gaming testa celular como controle na TV",
+      "sourceUrl": "https://www.einerd.com/xbox-cloud-gaming-celular-controle-nano-controller",
+      "originalTitle": "Xbox Cloud Gaming testa celular como controle na TV",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-acbbf7bc51558b34",
+      "publishedAt": "2026-11-04T22:30:00Z",
+      "title": "Michael C. Hall reage ao carinho dos fãs brasileiros: “Não sinto que isso me pertence”",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/dexter-ressurreicao-2a-temporada-entrevista-michael-c-hall-reage-carinho-fas",
+      "originalTitle": "Michael C. Hall reage ao carinho dos fãs brasileiros: “Não sinto que isso me pertence”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-177e1dff5f72838b",
+      "publishedAt": "2026-11-04T22:30:00Z",
+      "title": "Wind of Change | Cinebiografia do Scorpions ganha data de lançamento",
+      "sourceUrl": "https://www.omelete.com.br/filmes/wind-of-change-cinebiografia-scorpions-data-de-lancamento",
+      "originalTitle": "Wind of Change | Cinebiografia do Scorpions ganha data de lançamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-59ad19991654a1f3",
+      "publishedAt": "2026-11-04T22:06:00Z",
+      "title": "Warhammer | Mike Flanagan atualiza situação da série com Henry Cavill",
+      "sourceUrl": "https://www.omelete.com.br/games/warhammer-mike-flanagan-atualiza-situacao-da-serie-com-henry-cavill",
+      "originalTitle": "Warhammer | Mike Flanagan atualiza situação da série com Henry Cavill",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-faede384e7a25f06",
+      "publishedAt": "2026-11-04T22:04:00Z",
+      "title": "Nosso Lar 3 - Vida Eterna | Assista ao trailer oficial do filme (exclusivo)",
+      "sourceUrl": "https://www.omelete.com.br/filmes/nosso-lar-3-vida-eterna-trailer-filme",
+      "originalTitle": "Nosso Lar 3 - Vida Eterna | Assista ao trailer oficial do filme (exclusivo)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2462b013d26f7361",
+      "publishedAt": "2026-11-04T21:58:33Z",
+      "title": "VisionQuest ganha podcast oficial antes da estreia do finale",
+      "sourceUrl": "https://www.maquinanerd.com.br/series-e-tv/visionquest-ganha-podcast-oficial-antes-da-estreia-do-finale",
+      "originalTitle": "VisionQuest ganha podcast oficial antes da estreia do finale",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-99b942af9b05c632",
+      "publishedAt": "2026-11-04T21:55:00Z",
+      "title": "MASHLE: MAGIA E MÚSCULOS ganhará filme em live-action, com estreia marcada para 19 de março de 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/4/filme-live-action-mashle-magia-e-musculos-marco-2027",
+      "originalTitle": "MASHLE: MAGIA E MÚSCULOS ganhará filme em live-action, com estreia marcada para 19 de março de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1404b3de7390289b",
+      "publishedAt": "2026-11-04T21:49:46Z",
+      "title": "Maya Hawke, de ‘Stranger Things’ e ‘Jogos Vorazes’, irá estrelar a adaptação em LIVE-ACTION de ‘Magic: The Gathering’",
+      "sourceUrl": "https://cinepop.com.br/maya-hawke-de-stranger-things-e-jogos-vorazes-ira-estrelar-a-adaptacao-em-live-action-de-magic-the-gathering-774963",
+      "originalTitle": "Maya Hawke, de ‘Stranger Things’ e ‘Jogos Vorazes’, irá estrelar a adaptação em LIVE-ACTION de ‘Magic: The Gathering’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c5c24884efe1d5d1",
+      "publishedAt": "2026-11-04T21:47:00Z",
+      "title": "Chicago Fire | Taylor Kinney reflete sobre chegar a 300 episódios: “Nunca imaginei”",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/chicago-fire-taylor-kinney-reflete-300-episodios-nunca-imaginei",
+      "originalTitle": "Chicago Fire | Taylor Kinney reflete sobre chegar a 300 episódios: “Nunca imaginei”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-68f9e40a8b6a935d",
+      "publishedAt": "2026-11-04T21:45:00Z",
+      "title": "Black Clover | 2ª temporada coloca anime como mais assistido da Crunchyroll",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/black-clover-2a-temporada-anime-mais-assistido-crunchyroll",
+      "originalTitle": "Black Clover | 2ª temporada coloca anime como mais assistido da Crunchyroll",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3826f084c175853d",
+      "publishedAt": "2026-11-04T21:30:39Z",
+      "title": "Diretor de cinema diz que a série Warhammer 40K de Henry Cavill tem um ponto de partida inesperado, e essa é a melhor notícia possível",
+      "sourceUrl": "https://br.ign.com/cinema-tv/157324/diretor-de-cinema-diz-que-a-serie-warhammer-40k-de-henry-cavill-tem-um-ponto-de-partida-inesperado-e",
+      "originalTitle": "Diretor de cinema diz que a série Warhammer 40K de Henry Cavill tem um ponto de partida inesperado, e essa é a melhor notícia possível",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cdbbb749ccf29f9c",
+      "publishedAt": "2026-11-04T21:24:00Z",
+      "title": "Compositor de Dragon Ball Z vence eleição nos EUA",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/compositor-de-dragon-ball-z-vence-eleicao-nos-eua",
+      "originalTitle": "Compositor de Dragon Ball Z vence eleição nos EUA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-03b5e3c5d7bc2d8e",
+      "publishedAt": "2026-11-04T21:15:00Z",
+      "title": "‘Black Clover’ bate recorde com luta de Magna contra Dante",
+      "sourceUrl": "https://www.einerd.com/black-clover-magna-dante-episodio-recorde-imdb",
+      "originalTitle": "‘Black Clover’ bate recorde com luta de Magna contra Dante",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c0df207616cdb856",
+      "publishedAt": "2026-11-04T21:06:00Z",
+      "title": "Avatar: Os Sete Refúgios | Produtora revela destino de Asami na 2ª temporada",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/avatar-os-sete-refugios-destino-asami-2a-temporada",
+      "originalTitle": "Avatar: Os Sete Refúgios | Produtora revela destino de Asami na 2ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0f779f137861f4ba",
+      "publishedAt": "2026-11-04T21:03:16Z",
+      "title": "VisionQuest revela a identidade do Cliente no episódio 7",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/visionquest-revela-a-identidade-do-cliente-no-episodio-7",
+      "originalTitle": "VisionQuest revela a identidade do Cliente no episódio 7",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aee479de858a5626",
+      "publishedAt": "2026-11-04T21:00:07Z",
+      "title": "Compositor de Dragon Ball Z é eleito procurador-geral do Texas",
+      "sourceUrl": "https://criticalhits.com.br/games/compositor-de-dragon-ball-z-e-eleito-procurador-geral-do-texas",
+      "originalTitle": "Compositor de Dragon Ball Z é eleito procurador-geral do Texas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a128d2ba129d590c",
+      "publishedAt": "2026-11-04T21:00:00Z",
+      "title": "Nintendo Switch Sports Resort | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/nintendo-switch-sports-resort-review",
+      "originalTitle": "Nintendo Switch Sports Resort | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a491269a3e6726be",
+      "publishedAt": "2026-11-04T20:56:27Z",
+      "title": "Morre Silvio Matos, ator e dublador, aos 82 anos",
+      "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/celebridades/morre-silvio-matos-ator-e-dublador-aos-82-anos-149824",
+      "originalTitle": "Morre Silvio Matos, ator e dublador, aos 82 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c5375137219233d3",
+      "publishedAt": "2026-11-04T19:20:26Z",
+      "title": "John Nolan, ator de Batman Begins e tio de Christopher Nolan, morre aos 87 anos",
+      "sourceUrl": "https://cinepop.com.br/john-nolan-ator-de-batman-begins-e-tio-de-christopher-nolan-morre-aos-87-anos-728113",
+      "originalTitle": "John Nolan, ator de Batman Begins e tio de Christopher Nolan, morre aos 87 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a7107a252e3796e1",
+      "publishedAt": "2026-11-04T18:56:36Z",
+      "title": "Sindicato acusa XBOX de sabotar desenvolvimento de Marvel’s Blade",
+      "sourceUrl": "https://ovicio.com.br/sindicato-acusa-xbox-de-sabotar-desenvolvimento-de-marvels-blade",
+      "originalTitle": "Sindicato acusa XBOX de sabotar desenvolvimento de Marvel’s Blade",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-1fb016288bb73ee7",
       "publishedAt": "2026-11-04T18:32:00Z",
@@ -20,6 +344,42 @@
       "title": "Xbox acusada de sabotar a Arkane e Marvel's Blade",
       "sourceUrl": "https://www.eurogamer.pt/xbox-acusada-de-sabotar-a-arkane-e-marvels-blade",
       "originalTitle": "Xbox acusada de sabotar a Arkane e Marvel's Blade",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cbe728b0479e74c",
+      "publishedAt": "2026-11-04T18:11:36Z",
+      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
+      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ad38d579b2dc10e",
+      "publishedAt": "2026-11-04T18:11:36Z",
+      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
+      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-306ce0cb788cc2af",
+      "publishedAt": "2026-11-04T18:11:36Z",
+      "title": "Anel assimétrico de John Stewart expõe a nova regra dos Lanternas no DCU de James Gunn",
+      "sourceUrl": "https://radiogeekbr.com.br/anel-assimetrico-john-stewart-expoe-nova-regra-lanternas-dcu-james-gunn",
+      "originalTitle": "Anel assimétrico de John Stewart expõe a nova regra dos Lanternas no DCU de James Gunn",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -351,6 +711,18 @@
       }
     },
     {
+      "id": "radar-c07fe967af63285b",
+      "publishedAt": "2026-11-04T12:57:48Z",
+      "title": "Quanto tempo leva para terminar o remake de The Legend of Zelda: Ocarina of Time?",
+      "sourceUrl": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157303/quanto-tempo-leva-para-terminar-o-remake-de-the-legend-of-zelda-ocarina-of-time",
+      "originalTitle": "Quanto tempo leva para terminar o remake de The Legend of Zelda: Ocarina of Time?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-f6ff2fe47fdd825b",
       "publishedAt": "2026-11-04T12:36:45.417000Z",
       "title": "Console Archives: Elevator Action chega ao Switch 2 em 5 de novembro",
@@ -387,11 +759,35 @@
       }
     },
     {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-11-04T12:26:15Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-be0edff62b58d21a",
+      "publishedAt": "2026-11-04T12:16:00Z",
+      "title": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-mais-13-jogos-no-inicio-de-novembro-confira-a-lista",
+      "originalTitle": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-d1535f518734dd07",
       "publishedAt": "2026-11-04T12:03:44Z",
-      "title": "RUMOR: Personagens de ‘Pacificador’ podem aparecer em ‘The People v. Gorilla Grodd’, série derivada de ‘Superman’",
+      "title": "RUMOR: Personagens de 'Pacificador' podem aparecer em 'The People v. Gorilla Grodd', série derivada de 'Superman'",
       "sourceUrl": "https://cinepop.com.br/rumor-personagens-de-pacificador-podem-aparecer-em-the-people-v-gorilla-grodd-serie-derivada-de-superman-774870",
-      "originalTitle": "RUMOR: Personagens de ‘Pacificador’ podem aparecer em ‘The People v. Gorilla Grodd’, série derivada de ‘Superman’",
+      "originalTitle": "RUMOR: Personagens de 'Pacificador' podem aparecer em 'The People v. Gorilla Grodd', série derivada de 'Superman'",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -903,6 +1299,18 @@
       }
     },
     {
+      "id": "radar-91288bf00965dcad",
+      "publishedAt": "2026-11-04T00:40:26Z",
+      "title": "Otaku Vampire’s Love Bite ganha adaptação para anime",
+      "sourceUrl": "https://animenew.com.br/otaku-vampires-love-bite-anime",
+      "originalTitle": "Otaku Vampire’s Love Bite ganha adaptação para anime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-3cb482f76ce4b2a0",
       "publishedAt": "2026-11-04T00:32:15Z",
       "title": "Estrela dos anos 1980 diz que filme da Marvel com cena íntima infame rendeu 'muito dinheiro' apesar de críticas e fracasso de bilheteria",
@@ -992,18 +1400,6 @@
       "title": "Eglantine: Emulador de Nintendo Switch 2 evolui no PC e consegue rodar Mario Kart World a 60 FPS",
       "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/eglantine-emulador-de-nintendo-switch-2-evolui-no-pc-e-consegue-rodar-mario-kart-world-a-60-fps",
       "originalTitle": "Eglantine: Emulador de Nintendo Switch 2 evolui no PC e consegue rodar Mario Kart World a 60 FPS",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-be0edff62b58d21a",
-      "publishedAt": "2026-11-03T23:05:00Z",
-      "title": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-mais-13-jogos-no-inicio-de-novembro-confira-a-lista",
-      "originalTitle": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1707,30 +2103,6 @@
       }
     },
     {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-11-03T15:11:10Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6cbe728b0479e74c",
-      "publishedAt": "2026-11-03T15:11:10Z",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-b131becc66c07382",
       "publishedAt": "2026-11-03T15:00:00Z",
       "title": "Escape Academy 2: Back 2 School | Review",
@@ -1796,18 +2168,6 @@
       "title": "2ª temporada de Samurai de Olhos Azuis confirma data de estreia em janeiro de 2027",
       "sourceUrl": "https://br.ign.com/blue-eye-samurai/157257/2a-temporada-de-samurai-de-olhos-azuis-confirma-data-de-estreia-em-janeiro-de-2027",
       "originalTitle": "2ª temporada de Samurai de Olhos Azuis confirma data de estreia em janeiro de 2027",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a491269a3e6726be",
-      "publishedAt": "2026-11-03T14:20:01Z",
-      "title": "Morre Silvio Matos, ator e dublador, aos 82 anos",
-      "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/celebridades/morre-silvio-matos-ator-e-dublador-aos-82-anos-149824",
-      "originalTitle": "Morre Silvio Matos, ator e dublador, aos 82 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2900,18 +3260,6 @@
       "title": "American Hostage expõe a farsa por trás da imunidade de Tony",
       "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/american-hostage-expoe-a-farsa-por-tras-da-imunidade-de-tony",
       "originalTitle": "American Hostage expõe a farsa por trás da imunidade de Tony",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1ad38d579b2dc10e",
-      "publishedAt": "2026-11-02T11:11:20Z",
-      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
-      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
-      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
       "translated": false,
       "editorialReview": {
         "status": "native",
