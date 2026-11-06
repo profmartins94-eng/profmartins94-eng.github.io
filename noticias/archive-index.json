@@ -1,7 +1,427 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T11:29:31.619504Z",
+  "updatedAt": "2026-11-06T18:27:42.989025Z",
   "articles": [
+    {
+      "id": "radar-ae4cb12674af2c8c",
+      "publishedAt": "2026-11-06T18:20:53Z",
+      "title": "Boruto revela o deus mais poderoso do mundo ninja",
+      "sourceUrl": "https://criticalhits.com.br/anime/boruto-revela-o-deus-mais-poderoso-do-mundo-ninja",
+      "originalTitle": "Boruto revela o deus mais poderoso do mundo ninja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e33ace2d82d25399",
+      "publishedAt": "2026-11-06T18:20:20Z",
+      "title": "Pokémon Winds & Waves será crucial para o Switch 2, diz Nintendo",
+      "sourceUrl": "https://criticalhits.com.br/games/pokemon-winds-waves-sera-crucial-para-o-switch-2-diz-nintendo",
+      "originalTitle": "Pokémon Winds & Waves será crucial para o Switch 2, diz Nintendo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c8a7c9a808f67b84",
+      "publishedAt": "2026-11-06T18:20:07Z",
+      "title": "Hulk ganhará nova série com nova equipe criativa",
+      "sourceUrl": "https://criticalhits.com.br/quadrinhos/hulk-ganhara-nova-serie-com-nova-equipe-criativa",
+      "originalTitle": "Hulk ganhará nova série com nova equipe criativa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c09fcbab3e4d71a8",
+      "publishedAt": "2026-11-06T18:19:25Z",
+      "title": "Xbox Series X e S recebem FSR 4.1 e podem ganhar gráficos melhores com inteligência artificial",
+      "sourceUrl": "https://pop.proddigital.com.br/noticias/noticias-de-games/xbox-series-x-e-s-recebem-fsr-4-1-e-podem-ganhar-graficos-melhores-com-inteligencia-artificial",
+      "originalTitle": "Xbox Series X e S recebem FSR 4.1 e podem ganhar gráficos melhores com inteligência artificial",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a272e9d705a0c81c",
+      "publishedAt": "2026-11-06T18:15:00Z",
+      "title": "Evento dos Golpes no GTA Online garante GTA$ em dobro e itens raros até 11 de novembro",
+      "sourceUrl": "https://arkade.com.br/evento-dos-golpes-no-gta-online-garante-gta-em-dobro-e-itens-raros-ate-11-de-novembro",
+      "originalTitle": "Evento dos Golpes no GTA Online garante GTA$ em dobro e itens raros até 11 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-81ec2db96b584358",
+      "publishedAt": "2026-11-06T18:00:54Z",
+      "title": "Space Jam comemora seus 30 anos de história junto com a Crocs, com o Classic Clog do Tune Squad",
+      "sourceUrl": "https://arkade.com.br/space-jam-comemora-seus-30-anos-de-historia-junto-com-a-crocs-com-o-classic-clog-inspirado-no-filme",
+      "originalTitle": "Space Jam comemora seus 30 anos de história junto com a Crocs, com o Classic Clog do Tune Squad",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-927bad4c3ea05e81",
+      "publishedAt": "2026-11-06T18:00:40Z",
+      "title": "Para ator e diretor de Dungeons & Dragons, \"o sonho sempre foi lançar uma série de Dragonlance\"",
+      "sourceUrl": "https://br.ign.com/dungeons-and-dragons/157381/para-ator-e-diretor-de-dungeons-dragons-o-sonho-sempre-foi-lancar-uma-serie-de-dragonlance",
+      "originalTitle": "Para ator e diretor de Dungeons & Dragons, \"o sonho sempre foi lançar uma série de Dragonlance\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-070fbc4b8a504ab1",
+      "publishedAt": "2026-11-06T17:52:28Z",
+      "title": "Stranger Things vai ganhar derivado ambientado nos anos 1950",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/stranger-things-outros-mundos-serie-2028",
+      "originalTitle": "Stranger Things vai ganhar derivado ambientado nos anos 1950",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-89fbbd6eb0848754",
+      "publishedAt": "2026-11-06T17:51:00Z",
+      "title": "Witch Watch: Mangá está chegando ao fim",
+      "sourceUrl": "https://ovicio.com.br/witch-watch-manga-esta-chegando-ao-fim",
+      "originalTitle": "Witch Watch: Mangá está chegando ao fim",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f71f46219fb33ee4",
+      "publishedAt": "2026-11-06T17:30:00Z",
+      "title": "Outros Mundos: Uma Aventura Stranger Things chega em 2028 como prequel da série ambientada nos anos 1950",
+      "sourceUrl": "https://arkade.com.br/outros-mundos-uma-aventura-stranger-things-chega-em-2028-como-prequel-da-serie-ambientada-nos-anos-1950",
+      "originalTitle": "Outros Mundos: Uma Aventura Stranger Things chega em 2028 como prequel da série ambientada nos anos 1950",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a5e3ad97c723bdff",
+      "publishedAt": "2026-11-06T17:21:06Z",
+      "title": "Stranger Things ganhará nova série com estreia prevista para 2028",
+      "sourceUrl": "https://mixdeseries.com.br/stranger-things-ganhara-nova-serie-em-2028",
+      "originalTitle": "Stranger Things ganhará nova série com estreia prevista para 2028",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ffe81e5a2bc55e10",
+      "publishedAt": "2026-11-06T17:11:00Z",
+      "title": "Ninguém Quer | Netflix renova série de comédia para a 4ª temporada",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/ninguem-quer-netflix-serie-renovada-4a-temporada",
+      "originalTitle": "Ninguém Quer | Netflix renova série de comédia para a 4ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7fb9f3b5775a0dbb",
+      "publishedAt": "2026-11-06T16:58:00Z",
+      "title": "Crepúsculo ganhará série animada adulta com duas temporadas na Netflix",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/crepusculo-ganhara-serie-animada-adulta-com-duas-temporadas-na-netflix",
+      "originalTitle": "Crepúsculo ganhará série animada adulta com duas temporadas na Netflix",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e919dc6f23f8de28",
+      "publishedAt": "2026-11-06T16:45:29Z",
+      "title": "Naruto, One Piece e Dragon Ball no celular: saiba como checar se seu plano libera o resgate de livros no Skeelo",
+      "sourceUrl": "https://br.ign.com/descontos/157408/naruto-one-piece-e-dragon-ball-no-celular-saiba-como-checar-se-seu-plano-libera-o-resgate-de-livros",
+      "originalTitle": "Naruto, One Piece e Dragon Ball no celular: saiba como checar se seu plano libera o resgate de livros no Skeelo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9f85448a13cdef65",
+      "publishedAt": "2026-11-06T16:40:00Z",
+      "title": "Vingadores: Doutor Destino | Novo comercial revela castelo de Doom e cenas inéditas do filme",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-novo-comercial-revela-castelo-de-doom-e-cenas-ineditas",
+      "originalTitle": "Vingadores: Doutor Destino | Novo comercial revela castelo de Doom e cenas inéditas do filme",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dc2866929dd30865",
+      "publishedAt": "2026-11-06T16:18:44Z",
+      "title": "Anime de romance Rainy Day Serenade vai estrear em abril 2027",
+      "sourceUrl": "https://www.otakupt.com/anime/anime-de-romance-rainy-day-serenade-vai-estrear-em-abril-2027",
+      "originalTitle": "Anime de romance Rainy Day Serenade vai estrear em abril 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-50518f37e360f4b2",
+      "publishedAt": "2026-11-06T16:13:26Z",
+      "title": "Final Edition: pré-venda do volume 11 do mangá brasileiro dos Cavaleiros do Zodíaco!",
+      "sourceUrl": "https://m.cavzodiaco.com.br/noticia/06/11/2026/final-edition-pre-venda-do-volume-11-do-manga-brasileiro-dos-cavaleiros-do-zodiaco",
+      "originalTitle": "Final Edition: pré-venda do volume 11 do mangá brasileiro dos Cavaleiros do Zodíaco!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65ff80f5edd50931",
+      "publishedAt": "2026-11-06T16:11:10Z",
+      "title": "Próxima semana em XBOX: novos jogos de 9 a 13 de novembro",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/06/proxima-semana-em-xbox-novos-jogos-de-9-a-13-de-novembro",
+      "originalTitle": "Próxima semana em XBOX: novos jogos de 9 a 13 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a2acb541d10c2075",
+      "publishedAt": "2026-11-06T16:05:27Z",
+      "title": "Seiko lança relógio de revólver inspirado no pistoleiro do anime Lupin III",
+      "sourceUrl": "https://www.oficinadanet.com.br/smartwatches/73956-seiko-lupin-iii-relogio-daisuke-jigen-edicao-limitada",
+      "originalTitle": "Seiko lança relógio de revólver inspirado no pistoleiro do anime Lupin III",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e5439754b713bd4a",
+      "publishedAt": "2026-11-06T16:00:33Z",
+      "title": "Recomendada por 93% dos espectadores, uma das melhores séries da Netflix retorna após 3 anos",
+      "sourceUrl": "https://br.ign.com/blue-eye-samurai/157374/recomendada-por-93-dos-espectadores-uma-das-melhores-series-da-netflix-retorna-apos-3-anos",
+      "originalTitle": "Recomendada por 93% dos espectadores, uma das melhores séries da Netflix retorna após 3 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-acdc94b58da3da67",
+      "publishedAt": "2026-11-06T16:00:00Z",
+      "title": "O que acontece com os capangas de supervilões? Marvel revela",
+      "sourceUrl": "https://www.einerd.com/capangas-viloes-marvel-plano-saude",
+      "originalTitle": "O que acontece com os capangas de supervilões? Marvel revela",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aa6cec7675055cc6",
+      "publishedAt": "2026-11-06T15:53:04Z",
+      "title": "MARVEL Cosmic Invasion divulga 15 minutos de gameplay do novo DLC",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/marvel-cosmic-invasion-gameplay-dlc",
+      "originalTitle": "MARVEL Cosmic Invasion divulga 15 minutos de gameplay do novo DLC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c48df238871c3c00",
+      "publishedAt": "2026-11-06T15:47:38Z",
+      "title": "Anime Wound & Bandage revela detalhes sobre música de abertura e mais membros no elenco de voz",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/6/wound-bandage-anime-trailer-reveals-miyavi-opening-theme-song-more-cast",
+      "originalTitle": "Anime Wound & Bandage revela detalhes sobre música de abertura e mais membros no elenco de voz",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6a3612d715ddda3b",
+      "publishedAt": "2026-11-06T15:45:00Z",
+      "title": "Casa Branca usa Zelda Ocarina of Time para promover Donald Trump! Entenda",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/casa-branca-usa-zelda-ocarina-of-time-para-promover-donald-trump-entenda",
+      "originalTitle": "Casa Branca usa Zelda Ocarina of Time para promover Donald Trump! Entenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0339006ec6c896dc",
+      "publishedAt": "2026-11-06T15:20:53Z",
+      "title": "Anime Ásia Fest transforma Franco da Rocha em um pedacinho da Ásia com gastronomia, K-POP, animes e cosplays",
+      "sourceUrl": "https://jornaldigitaldaregiaooeste.com.br/anime-asia-fest-transforma-franco-da-rocha-em-um-pedacinho-da-asia-com-gastronomia-k-pop-animes-e-cosplays",
+      "originalTitle": "Anime Ásia Fest transforma Franco da Rocha em um pedacinho da Ásia com gastronomia, K-POP, animes e cosplays",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f4a095bfd01eed3c",
+      "publishedAt": "2026-11-06T15:04:27Z",
+      "title": "The Vermilion Mask anime estreia em 10/10",
+      "sourceUrl": "https://culpadolag.com.br/the-vermilion-mask-anime-estreia-em-1010",
+      "originalTitle": "The Vermilion Mask anime estreia em 10/10",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-642c017546aac48a",
+      "publishedAt": "2026-11-06T15:02:00Z",
+      "title": "John Lasseter | Criador da Pixar retorna à direção com novo filme de animação, Cosmic Motors",
+      "sourceUrl": "https://www.omelete.com.br/filmes/john-lasseter-retorno-direcao-cosmic-motors-animacao",
+      "originalTitle": "John Lasseter | Criador da Pixar retorna à direção com novo filme de animação, Cosmic Motors",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95855c2167f12171",
+      "publishedAt": "2026-11-06T14:38:33Z",
+      "title": "Jaden Industries: Cozy Automation Puzzler chega ao Switch e Switch 2 em 23 de novembro",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/jaden-industries-chega-switch-switch2-23-novembro.html",
+      "originalTitle": "Jaden Industries: Cozy Automation Puzzler chega ao Switch e Switch 2 em 23 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bbf9cd0b7351440d",
+      "publishedAt": "2026-11-06T14:13:51Z",
+      "title": "Call of Duty: Modern Warfare 4 detalha Passe de Batalha e BlackCell da Temporada 1",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/call-of-duty-modern-warfare-4-passe",
+      "originalTitle": "Call of Duty: Modern Warfare 4 detalha Passe de Batalha e BlackCell da Temporada 1",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b300d51ba6e9be8c",
+      "publishedAt": "2026-11-06T13:22:25Z",
+      "title": "John Wick vai contar sua missão impossível em animação para adultos com retorno de Keanu Reeves",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/john-wick-vai-contar-sua-missao-impossivel-em-animacao-para-adultos-com-retorno-de-keanu-reeves.html",
+      "originalTitle": "John Wick vai contar sua missão impossível em animação para adultos com retorno de Keanu Reeves",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c61d6a5717251ddd",
+      "publishedAt": "2026-11-06T12:44:00Z",
+      "title": "Looney Tunes | Após abrir mão de Coyote vs. Acme, Warner desenvolve novo filme dos mascotes",
+      "sourceUrl": "https://www.omelete.com.br/filmes/looney-tunes-apos-coyote-vs-acme-warner-desenvolve-novo-filme-dos-mascotes",
+      "originalTitle": "Looney Tunes | Após abrir mão de Coyote vs. Acme, Warner desenvolve novo filme dos mascotes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e35180372739a0ff",
+      "publishedAt": "2026-11-06T12:22:32Z",
+      "title": "Neil Broadley, diretor de localização da franquia SaGa, morre após luta contra câncer",
+      "sourceUrl": "https://criticalhits.com.br/games/neil-broadley-diretor-de-localizacao-da-franquia-saga-morre-apos-luta-contra-cancer",
+      "originalTitle": "Neil Broadley, diretor de localização da franquia SaGa, morre após luta contra câncer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-11-06T11:41:40Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6335e154ec11ff65",
+      "publishedAt": "2026-11-06T11:41:40Z",
+      "title": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-chega-com-cinco-cortes-diferentes-e-laboratorio-dcu",
+      "originalTitle": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-661f4c05dab500ae",
+      "publishedAt": "2026-11-06T11:41:40Z",
+      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
+      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-dc29dbc872462fe9",
       "publishedAt": "2026-11-06T11:21:06Z",
@@ -87,6 +507,42 @@
       }
     },
     {
+      "id": "radar-95283e1f72bd83b7",
+      "publishedAt": "2026-11-06T10:42:04Z",
+      "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
+      "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-66de1db6599f8abb",
+      "publishedAt": "2026-11-06T10:30:44Z",
+      "title": "‘Fool Night’: Netflix divulga trailer do anime de ficção científica de Sunrise e Shaft",
+      "sourceUrl": "https://www.einerd.com/fool-night-netflix-divulga-trailer-do-anime-de-ficcao-cientifica-de-sunrise-e-shaft",
+      "originalTitle": "‘Fool Night’: Netflix divulga trailer do anime de ficção científica de Sunrise e Shaft",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b04bb53c0025ae5e",
+      "publishedAt": "2026-11-06T10:30:40Z",
+      "title": "Nintendo descarta novo aumento no preço do Switch 2",
+      "sourceUrl": "https://criticalhits.com.br/games/nintendo-descarta-novo-aumento-no-preco-do-switch-2",
+      "originalTitle": "Nintendo descarta novo aumento no preço do Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-b213e16ef72d2620",
       "publishedAt": "2026-11-06T10:14:40Z",
       "title": "O mais recente relógio de anime da Seiko é um cronógrafo de edição limitada inspirado em um mestre pistoleiro",
@@ -128,6 +584,30 @@
       "title": "Primeiro pôster do Tocha Humana original expõe a jogada da Marvel para alinhar nostalgia e força na Fase 6",
       "sourceUrl": "https://radiogeekbr.com.br/poster-tocha-humana-visionquest-fase-6",
       "originalTitle": "Primeiro pôster do Tocha Humana original expõe a jogada da Marvel para alinhar nostalgia e força na Fase 6",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6bb4c3fc5ddf1ee6",
+      "publishedAt": "2026-11-06T09:41:51Z",
+      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
+      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6057cd977e9e561b",
+      "publishedAt": "2026-11-06T09:31:44Z",
+      "title": "Marvel’s Guardians of the Galaxy: Encore Edition chega ao Nintendo Switch 2 com cinco trajes exclusivos de glam rock",
+      "sourceUrl": "https://arkade.com.br/marvels-guardians-of-the-galaxy-encore-edition-chega-ao-nintendo-switch-2-com-cinco-trajes-exclusivos-de-glam-rock",
+      "originalTitle": "Marvel’s Guardians of the Galaxy: Encore Edition chega ao Nintendo Switch 2 com cinco trajes exclusivos de glam rock",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -339,6 +819,18 @@
       }
     },
     {
+      "id": "radar-cfab1d3a346d3337",
+      "publishedAt": "2026-11-06T02:35:00Z",
+      "title": "Anime The Seven Knights of the Marronnier Kingdom anuncia Ryota Takeuchi como Saturno",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/6/the-seven-knights-of-the-marronnier-kingdom-ryota-takeuchi-saturno",
+      "originalTitle": "Anime The Seven Knights of the Marronnier Kingdom anuncia Ryota Takeuchi como Saturno",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-86c721def7340a7a",
       "publishedAt": "2026-11-06T01:36:17Z",
       "title": "Naruto: Shadow Rising é destaque na Weekly Shonen Jump",
@@ -392,6 +884,18 @@
       "title": "Nintendo deve fazer mais remakes após Ocarina of Time",
       "sourceUrl": "https://www.einerd.com/nintendo-mais-remakes-switch-2-ocarina-of-time",
       "originalTitle": "Nintendo deve fazer mais remakes após Ocarina of Time",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-755ffef364f06e62",
+      "publishedAt": "2026-11-06T00:49:22Z",
+      "title": "Dragon Ball Super: Beerus ganha dublagem em português no Brasil",
+      "sourceUrl": "https://animenew.com.br/dragon-ball-super-beerus-dublado-portugues",
+      "originalTitle": "Dragon Ball Super: Beerus ganha dublagem em português no Brasil",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -507,6 +1011,18 @@
       }
     },
     {
+      "id": "radar-533671beb06b9aeb",
+      "publishedAt": "2026-11-05T22:45:25Z",
+      "title": "Filme animado prelúdio de John Wick está em desenvolvimento e terá Keanu Reeves como protagonista",
+      "sourceUrl": "https://br.ign.com/john-wick-4/157394/filme-animado-preludio-de-john-wick-esta-em-desenvolvimento-e-tera-keanu-reeves-como-protagonista",
+      "originalTitle": "Filme animado prelúdio de John Wick está em desenvolvimento e terá Keanu Reeves como protagonista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-e7b25edb5671fa34",
       "publishedAt": "2026-11-05T22:41:00Z",
       "title": "Marshals | 2ª temporada pode ter romance entre personagens da série",
@@ -591,6 +1107,18 @@
       }
     },
     {
+      "id": "radar-dbca0439c09a1413",
+      "publishedAt": "2026-11-05T22:27:07Z",
+      "title": "DC prepara novo filme de Constantine com roteirista de A Morte do Demônio",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/dc-novo-filme-constantine-francis-galluppi",
+      "originalTitle": "DC prepara novo filme de Constantine com roteirista de A Morte do Demônio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-e8ce19c357603808",
       "publishedAt": "2026-11-05T22:26:00Z",
       "title": "A Idade Dourada | 4ª temporada garantiu a maior audiência de estreia da série na HBO",
@@ -668,6 +1196,30 @@
       "title": "Pantera Negra 3 será lançado em IMAX e IMAX 70MM",
       "sourceUrl": "https://www.omelete.com.br/filmes/pantera-negra-3-sera-lancado-em-imax-e-imax-70mm",
       "originalTitle": "Pantera Negra 3 será lançado em IMAX e IMAX 70MM",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e0317f9d06794eac",
+      "publishedAt": "2026-11-05T21:45:37Z",
+      "title": "Stellar Blade ganha comercial de lançamento em live-action para Switch 2",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/stellar-blade-ganha-trailer-lancamento-live-action-switch2.html",
+      "originalTitle": "Stellar Blade ganha comercial de lançamento em live-action para Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fe5f2518d7058ef1",
+      "publishedAt": "2026-11-05T21:41:22Z",
+      "title": "Spirit Circle: Mangá tem adaptação para anime anunciada",
+      "sourceUrl": "https://animenew.com.br/anime-spirit-circle-adaptacao-anunciada",
+      "originalTitle": "Spirit Circle: Mangá tem adaptação para anime anunciada",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -860,6 +1412,18 @@
       "title": "Pássaro esmeralda de John Stewart vira senha para seu trauma de guerra e reposiciona Lanterns no mapa do DCU",
       "sourceUrl": "https://radiogeekbr.com.br/lanterns-passaro-esmeralda-trauma-john-stewart-dcu",
       "originalTitle": "Pássaro esmeralda de John Stewart vira senha para seu trauma de guerra e reposiciona Lanterns no mapa do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e611ce8a62f7ab21",
+      "publishedAt": "2026-11-05T19:07:58.462000Z",
+      "title": "The Legend of Zelda: Ocarina of Time recebe trailer de lançamento",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/The Legend of-zelda-ocarina-of-time-recebe-trailer-de-lancamento.html",
+      "originalTitle": "The Legend of Zelda: Ocarina of Time recebe trailer de lançamento",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1551,30 +2115,6 @@
       }
     },
     {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-11-05T10:26:41Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e611ce8a62f7ab21",
-      "publishedAt": "2026-11-05T10:25:09Z",
-      "title": "The Legend of Zelda: Ocarina of Time recebe trailer de lançamento",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/The Legend of-zelda-ocarina-of-time-recebe-trailer-de-lancamento.html",
-      "originalTitle": "The Legend of Zelda: Ocarina of Time recebe trailer de lançamento",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-467c933ad2b08068",
       "publishedAt": "2026-11-05T10:01:29Z",
       "title": "GTA 6 arrecada mais de US$ 750 milhões em pré-vendas duas semanas antes da data de lançamento",
@@ -1592,18 +2132,6 @@
       "title": "Remake de Ocarina of Time já roda no PC com emulação do Switch 2",
       "sourceUrl": "https://criticalhits.com.br/games/remake-de-ocarina-of-time-ja-roda-no-pc-com-emulacao-do-switch-2",
       "originalTitle": "Remake de Ocarina of Time já roda no PC com emulação do Switch 2",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6335e154ec11ff65",
-      "publishedAt": "2026-11-05T08:40:51Z",
-      "title": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-chega-com-cinco-cortes-diferentes-e-laboratorio-dcu",
-      "originalTitle": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1904,18 +2432,6 @@
       "title": "Mangá Otaku Vampire’s Love Bite É Anunciado em Adaptação para Anime para Televisão",
       "sourceUrl": "https://www.animeunited.com.br/noticias/manga-otaku-vampires-love-bite-e-anunciado-em-adaptacao-para-anime-para-televisao",
       "originalTitle": "Mangá Otaku Vampire’s Love Bite É Anunciado em Adaptação para Anime para Televisão",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-661f4c05dab500ae",
-      "publishedAt": "2026-11-04T23:26:17Z",
-      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
-      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2900,18 +3416,6 @@
       "title": "Elbaf vira tabuleiro: mangá crava tripulação de Shanks como força máxima e reposiciona One Piece",
       "sourceUrl": "https://radiogeekbr.com.br/elbaf-revela-piratas-shanks-forca-maxima-one-piece",
       "originalTitle": "Elbaf vira tabuleiro: mangá crava tripulação de Shanks como força máxima e reposiciona One Piece",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6bb4c3fc5ddf1ee6",
-      "publishedAt": "2026-11-04T08:25:54Z",
-      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
-      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
-      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -7424,18 +7928,6 @@
       "title": "Com Doutor Estranho 3, Marvel transforma a “fase da cura” em estratégia oficial de sobrevivência pós-Guerras Secretas",
       "sourceUrl": "https://radiogeekbr.com.br/marvel-oficializa-doutor-estranho-3-fase-7-estrategia-tresquels",
       "originalTitle": "Com Doutor Estranho 3, Marvel transforma a “fase da cura” em estratégia oficial de sobrevivência pós-Guerras Secretas",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-95283e1f72bd83b7",
-      "publishedAt": "2026-10-31T16:41:22Z",
-      "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
-      "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
       "translated": false,
       "editorialReview": {
         "status": "native",
