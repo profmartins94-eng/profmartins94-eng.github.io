@@ -1,7 +1,331 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T02:49:42.476069Z",
+  "updatedAt": "2026-11-06T11:29:31.619504Z",
   "articles": [
+    {
+      "id": "radar-dc29dbc872462fe9",
+      "publishedAt": "2026-11-06T11:21:06Z",
+      "title": "Nintendo Switch 2 pode ganhar mais remakes de clássicos",
+      "sourceUrl": "https://criticalhits.com.br/games/nintendo-switch-2-pode-ganhar-mais-remakes-de-classicos",
+      "originalTitle": "Nintendo Switch 2 pode ganhar mais remakes de clássicos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0dc7d78a9f1930d5",
+      "publishedAt": "2026-11-06T11:21:02Z",
+      "title": "Spider-Woman #1 revela hospitais para capangas da Marvel",
+      "sourceUrl": "https://culpadolag.com.br/spider-woman-1-revela-hospitais-para-capangas-da-marvel",
+      "originalTitle": "Spider-Woman #1 revela hospitais para capangas da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-214c2dedd1a9d59c",
+      "publishedAt": "2026-11-06T11:16:14Z",
+      "title": "Cerco ao Palácio é nova série da Netfix que revive tragédia que abalou a Colômbia",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/cerco-ao-palacio-e-nova-serie-da-netfix-que-revive-tragedia-que-abalou-a-colombia",
+      "originalTitle": "Cerco ao Palácio é nova série da Netfix que revive tragédia que abalou a Colômbia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f546bd5940d16989",
+      "publishedAt": "2026-11-06T11:11:23Z",
+      "title": "Os Anéis do Poder terá consequências trágicas na 3ª temporada, segundo os Showrunners da série",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/os-aneis-do-poder-tera-consequencias-tragicas-na-3a-temporada-segundo-os-showrunners-da-serie",
+      "originalTitle": "Os Anéis do Poder terá consequências trágicas na 3ª temporada, segundo os Showrunners da série",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-225756da60b3dd6b",
+      "publishedAt": "2026-11-06T11:04:30Z",
+      "title": "Unity pode ser comprada por Arábia Saudita e Silver Lake por US$ 25 bilhões",
+      "sourceUrl": "https://criticalhits.com.br/games/unity-pode-ser-comprada-por-arabia-saudita-e-silver-lake-por-us-25-bilhoes",
+      "originalTitle": "Unity pode ser comprada por Arábia Saudita e Silver Lake por US$ 25 bilhões",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ae2efff25e1f86ad",
+      "publishedAt": "2026-11-06T11:00:26Z",
+      "title": "‘Cidade de Deus: A Luta Não Para’: 2ª temporada estreia em 8 de novembro na HBO Max",
+      "sourceUrl": "https://www.einerd.com/cidade-de-deus-a-luta-nao-para-2a-temporada-estreia-em-8-de-novembro-na-hbo-max",
+      "originalTitle": "‘Cidade de Deus: A Luta Não Para’: 2ª temporada estreia em 8 de novembro na HBO Max",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce6c9b6096ab8209",
+      "publishedAt": "2026-11-06T10:53:02Z",
+      "title": "Warren Spector, ex-diretor de Deus Ex, critica salários da EA após fechamento da BioWare",
+      "sourceUrl": "https://criticalhits.com.br/games/warren-spector-ex-diretor-de-deus-ex-critica-salarios-da-ea-apos-fechamento-da-bioware",
+      "originalTitle": "Warren Spector, ex-diretor de Deus Ex, critica salários da EA após fechamento da BioWare",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b213e16ef72d2620",
+      "publishedAt": "2026-11-06T10:14:40Z",
+      "title": "O mais recente relógio de anime da Seiko é um cronógrafo de edição limitada inspirado em um mestre pistoleiro",
+      "sourceUrl": "https://www.notebookcheck.info/O-mais-recente-relogio-de-anime-da-Seiko-e-um-cronografo-de-edicao-limitada-inspirado-em-um-mestre-pistoleiro.1443969.0.html",
+      "originalTitle": "O mais recente relógio de anime da Seiko é um cronógrafo de edição limitada inspirado em um mestre pistoleiro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95bbedcdb5466ae3",
+      "publishedAt": "2026-11-06T10:13:00Z",
+      "title": "Jogador toca música de Dragon Ball Z em Zelda: Ocarina of Time",
+      "sourceUrl": "https://criticalhits.com.br/games/jogador-toca-musica-de-dragon-ball-z-em-zelda-ocarina-of-time",
+      "originalTitle": "Jogador toca música de Dragon Ball Z em Zelda: Ocarina of Time",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b9eda911c52b5c86",
+      "publishedAt": "2026-11-06T09:41:51Z",
+      "title": "Novo anime de Dragon Ball escancara como a Toei emperra a franquia",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-anime-dragon-ball-toei-emperra-franquia",
+      "originalTitle": "Novo anime de Dragon Ball escancara como a Toei emperra a franquia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0a9bb96f64f148e4",
+      "publishedAt": "2026-11-06T09:41:51Z",
+      "title": "Primeiro pôster do Tocha Humana original expõe a jogada da Marvel para alinhar nostalgia e força na Fase 6",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-tocha-humana-visionquest-fase-6",
+      "originalTitle": "Primeiro pôster do Tocha Humana original expõe a jogada da Marvel para alinhar nostalgia e força na Fase 6",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0a3d2317cd78c3f3",
+      "publishedAt": "2026-11-06T09:29:00Z",
+      "title": "Novas expressões de 13 personagens, incluindo Itadori e Okkotsu! Os novos visuais inéditos da 3ª temporada de JUJUTSU KAISEN, “O Jogo do Abate Parte 1”, são revelados de uma só vez | Notícias de Anime | ANIME FREAKS",
+      "sourceUrl": "https://times.abema.tv/pt/articles/-/10286215",
+      "originalTitle": "Novas expressões de 13 personagens, incluindo Itadori e Okkotsu! Os novos visuais inéditos da 3ª temporada de JUJUTSU KAISEN, “O Jogo do Abate Parte 1”, são revelados de uma só vez | Notícias de Anime | ANIME FREAKS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-845673799e6563ca",
+      "publishedAt": "2026-11-06T09:00:00Z",
+      "title": "Shin Min-a sobre reencontro com Ju Ji-hoon: “1ª vez que fazemos um casal de verdade”",
+      "sourceUrl": "https://www.omelete.com.br/korea/a-imperatriz-se-casou-novamente-dorama-entrevista-shin-min-a-ju-ji-hoon",
+      "originalTitle": "Shin Min-a sobre reencontro com Ju Ji-hoon: “1ª vez que fazemos um casal de verdade”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b46cb13c7f303c42",
+      "publishedAt": "2026-11-06T08:48:31Z",
+      "title": "Avaliar \"Beekeeper 2: Sem Perdão\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ficha/beekeeper-2-sem-perdao",
+      "originalTitle": "Avaliar \"Beekeeper 2: Sem Perdão\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d7bafd8117b5259d",
+      "publishedAt": "2026-11-06T08:46:30Z",
+      "title": "Avaliar \"Drummer Boy\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ficha/drummer-boy",
+      "originalTitle": "Avaliar \"Drummer Boy\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-edee3a6b9868aec6",
+      "publishedAt": "2026-11-06T08:46:30Z",
+      "title": "Avaliar \"Como Roubar um Banco\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ficha/como-roubar-um-banco-2026",
+      "originalTitle": "Avaliar \"Como Roubar um Banco\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2dc584f9348e4a5c",
+      "publishedAt": "2026-11-06T08:40:36Z",
+      "title": "Avaliar \"Os Farofeiros 3\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ficha/os-farofeiros-3",
+      "originalTitle": "Avaliar \"Os Farofeiros 3\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2586092d565c97c1",
+      "publishedAt": "2026-11-06T08:40:34Z",
+      "title": "Avaliar \"Angry Birds 3: O Filme\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ficha/angry-birds-3-o-filme",
+      "originalTitle": "Avaliar \"Angry Birds 3: O Filme\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fddb1e258b9decc8",
+      "publishedAt": "2026-11-06T08:40:34Z",
+      "title": "Avaliar \"Eu Sou o Rocky\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ficha/eu-sou-o-rocky",
+      "originalTitle": "Avaliar \"Eu Sou o Rocky\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d11809a378e247e0",
+      "publishedAt": "2026-11-06T08:40:33Z",
+      "title": "Avaliar \"George Michael: The Faith Tour\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ficha/george-michael-the-faith-tour",
+      "originalTitle": "Avaliar \"George Michael: The Faith Tour\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b8c76d96c4c82d6b",
+      "publishedAt": "2026-11-06T08:40:33Z",
+      "title": "Avaliar \"Stray Kids World Tour 'RUN IT' LIVE VIEWING\"",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ficha/stray-kids-world-tour-run-it-live-viewing",
+      "originalTitle": "Avaliar \"Stray Kids World Tour 'RUN IT' LIVE VIEWING\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2af9bb34f3aef934",
+      "publishedAt": "2026-11-06T08:10:26Z",
+      "title": "5 animes subestimados que merecem sua atenção",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-animes-subestimados-que-merecem-sua-atencao",
+      "originalTitle": "5 animes subestimados que merecem sua atenção",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-58ecd641ebcb37ae",
+      "publishedAt": "2026-11-06T06:11:00Z",
+      "title": "Remake de Zelda: Ocarina of Time roda no PS5 com jailbreak e emulador de Switch 2",
+      "sourceUrl": "https://www.notebookcheck.info/Remake-de-Zelda-Ocarina-of-Time-roda-no-PS5-com-jailbreak-e-emulador-de-Switch-2.1443894.0.html",
+      "originalTitle": "Remake de Zelda: Ocarina of Time roda no PS5 com jailbreak e emulador de Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1256a49e4a371d9f",
+      "publishedAt": "2026-11-06T04:41:44Z",
+      "title": "Em 48 h, série de Darkseid aciona o gatilho secreto do reboot de James Gunn no DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/serie-darkseid-reboot-james-gunn-dcu",
+      "originalTitle": "Em 48 h, série de Darkseid aciona o gatilho secreto do reboot de James Gunn no DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79be9cc4e5587c3d",
+      "publishedAt": "2026-11-06T03:26:45Z",
+      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
+      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2798e03faa094f2",
+      "publishedAt": "2026-11-06T03:26:45Z",
+      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
+      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b3277775c061d6cc",
+      "publishedAt": "2026-11-06T03:00:07Z",
+      "title": "Crítica | VisionQuest – 1X07: Imolação",
+      "sourceUrl": "https://www.planocritico.com/critica-visionquest-1x07-imolacao",
+      "originalTitle": "Crítica | VisionQuest – 1X07: Imolação",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-fe8e6a2173c3cb84",
       "publishedAt": "2026-11-06T02:39:31.436000Z",
@@ -164,6 +488,18 @@
       "title": "“Me ofereceram cocaína aos 11 anos”: Dafne Keen fala de estrelato após Logan e proteção de Hugh Jackman",
       "sourceUrl": "https://www.omelete.com.br/filmes/dafne-keen-comenta-pos-logan-protecao-hugh-jackman-pessoas-oferecendo-cocaina",
       "originalTitle": "“Me ofereceram cocaína aos 11 anos”: Dafne Keen fala de estrelato após Logan e proteção de Hugh Jackman",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f84dd783f60e03ac",
+      "publishedAt": "2026-11-05T22:45:25Z",
+      "title": "Filme animado de John Wick confirma retorno de Keanu Reeves",
+      "sourceUrl": "https://ovicio.com.br/filme-animado-de-john-wick-confirma-retorno-de-keanu-reeves",
+      "originalTitle": "Filme animado de John Wick confirma retorno de Keanu Reeves",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -519,6 +855,18 @@
       }
     },
     {
+      "id": "radar-a0ef82654a78ef60",
+      "publishedAt": "2026-11-05T19:11:52Z",
+      "title": "Pássaro esmeralda de John Stewart vira senha para seu trauma de guerra e reposiciona Lanterns no mapa do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/lanterns-passaro-esmeralda-trauma-john-stewart-dcu",
+      "originalTitle": "Pássaro esmeralda de John Stewart vira senha para seu trauma de guerra e reposiciona Lanterns no mapa do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-95bd882d02d31309",
       "publishedAt": "2026-11-05T19:00:00Z",
       "title": "Análise Arkade – Alien Breed 35th Anniversary Collection a história de uma boa franquia, mas desconhecida no Brasil",
@@ -572,6 +920,18 @@
       "title": "TERROR DE VERDADE? ‘Constantine 2’ terá roteirista de ‘A Morte do Demônio’",
       "sourceUrl": "https://cinepop.com.br/terror-de-verdade-constantine-2-tera-roteirista-de-a-morte-do-demonio-775083",
       "originalTitle": "TERROR DE VERDADE? ‘Constantine 2’ terá roteirista de ‘A Morte do Demônio’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6babb686c20aa7ec",
+      "publishedAt": "2026-11-05T17:30:00Z",
+      "title": "Mario Kart World chega a 16,48 milhões de unidades vendidas no Nintendo Switch 2",
+      "sourceUrl": "https://arkade.com.br/mario-kart-world-chega-a-1648-milhoes-de-unidades-vendidas-no-nintendo-switch-2",
+      "originalTitle": "Mario Kart World chega a 16,48 milhões de unidades vendidas no Nintendo Switch 2",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -987,6 +1347,18 @@
       }
     },
     {
+      "id": "radar-618ee441e1411162",
+      "publishedAt": "2026-11-05T13:13:00Z",
+      "title": "Spirit Circle tem anime anunciado para dezembro deste ano",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/5/spirit-circle-anime-anuncio-trailer-dezembro-2026",
+      "originalTitle": "Spirit Circle tem anime anunciado para dezembro deste ano",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-23f5b5e5cffec14c",
       "publishedAt": "2026-11-05T13:10:54Z",
       "title": "Selfie vazada do set entrega Ramrod em Spider-Man: Brand New Day e revela novo laboratório de vilões B da Marvel",
@@ -1376,18 +1748,6 @@
       "title": "Memorando vazado mostra autocensura pesada no anime mais aguardado da Netflix para 2026",
       "sourceUrl": "https://radiogeekbr.com.br/netflix-anime-2026-censura-memorando-vazado",
       "originalTitle": "Memorando vazado mostra autocensura pesada no anime mais aguardado da Netflix para 2026",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-79be9cc4e5587c3d",
-      "publishedAt": "2026-11-05T01:26:12Z",
-      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
-      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -6212,18 +6572,6 @@
       "title": "Christopher Abbott: quem é o novo Professor X da Marvel",
       "sourceUrl": "https://www.otempo.com.br/opiniao/janio-nazareth/2026/11/1/christopher-abbott-quem-e-o-novo-professor-x-da-marvel",
       "originalTitle": "Christopher Abbott: quem é o novo Professor X da Marvel",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c2798e03faa094f2",
-      "publishedAt": "2026-11-01T10:11:16Z",
-      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
-      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
-      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
       "translated": false,
       "editorialReview": {
         "status": "native",
