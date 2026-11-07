@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T02:56:10Z",
-  "displayDate": "27 out. 2026",
+  "publishedAt": "2026-11-07T02:56:43Z",
+  "displayDate": "6 nov. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/virada-marvel-terceira-temporada-daredevil-born-again",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1784775281.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Anúncio surpresa de Vincent D’Onofrio expõe virada inédita da Marvel para 3ª temporada de Daredevil: Born Again",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }
