@@ -1,7 +1,379 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T10:41:13.862868Z",
+  "updatedAt": "2026-11-07T16:38:10.748872Z",
   "articles": [
+    {
+      "id": "radar-555fafce7d6e1cfb",
+      "publishedAt": "2026-11-07T16:31:11Z",
+      "title": "A Inteligência Artificial já apresenta uma ameaça para os cartuchos da Nintendo",
+      "sourceUrl": "https://www.xataka.com.br/diversos/a-inteligencia-artificial-ja-esta-ameacando-os-cartuchos-da-nintendo",
+      "originalTitle": "A Inteligência Artificial já apresenta uma ameaça para os cartuchos da Nintendo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-54bf1a885dd3551b",
+      "publishedAt": "2026-11-07T16:23:00Z",
+      "title": "Comikey Brasil divulga seus lançamentos para novembro de 2026",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/7/comikey-brasil-lancamentos-novembro-2026",
+      "originalTitle": "Comikey Brasil divulga seus lançamentos para novembro de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fe472ce8dac080f7",
+      "publishedAt": "2026-11-07T16:07:53Z",
+      "title": "God of War Sons of Sparta pode chegar ao PS4; veja indícios",
+      "sourceUrl": "https://gameoverdrive.com.br/god-of-war-sons-of-sparta-ps4",
+      "originalTitle": "God of War Sons of Sparta pode chegar ao PS4; veja indícios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-57ef7fd6e3b2f70b",
+      "publishedAt": "2026-11-07T16:00:44Z",
+      "title": "Uma modder está transformando um lendário Brick Game 9999 in 1 em um Game Boy funcional",
+      "sourceUrl": "https://arkade.com.br/uma-modder-esta-transformando-um-lendario-brick-game-999-in-1-em-um-game-boy-funcional",
+      "originalTitle": "Uma modder está transformando um lendário Brick Game 9999 in 1 em um Game Boy funcional",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f27320d10d56d535",
+      "publishedAt": "2026-11-07T15:48:00Z",
+      "title": "X-Men | Novo reboot da Marvel trará mudança drástica para a equipe de mutantes",
+      "sourceUrl": "https://www.omelete.com.br/filmes/x-men-novo-reboot-marvel-mudanca-drastica-equipe-visual",
+      "originalTitle": "X-Men | Novo reboot da Marvel trará mudança drástica para a equipe de mutantes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c625f3739bb5577f",
+      "publishedAt": "2026-11-07T15:41:34Z",
+      "title": "Ranger Rumble cancelado: Sony acaba com o shooter mobile da PlayStation",
+      "sourceUrl": "https://www.futurebehind.com/noticias/ratchet-clank-ranger-rumble-cancelado",
+      "originalTitle": "Ranger Rumble cancelado: Sony acaba com o shooter mobile da PlayStation",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-faade9ebc824bbc3",
+      "publishedAt": "2026-11-07T15:36:00Z",
+      "title": "Vingadores Doutor Destino: PODERES do Doutor Destino e NAMOR com SUE STORM (Teaser)",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-omeleteve-teaser-namor-doutor-destino-sue-storm",
+      "originalTitle": "Vingadores Doutor Destino: PODERES do Doutor Destino e NAMOR com SUE STORM (Teaser)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-76f8dcdf0ccb4ce9",
+      "publishedAt": "2026-11-07T15:27:00Z",
+      "title": "Anime de BLESS ganha data de estreia em novo trailer",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/7/bless-anime-data-8-de-janeiro-encerramento",
+      "originalTitle": "Anime de BLESS ganha data de estreia em novo trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3be94b5eef272a7e",
+      "publishedAt": "2026-11-07T15:25:00Z",
+      "title": "Cara-de-Barro | Vídeo mostra efeitos práticos por trás da forma final do vilão",
+      "sourceUrl": "https://www.omelete.com.br/filmes/cara-de-barro-efeitos-praticos-forma-final-vilao-video",
+      "originalTitle": "Cara-de-Barro | Vídeo mostra efeitos práticos por trás da forma final do vilão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ab4ff73b1e074bf1",
+      "publishedAt": "2026-11-07T15:15:34Z",
+      "title": "Batman e Lex Luthor podem disputar o posto de James Bond",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/batman-e-lex-luthor-podem-disputar-o-posto-de-james-bond.html",
+      "originalTitle": "Batman e Lex Luthor podem disputar o posto de James Bond",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-60e6b1102306aa74",
+      "publishedAt": "2026-11-07T15:13:00Z",
+      "title": "Roteirista do live-action de Enrolados está escrevendo filme sobre Medusa para a Disney",
+      "sourceUrl": "https://www.omelete.com.br/filmes/roteirista-enrolados-live-action-medusa-disney",
+      "originalTitle": "Roteirista do live-action de Enrolados está escrevendo filme sobre Medusa para a Disney",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dfeb1a61bae42b5a",
+      "publishedAt": "2026-11-07T15:00:38Z",
+      "title": "Por que Godzilla é muito mais do que um monstro gigante? - IGN Pop",
+      "sourceUrl": "https://br.ign.com/godzilla-minus-zero/157425/por-que-godzilla-e-muito-mais-do-que-um-monstro-gigante-ign-pop",
+      "originalTitle": "Por que Godzilla é muito mais do que um monstro gigante? - IGN Pop",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-12831a88e258b55b",
+      "publishedAt": "2026-11-07T15:00:35Z",
+      "title": "O filme de terror mais assustador de todos os tempos segundo a ciência está disponível no Prime Video",
+      "sourceUrl": "https://br.ign.com/cinema-tv/157404/o-filme-de-terror-mais-assustador-de-todos-os-tempos-segundo-a-ciencia-esta-disponivel-no-prime-vide",
+      "originalTitle": "O filme de terror mais assustador de todos os tempos segundo a ciência está disponível no Prime Video",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c00d68d98647a9e6",
+      "publishedAt": "2026-11-07T14:44:00Z",
+      "title": "Vingadores: Doutor Destino | sinope revela que Ciclope e mutantes enfrentarão “escolha inevitável”",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-sinopse-ciclope-escolha-inevitavel",
+      "originalTitle": "Vingadores: Doutor Destino | sinope revela que Ciclope e mutantes enfrentarão “escolha inevitável”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2d530ca2788ce454",
+      "publishedAt": "2026-11-07T14:43:58Z",
+      "title": "Bless: Anime ganha novo trailer e data de estreia",
+      "sourceUrl": "https://ovicio.com.br/bless-anime-ganha-novo-trailer-e-data-de-estreia",
+      "originalTitle": "Bless: Anime ganha novo trailer e data de estreia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3f03ba5effcb3e06",
+      "publishedAt": "2026-11-07T14:29:27Z",
+      "title": "5 mangás que viraram filmes e séries e conquistaram o mundo, de One Piece a Demon Slayer",
+      "sourceUrl": "https://www.adorocinema.com/noticias/filmes/noticia-1000231242",
+      "originalTitle": "5 mangás que viraram filmes e séries e conquistaram o mundo, de One Piece a Demon Slayer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7c6dbbb982842c05",
+      "publishedAt": "2026-11-07T14:20:40Z",
+      "title": "De mangás a K-pop: como criar sua conta no Skeelo e descobrir se você tem resgate liberado?",
+      "sourceUrl": "https://br.ign.com/descontos/157410/de-mangas-a-k-pop-como-criar-sua-conta-no-skeelo-e-descobrir-se-voce-tem-resgate-liberado",
+      "originalTitle": "De mangás a K-pop: como criar sua conta no Skeelo e descobrir se você tem resgate liberado?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e9a473ad3fdca4d3",
+      "publishedAt": "2026-11-07T14:04:00Z",
+      "title": "Guerreiras do K-Pop | Netflix lança mais de uma hora de conteúdos extras do longa; confira",
+      "sourceUrl": "https://www.omelete.com.br/filmes/guerreiras-do-kpop-conteudos-extras-uma-horas-netflix",
+      "originalTitle": "Guerreiras do K-Pop | Netflix lança mais de uma hora de conteúdos extras do longa; confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-abf85728e42af610",
+      "publishedAt": "2026-11-07T14:00:00Z",
+      "title": "Mudança de chefia na Pixar: Presidente do estúdio deixa o cargo após 12 anos",
+      "sourceUrl": "https://www.omelete.com.br/filmes/pixar-jim-morris-deixa-presidencia-apos-12-anos-jonathan-garson-assume",
+      "originalTitle": "Mudança de chefia na Pixar: Presidente do estúdio deixa o cargo após 12 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-990c198279f594b8",
+      "publishedAt": "2026-11-07T13:34:00Z",
+      "title": "007 | Robert Pattinson, Nicholas Hoult e Harry Styles também estão no páreo para viver James Bond",
+      "sourceUrl": "https://www.omelete.com.br/filmes/007-robert-pattinson-nicholas-hoult-harry-styles-james-bond",
+      "originalTitle": "007 | Robert Pattinson, Nicholas Hoult e Harry Styles também estão no páreo para viver James Bond",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a25d8eede65fd4db",
+      "publishedAt": "2026-11-07T13:31:05Z",
+      "title": "PlayStation está começando a enviar e-mails aos usuários para que vendam seus PS5 no Back Market",
+      "sourceUrl": "https://www.xataka.com.br/diversos/playstation-esta-comecando-a-enviar-e-mails-aos-usuarios-vendam-seus-ps5-no-back-market",
+      "originalTitle": "PlayStation está começando a enviar e-mails aos usuários para que vendam seus PS5 no Back Market",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e83eeb0e1d483820",
+      "publishedAt": "2026-11-07T13:30:00Z",
+      "title": "Sato Company reflete sobre sucesso de Godzilla no Brasil: “Filme certo na hora certa”",
+      "sourceUrl": "https://www.omelete.com.br/filmes/godzilla-minus-zero-sucesso-brasil-sato-entrevista",
+      "originalTitle": "Sato Company reflete sobre sucesso de Godzilla no Brasil: “Filme certo na hora certa”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4abe75388c2a96f5",
+      "publishedAt": "2026-11-07T13:00:34Z",
+      "title": "Jogo de Naruto recria uma das batalhas mais memoráveis de Boruto com uma animação incrível",
+      "sourceUrl": "https://br.ign.com/naruto-mobile/157424/jogo-de-naruto-recria-uma-das-batalhas-mais-memoraveis-de-boruto-com-uma-animacao-incrivel",
+      "originalTitle": "Jogo de Naruto recria uma das batalhas mais memoráveis de Boruto com uma animação incrível",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2d3a691202e59862",
+      "publishedAt": "2026-11-07T13:00:00Z",
+      "title": "Wandance | Trailer do live-action revela cenas de dança e música-tema; confira",
+      "sourceUrl": "https://www.omelete.com.br/filmes/wandance-live-action-manga-novo-trailer",
+      "originalTitle": "Wandance | Trailer do live-action revela cenas de dança e música-tema; confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-43e868e0c4a68871",
+      "publishedAt": "2026-11-07T12:54:53Z",
+      "title": "Marvel Cosmic Invasion ganha DLC com Doutor Destino jogável e novo modo de combate",
+      "sourceUrl": "https://www.jwave.com.br/2026/11/marvel-cosmic-invasion-ganha-dlc-com-doutor-destino-jogavel-e-novo-modo-de-combate",
+      "originalTitle": "Marvel Cosmic Invasion ganha DLC com Doutor Destino jogável e novo modo de combate",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7e74c7d1f3e78175",
+      "publishedAt": "2026-11-07T12:41:42Z",
+      "title": "Do ringue ao clímax: 5 arcos de torneio que redefiniram o anime e ainda mandam no jogo",
+      "sourceUrl": "https://radiogeekbr.com.br/arcos-de-torneio-anime-5-que-redefiniram-o-jogo",
+      "originalTitle": "Do ringue ao clímax: 5 arcos de torneio que redefiniram o anime e ainda mandam no jogo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-103b8d1fef1504b9",
+      "publishedAt": "2026-11-07T12:41:42Z",
+      "title": "Crunchyroll exibe sucessores de Haikyu!! e deixa exposta sua nova rota no anime de esportes",
+      "sourceUrl": "https://radiogeekbr.com.br/crunchyroll-exibe-sucessores-de-haikyu-e-nova-rota-anime-esportes",
+      "originalTitle": "Crunchyroll exibe sucessores de Haikyu!! e deixa exposta sua nova rota no anime de esportes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f666568f7366e8b3",
+      "publishedAt": "2026-11-07T12:41:42Z",
+      "title": "Omniscient Reader atropela o hype de Solo Leveling e vira nova aposta coreana no anime",
+      "sourceUrl": "https://radiogeekbr.com.br/omniscient-reader-atropela-hype-solo-leveling-anime",
+      "originalTitle": "Omniscient Reader atropela o hype de Solo Leveling e vira nova aposta coreana no anime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f02472319f1194f0",
+      "publishedAt": "2026-11-07T12:00:00Z",
+      "title": "Delivery Must Complete | Jogo que mistura Ace Combat e Devil May Cry anuncia demo com trailer",
+      "sourceUrl": "https://www.omelete.com.br/games/delivery-must-complete-jogo-que-mistura-ace-combate-devil-may-cry-demo-trailer",
+      "originalTitle": "Delivery Must Complete | Jogo que mistura Ace Combat e Devil May Cry anuncia demo com trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-609834b8010250f1",
+      "publishedAt": "2026-11-07T10:57:34Z",
+      "title": "Marvel arma virada relâmpago no MCU: três anúncios em oito dias decidirão a próxima década",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-arma-virada-relampago-no-mcu-oito-dias",
+      "originalTitle": "Marvel arma virada relâmpago no MCU: três anúncios em oito dias decidirão a próxima década",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4e23809ba177003c",
+      "publishedAt": "2026-11-07T10:57:34Z",
+      "title": "Nono projeto dos Midnight Sons expõe a guinada sombria que reordena todo o calendário da Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-nono-projeto-midnight-sons-mudanca-estrategica",
+      "originalTitle": "Nono projeto dos Midnight Sons expõe a guinada sombria que reordena todo o calendário da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-c88928f221e334be",
       "publishedAt": "2026-11-07T10:02:57Z",
@@ -116,6 +488,18 @@
       "title": "Dezenove anos depois, Clannad segue mais atual que qualquer anime dos anos 2000",
       "sourceUrl": "https://radiogeekbr.com.br/clannad-continua-mais-atual-que-animes-da-sua-geracao",
       "originalTitle": "Dezenove anos depois, Clannad segue mais atual que qualquer anime dos anos 2000",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6e3b8b2a865c6be3",
+      "publishedAt": "2026-11-07T05:18:09Z",
+      "title": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (07)",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-6-novos-jogos-esta-semana-veja-os-lancamentos-07",
+      "originalTitle": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (07)",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -435,6 +819,30 @@
       }
     },
     {
+      "id": "radar-044affe8db0f5b79",
+      "publishedAt": "2026-11-06T23:42:31Z",
+      "title": "DC libera cenas completas do retorno de Superman e escancara nova cartilha de marketing do estúdio",
+      "sourceUrl": "https://radiogeekbr.com.br/dc-libera-cenas-retorno-superman-nova-cartilha-marketing",
+      "originalTitle": "DC libera cenas completas do retorno de Superman e escancara nova cartilha de marketing do estúdio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-66540a94d58b4ada",
+      "publishedAt": "2026-11-06T23:42:31Z",
+      "title": "Críticas mais barulhentas a Naruto desviam foco de sua mensagem contra o ciclo de ódio",
+      "sourceUrl": "https://radiogeekbr.com.br/criticas-fas-naruto-perdem-ponto",
+      "originalTitle": "Críticas mais barulhentas a Naruto desviam foco de sua mensagem contra o ciclo de ódio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-5c7c8ec66c2a5691",
       "publishedAt": "2026-11-06T23:26:14Z",
       "title": "GTA Online turbina ganhos e traz de volta a Panther Statue",
@@ -675,6 +1083,18 @@
       }
     },
     {
+      "id": "radar-0d586cc62bf2ab4e",
+      "publishedAt": "2026-11-06T19:26:50Z",
+      "title": "Ator de “Superman” expõe a falha estrutural de “Supergirl” e revela o truque que deve blindar “Man of Tomorrow”",
+      "sourceUrl": "https://radiogeekbr.com.br/ator-de-superman-explica-porque-supergirl-fracassou-e-o-que-salva-man-of-tomorrow",
+      "originalTitle": "Ator de “Superman” expõe a falha estrutural de “Supergirl” e revela o truque que deve blindar “Man of Tomorrow”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-f2c3ac9e98f011d7",
       "publishedAt": "2026-11-06T19:20:09Z",
       "title": "‘Godzilla Minus Zero’ conquista 90% de aprovação dos críticos no RT; Confira as reações!",
@@ -704,6 +1124,18 @@
       "title": "Atores e atrizes de ‘Vingadores: Doomsday’ estarão no Brasil em breve",
       "sourceUrl": "https://saladadecinema.com.br/atores-e-atrizes-de-vingadores-doomsday-estarao-no-brasil-em-breve",
       "originalTitle": "Atores e atrizes de ‘Vingadores: Doomsday’ estarão no Brasil em breve",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0586c81b35638311",
+      "publishedAt": "2026-11-06T18:59:00Z",
+      "title": "Anime de Rainy Day Serenade estreia em abril de 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/6/anime-rainy-day-serenade-estreia-abril-2027",
+      "originalTitle": "Anime de Rainy Day Serenade estreia em abril de 2027",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -6212,18 +6644,6 @@
       "title": "Análise: Marvel’s Guardians of the Galaxy: Encore Edition reproduz o elenco de sucesso das telas com competência",
       "sourceUrl": "https://www.nintendoblast.com.br/2026/11/analise-marvel-guardians-of-the-galaxy-encore-edition-switch2-review.html",
       "originalTitle": "Análise: Marvel’s Guardians of the Galaxy: Encore Edition reproduz o elenco de sucesso das telas com competência",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-044affe8db0f5b79",
-      "publishedAt": "2026-11-02T12:11:18Z",
-      "title": "DC libera cenas completas do retorno de Superman e escancara nova cartilha de marketing do estúdio",
-      "sourceUrl": "https://radiogeekbr.com.br/dc-libera-cenas-retorno-superman-nova-cartilha-marketing",
-      "originalTitle": "DC libera cenas completas do retorno de Superman e escancara nova cartilha de marketing do estúdio",
       "translated": false,
       "editorialReview": {
         "status": "native",
