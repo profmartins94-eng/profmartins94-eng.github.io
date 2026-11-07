@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T23:30:37.653156Z",
+  "updatedAt": "2026-11-07T03:12:41.421714Z",
   "articles": [
     {
-      "id": "radar-5c7c8ec66c2a5691",
-      "title": "GTA Online turbina ganhos e traz de volta a Panther Statue",
-      "excerpt": "GTA Online recebeu um novo evento com multiplicadores de GTA$ e RP, recompensas especiais e o retorno garantido da Panther Statue no golpe Cayo Perico.",
+      "id": "radar-6c0bad8f5478ab56",
+      "title": "GTA 6 aparece com 225 GB no Xbox e versão do Japão tem tamanho diferente",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Game Overdrive. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-06T23:26:14Z",
+      "publishedAt": "2026-11-07T02:51:00Z",
       "displayDate": "6 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/gta-online-turbina-ganhos-e-traz-de-volta-a-panther-statue",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/gta-online-turbina-ganhos-e-traz-de-volta-a-panther-statue-featured-scaled.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "Game Overdrive",
+      "sourceUrl": "https://gameoverdrive.com.br/gta-6-225-gb-xbox-versao-japao",
+      "image": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/Jason_Lucia_Lock_And_Load_landscape.0l9s5w7ih9p3-1600x900.webp",
+      "alt": "Imagem publicada por Game Overdrive",
+      "imageCredit": "Imagem: Game Overdrive",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "GTA Online turbina ganhos e traz de volta a Panther Statue",
+      "originalTitle": "GTA 6 aparece com 225 GB no Xbox e versão do Japão tem tamanho diferente",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -29,51 +29,77 @@
       }
     },
     {
-      "id": "radar-8bf04d13354aa16f",
-      "title": "Anime & Manga na América do Norte 1‑7 de Nov: lançamentos",
+      "id": "radar-a967c192f3761a0b",
+      "title": "Nintendo Switch Online libera brindes para o remake de Zelda: Ocarina of Time",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Notebookcheck.info. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T02:40:44Z",
+      "displayDate": "6 nov. 2026",
+      "sourceName": "Notebookcheck.info",
+      "sourceUrl": "https://www.notebookcheck.info/Nintendo-Switch-Online-libera-brindes-para-o-remake-de-Zelda-Ocarina-of-Time.1444638.0.html",
+      "image": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Zelda-Ocarina-of-Time-Remake.png",
+      "alt": "Imagem publicada por Notebookcheck.info",
+      "imageCredit": "Imagem: Notebookcheck.info",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Nintendo Switch Online libera brindes para o remake de Zelda: Ocarina of Time",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-134b1cd5389e210a",
+      "title": "Vazamento indica tamanho de arquivo de GTA 6 no Xbox diferente do PS5, com possível atualização no dia do lançamento",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Notebookcheck.info. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T02:40:43Z",
+      "displayDate": "6 nov. 2026",
+      "sourceName": "Notebookcheck.info",
+      "sourceUrl": "https://www.notebookcheck.info/Vazamento-indica-tamanho-de-arquivo-de-GTA-6-no-Xbox-diferente-do-PS5-com-possivel-atualizacao-no-dia-do-lancamento.1444634.0.html",
+      "image": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/GTA6XboxStore.jpg",
+      "alt": "Imagem publicada por Notebookcheck.info",
+      "imageCredit": "Imagem: Notebookcheck.info",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vazamento indica tamanho de arquivo de GTA 6 no Xbox diferente do PS5, com possível atualização no dia do lançamento",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b8b99c7e5d216ac9",
+      "title": "Solo Leveling: Ragnarok prepara novas temporadas após retorno do manhwa",
+      "excerpt": "Solo Leveling: Ragnarok voltou a ser publicado em 5 de novembro de 2026 com três novos capítulos, e o retorno da sequência indica que a história de Sung Suho ainda terá um longo caminho pela frente.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-06T23:13:34Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "culpadolag.com.br",
-      "sourceUrl": "https://culpadolag.com.br/anime-manga-na-america-do-norte-17-de-nov-lancamentos",
-      "image": "https://culpadolag.com.br/storage/posts/a69cb446-281f-4cb3-aaa6-4e86bde0de1e.webp",
-      "alt": "Imagem publicada por culpadolag.com.br",
-      "imageCredit": "Imagem: culpadolag.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Anime & Manga na América do Norte 1‑7 de Nov: lançamentos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-bc9af690a0e3d719",
-      "title": "Quatro jogos deixarão de ser vendidos na PlayStation em dezembro",
-      "excerpt": "Quatro jogos associados ao ecossistema PlayStation deixarão de ser vendidos ou terão mudanças importantes em dezembro de 2026.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-06T23:02:14Z",
+      "publishedAt": "2026-11-07T01:14:32Z",
       "displayDate": "6 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/quatro-jogos-deixarao-de-ser-vendidos-na-playstation-em-dezembro",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/quatro-jogos-deixarao-de-ser-vendidos-na-playstation-em-dezembro-featured.jpg",
+      "sourceUrl": "https://criticalhits.com.br/anime/solo-leveling-ragnarok-prepara-novas-temporadas-apos-retorno-do-manhwa",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/solo-leveling-ragnarok-prepara-novas-temporadas-apos-retorno-do-manhwa-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Quatro jogos deixarão de ser vendidos na PlayStation em dezembro",
+      "originalTitle": "Solo Leveling: Ragnarok prepara novas temporadas após retorno do manhwa",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -81,25 +107,51 @@
       }
     },
     {
-      "id": "radar-135888f17f974f59",
-      "title": "Path of Exile 2 terá a classe Shadow no lançamento",
-      "excerpt": "Path of Exile 2 chegará à versão 1.0 em 11 de dezembro com duas classes inéditas: além do Duelist, já anunciado anteriormente, o RPG também receberá o Shadow.",
+      "id": "radar-5f7c3679abe00bb0",
+      "title": "Solo Leveling: Ragnarok transforma final de Jinwoo em tragédia",
+      "excerpt": "Solo Leveling: Ragnarok mudou completamente o significado do final do manhwa original ao revelar o que aconteceu com Cha Haein depois da despedida de Sung Jinwoo.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T01:12:31Z",
+      "displayDate": "6 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/solo-leveling-ragnarok-transforma-final-de-jinwoo-em-tragedia",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/solo-leveling-ragnarok-transforma-final-de-jinwoo-em-tragedia-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Solo Leveling: Ragnarok transforma final de Jinwoo em tragédia",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d2263939f781dd64",
+      "title": "Cancelamento de 6666 fortalece futuro de Dutton Ranch",
+      "excerpt": "6666, o primeiro derivado moderno de Yellowstone, foi oficialmente cancelado por Taylor Sheridan.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-06T22:56:14Z",
+      "publishedAt": "2026-11-07T00:56:14Z",
       "displayDate": "6 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/path-of-exile-2-tera-a-classe-shadow-no-lancamento",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/path-of-exile-2-tera-a-classe-shadow-no-lancamento-featured.jpg",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/cancelamento-de-6666-fortalece-futuro-de-dutton-ranch",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/cancelamento-de-6666-fortalece-futuro-de-dutton-ranch-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Path of Exile 2 terá a classe Shadow no lançamento",
+      "originalTitle": "Cancelamento de 6666 fortalece futuro de Dutton Ranch",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -107,25 +159,25 @@
       }
     },
     {
-      "id": "radar-d47897b81b81aff7",
-      "title": "Comédia e drama lideram preferência dos fãs brasileiros de anime, aponta levantamento inédito do ANIQuim",
-      "excerpt": "",
+      "id": "radar-c43ad10ab81c641c",
+      "title": "The Dangers in My Heart anuncia estreia da 3ª temporada para abril de 2027",
+      "excerpt": "The Dangers in My Heart retorna em abril de 2027 com sua terceira temporada.",
       "body": [
-        "Confira a cobertura completa em Suco de Mangá. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-06T22:53:08Z",
+      "publishedAt": "2026-11-07T00:44:14Z",
       "displayDate": "6 nov. 2026",
-      "sourceName": "Suco de Mangá",
-      "sourceUrl": "https://sucodemanga.com.br/aniquim-pesquisa-preferencia-animes-comedia-drama-acao-brasil",
-      "image": "https://sucodemanga.com.br/wp-content/uploads/2026/11/preferencia-de-fas-de-animes-no-Brasil-ANIQuim.webp",
-      "alt": "Imagem publicada por Suco de Mangá",
-      "imageCredit": "Imagem: Suco de Mangá",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/the-dangers-in-my-heart-anuncia-estreia-da-3a-temporada-para-abril-de-2027",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/the-dangers-in-my-heart-anuncia-estreia-da-3a-temporada-para-abril-de-2027-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Comédia e drama lideram preferência dos fãs brasileiros de anime, aponta levantamento inédito do ANIQuim",
+      "originalTitle": "The Dangers in My Heart anuncia estreia da 3ª temporada para abril de 2027",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -133,25 +185,131 @@
       }
     },
     {
-      "id": "radar-d965dedd088bee2e",
-      "title": "Comédia é o gênero favorito dos fãs de anime, revela levantamento da ANIQuim",
-      "excerpt": "",
+      "id": "radar-7fb81e9706505ce5",
+      "title": "Path of Exile 2 ganha campanha completa e duas novas classes em dezembro",
+      "excerpt": "Path of Exile 2 deixará o acesso antecipado em 11 de dezembro com o lançamento da versão 1.0.",
       "body": [
-        "Confira a cobertura completa em Cosmo UP. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T22:52:36Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-07T00:38:14Z",
       "displayDate": "6 nov. 2026",
-      "sourceName": "Cosmo UP",
-      "sourceUrl": "https://cosmoup.com.br/noticia/comedia-genero-favorito-dos-fas-brasileiros-de-anime-aniquim",
-      "image": "https://cosmoup.com.br/wp-content/uploads/2025/08/jujutsu-kaisen-3.jpg",
-      "alt": "Imagem publicada por Cosmo UP",
-      "imageCredit": "Imagem: Cosmo UP",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/path-of-exile-2-ganha-campanha-completa-e-duas-novas-classes-em-dezembro",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/path-of-exile-2-ganha-campanha-completa-e-duas-novas-classes-em-dezembro-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Comédia é o gênero favorito dos fãs de anime, revela levantamento da ANIQuim",
+      "originalTitle": "Path of Exile 2 ganha campanha completa e duas novas classes em dezembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-68eda2d4f1a199bc",
+      "title": "1408 terá sequência com Natalia Dyer e Elijah Wood",
+      "excerpt": "1408, adaptação do conto de Stephen King lançada nos cinemas em 2007, ganhará uma sequência quase duas décadas depois.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T00:27:00Z",
+      "displayDate": "6 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/1408-tera-sequencia-com-natalia-dyer-e-elijah-wood",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/1408-tera-sequencia-com-natalia-dyer-e-elijah-wood-featured-scaled.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "1408 terá sequência com Natalia Dyer e Elijah Wood",
+      "tags": [
+        "escalacao"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2b76391306989bc",
+      "title": "Godzilla Minus Zero é comparado a O Poderoso Chefão Parte II",
+      "excerpt": "Godzilla Minus Zero chegou aos cinemas nesta sexta-feira, 6 de novembro de 2026, cercado por críticas muito positivas e por uma comparação de enorme peso na história do cinema.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-07T00:26:14Z",
+      "displayDate": "6 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/godzilla-minus-zero-e-comparado-a-o-poderoso-chefao-parte-ii",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/godzilla-minus-zero-e-comparado-a-o-poderoso-chefao-parte-ii-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Godzilla Minus Zero é comparado a O Poderoso Chefão Parte II",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bc0257a52d281d2a",
+      "title": "Alien: Earth conclui as filmagens da segunda temporada",
+      "excerpt": "Alien: Earth concluiu oficialmente as filmagens da segunda temporada.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-07T00:02:14Z",
+      "displayDate": "6 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/alien-earth-conclui-as-filmagens-da-segunda-temporada",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/alien-earth-conclui-as-filmagens-da-segunda-temporada-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Alien: Earth conclui as filmagens da segunda temporada",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-899933524b64cfad",
+      "title": "TMNT terá novo filme live-action e Mutant Mayhem 2 segue vivo",
+      "excerpt": "Teenage Mutant Ninja Turtles terá dois caminhos nos cinemas após a fusão entre Paramount Skydance e Warner Bros.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-06T23:50:14Z",
+      "displayDate": "6 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/tmnt-tera-novo-filme-live-action-e-mutant-mayhem-2-segue-vivo",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/tmnt-tera-novo-filme-live-action-e-mutant-mayhem-2-segue-vivo-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "TMNT terá novo filme live-action e Mutant Mayhem 2 segue vivo",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -185,51 +343,25 @@
       }
     },
     {
-      "id": "radar-3d7d89136e0b7bdb",
-      "title": "Backrooms: Um Não-Lugar já está disponível no Disney+ brasileiro",
-      "excerpt": "Backrooms: Um Não-Lugar chegou ao Disney+ no Brasil em 6 de novembro de 2026.",
+      "id": "radar-90459d2cf4be7ec6",
+      "title": "G.I. Joe | Reboot com Bradley Cooper chega em 2028",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-06T22:32:14Z",
+      "publishedAt": "2026-11-06T22:35:00Z",
       "displayDate": "6 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/backrooms-um-nao-lugar-ja-esta-disponivel-no-disney-brasileiro",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/backrooms-um-nao-lugar-ja-esta-disponivel-no-disney-brasileiro-featured.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/gi-joe-reboot-com-bradley-cooper-chega-em-2028",
+      "image": "https://cdn.ome.lt/x8nhIa3Lfnk6zG0o0cES8NEyYoo=/1200x630/smart/filters:format(webp)/extras/conteudos/Design-sem-nome-70-1082x609.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Backrooms: Um Não-Lugar já está disponível no Disney+ brasileiro",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-df02b9125d2a5775",
-      "title": "Novo filme de G.I. Joe com Bradley Cooper ganha data de estreia",
-      "excerpt": "O novo filme de G.I.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-06T22:20:14Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/novo-filme-de-g-i-joe-com-bradley-cooper-ganha-data-de-estreia",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/novo-filme-de-g-i-joe-com-bradley-cooper-ganha-data-de-estreia-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo filme de G.I. Joe com Bradley Cooper ganha data de estreia",
+      "originalTitle": "G.I. Joe | Reboot com Bradley Cooper chega em 2028",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -263,77 +395,25 @@
       }
     },
     {
-      "id": "radar-4700c6b31b0fdc1e",
-      "title": "Epic Games libera 2 jogos grátis hoje (5); resgate agora",
-      "excerpt": "A tradição semanal da plataforma de PC continua com títulos de estratégia e sobrevivência.",
+      "id": "radar-b522b473f542eec9",
+      "title": "Sebastián Lelio, diretor de Uma Mulher Fantástica e Gloria, morre aos 52 anos",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-06T22:00:00Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/epic-games-jogos-gratis-flotsam-idle-champions",
-      "image": "https://www.einerd.com/wp-content/uploads/2025/01/Epic-Games-Store.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Epic Games libera 2 jogos grátis hoje (5); resgate agora",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d6e74eedf3868fbe",
-      "title": "Mackenyu, o Zoro de One Piece, será Mash na adaptação live-action de Mashle",
-      "excerpt": "Mackenyu, conhecido por interpretar Roronoa Zoro em One Piece da Netflix, será o protagonista da adaptação live-action de Mashle: Magic and Muscles.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T21:44:14Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/mackenyu-o-zoro-de-one-piece-sera-mash-na-adaptacao-live-action-de-mashle",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/mackenyu-sera-mash-em-filme-live-action-de-mashle-featured.png",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Mackenyu, o Zoro de One Piece, será Mash na adaptação live-action de Mashle",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-96bfa484da608db0",
-      "title": "Morre Sebastián Lelio, diretor de Uma Mulher Fantástica, aos 52 anos",
-      "excerpt": "Sebastián Lelio, diretor chileno de Uma Mulher Fantástica, morreu aos 52 anos nesta sexta-feira, 6 de novembro de 2026, em Santiago, no Chile.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
       "publishedAt": "2026-11-06T21:25:00Z",
       "displayDate": "6 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/morre-sebastian-lelio-diretor-de-uma-mulher-fantastica-aos-52-anos",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/morre-sebastian-lelio-diretor-de-uma-mulher-fantastica-aos-52-anos-featured.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/sebastian-lelio-diretor-uma-mulher-fantastica-gloria-morre-52-anos",
+      "image": "https://cdn.ome.lt/l-3DBtB6sFoVaDdTQKRkUmarEj8=/1200x630/smart/filters:format(webp)/extras/conteudos/MV5BMjMwNjIwMDQ0OF5BMl5BanBnXkFt.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Morre Sebastián Lelio, diretor de Uma Mulher Fantástica, aos 52 anos",
+      "originalTitle": "Sebastián Lelio, diretor de Uma Mulher Fantástica e Gloria, morre aos 52 anos",
       "tags": [
         "luto"
       ],
@@ -343,186 +423,28 @@
       }
     },
     {
-      "id": "radar-607985be87e96353",
-      "title": "Crítica | ‘Esperança’ – Animação brasileira marca um golaço conectando os sonhos, a perda e a superação [CineFest Votorantim]",
-      "excerpt": "Com a Copa do Mundo de Futebol Feminino chegando ao Brasil no ano que vem, alguns filmes começam a circular pelo tema, nos trazendo importantes reflexões e, muitas vezes, ligando o passado ao presente.",
+      "id": "radar-cb4f7ba9660b9a30",
+      "title": "Adam Driver revela por que aceitou papel de vilão em X-Men",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Máquina Nerd. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T19:54:48Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-06T19:06:51Z",
       "displayDate": "6 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/critica-esperanca-animacao-brasileira-marca-um-golaco-conectando-os-sonhos-a-perda-e-a-superacao-cinefest-votorantim-775202",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/esperanca3-1024x576.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
+      "sourceName": "Máquina Nerd",
+      "sourceUrl": "https://www.maquinanerd.com.br/cinema/adam-driver-revela-por-que-aceitou-papel-de-vilao-em-x-men",
+      "image": "https://www.maquinanerd.com.br/media/a9b810aa-0bcd-4e8d-bf36-4c3f2e7aae5a/16x9-v1.jpg",
+      "alt": "Imagem publicada por Máquina Nerd",
+      "imageCredit": "Imagem: Máquina Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Crítica | ‘Esperança’ – Animação brasileira marca um golaço conectando os sonhos, a perda e a superação [CineFest Votorantim]",
+      "originalTitle": "Adam Driver revela por que aceitou papel de vilão em X-Men",
       "tags": [
-        "analise"
+        "escalacao"
       ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7654744099e6b97a",
-      "title": "15 Personagens da Marvel que Podem Sumir do MCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Cinema de Buteco. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-06T19:39:52Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Cinema de Buteco",
-      "sourceUrl": "https://www.cinemadebuteco.com.br/criticas/personagens-marvel-que-nao-devem-voltar-mcu",
-      "image": "https://www.cinemadebuteco.com.br/wp-content/uploads/2026/07/doctor-doom-stopping-stormbreaker-in-the-avengers-doomsday-trailer.jpg",
-      "alt": "Imagem publicada por Cinema de Buteco",
-      "imageCredit": "Imagem: Cinema de Buteco",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "15 Personagens da Marvel que Podem Sumir do MCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-32db59e840203ee6",
-      "title": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-06T19:26:50Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-transforma-robert-downey-jr-em-doutor-doom-poster-avengers-doomsday",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792351609.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-09d016f0965bae9f",
-      "title": "Um planeta com anel: Mogo é confirmado no DCU e eleva a aposta cósmica de James Gunn",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-06T19:26:50Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/mogo-confirmado-dcu-planeta-lanterns-gunn",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791578474.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Um planeta com anel: Mogo é confirmado no DCU e eleva a aposta cósmica de James Gunn",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f2c3ac9e98f011d7",
-      "title": "‘Godzilla Minus Zero’ conquista 90% de aprovação dos críticos no RT; Confira as reações!",
-      "excerpt": "Com 136 reviews publicadas até o momento, o aguardado ‘Godzilla Minus Zero‘, sequência direta de ‘Godzilla Minus One‘, alcançou impressionantes 90% de aprovação dos críticos no Rotten Tomatoes.",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-06T19:20:09Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/godzilla-minus-zero-conquista-90-de-aprovacao-dos-criticos-no-rt-confira-as-reacoes-775197",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/10/godzilla-minus-zero-1024x576.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘Godzilla Minus Zero’ conquista 90% de aprovação dos críticos no RT; Confira as reações!",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5c6d40e3beeab82b",
-      "title": "Atores e atrizes de ‘Vingadores: Doomsday’ estarão no Brasil em breve",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Salada de Cinema. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-06T19:00:45Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Salada de Cinema",
-      "sourceUrl": "https://saladadecinema.com.br/atores-e-atrizes-de-vingadores-doomsday-estarao-no-brasil-em-breve",
-      "image": "https://saladadecinema.com.br/wp-content/uploads/2026/04/saladadecinema-1776790264.jpg",
-      "alt": "Imagem publicada por Salada de Cinema",
-      "imageCredit": "Imagem: Salada de Cinema",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Atores e atrizes de ‘Vingadores: Doomsday’ estarão no Brasil em breve",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-04cd6178aed0f105",
-      "title": "Gears of War: E-Day inicia evento de 20 anos com modos limitados e RAAM grátis",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-06T17:45:00Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/gears-of-war-e-day-inicia-evento-de-20-anos-com-modos-limitados-e-raam-gratis",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/11/IMG_4572.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Gears of War: E-Day inicia evento de 20 anos com modos limitados e RAAM grátis",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -581,32 +503,6 @@
       }
     },
     {
-      "id": "radar-2210c4d117e25e53",
-      "title": "Thrifty Business é anunciado para Nintendo Switch; confira trailer",
-      "excerpt": "Thrifty Business é um jogo de vibe tranquila em que seu objetivo é administrar um brechó e, atualmente, encontra-se disponível no PC e celulares.",
-      "body": [
-        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-06T16:17:06Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Nintendo Blast",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/thrifty-business-anunciado-para-nintendo-switch-confira-trailer.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIZZb_tBMs-D-RQVLPewR3MqgjPTCXUT1GQzdnxotDpTGhKsQ0ilS41_TwfUqrCiP4nu_6mZ8d-woncytgZeKMFhT-oiZ1Ojf3_4dBulCwt5WRPKjQt6bmf1K5toZ6tupIQERnmlaAfDVY4oTwwy_jzQQFef_LT6V2h2xierDH60JYKSnuS6OkfvkAF53B/s72-w640-h360-c/Thrifty-Business-logo.jpg",
-      "alt": "Imagem publicada por Nintendo Blast",
-      "imageCredit": "Imagem: Nintendo Blast",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Thrifty Business é anunciado para Nintendo Switch; confira trailer",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-65ff80f5edd50931",
       "title": "Próxima semana em XBOX: novos jogos de 9 a 13 de novembro",
       "excerpt": "",
@@ -653,60 +549,6 @@
       "translated": false,
       "originalTitle": "Recomendada por 93% dos espectadores, uma das melhores séries da Netflix retorna após 3 anos",
       "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-aa6cec7675055cc6",
-      "title": "MARVEL Cosmic Invasion divulga 15 minutos de gameplay do novo DLC",
-      "excerpt": "A Dotemu revelou nesta sexta-feira, 6, que MARVEL Cosmic Invasion: O Cerco no Castelo do Destino recebeu um vídeo de 15 minutos de gameplay comentado, apresentado pelo produtor Rémi Lavoie e pelo designer-chefe Kevin Chiasson, da Tribute Games .",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-06T15:53:04Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/marvel-cosmic-invasion-gameplay-dlc",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/08/MARVEL-Cosmic-Invasion-O-Cerco-no-Castelo-do-Destino.jpg",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "MARVEL Cosmic Invasion divulga 15 minutos de gameplay do novo DLC",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c48df238871c3c00",
-      "title": "Anime Wound & Bandage revela detalhes sobre música de abertura e mais membros no elenco de voz",
-      "excerpt": "Uma nova imagem promocional também foi divulgada",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T15:47:38Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/6/wound-bandage-anime-trailer-reveals-miyavi-opening-theme-song-more-cast",
-      "image": "https://a.storyblok.com/f/178900/1460x820/3820c78840/wound-and-bandage.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Anime Wound & Bandage revela detalhes sobre música de abertura e mais membros no elenco de voz",
-      "tags": [
-        "escalacao"
-      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -802,7 +644,7 @@
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-06T14:13:51Z",
+      "publishedAt": "2026-11-06T14:07:37Z",
       "displayDate": "6 nov. 2026",
       "sourceName": "Pizza Fria",
       "sourceUrl": "https://pizzafria.ig.com.br/news/call-of-duty-modern-warfare-4-passe",
@@ -813,32 +655,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Call of Duty: Modern Warfare 4 detalha Passe de Batalha e BlackCell da Temporada 1",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c042bbd508235f2a",
-      "title": "Nintendo considera Pokémon Ventos & Ondas fundamentais para o terceiro ano do Switch 2",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Universo Nintendo. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-06T14:03:13Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Universo Nintendo",
-      "sourceUrl": "https://universonintendo.com/nintendo-considera-pokemon-ventos-ondas-fundamentais-para-o-terceiro-ano-do-switch-2",
-      "image": "https://universonintendo.com/wp-content/uploads/2026/03/Pokemon-Ventos-Ondas-18-03-2026-2.jpg",
-      "alt": "Imagem publicada por Universo Nintendo",
-      "imageCredit": "Imagem: Universo Nintendo",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Nintendo considera Pokémon Ventos & Ondas fundamentais para o terceiro ano do Switch 2",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -950,34 +766,6 @@
       }
     },
     {
-      "id": "radar-661f4c05dab500ae",
-      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-06T11:41:40Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1787454607.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "tags": [
-        "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-e0317f9d06794eac",
       "title": "Stellar Blade ganha comercial de lançamento em live-action para Switch 2",
       "excerpt": "A Shift Up divulgou um trailer inédito de lançamento de Stellar Blade: Complete Edition para Nintendo Switch 2.",
@@ -1006,19 +794,19 @@
     {
       "id": "radar-66de1db6599f8abb",
       "title": "‘Fool Night’: Netflix divulga trailer do anime de ficção científica de Sunrise e Shaft",
-      "excerpt": "A Netflix divulgou o trailer oficial de Fool Night, uma de suas grandes apostas em anime.",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em einerd.com. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
       "publishedAt": "2026-11-06T10:30:44Z",
       "displayDate": "6 nov. 2026",
-      "sourceName": "Ei Nerd",
+      "sourceName": "einerd.com",
       "sourceUrl": "https://www.einerd.com/fool-night-netflix-divulga-trailer-do-anime-de-ficcao-cientifica-de-sunrise-e-shaft",
       "image": "https://www.einerd.com/wp-content/uploads/2026/11/Fool-Night.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
+      "alt": "Imagem publicada por einerd.com",
+      "imageCredit": "Imagem: einerd.com",
       "syndicated": true,
       "meme": false,
       "translated": false,
@@ -1049,110 +837,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Marvel’s Guardians of the Galaxy: Encore Edition é lançado para Nintendo Switch 2 - confira trailer de lançamento",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1256a49e4a371d9f",
-      "title": "Em 48 h, série de Darkseid aciona o gatilho secreto do reboot de James Gunn no DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-06T04:41:44Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/serie-darkseid-reboot-james-gunn-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1786797596.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Em 48 h, série de Darkseid aciona o gatilho secreto do reboot de James Gunn no DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-cfab1d3a346d3337",
-      "title": "Anime The Seven Knights of the Marronnier Kingdom anuncia Ryota Takeuchi como Saturno",
-      "excerpt": "Takeuchi fará sua estreia como o personagem no episódio 6",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T02:35:00Z",
-      "displayDate": "5 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/6/the-seven-knights-of-the-marronnier-kingdom-ryota-takeuchi-saturno",
-      "image": "https://a.storyblok.com/f/178900/1460x821/035ffca69f/the_seven_knights_of_the_marronnier_kingdom_saturno_header.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Anime The Seven Knights of the Marronnier Kingdom anuncia Ryota Takeuchi como Saturno",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-fe5f2518d7058ef1",
-      "title": "Spirit Circle: Mangá tem adaptação para anime anunciada",
-      "excerpt": "O mangá Spirit Circle, de Satoshi Mizukami, ganhará uma adaptação em anime para TV em dezembro de 2026.",
-      "body": [
-        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T01:02:15Z",
-      "displayDate": "5 nov. 2026",
-      "sourceName": "AnimeNew",
-      "sourceUrl": "https://animenew.com.br/anime-spirit-circle-adaptacao-anunciada",
-      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Spirit-Circle-Manga-tem-adaptacao-para-anime-anunciada.webp",
-      "alt": "Imagem publicada por AnimeNew",
-      "imageCredit": "Imagem: AnimeNew",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Spirit Circle: Mangá tem adaptação para anime anunciada",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-755ffef364f06e62",
-      "title": "Dragon Ball Super: Beerus ganha dublagem em português no Brasil",
-      "excerpt": "A Crunchyroll anunciou que Dragon Ball Super Beerus receberá dublagem em português brasileiro a partir de 12 de novembro de 2026, com episódios inéditos dublados lançados semanalmente.",
-      "body": [
-        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T00:49:22Z",
-      "displayDate": "5 nov. 2026",
-      "sourceName": "AnimeNew",
-      "sourceUrl": "https://animenew.com.br/dragon-ball-super-beerus-dublado-portugues",
-      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Dragon-Ball-Super-Beerus-ganha-dublagem-em-portugues.webp",
-      "alt": "Imagem publicada por AnimeNew",
-      "imageCredit": "Imagem: AnimeNew",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Dragon Ball Super: Beerus ganha dublagem em português no Brasil",
       "tags": [],
       "editorialReview": {
         "status": "native",
