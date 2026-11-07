@@ -1,7 +1,501 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T20:29:58.826986Z",
+  "updatedAt": "2026-11-07T23:57:19.813172Z",
   "articles": [
+    {
+      "id": "radar-f1f3a18c319f4a6b",
+      "title": "Everyone revela três novas vozes e música de encerramento do anime",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Séries em Cena. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T23:31:00Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Séries em Cena",
+      "sourceUrl": "https://seriesemcena.com.br/noticias/everyone-revela-tres-novas-vozes-e-musica-de-encerramento-do-anime",
+      "image": "https://seriesemcena.com.br/wp-content/uploads/2026/11/everyone-revela-tres-novas-vozes-e-musica-de-encerramento-do-anime.webp",
+      "alt": "Imagem publicada por Séries em Cena",
+      "imageCredit": "Imagem: Séries em Cena",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Everyone revela três novas vozes e música de encerramento do anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e331eb30ad3a2a19",
+      "title": "Contra a enxurrada de IA: Nintendo diz que criar experiências únicas nunca foi tão importante na era do conteúdo infinito",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Seletronic. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T23:26:46Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Seletronic",
+      "sourceUrl": "https://seletronic.com.br/nintendo-afirma-singularidade-mais-importante-explosao-conteudo-ia-internet",
+      "image": "https://seletronic.com.br/wp-content/uploads/2026/11/ready_1400x788_nintendo-afirma-singularidade-mais-importante-explosao-conteudo-ia-internet.jpg",
+      "alt": "Imagem publicada por Seletronic",
+      "imageCredit": "Imagem: Seletronic",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Contra a enxurrada de IA: Nintendo diz que criar experiências únicas nunca foi tão importante na era do conteúdo infinito",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e99e3abbff0fbf96",
+      "title": "Um port recomp do remake de Zelda Ocarina of Time já está disponível",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Notebookcheck.info. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T23:23:00Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Notebookcheck.info",
+      "sourceUrl": "https://www.notebookcheck.info/Um-port-recomp-do-remake-de-Zelda-Ocarina-of-Time-ja-esta-disponivel.1445001.0.html",
+      "image": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/teaser-ootremake-recomp.jpg",
+      "alt": "Imagem publicada por Notebookcheck.info",
+      "imageCredit": "Imagem: Notebookcheck.info",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Um port recomp do remake de Zelda Ocarina of Time já está disponível",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-75e2f28f9129d642",
+      "title": "Assassin's Creed Valhalla ganha Novo Jogo+ após seis anos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em SpaceMoney. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T23:11:14Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "SpaceMoney",
+      "sourceUrl": "https://www.spacemoney.com.br/cultura-e-entretenimento/assassins-creed-valhalla-novo-jogo-plus",
+      "image": "https://www.spacemoney.com.br/wp-content/uploads/2026/11/pexels-photo-34732749.webp",
+      "alt": "Imagem publicada por SpaceMoney",
+      "imageCredit": "Imagem: SpaceMoney",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Assassin's Creed Valhalla ganha Novo Jogo+ após seis anos",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d5efb5a978f403f0",
+      "title": "Naruto e Boruto seguem líderes de faturamento da TV Tokyo, mesmo sem novos episódios",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T23:00:00Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/naruto-boruto-lideram-ranking-faturamento-tv-tokyo-primeiro-semestre-2027",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Capa-Site-2026-11-07T041525.024.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Naruto e Boruto seguem líderes de faturamento da TV Tokyo, mesmo sem novos episódios",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7bd961d3373687cc",
+      "title": "Apagão geral em novembro? Entenda “previsão” de “Os Simpsons” que tem se espalhado na web",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Opina News. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T22:31:00Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Opina News",
+      "sourceUrl": "https://www.opinanews.com.br/noticia/apagao-geral-em-novembro-entenda-previsao-de-os-simpsons-que-tem-se-espalhado-na-web",
+      "image": "https://www.opinanews.com.br/uploads/images/2026/11/apagao-geral-em-novembro-entenda-previsao-de-os-simpsons-que-tem-se-espalhado-na-web1794090744.jpg",
+      "alt": "Imagem publicada por Opina News",
+      "imageCredit": "Imagem: Opina News",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Apagão geral em novembro? Entenda “previsão” de “Os Simpsons” que tem se espalhado na web",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bcaeb11c0b7ef8d4",
+      "title": "Bomba!: Veneta anuncia publicação de mais um mangá de Osamu Tezuka",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em JBox. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T22:15:55Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "JBox",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/07/bomba-veneta-anuncia-publicacao-de-mais-um-manga-de-osamu-tezuka",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/bomba-osamutezuka-destacada.jpg",
+      "alt": "Imagem publicada por JBox",
+      "imageCredit": "Imagem: JBox",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Bomba!: Veneta anuncia publicação de mais um mangá de Osamu Tezuka",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65eac7cf34416651",
+      "title": "Anime Piece: Locais de Todos os Bosses e Drops",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em games.gg. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T22:12:15Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "games.gg",
+      "sourceUrl": "https://games.gg/pt-BR/roblox/guides/anime-piece-locais-de-todos-os-bosses-e-drops",
+      "image": "https://assets.games.gg/all_anime_piece_bosses_roblox_locations_drops_og_2b66edf296_53c595636e.webp",
+      "alt": "Imagem publicada por games.gg",
+      "imageCredit": "Imagem: games.gg",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Anime Piece: Locais de Todos os Bosses e Drops",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-707682184e3050a1",
+      "title": "Girls | Adam Driver não vai retornar para revival da série na HBO",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T22:06:00Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/girls-adam-driver-nao-retorna-revival-girls-hbo-lena-dunham",
+      "image": "https://cdn.ome.lt/ZW2H9iMURkUy7NTz6dRBxdcl5EM=/1200x630/smart/filters:format(webp)/extras/conteudos/girls.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Girls | Adam Driver não vai retornar para revival da série na HBO",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-75700db9d0ca3417",
+      "title": "Por que o Gojo diz “Entre o céu e a terra, eu sou o honrado”? A resposta está no Buda",
+      "excerpt": "Você já parou para pensar de onde vem a frase mais icônica de ‘Jujutsu Kaisen’?",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T22:00:00Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/gojo-honrado-buda-frase-jujutsu-kaisen-significado",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Capa-Site-2026-11-07T033529.721.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Por que o Gojo diz “Entre o céu e a terra, eu sou o honrado”? A resposta está no Buda",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-523a68fcb4b79035",
+      "title": "Outlander: Blood of My Blood | Saiba quando estreia o 9º episódio da 2ª temporada",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-07T21:54:00Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/outlander-blood-of-my-blood-9-episodio-temporada-2-estreia",
+      "image": "https://cdn.ome.lt/ffsPod6XO6aa_StQLKadn9Rrr9w=/1200x630/smart/filters:format(webp)/extras/conteudos/outlander_I1bD0xV.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Outlander: Blood of My Blood | Saiba quando estreia o 9º episódio da 2ª temporada",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ed29bbeecc374d4a",
+      "title": "Após um ano parado, mangá “Canção do Amanhecer” volta a ser publicado pela NewPOP",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Biblioteca Brasileira de Mangás. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T21:21:57Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Biblioteca Brasileira de Mangás",
+      "sourceUrl": "https://blogbbm.com/2026/11/07/apos-um-ano-parado-manga-cancao-do-amanhecer-volta-a-ser-publicado-pela-newpop",
+      "image": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2026/11/Cancao-do-Amanhecer.jpg?fit=800%2C300&ssl=1",
+      "alt": "Imagem publicada por Biblioteca Brasileira de Mangás",
+      "imageCredit": "Imagem: Biblioteca Brasileira de Mangás",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Após um ano parado, mangá “Canção do Amanhecer” volta a ser publicado pela NewPOP",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8f03e9bb31138a00",
+      "title": "Recapitulação essencial de Magneto antes de Vingadores: Doomsday",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Itamaraju Notícias. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T21:20:27Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Itamaraju Notícias",
+      "sourceUrl": "https://itamarajunoticias.com.br/editorial/entretenimento/the-only-magneto-recap-you-need-before-avengers-doomsday",
+      "image": "https://itamarajunoticias.com.br/wp-content/uploads/in-redes-autopost/final/attachment-618652-d66dd73ad2e9e08de3a3367e111d8220d4a27e0ee8cfb1d7a7789da08df94a59.webp",
+      "alt": "Imagem publicada por Itamaraju Notícias",
+      "imageCredit": "Imagem: Itamaraju Notícias",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Recapitulação essencial de Magneto antes de Vingadores: Doomsday",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0d96592cf37f9c42",
+      "title": "‘100 Dias de Mentiras’: tudo sobre o k-drama de espionagem e romance da Netflix com Jinyoung",
+      "excerpt": "A Netflix emplacou mais um k-drama de época no gosto do público.",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T21:00:38Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/100-dias-de-mentiras-tudo-sobre-o-k-drama-de-espionagem-e-romance-da-netflix-com-jinyoung",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/100-Dias-de-Mentiras-foto-2-e1793726237642.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘100 Dias de Mentiras’: tudo sobre o k-drama de espionagem e romance da Netflix com Jinyoung",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce33a919a1ae600d",
+      "title": "Saída de Evangelion do Prime Video expõe virada da gigante no mercado de anime",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T20:41:46Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/saida-evangelion-prime-video-virada-no-mercado-anime",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1785879563.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Saída de Evangelion do Prime Video expõe virada da gigante no mercado de anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bf93df489817a98b",
+      "title": "Estátua de Zoro a US$ 1,7 mil empurra colecionáveis de anime para o mercado de arte",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "colecionaveis",
+      "categoryName": "Colecionáveis",
+      "publishedAt": "2026-11-07T20:41:46Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/estatua-zoro-one-piece-1700-dolares-colecionaveis-anime-arte",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791795368.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Estátua de Zoro a US$ 1,7 mil empurra colecionáveis de anime para o mercado de arte",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f666568f7366e8b3",
+      "title": "Omniscient Reader atropela o hype de Solo Leveling e vira nova aposta coreana no anime",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T20:41:46Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/omniscient-reader-atropela-hype-solo-leveling-anime",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794060718.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Omniscient Reader atropela o hype de Solo Leveling e vira nova aposta coreana no anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e80600dc6a149602",
+      "title": "Reki Kawahara abandona o escapismo de Sword Art Online e leva seu novo anime a um Japão em modo “Battle Royale”",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T20:41:46Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/reki-kawahara-retorna-com-the-isolator-anime-survival",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794016617.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Reki Kawahara abandona o escapismo de Sword Art Online e leva seu novo anime a um Japão em modo “Battle Royale”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4e078943c6f297c9",
+      "title": "Heated Rivalry | Adaptação para TV de Rivalidade Ardente já tem terceira temporada e filme confirmados",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T20:36:00Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/heated-rivalry-adaptacao-tv-terceira-temporada-filme-confirmados",
+      "image": "https://cdn.ome.lt/Qve8j5WAkPHSzd4SxezjKn6VP64=/1200x630/smart/filters:format(webp)/extras/conteudos/heatedrivalry_xcJQDD1.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Heated Rivalry | Adaptação para TV de Rivalidade Ardente já tem terceira temporada e filme confirmados",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-1a3d3be043b07dc2",
       "title": "2ª parte da 3ª temporada de One-Punch Man revela novas artes e responsável por seu tema de encerramento",
@@ -29,25 +523,25 @@
       }
     },
     {
-      "id": "radar-dbc3aaab9ef233aa",
-      "title": "Nintendo abre recrutamento de novos talentos e seminários de criação no Japão",
+      "id": "radar-4ae329108343f896",
+      "title": "Nintendo Switch 2 ultrapassa 26 milhões de unidades vendidas",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Seletronic. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-07T20:16:56Z",
+      "publishedAt": "2026-11-07T20:20:25Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Seletronic",
-      "sourceUrl": "https://seletronic.com.br/nintendo-abre-recrutamento-novos-talentos-seminarios-japao",
-      "image": "https://seletronic.com.br/wp-content/uploads/2026/11/ready_1400x788_nintendo-abre-recrutamento-novos-talentos-japao.jpg",
-      "alt": "Imagem publicada por Seletronic",
-      "imageCredit": "Imagem: Seletronic",
+      "sourceName": "Estadão",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/tecmundo/voxel/nintendo-switch-2-ultrapassa-26-milhoes-de-unidades-vendidas-e-73-milhoes-de-jogos-comercializados",
+      "image": "https://www.estadao.com.br/resizer/v2/EE677NXDWVNT5E5RLPLOM2SHTQ.jpg?auth=c8ca984b85b66bf1b0d9eb7aaac829717ec7af442a81b82cdc5ac5eae8c09ee4&quality=80&width=1200&height=630&smart=true",
+      "alt": "Imagem publicada por Estadão",
+      "imageCredit": "Imagem: Estadão",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Nintendo abre recrutamento de novos talentos e seminários de criação no Japão",
+      "originalTitle": "Nintendo Switch 2 ultrapassa 26 milhões de unidades vendidas",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -55,26 +549,28 @@
       }
     },
     {
-      "id": "radar-f0990af32f738cde",
-      "title": "Epic Games anuncia mudanças no Clube Fortnite e V-Bucks da assinatura; confira as novidades",
-      "excerpt": "A Epic Games anunciou uma série de mudanças no Clube Fortnite, serviço de assinatura do battle royale que será atualizado em 5 de dezembro.",
+      "id": "radar-c07ea89ae9ba4353",
+      "title": "Marvel prepara encontro de “Vingadores: Doutor Destino” com fãs brasileiros na CCXP 2026",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Conexão POP. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T20:15:00Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T20:18:16Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "TecMundo",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/epic-games-anuncia-mudancas-no-clube-fortnite-e-v-bucks-da-assinatura-confira-as-novidades",
-      "image": "https://www.estadao.com.br/resizer/v2/AZ2UFW44DNC5FKD2J6B7Z25VFM.jpg?quality=80&auth=9f8aba4cca93443c84980e7b8bbfac8f357ebbf07c93c6c54d34ea22e88c035e&width=710",
-      "alt": "Imagem publicada por TecMundo",
-      "imageCredit": "Imagem: TecMundo",
+      "sourceName": "Conexão POP",
+      "sourceUrl": "https://conexaopop.com.br/marvel-prepara-encontro-de-vingadores-doutor-destino-com-fas-brasileiros-na-ccxp-2026",
+      "image": "https://conexaopop.com.br/wp-content/uploads/2026/11/destino-ccxp.jpg",
+      "alt": "Imagem publicada por Conexão POP",
+      "imageCredit": "Imagem: Conexão POP",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Epic Games anuncia mudanças no Clube Fortnite e V-Bucks da assinatura; confira as novidades",
-      "tags": [],
+      "originalTitle": "Marvel prepara encontro de “Vingadores: Doutor Destino” com fãs brasileiros na CCXP 2026",
+      "tags": [
+        "evento"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -100,32 +596,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Club Kid | Jordan Firstman revela que usou aplicativo de relacionamentos para conseguir figurantes",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2871830aae517a2e",
-      "title": "Anime Frontier 2026: Mackenyu faz primeira aparição no Texas",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em diariodamidia.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-07T20:06:36Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "diariodamidia.com.br",
-      "sourceUrl": "https://diariodamidia.com.br/anime-frontier-2026-mackenyu-faz-primeira-aparicao-no-texas",
-      "image": "https://diariodamidia.com.br/api/og-image.php?f=anime-frontier-2026-mackenyu-faz-primeira-aparicao-no-texas.webp&v=3",
-      "alt": "Imagem publicada por diariodamidia.com.br",
-      "imageCredit": "Imagem: diariodamidia.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Anime Frontier 2026: Mackenyu faz primeira aparição no Texas",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -159,77 +629,25 @@
       }
     },
     {
-      "id": "radar-e6c7bfa862530cde",
-      "title": "Pirataria de anime dribla bloqueio global: site espanhol recupera domínio e muda de tática",
+      "id": "radar-362b2c6e95dd8d09",
+      "title": "LEGO lança 5 calendários de advento com minifiguras exclusivas",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Magazine.HD. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-07T19:42:12Z",
+      "category": "colecionaveis",
+      "categoryName": "Colecionáveis",
+      "publishedAt": "2026-11-07T20:00:24Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/site-espanhol-pirataria-anime-recupera-dominio-muda-tatica",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792217489.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
+      "sourceName": "Magazine.HD",
+      "sourceUrl": "https://www.magazine-hd.com/apps/wp/lego-lanca-5-calendarios-advento-natal-minifiguras-exclusivas",
+      "image": "https://www.magazine-hd.com/apps/wp/wp-content/uploads/2026/03/lego.webp",
+      "alt": "Imagem publicada por Magazine.HD",
+      "imageCredit": "Imagem: Magazine.HD",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Pirataria de anime dribla bloqueio global: site espanhol recupera domínio e muda de tática",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e54e52b77be1842d",
-      "title": "A cartada final de Black Clover: epílogo chega em 1 semana e ensaia a segunda vida do mangá",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-07T19:42:12Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/cartada-final-black-clover-epilogo-segunda-vida",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1785293989-scaled.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "A cartada final de Black Clover: epílogo chega em 1 semana e ensaia a segunda vida do mangá",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-243cb6f784f7272c",
-      "title": "Xbox está testando uma forma de usar smartphones como joysticks na TV",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Portal do Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T19:38:54Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Portal do Nerd",
-      "sourceUrl": "https://www.portaldonerd.com.br/xbox-testando-smartphone-como-joystick-tv",
-      "image": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2026/11/xbox-smartphone.jpg",
-      "alt": "Imagem publicada por Portal do Nerd",
-      "imageCredit": "Imagem: Portal do Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Xbox está testando uma forma de usar smartphones como joysticks na TV",
+      "originalTitle": "LEGO lança 5 calendários de advento com minifiguras exclusivas",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -291,84 +709,6 @@
       }
     },
     {
-      "id": "radar-c44b9e60f22b4f6a",
-      "title": "Makoto Furukawa escreve e canta o encerramento da segunda parte da 3ª temporada de One-Punch Man",
-      "excerpt": "O dublador Makoto Furukawa escreverá e cantará o tema de encerramento da segunda parte da 3ª temporada de One-Punch Man, que estreia em janeiro de 2027.",
-      "body": [
-        "Confira a cobertura completa em Anime United. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-07T18:57:36Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Anime United",
-      "sourceUrl": "https://www.animeunited.com.br/noticias/makoto-furukawa-escreve-e-canta-o-encerramento-da-segunda-parte-da-3a-temporada-de-one-punch-man",
-      "image": "https://www.animeunited.com.br/wp-content/uploads/2026/11/image-26-1024x576.png",
-      "alt": "Imagem publicada por Anime United",
-      "imageCredit": "Imagem: Anime United",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Makoto Furukawa escreve e canta o encerramento da segunda parte da 3ª temporada de One-Punch Man",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c4ea3fe8b4fe72d5",
-      "title": "Veja os lançamentos da PlayStation Store entre 8 e 14 de novembro de 2026",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em PSX Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T18:53:03Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "PSX Brasil",
-      "sourceUrl": "https://psxbrasil.com.br/veja-os-lancamentos-da-playstation-store-entre-8-e-14-de-novembro-de-2026",
-      "image": "https://psxbrasil.com.br/wp-content/uploads/2026/11/PlayStation-Store-Lancamentos-Novembro-Semana-2.jpg",
-      "alt": "Imagem publicada por PSX Brasil",
-      "imageCredit": "Imagem: PSX Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Veja os lançamentos da PlayStation Store entre 8 e 14 de novembro de 2026",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b2dfcbca6dbe1b76",
-      "title": "Devils’ Crest: novo anime estreia no Prime Video",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-07T18:30:29Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "culpadolag.com.br",
-      "sourceUrl": "https://culpadolag.com.br/devils-crest-novo-anime-estreia-no-prime-video",
-      "image": "https://culpadolag.com.br/storage/posts/26b343ab-debe-4d56-86c9-f538a5e82aff.webp",
-      "alt": "Imagem publicada por culpadolag.com.br",
-      "imageCredit": "Imagem: culpadolag.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Devils’ Crest: novo anime estreia no Prime Video",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-17a245ddc2c828d6",
       "title": "Percy Jackson e os Olimpianos | Leah Sava Jeffries pede que fãs parem de “shippar” ela e Walker Scobell",
       "excerpt": "",
@@ -395,103 +735,25 @@
       }
     },
     {
-      "id": "radar-220a6f6ae62776f8",
-      "title": "Visual final de Asta encerra Black Clover mirando além do fim do mangá",
+      "id": "radar-d31262a61595fb85",
+      "title": "Call of Duty: Warzone chega de surpresa ao Nintendo Switch 2",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Insider Gaming. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-07T18:11:59Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T18:05:21Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/black-clover-asta-visual-final-volume-38",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1785475465-scaled.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
+      "sourceName": "Insider Gaming",
+      "sourceUrl": "https://insider-gaming.com/br/call-of-duty-warzone-nintendo-switch-2",
+      "image": "https://insider-gaming.com/br/wp-content/uploads/sites/2/2026/11/Design-sem-nome-6-1.jpg",
+      "alt": "Imagem publicada por Insider Gaming",
+      "imageCredit": "Imagem: Insider Gaming",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Visual final de Asta encerra Black Clover mirando além do fim do mangá",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4d392acbd385f023",
-      "title": "Naruto e Hinata voltam no mangá de Boruto e expõem a virada comercial da Shonen Jump",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-07T18:11:59Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/naruto-e-hinata-voltam-no-manga-de-boruto-virada-comercial-shonen-jump",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792029405.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Naruto e Hinata voltam no mangá de Boruto e expõem a virada comercial da Shonen Jump",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-621fb469b7d35846",
-      "title": "Demolidor ganha espaço vital em “Spider-Man: Brand New Day” e expõe nova estratégia de rua do MCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T18:11:59Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/demolidor-em-spider-man-brand-new-day-estrategia-mcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1784595084.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Demolidor ganha espaço vital em “Spider-Man: Brand New Day” e expõe nova estratégia de rua do MCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-fe97668c0040537c",
-      "title": "Ultron rouba a cena no primeiro trailer de VisionQuest e expõe novo eixo sombrio da fase 6 da Marvel",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T18:11:59Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/ultron-trailer-solo-visionquest-marvel",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791490267.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Ultron rouba a cena no primeiro trailer de VisionQuest e expõe novo eixo sombrio da fase 6 da Marvel",
+      "originalTitle": "Call of Duty: Warzone chega de surpresa ao Nintendo Switch 2",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -507,7 +769,7 @@
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-07T17:49:00Z",
+      "publishedAt": "2026-11-07T17:54:16Z",
       "displayDate": "7 nov. 2026",
       "sourceName": "Omelete",
       "sourceUrl": "https://www.omelete.com.br/games/the-legend-of-zelda-ocarina-of-time-remake-jogo-mais-bem-avaliado-metacritic",
@@ -579,155 +841,25 @@
       }
     },
     {
-      "id": "radar-f3c0b8de20a45c15",
-      "title": "F1 GP DE SÃO PAULO | Entrevista com PIERRE GASLY (Alpine)",
+      "id": "radar-92ddf28d27983ddb",
+      "title": "Xbox Cloud Gaming fica até 159% mais caro no Brasil; veja novos preços",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Game Overdrive. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-07T17:23:00Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T16:54:02Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/esporte/f1-gp-sao-paulo-entrevista-pierre-gasly-alpine-omeleteve",
-      "image": "https://cdn.ome.lt/-QH1OGg4zcspBUSlMU9WBTNdjY4=/1200x630/smart/filters:format(webp)/extras/conteudos/pierre.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Game Overdrive",
+      "sourceUrl": "https://gameoverdrive.com.br/xbox-cloud-gaming-novos-precos-horas-novembro-2026",
+      "image": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/xbox-cloud-gaming-ou-game-pass-2-1600x900.webp",
+      "alt": "Imagem publicada por Game Overdrive",
+      "imageCredit": "Imagem: Game Overdrive",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "F1 GP DE SÃO PAULO | Entrevista com PIERRE GASLY (Alpine)",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1892a3976e305784",
-      "title": "Percy Jackson e os Olimpianos | 3ª temporada ganha novo pôster com personagens principais",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-07T17:16:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/percy-jackson-e-os-olimpianos-3-temporada-novo-poster-com-personagens-principais",
-      "image": "https://cdn.ome.lt/IQTIIl9F4TVAKypb1L3VorXrc-c=/1200x630/smart/filters:format(webp)/extras/conteudos/percy_POwVCnC.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Percy Jackson e os Olimpianos | 3ª temporada ganha novo pôster com personagens principais",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e8eb48d07e9ba23e",
-      "title": "Jean Grey não caiu de paraquedas: por que a mutante estreia em Brand New Day para abrir caminho ao filme dos X-Men",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T17:11:52Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/jean-grey-brand-new-day-filme-x-men-estrategia-marvel",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1785529490.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Jean Grey não caiu de paraquedas: por que a mutante estreia em Brand New Day para abrir caminho ao filme dos X-Men",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c2798e03faa094f2",
-      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T17:11:52Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792172503.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1243ea6ee81bd0ad",
-      "title": "Os Anéis de Poder | Novo teaser da 3ª temporada mostra confronto entre as forças de Sauron e elfos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-07T17:10:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/os-aneis-de-poder-o-senhor-dos-aneis-teaser-terceira-temporada-confronto-sauron-elfos",
-      "image": "https://cdn.ome.lt/43Mj6hYOJj5V_QkcN8kv9u2z7vU=/1200x630/smart/filters:format(webp)/extras/conteudos/sauron.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Os Anéis de Poder | Novo teaser da 3ª temporada mostra confronto entre as forças de Sauron e elfos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c34fa7d8f94b5bc0",
-      "title": "‘Outros Mundos: Uma Aventura Stranger Things’: spin-off ganha detalhes e estreia",
-      "excerpt": "O universo de Stranger Things está longe de chegar ao fim.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-07T17:00:43Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/outros-mundos-uma-aventura-stranger-things-spin-off-ganha-detalhes-e-estreia",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Stranger-Things-e1793982042596.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘Outros Mundos: Uma Aventura Stranger Things’: spin-off ganha detalhes e estreia",
+      "originalTitle": "Xbox Cloud Gaming fica até 159% mais caro no Brasil; veja novos preços",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -754,58 +886,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "A Inteligência Artificial já apresenta uma ameaça para os cartuchos da Nintendo",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f27320d10d56d535",
-      "title": "X-Men | Novo reboot da Marvel trará mudança drástica para a equipe de mutantes",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T15:48:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/x-men-novo-reboot-marvel-mudanca-drastica-equipe-visual",
-      "image": "https://cdn.ome.lt/DfPzleVgIx-TE6Ou93y-pUJFkGo=/1200x630/smart/filters:format(webp)/extras/conteudos/xmen_eIxSXAM.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "X-Men | Novo reboot da Marvel trará mudança drástica para a equipe de mutantes",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-faade9ebc824bbc3",
-      "title": "Vingadores Doutor Destino: PODERES do Doutor Destino e NAMOR com SUE STORM (Teaser)",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T15:36:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-omeleteve-teaser-namor-doutor-destino-sue-storm",
-      "image": "https://cdn.ome.lt/e8aMa5qCAc5Bn0Cx3vdZmVHCpyE=/1200x630/smart/filters:format(webp)/extras/conteudos/doom_3kpgVTG.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Vingadores Doutor Destino: PODERES do Doutor Destino e NAMOR com SUE STORM (Teaser)",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -865,51 +945,25 @@
       }
     },
     {
-      "id": "radar-65805484956d4d67",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "id": "radar-e9a473ad3fdca4d3",
+      "title": "Guerreiras do K-Pop | Netflix lança mais de uma hora de conteúdos extras do longa; confira",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T14:11:51Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T14:04:00Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792571177.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/guerreiras-do-kpop-conteudos-extras-uma-horas-netflix",
+      "image": "https://cdn.ome.lt/5tjlDgq84wxLIYEPx3G2U2F9bhU=/1200x630/smart/filters:format(webp)/extras/conteudos/guerreiraskpop_8Zz757o.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1fe62d4170f3a2d0",
-      "title": "Lanterns estreia como laboratório decisivo de James Gunn e vira bússola da nova TV de super-heróis",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T14:11:51Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/lanterns-laboratorio-james-gunn-nova-tv-super-herois",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1786130681.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Lanterns estreia como laboratório decisivo de James Gunn e vira bússola da nova TV de super-heróis",
+      "originalTitle": "Guerreiras do K-Pop | Netflix lança mais de uma hora de conteúdos extras do longa; confira",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -936,6 +990,32 @@
       "meme": false,
       "translated": false,
       "originalTitle": "PlayStation está começando a enviar e-mails aos usuários para que vendam seus PS5 no Back Market",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8ffc39f8ee9e7c2b",
+      "title": "God of War Ragnarok é o jogo PlayStation Studios com maior receita da geração PS5",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em IGN Portugal. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-07T12:39:52Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "IGN Portugal",
+      "sourceUrl": "https://pt.ign.com/astro-bot/164218/god-of-war-ragnarok-e-o-jogo-playstation-studios-com-maior-receita-da-geracao-ps5",
+      "image": "https://sm.ign.com/t/ign_pt/news/g/god-of-war/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playsta_g252.1200.jpg",
+      "alt": "Imagem publicada por IGN Portugal",
+      "imageCredit": "Imagem: IGN Portugal",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "God of War Ragnarok é o jogo PlayStation Studios com maior receita da geração PS5",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -1015,140 +1095,6 @@
       "translated": false,
       "originalTitle": "Netflix confirma duas temporadas de série animada de Crepúsculo",
       "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6cbe728b0479e74c",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T03:41:52Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792028499.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4e7334b5713a6bd7",
-      "title": "Man of Tomorrow | Nicholas Hoult promete um Lex Luthor \"muito diferente\" na sequência",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T00:06:00Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/man-of-tomorrow-nicholas-hoult-promete-lex-luthor-muito-diferente-sequencia",
-      "image": "https://cdn.ome.lt/3LH3NnMVBIjmQ4GQOT0RPXTpiCI=/1200x630/smart/filters:format(webp)/extras/conteudos/imagem_2025-05-04_163004409-1068.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Man of Tomorrow | Nicholas Hoult promete um Lex Luthor \"muito diferente\" na sequência",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-899933524b64cfad",
-      "title": "TMNT terá novo filme live-action e Mutant Mayhem 2 segue vivo",
-      "excerpt": "Teenage Mutant Ninja Turtles terá dois caminhos nos cinemas após a fusão entre Paramount Skydance e Warner Bros.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T23:50:14Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/tmnt-tera-novo-filme-live-action-e-mutant-mayhem-2-segue-vivo",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/tmnt-tera-novo-filme-live-action-e-mutant-mayhem-2-segue-vivo-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "TMNT terá novo filme live-action e Mutant Mayhem 2 segue vivo",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-66540a94d58b4ada",
-      "title": "Críticas mais barulhentas a Naruto desviam foco de sua mensagem contra o ciclo de ódio",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-06T23:42:31Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/criticas-fas-naruto-perdem-ponto",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1786135175.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Críticas mais barulhentas a Naruto desviam foco de sua mensagem contra o ciclo de ódio",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b522b473f542eec9",
-      "title": "Sebastián Lelio, diretor de Uma Mulher Fantástica e Gloria, morre aos 52 anos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-06T21:25:00Z",
-      "displayDate": "6 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/sebastian-lelio-diretor-uma-mulher-fantastica-gloria-morre-52-anos",
-      "image": "https://cdn.ome.lt/l-3DBtB6sFoVaDdTQKRkUmarEj8=/1200x630/smart/filters:format(webp)/extras/conteudos/MV5BMjMwNjIwMDQ0OF5BMl5BanBnXkFt.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sebastián Lelio, diretor de Uma Mulher Fantástica e Gloria, morre aos 52 anos",
-      "tags": [
-        "luto"
-      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
