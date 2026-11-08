@@ -1,7 +1,415 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T13:53:06.046548Z",
+  "updatedAt": "2026-11-08T19:08:54.190643Z",
   "articles": [
+    {
+      "id": "radar-b7f56b8e881a44d2",
+      "publishedAt": "2026-11-08T19:05:16Z",
+      "title": "‘Superman’ já conhece o Batman no DCU? James Gunn responde!",
+      "sourceUrl": "https://cinepop.com.br/superman-ja-conhece-o-batman-no-dcu-james-gunn-responde-775373",
+      "originalTitle": "‘Superman’ já conhece o Batman no DCU? James Gunn responde!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-98121cf98c94df82",
+      "publishedAt": "2026-11-08T19:00:00Z",
+      "title": "Análise: Shadow of the Tomb Raider: Definitive Edition entrega a conclusão da Trilogia Survivor em uma conversão competente para o Switch 2",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/shadow-of-the-tomb-raider-definitive-edition-switch-2-analise-critica-review.html",
+      "originalTitle": "Análise: Shadow of the Tomb Raider: Definitive Edition entrega a conclusão da Trilogia Survivor em uma conversão competente para o Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9135630799b9140f",
+      "publishedAt": "2026-11-08T18:56:00Z",
+      "title": "Judi Dench revela como Vin Diesel a convenceu a participar de A Batalha de Riddick;",
+      "sourceUrl": "https://www.omelete.com.br/filmes/judi-dench-revela-vin-diesel-convenceu-participar-batalha-riddick",
+      "originalTitle": "Judi Dench revela como Vin Diesel a convenceu a participar de A Batalha de Riddick;",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-709ce66d31a85b51",
+      "publishedAt": "2026-11-08T18:09:51Z",
+      "title": "Godzilla Minus Zero destrói recorde histórico de bilheteria nos Estados Unidos",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/godzilla-minus-zero-recorde-bilheteria",
+      "originalTitle": "Godzilla Minus Zero destrói recorde histórico de bilheteria nos Estados Unidos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b38e5b25ccf28e01",
+      "publishedAt": "2026-11-08T18:05:00Z",
+      "title": "Tudo Pode Ser Visto | Longa alcança 2ª maior bilheteria da história para um documentário na América do Norte",
+      "sourceUrl": "https://www.omelete.com.br/filmes/tudo-pode-ser-visto-bilheteria-segunda-maior-documentario-america-do-norte",
+      "originalTitle": "Tudo Pode Ser Visto | Longa alcança 2ª maior bilheteria da história para um documentário na América do Norte",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bf3c9a36939752ff",
+      "publishedAt": "2026-11-08T18:03:20Z",
+      "title": "Fim de uma era nos consoles antigos: chegada de Call of Duty: Warzone ao Switch 2 marca o desligamento oficial das versões de PS4 e Xbox One",
+      "sourceUrl": "https://seletronic.com.br/call-of-duty-warzone-chega-nintendo-switch-2-fim-suporte-ps4-xbox-one",
+      "originalTitle": "Fim de uma era nos consoles antigos: chegada de Call of Duty: Warzone ao Switch 2 marca o desligamento oficial das versões de PS4 e Xbox One",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ddd11f4e37706a95",
+      "publishedAt": "2026-11-08T18:00:11Z",
+      "title": "‘Twisted-Wonderland’: anime da Disney volta com ‘O Episódio de Savanaclaw’ em dezembro",
+      "sourceUrl": "https://www.einerd.com/twisted-wonderland-anime-da-disney-volta-com-o-episodio-de-savanaclaw-em-dezembro",
+      "originalTitle": "‘Twisted-Wonderland’: anime da Disney volta com ‘O Episódio de Savanaclaw’ em dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-63e82ac5e5db3d60",
+      "publishedAt": "2026-11-08T17:56:39Z",
+      "title": "Dezenove anos depois, Clannad segue mais atual que qualquer anime dos anos 2000",
+      "sourceUrl": "https://radiogeekbr.com.br/clannad-continua-mais-atual-que-animes-da-sua-geracao",
+      "originalTitle": "Dezenove anos depois, Clannad segue mais atual que qualquer anime dos anos 2000",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d48f91a39028f67d",
+      "publishedAt": "2026-11-08T17:48:50Z",
+      "title": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/tecmundo/voxel/xbox-game-pass-recebe-mais-13-jogos-no-inicio-de-novembro-confira-a-lista",
+      "originalTitle": "Xbox Game Pass recebe mais 13 jogos no início de novembro! Confira a lista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4ae329108343f896",
+      "publishedAt": "2026-11-08T17:48:48Z",
+      "title": "Nintendo Switch 2 ultrapassa 26 milhões de unidades vendidas",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/tecmundo/voxel/nintendo-switch-2-ultrapassa-26-milhoes-de-unidades-vendidas-e-73-milhoes-de-jogos-comercializados",
+      "originalTitle": "Nintendo Switch 2 ultrapassa 26 milhões de unidades vendidas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7304f9b41bf886a2",
+      "publishedAt": "2026-11-08T17:27:00Z",
+      "title": "Godzilla Minus Zero | Nova imagem de King Ghidorah no longa é divulgada",
+      "sourceUrl": "https://www.omelete.com.br/filmes/godzilla-minus-zero-king-ghidorah",
+      "originalTitle": "Godzilla Minus Zero | Nova imagem de King Ghidorah no longa é divulgada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ba6c25bb99743545",
+      "publishedAt": "2026-11-08T17:24:16Z",
+      "title": "SPY x FAMILY: Ganha Quarta Temporada e um Novo Filme para 2027",
+      "sourceUrl": "https://www.animeunited.com.br/noticias/spy-x-family-ganha-quarta-temporada-e-um-novo-filme-para-2027",
+      "originalTitle": "SPY x FAMILY: Ganha Quarta Temporada e um Novo Filme para 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e65b7e1789385f28",
+      "publishedAt": "2026-11-08T17:22:01Z",
+      "title": "One Piece: Capítulo 1198 do mangá é lançado oficialmente; leia em português agora",
+      "sourceUrl": "https://geekdama.com.br/news/one-piece-capitulo-1198-do-manga-e-lancado-oficialmente-leia-em-portugues-agora",
+      "originalTitle": "One Piece: Capítulo 1198 do mangá é lançado oficialmente; leia em português agora",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-03df869eda18985a",
+      "publishedAt": "2026-11-08T17:13:00Z",
+      "title": "Godzilla Minus Zero é o rei da bilheteria com US$ 31.6 milhões na estreia; veja mais",
+      "sourceUrl": "https://www.omelete.com.br/filmes/godzilla-minus-zero-bilheteria-americana-estreia-31-6",
+      "originalTitle": "Godzilla Minus Zero é o rei da bilheteria com US$ 31.6 milhões na estreia; veja mais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-67490a7d34f36d91",
+      "publishedAt": "2026-11-08T17:11:39Z",
+      "title": "‘O Gatola Da Cartola’ é DESBANCADO por ‘Godzilla Minus Zero’ e DECEPCIONA em estreia nos EUA",
+      "sourceUrl": "https://cinepop.com.br/o-gatola-da-cartola-e-desbancado-por-godzilla-minus-zero-e-decepciona-em-estreia-nos-eua-775356",
+      "originalTitle": "‘O Gatola Da Cartola’ é DESBANCADO por ‘Godzilla Minus Zero’ e DECEPCIONA em estreia nos EUA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1bcdcfe3e11f95e3",
+      "publishedAt": "2026-11-08T17:03:29Z",
+      "title": "Percy Jackson prepara reunião dos 12 deuses do Olimpo na 3ª temporada",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/percy-jackson-12-deuses-olimpo",
+      "originalTitle": "Percy Jackson prepara reunião dos 12 deuses do Olimpo na 3ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6f0a872acd19477e",
+      "publishedAt": "2026-11-08T17:02:21Z",
+      "title": "Lea Thompson acaba com 40 anos de mistério e revela quem vestia fantasia de pato em 'Howard, O Super-Herói'",
+      "sourceUrl": "https://revistamonet.globo.com/google/amp/filmes/noticia/2026/11/lea-thompson-acaba-com-40-anos-de-misterio-e-revela-quem-vestia-fantasia-de-pato-em-howard-o-super-heroi.ghtml",
+      "originalTitle": "Lea Thompson acaba com 40 anos de mistério e revela quem vestia fantasia de pato em 'Howard, O Super-Herói'",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6028075c7a148aef",
+      "publishedAt": "2026-11-08T17:02:15Z",
+      "title": "‘Godzilla Minus Zero’ REINA absoluto e quebra RECORDE em estreia nos EUA",
+      "sourceUrl": "https://cinepop.com.br/godzilla-minus-zero-reina-absoluto-e-quebra-recorde-em-estreia-nos-eua-775352",
+      "originalTitle": "‘Godzilla Minus Zero’ REINA absoluto e quebra RECORDE em estreia nos EUA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7a59551356a954a0",
+      "publishedAt": "2026-11-08T17:00:55Z",
+      "title": "‘Samurai de Olhos Azuis’: 2ª temporada ganha data e leva a vingança de Mizu a Londres",
+      "sourceUrl": "https://www.einerd.com/samurai-de-olhos-azuis-2a-temporada-ganha-data-e-leva-a-vinganca-de-mizu-a-londres",
+      "originalTitle": "‘Samurai de Olhos Azuis’: 2ª temporada ganha data e leva a vingança de Mizu a Londres",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3bc2ff8feeb84614",
+      "publishedAt": "2026-11-08T16:57:00Z",
+      "title": "Próximo filme de Steven Spielberg será um faroeste, revela diretor de fotografia Janusz Kamiński",
+      "sourceUrl": "https://www.omelete.com.br/filmes/proximo-filme-steven-spielberg-sera-faroeste-janusz-kaminski",
+      "originalTitle": "Próximo filme de Steven Spielberg será um faroeste, revela diretor de fotografia Janusz Kamiński",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a387711d8b1e1986",
+      "publishedAt": "2026-11-08T16:39:19Z",
+      "title": "Os 15 volumes de One Piece de maior sucesso que você pode resgatar no Skeelo hoje mesmo: veja o passo a passo",
+      "sourceUrl": "https://br.ign.com/descontos/157417/os-15-volumes-de-one-piece-de-maior-sucesso-que-voce-pode-resgatar-no-skeelo-hoje-mesmo-veja-o-passo",
+      "originalTitle": "Os 15 volumes de One Piece de maior sucesso que você pode resgatar no Skeelo hoje mesmo: veja o passo a passo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-751ef0ef50b3bb7c",
+      "publishedAt": "2026-11-08T16:28:21Z",
+      "title": "Spy x Family: 4ª temporada confirmada com teaser repleto de pistas",
+      "sourceUrl": "https://diariodamidia.com.br/spy-x-family-4-temporada-confirmada-com-teaser-repleto-de-pistas",
+      "originalTitle": "Spy x Family: 4ª temporada confirmada com teaser repleto de pistas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1bb81061bc540591",
+      "publishedAt": "2026-11-08T16:16:00Z",
+      "title": "One Piece | Capítulo 1198 dobra a aposta com guerra que mais parece “o fim do mundo”",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/one-piece-1198-manga-review",
+      "originalTitle": "One Piece | Capítulo 1198 dobra a aposta com guerra que mais parece “o fim do mundo”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-111e7849b13d819f",
+      "publishedAt": "2026-11-08T16:07:00Z",
+      "title": "SPY x FAMILY tem 4ª temporada e novo filme anunciados para 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/8/spy-x-family-anime-4-temporada-novo-filme-2027",
+      "originalTitle": "SPY x FAMILY tem 4ª temporada e novo filme anunciados para 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b7413e3e9cd481d7",
+      "publishedAt": "2026-11-08T16:01:16Z",
+      "title": "Lanternas é uma das séries mais vendidas sob demanda nos EUA atualmente",
+      "sourceUrl": "https://ovicio.com.br/lanternas-e-uma-das-series-mais-vendidas-sob-demanda-nos-eua-atualmente",
+      "originalTitle": "Lanternas é uma das séries mais vendidas sob demanda nos EUA atualmente",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3d30524e2a7c5e4f",
+      "publishedAt": "2026-11-08T15:43:06Z",
+      "title": "Pixar barrou filme por trama envolvendo divórcio, e pediu que personagem fosse “menos GAY”",
+      "sourceUrl": "https://cinepop.com.br/pixar-barrou-filme-por-trama-envolvendo-divorcio-e-pediu-que-personagem-fosse-menos-gay-775347",
+      "originalTitle": "Pixar barrou filme por trama envolvendo divórcio, e pediu que personagem fosse “menos GAY”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8d97352695585cf0",
+      "publishedAt": "2026-11-08T15:11:28Z",
+      "title": "Adam Driver revela por que ACEITOU participar do reboot de ‘X-Men’",
+      "sourceUrl": "https://cinepop.com.br/adam-driver-revela-por-que-aceitou-participar-do-reboot-de-x-men-775337",
+      "originalTitle": "Adam Driver revela por que ACEITOU participar do reboot de ‘X-Men’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e5456338288f93c2",
+      "publishedAt": "2026-11-08T15:07:00Z",
+      "title": "Vingadores Doutor Destino: Latvéria e Castelo de Victor Von Doom REVELADOS!",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-latveria-castelo-victor-von-doom-revelados-omeleteve",
+      "originalTitle": "Vingadores Doutor Destino: Latvéria e Castelo de Victor Von Doom REVELADOS!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f8a6876f2fdef730",
+      "publishedAt": "2026-11-08T14:59:01Z",
+      "title": "‘Homem-Aranha: Sem Volta para Casa’ chega DE SURPRESA ao catálogo do Disney+, mas sem suporte para 4K",
+      "sourceUrl": "https://cinepop.com.br/homem-aranha-sem-volta-para-casa-chega-de-surpresa-ao-catalogo-do-disney-mas-sem-suporte-para-4k-775328",
+      "originalTitle": "‘Homem-Aranha: Sem Volta para Casa’ chega DE SURPRESA ao catálogo do Disney+, mas sem suporte para 4K",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ecccc8a92d055be",
+      "publishedAt": "2026-11-08T14:54:08Z",
+      "title": "Vingadores: Doutor Destino | Nova imagem mostra detalhes dos Sentinelas",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-sentinelas-colecionavel",
+      "originalTitle": "Vingadores: Doutor Destino | Nova imagem mostra detalhes dos Sentinelas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-32db59e840203ee6",
+      "publishedAt": "2026-11-08T14:26:47Z",
+      "title": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-transforma-robert-downey-jr-em-doutor-doom-poster-avengers-doomsday",
+      "originalTitle": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79be9cc4e5587c3d",
+      "publishedAt": "2026-11-08T14:26:47Z",
+      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
+      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4600b7921c5e3414",
+      "publishedAt": "2026-11-08T14:26:47Z",
+      "title": "Marvel solta Sentry em teaser de produtos e muda o jogo de hype para “Avengers: Doomsday”",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-solta-sentry-teaser-produtos-muda-hype-avengers-doomsday",
+      "originalTitle": "Marvel solta Sentry em teaser de produtos e muda o jogo de hype para “Avengers: Doomsday”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8fa044655f2aa778",
+      "publishedAt": "2026-11-08T14:00:00Z",
+      "title": "Dead Island 2 na PS Plus, Silent Hill f baratinho e mais! Veja as indicações de games",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/dead-island-2-na-ps-plus-silent-hill-f-baratinho-e-mais-veja-as-indicacoes-de-games",
+      "originalTitle": "Dead Island 2 na PS Plus, Silent Hill f baratinho e mais! Veja as indicações de games",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-e22f171fb4345cbc",
       "publishedAt": "2026-11-08T13:52:01.624000Z",
@@ -99,6 +507,30 @@
       }
     },
     {
+      "id": "radar-621fb469b7d35846",
+      "publishedAt": "2026-11-08T13:12:12Z",
+      "title": "Demolidor ganha espaço vital em “Spider-Man: Brand New Day” e expõe nova estratégia de rua do MCU",
+      "sourceUrl": "https://radiogeekbr.com.br/demolidor-em-spider-man-brand-new-day-estrategia-mcu",
+      "originalTitle": "Demolidor ganha espaço vital em “Spider-Man: Brand New Day” e expõe nova estratégia de rua do MCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6175b71b45d6e6b",
+      "publishedAt": "2026-11-08T13:12:12Z",
+      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
+      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-4c1803c133275c54",
       "publishedAt": "2026-11-08T13:04:33Z",
       "title": "Kekkaishi no Ichirinka: Novo anime de romance sobrenatural estreia em janeiro",
@@ -152,6 +584,18 @@
       "title": "Xbox Cloud Gaming agora permite usar celular como controle na TV",
       "sourceUrl": "https://www.hardware.com.br/games/xbox-cloud-gaming-celular-controle-tv",
       "originalTitle": "Xbox Cloud Gaming agora permite usar celular como controle na TV",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0eef3bc22b8e6778",
+      "publishedAt": "2026-11-08T12:11:46Z",
+      "title": "Sete heróis trocam de rosto em “Avengers: Doomsday” e expõem a guinada industrial da Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-recast-sete-super-herois-mudanca-marvel",
+      "originalTitle": "Sete heróis trocam de rosto em “Avengers: Doomsday” e expõem a guinada industrial da Marvel",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -224,6 +668,18 @@
       "title": "Henry Cavill e Google estão transformando o polêmico “bigode do Superman” em um charmoso jogo retrô",
       "sourceUrl": "https://arkade.com.br/henry-cavill-e-google-estao-transformando-o-polemico-bigode-do-superman-em-um-charmoso-jogo-retro",
       "originalTitle": "Henry Cavill e Google estão transformando o polêmico “bigode do Superman” em um charmoso jogo retrô",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f2f4c5068e3a02e4",
+      "publishedAt": "2026-11-08T11:55:08Z",
+      "title": "Ex-chefe da PlayStation critica preços dos consoles: “Sony deveria produzir um PS5 de US$ 300”",
+      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/shawn-layden-ps5-300-dolares",
+      "originalTitle": "Ex-chefe da PlayStation critica preços dos consoles: “Sony deveria produzir um PS5 de US$ 300”",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -416,18 +872,6 @@
       "title": "10 melhores jogos de RPG baseados em anime para jogar em 2026",
       "sourceUrl": "https://www.techtudo.com.br/google/amp/listas/2026/11/10-melhores-jogos-de-rpg-baseados-em-anime-para-jogar-em-2026-edjogos.ghtml",
       "originalTitle": "10 melhores jogos de RPG baseados em anime para jogar em 2026",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-32db59e840203ee6",
-      "publishedAt": "2026-11-08T04:57:04Z",
-      "title": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-transforma-robert-downey-jr-em-doutor-doom-poster-avengers-doomsday",
-      "originalTitle": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -855,18 +1299,6 @@
       }
     },
     {
-      "id": "radar-79be9cc4e5587c3d",
-      "publishedAt": "2026-11-07T20:41:46Z",
-      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
-      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-95283e1f72bd83b7",
       "publishedAt": "2026-11-07T20:41:46Z",
       "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
@@ -915,18 +1347,6 @@
       }
     },
     {
-      "id": "radar-4ae329108343f896",
-      "publishedAt": "2026-11-07T20:20:25Z",
-      "title": "Nintendo Switch 2 ultrapassa 26 milhões de unidades vendidas",
-      "sourceUrl": "https://www.estadao.com.br/em-alta/tecmundo/voxel/nintendo-switch-2-ultrapassa-26-milhoes-de-unidades-vendidas-e-73-milhoes-de-jogos-comercializados",
-      "originalTitle": "Nintendo Switch 2 ultrapassa 26 milhões de unidades vendidas",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-c07ea89ae9ba4353",
       "publishedAt": "2026-11-07T20:18:16Z",
       "title": "Marvel prepara encontro de “Vingadores: Doutor Destino” com fãs brasileiros na CCXP 2026",
@@ -944,6 +1364,18 @@
       "title": "Nintendo abre recrutamento de novos talentos e seminários de criação no Japão",
       "sourceUrl": "https://seletronic.com.br/nintendo-abre-recrutamento-novos-talentos-seminarios-japao",
       "originalTitle": "Nintendo abre recrutamento de novos talentos e seminários de criação no Japão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4b5aa89445b2c2b4",
+      "publishedAt": "2026-11-07T20:16:00Z",
+      "title": "Call of Duty: Warzone é lançado de surpresa para Nintendo Switch 2",
+      "sourceUrl": "https://soulsgamer.com.br/noticias/call-of-duty-warzone-e-lancado-de-surpresa-para-nintendo-switch-2",
+      "originalTitle": "Call of Duty: Warzone é lançado de surpresa para Nintendo Switch 2",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1136,18 +1568,6 @@
       "title": "Percy Jackson e os Olimpianos | Leah Sava Jeffries pede que fãs parem de “shippar” ela e Walker Scobell",
       "sourceUrl": "https://www.omelete.com.br/series-tv/percy-jackson-e-os-olimpianos-leah-sava-jeffries-pede-fas-parem-shippar-walker-scobell",
       "originalTitle": "Percy Jackson e os Olimpianos | Leah Sava Jeffries pede que fãs parem de “shippar” ela e Walker Scobell",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-621fb469b7d35846",
-      "publishedAt": "2026-11-07T18:11:59Z",
-      "title": "Demolidor ganha espaço vital em “Spider-Man: Brand New Day” e expõe nova estratégia de rua do MCU",
-      "sourceUrl": "https://radiogeekbr.com.br/demolidor-em-spider-man-brand-new-day-estrategia-mcu",
-      "originalTitle": "Demolidor ganha espaço vital em “Spider-Man: Brand New Day” e expõe nova estratégia de rua do MCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1815,18 +2235,6 @@
       }
     },
     {
-      "id": "radar-63e82ac5e5db3d60",
-      "publishedAt": "2026-11-07T05:56:47Z",
-      "title": "Dezenove anos depois, Clannad segue mais atual que qualquer anime dos anos 2000",
-      "sourceUrl": "https://radiogeekbr.com.br/clannad-continua-mais-atual-que-animes-da-sua-geracao",
-      "originalTitle": "Dezenove anos depois, Clannad segue mais atual que qualquer anime dos anos 2000",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-6e3b8b2a865c6be3",
       "publishedAt": "2026-11-07T05:18:09Z",
       "title": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (07)",
@@ -1904,18 +2312,6 @@
       "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
       "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
       "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0eef3bc22b8e6778",
-      "publishedAt": "2026-11-07T03:41:52Z",
-      "title": "Sete heróis trocam de rosto em “Avengers: Doomsday” e expõem a guinada industrial da Marvel",
-      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-recast-sete-super-herois-mudanca-marvel",
-      "originalTitle": "Sete heróis trocam de rosto em “Avengers: Doomsday” e expõem a guinada industrial da Marvel",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -7208,18 +7604,6 @@
       "title": "DCU adianta Hawkgirl e esconde Mulher-Maravilha para reorganizar o pódio das heroínas",
       "sourceUrl": "https://radiogeekbr.com.br/dcu-adianta-hawkgirl-e-esconde-mulher-maravilha",
       "originalTitle": "DCU adianta Hawkgirl e esconde Mulher-Maravilha para reorganizar o pódio das heroínas",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f6175b71b45d6e6b",
-      "publishedAt": "2026-11-03T03:26:02Z",
-      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
-      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
