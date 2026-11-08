@@ -1,79 +1,83 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T06:42:06.681591Z",
+  "updatedAt": "2026-11-08T13:53:06.046548Z",
   "articles": [
     {
-      "id": "radar-1cc5e74106d257f3",
-      "title": "Xbox Game Pass perde 13 jogos de uma vez, incluindo GoldenEye 007",
-      "excerpt": "",
+      "id": "radar-e22f171fb4345cbc",
+      "title": "Stellar Blade para Switch 2 ganha vídeo comparativo com PS5 e surpreende em análise técnica",
+      "excerpt": "Stellar Blade recebeu uma análise técnica da Digital Foundry, que publicou um vídeo comparando a versão de Nintendo Switch 2 com a de PlayStation 5.",
       "body": [
-        "Confira a cobertura completa em diariodamidia.com.br. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-08T06:36:48Z",
+      "publishedAt": "2026-11-08T13:52:01.624000Z",
       "displayDate": "8 nov. 2026",
-      "sourceName": "diariodamidia.com.br",
-      "sourceUrl": "https://diariodamidia.com.br/xbox-game-pass-perde-13-jogos-de-uma-vez-incluindo-goldeneye-007",
-      "image": "https://diariodamidia.com.br/api/og-image.php?f=xbox-game-pass-perde-13-jogos-de-uma-vez-incluindo-goldeneye-007.webp&v=3",
-      "alt": "Imagem publicada por diariodamidia.com.br",
-      "imageCredit": "Imagem: diariodamidia.com.br",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/stellar-blade-switch2-ganha-video-comparativo-ps5-surpreende-analise-tecnica.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi16r14NXETLzgzqbtpXdJ42oDaXGsBronw9ru59iH0JHSzF3zQUIrkHDH3GBisaA2ZK4MqC6eYNyrEOzU26axMa9BPOCj3SGwrZ2PX_0QwmNqm1y-2EvDayyEddG6d-iUGpQjD-tx6y1piaLStlzsYIpUHhFnYK3oIRx3_3qyEvFU5cjGpCQ70LIQRNGs/s72-w640-h360-c/stellar-blade-complete-edition-switch2.jpg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Xbox Game Pass perde 13 jogos de uma vez, incluindo GoldenEye 007",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e978fdfaaaed48cc",
-      "title": "10 melhores jogos de RPG baseados em anime para jogar em 2026",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em TechTudo. A matéria original reúne os detalhes desta atualização."
+      "originalTitle": "Stellar Blade para Switch 2 ganha vídeo comparativo com PS5 e surpreende em análise técnica",
+      "tags": [
+        "analise"
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-08T05:02:00Z",
-      "displayDate": "8 nov. 2026",
-      "sourceName": "TechTudo",
-      "sourceUrl": "https://www.techtudo.com.br/google/amp/listas/2026/11/10-melhores-jogos-de-rpg-baseados-em-anime-para-jogar-em-2026-edjogos.ghtml",
-      "image": "https://s2-techtudo.glbimg.com/e362BD6Gdr-nsnw0ywy7pNMtFDI=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/j/h/elikzjRM6nHPVOvXwc7Q/imagem-2026-11-05-162721189.png",
-      "alt": "Imagem publicada por TechTudo",
-      "imageCredit": "Imagem: TechTudo",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "10 melhores jogos de RPG baseados em anime para jogar em 2026",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
       }
     },
     {
-      "id": "radar-0a76da7c2443f16b",
-      "title": "Zelda: Ocarina of Time – Datamining revela indícios de Master Quest como possível DLC",
+      "id": "radar-207e81c0d21f0efa",
+      "title": "007 | Denis Villeneuve diz que está se divertindo escolhendo quem será o novo James Bond",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Universo Nintendo. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T13:47:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/007-denis-villeneuve-se-divertindo-escolhendo-james-bond",
+      "image": "https://cdn.ome.lt/cxXUmi792xJQJzgkPzqU3b_2H24=/1200x630/smart/filters:format(webp)/extras/conteudos/bond.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "007 | Denis Villeneuve diz que está se divertindo escolhendo quem será o novo James Bond",
+      "tags": [
+        "escalacao"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1281473334d6e948",
+      "title": "Nintendo Switch 2 vende 37% menos, mas mantém vantagem de 6 milhões sobre o Switch",
+      "excerpt": "O Nintendo Switch 2 registrou uma queda de 37,4% nas vendas de hardware durante o primeiro semestre do atual ano fiscal da Nintendo, mas continua apresentando desempenho superior ao do Switch original quando comparados períodos equivalentes após o lançamento.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-08T04:03:28Z",
+      "publishedAt": "2026-11-08T13:46:23.944000Z",
       "displayDate": "8 nov. 2026",
-      "sourceName": "Universo Nintendo",
-      "sourceUrl": "https://universonintendo.com/zelda-ocarina-of-time-datamining-revela-indicios-de-master-quest-como-possivel-dlc",
-      "image": "https://universonintendo.com/wp-content/uploads/2026/10/The-Legend-of-Zelda-Ocarina-of-Time-ALT-2.png",
-      "alt": "Imagem publicada por Universo Nintendo",
-      "imageCredit": "Imagem: Universo Nintendo",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-switch-2-vende-37-menos-mas-mantem-vantagem-de-6-milhoes-sobre-o-switch.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglizdaOAs3TLBi4Pb-UO0WoBj1mY7udmUGgqe9_X4d9yq39W7QKe9QNbHa9loNfNcuK2Okq0uKJ4hyphenhyphenTjeM7R7AulOuObdWiDl_x50CDw4vPNrzuHkt1e6gjdDKe9dwvaGSx5PUST-uiL-zLQiRi0gfTCKhFRmvBHWsI-AnhSjCDn91T5-aHDLKI20pTHVJ/s72-w640-h360-c/switch%202.png",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Zelda: Ocarina of Time – Datamining revela indícios de Master Quest como possível DLC",
+      "originalTitle": "Nintendo Switch 2 vende 37% menos, mas mantém vantagem de 6 milhões sobre o Switch",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -81,51 +85,131 @@
       }
     },
     {
-      "id": "radar-9c04a16b2797e5ce",
-      "title": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
+      "id": "radar-82898e8a2e83474b",
+      "title": "There Was a Cute Girl in the Hero’s Party terá 2ª temporada",
+      "excerpt": "O anime There Was a Cute Girl in the Hero’s Party, So I Tried Confessing to Her (Yūsha Party ni Kawaii Ko ga Itanode, Kokuhaku Shite Mita) teve sua segunda temporada confirmada.",
+      "body": [
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-08T13:42:54Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/there-was-a-cute-girl-hero-party-2-temporada",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/11/There-Was-a-Cute-Girl-in-the-Heros-Party-tera-2a-temporada.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "There Was a Cute Girl in the Hero’s Party terá 2ª temporada",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9cc85c6669f6dfd5",
+      "title": "Booty Royale ganhará anime em janeiro de 2027",
+      "excerpt": "O mangá Booty Royale: Never Go Down Without a Fight (Hagure Idol Jigokuhen), de Rui Takatō, ganhará uma adaptação em anime para TV com estreia prevista para janeiro de 2027.",
+      "body": [
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-08T13:32:45Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/booty-royale-anime-estreia-janeiro-2027",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Booty-Royale-ganhara-anime-em-janeiro-de-2027.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Booty Royale ganhará anime em janeiro de 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9beb795991e8b3ed",
+      "title": "Bill Skarsgård diz que já está cansado de interpretar vilões, mas não descarta 007; leia",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-08T13:32:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/bill-skarsgard-cansado-interpretar-viloes-nao-descarta-007",
+      "image": "https://cdn.ome.lt/KIqH4E5HT6HHJn3ZWTgKDg9T3z8=/1200x630/smart/filters:format(webp)/extras/conteudos/penny.JPG",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Bill Skarsgård diz que já está cansado de interpretar vilões, mas não descarta 007; leia",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-33d309e4cee0179a",
+      "title": "Zelda: Ocarina of Time Remake conquista a maior nota de usuários da história do Metacritic",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Manual dos Games. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-08T03:53:28Z",
+      "publishedAt": "2026-11-08T13:26:45Z",
       "displayDate": "8 nov. 2026",
-      "sourceName": "Estadão",
-      "sourceUrl": "https://www.estadao.com.br/em-alta/tecmundo/voxel/rog-xbox-ally-x20-chega-ao-brasil-com-visual-retro-por-r-15999",
-      "image": "https://www.estadao.com.br/resizer/v2/XK52NEPLHVDP3CZTY7XGZHFFLQ.jpeg?auth=838956e94731594fe838e4820a799130241350d364e99b4fedebb7a35dbdc9ab&quality=80&width=1200&height=630&smart=true",
-      "alt": "Imagem publicada por Estadão",
-      "imageCredit": "Imagem: Estadão",
+      "sourceName": "Manual dos Games",
+      "sourceUrl": "https://manualdosgames.com/zelda-ocarina-of-time-recorde-metacritic",
+      "image": "https://manualdosgames.com/wp-content/uploads/2026/10/The-Legend-of-Zelda-Ocarina-of-Time-remake-ganha-novo-trailer-epico.jpg",
+      "alt": "Imagem publicada por Manual dos Games",
+      "imageCredit": "Imagem: Manual dos Games",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
-      "tags": [],
+      "originalTitle": "Zelda: Ocarina of Time Remake conquista a maior nota de usuários da história do Metacritic",
+      "tags": [
+        "analise"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
       }
     },
     {
-      "id": "radar-814eaee6c89d923c",
-      "title": "Mangás que saíram esta semana (01/11/2026 a 07/11/2026)",
+      "id": "radar-cdce9c53631be157",
+      "title": "Xbox Game Pass adiciona 10 jogos no 25º aniversário",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Biblioteca Brasileira de Mangás. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-08T03:00:44Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-08T13:19:43Z",
       "displayDate": "8 nov. 2026",
-      "sourceName": "Biblioteca Brasileira de Mangás",
-      "sourceUrl": "https://blogbbm.com/2026/11/08/mangas-que-sairam-esta-semana-01-11-2026-a-07-11-2026",
-      "image": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2026/09/Sakamoto-Days.jpg?fit=800%2C300&ssl=1",
-      "alt": "Imagem publicada por Biblioteca Brasileira de Mangás",
-      "imageCredit": "Imagem: Biblioteca Brasileira de Mangás",
+      "sourceName": "culpadolag.com.br",
+      "sourceUrl": "https://culpadolag.com.br/xbox-game-pass-adiciona-10-jogos-no-25o-aniversario",
+      "image": "https://culpadolag.com.br/storage/posts/a2093ec4-4dd7-4653-8d4b-1ec834b1fd1d.webp",
+      "alt": "Imagem publicada por culpadolag.com.br",
+      "imageCredit": "Imagem: culpadolag.com.br",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Mangás que saíram esta semana (01/11/2026 a 07/11/2026)",
+      "originalTitle": "Xbox Game Pass adiciona 10 jogos no 25º aniversário",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -133,51 +217,757 @@
       }
     },
     {
-      "id": "radar-e5b140b4a676a406",
-      "title": "Filme Rascal Does Not Dream of a Dear Friend divulga novo clipe com Kaede",
-      "excerpt": "A Crunchyroll e a Sony Pictures lançarão o filme nos Estados Unidos, no Canadá e na Austrália em fevereiro de 2027",
+      "id": "radar-4c1803c133275c54",
+      "title": "Kekkaishi no Ichirinka: Novo anime de romance sobrenatural estreia em janeiro",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em animeflix.com.br. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-08T01:35:00Z",
+      "publishedAt": "2026-11-08T13:04:33Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "animeflix.com.br",
+      "sourceUrl": "https://animeflix.com.br/minami-ke-5a-temporada-ganha-trailer-visual-e-estreia-em-abril-de-2027",
+      "image": "https://animeflix.com.br/wp-content/uploads/2026/11/Kekkaishi-no-Ichirinka.jpg",
+      "alt": "Imagem publicada por animeflix.com.br",
+      "imageCredit": "Imagem: animeflix.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Kekkaishi no Ichirinka: Novo anime de romance sobrenatural estreia em janeiro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a69ab455001e551b",
+      "title": "Esta série de zumbis com apenas 16 episódios recebeu críticas melhores que The Walking Dead e foi elogiada por Stephen King",
+      "excerpt": "“É divertido ver uma série estrangeira que não foi americanizada”",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T13:00:34Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/the-walking-dead-1/157389/esta-serie-de-zumbis-com-apenas-16-episodios-recebeu-criticas-melhores-que-the-walking-dead-e-foi-el",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/blob_p2d2.png",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Esta série de zumbis com apenas 16 episódios recebeu críticas melhores que The Walking Dead e foi elogiada por Stephen King",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-03f55e86cd75b700",
+      "title": "Recomp de Ocarina of Time de Nintendo Switch 2 impressionou com a velocidade",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Nerd Maldito. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-08T13:00:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Nerd Maldito",
+      "sourceUrl": "https://www.nerdmaldito.com/2026/11/zelda-ocarina-of-time-pc-port-switch-2.html",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_twgXK9-tcHT5zdQ5SXJcuixFnGddKXiB2N53syEIQcxqq-xPnNspb9ggUZPjWQ1CKSKs0kDW8wiMZd0tXZbHl7dLgyqiUH-l4SQD2m2F0GS-oyfg=w1200-h630-n-k-no-nu",
+      "alt": "Imagem publicada por Nerd Maldito",
+      "imageCredit": "Imagem: Nerd Maldito",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Recomp de Ocarina of Time de Nintendo Switch 2 impressionou com a velocidade",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d28944614a395259",
+      "title": "Sony apresenta versão do clássico fone MDR-3R, com edição de Stranger Things e conexão USB-C",
+      "excerpt": "A Sony anunciou o MDR-3R, fone de ouvido com fio e conexão USB-C que reinterpreta o MDR-3 lançado em 1979 junto com o primeiro Walkman TPS-L2.",
+      "body": [
+        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-08T13:00:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Arkade",
+      "sourceUrl": "https://arkade.com.br/sony-apresenta-versao-do-classico-fone-mdr-3r-com-edicao-de-stranger-things-e-conexao-usb-c",
+      "image": "https://arkade.com.br/wp-content/uploads/2026/11/sony-apresenta-versao-do-classico-fone-mdr-3r-com-edicao-de-stranger-things-e-co.webp",
+      "alt": "Imagem publicada por Arkade",
+      "imageCredit": "Imagem: Arkade",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Sony apresenta versão do clássico fone MDR-3R, com edição de Stranger Things e conexão USB-C",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3fc027ad0aa02f05",
+      "title": "Xbox Cloud Gaming agora permite usar celular como controle na TV",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Hardware.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-08T12:29:39Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Hardware.com.br",
+      "sourceUrl": "https://www.hardware.com.br/games/xbox-cloud-gaming-celular-controle-tv",
+      "image": "https://www.hardware.com.br/wp-content/uploads/2026/11/Xbox-Cloud-Gaming-agora-permite-usar-celular-como-controle-na-TV.jpg",
+      "alt": "Imagem publicada por Hardware.com.br",
+      "imageCredit": "Imagem: Hardware.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Xbox Cloud Gaming agora permite usar celular como controle na TV",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-db9f68c5d9e988cb",
+      "title": "Overgeared: conheça o anime de fantasia disponível na Crunchyroll",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Tá Pipocando. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-08T12:09:54Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Tá Pipocando",
+      "sourceUrl": "https://tapipocando.com.br/overgeared-anime-fantasia-crunchyroll-grid-2026-48350",
+      "image": "https://i0.wp.com/tapipocando.com.br/wp-content/uploads/2026/11/overgeared_header.jpg?fit=960%2C540&ssl=1",
+      "alt": "Imagem publicada por Tá Pipocando",
+      "imageCredit": "Imagem: Tá Pipocando",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Overgeared: conheça o anime de fantasia disponível na Crunchyroll",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d3011bfb5d4063e1",
+      "title": "Guerreiras Mágicas de Rayearth retorna em novo anime em 2026",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Tá Pipocando. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-08T12:05:46Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Tá Pipocando",
+      "sourceUrl": "https://tapipocando.com.br/guerreiras-magicas-rayearth-novo-anime-2026-crunchyroll-48351",
+      "image": "https://i0.wp.com/tapipocando.com.br/wp-content/uploads/2026/11/magic-knight-rayearth-2.png?fit=1200%2C622&ssl=1",
+      "alt": "Imagem publicada por Tá Pipocando",
+      "imageCredit": "Imagem: Tá Pipocando",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Guerreiras Mágicas de Rayearth retorna em novo anime em 2026",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e723f51c63b86796",
+      "title": "Monster Train 2 Anuncia DLC 'The Punished': Dor que Vira Poder no Novo Clã para PC e Consoles",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Gamerscore Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-08T12:01:31Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Gamerscore Brasil",
+      "sourceUrl": "https://www.gamerscore.com.br/monster-train-2-anuncia-dlc-the-punished-dor-que-vira-poder-no-novo-cla-para-pc-e-consoles",
+      "image": "https://www.gamerscore.com.br/wp-content/uploads/2025/05/Monster-Train-2.jpg",
+      "alt": "Imagem publicada por Gamerscore Brasil",
+      "imageCredit": "Imagem: Gamerscore Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Monster Train 2 Anuncia DLC 'The Punished': Dor que Vira Poder no Novo Clã para PC e Consoles",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-401835377982f14c",
+      "title": "Nova minissérie da Netflix que está conquistando o público: um thriller para terminar em uma única tarde",
+      "excerpt": "Baseada no romance de Stefan Ahnhem",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T12:00:34Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/netflix/157387/nova-minisserie-da-netflix-que-esta-conquistando-o-publico-um-thriller-para-terminar-em-uma-unica-ta",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/blob_rvdw.png",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Nova minissérie da Netflix que está conquistando o público: um thriller para terminar em uma única tarde",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2c0df1bc1b47ad57",
+      "title": "Bill Skarsgard diz que usa vozes de Pennywise e Nosferatu para disciplinar seus filhos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-08T12:00:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/bill-skarsgard-usa-vozes-de-pennywise-e-nosferatu-para-disciplinar-os-filhos",
+      "image": "https://cdn.ome.lt/jOro89yxCOk3UTWxJeiMVRlVwgI=/1200x630/smart/filters:format(webp)/extras/conteudos/56COG4W23XH3BA4QL5XKE3OZ4I.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Bill Skarsgard diz que usa vozes de Pennywise e Nosferatu para disciplinar seus filhos",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4910effa97ede527",
+      "title": "Henry Cavill e Google estão transformando o polêmico “bigode do Superman” em um charmoso jogo retrô",
+      "excerpt": "Mustache Protocol é um game que está sendo criado por Henry Cavill para salvar os bigodes do mundo (e arrecadar fundos para a saúde masculina).",
+      "body": [
+        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T12:00:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Arkade",
+      "sourceUrl": "https://arkade.com.br/henry-cavill-e-google-estao-transformando-o-polemico-bigode-do-superman-em-um-charmoso-jogo-retro",
+      "image": "https://arkade.com.br/wp-content/uploads/2026/11/henry-cavill-esta-transformando-a-polemica-do-bigode-do-superman-em-um-jogo-retr-1.webp",
+      "alt": "Imagem publicada por Arkade",
+      "imageCredit": "Imagem: Arkade",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Henry Cavill e Google estão transformando o polêmico “bigode do Superman” em um charmoso jogo retrô",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5ac8747210cf5294",
+      "title": "Martin McDonagh vê ecos da política atual em Cavalo Selvagem Nove e comemora a conversa sobre o Oscar",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-08T11:30:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/entrevista-martin-mcdonagh-cavalo-selvagem-nove-oscar-politica",
+      "image": "https://cdn.ome.lt/MtCm2dfOdVdhXToVHjSFieWmv8Y=/1200x630/smart/filters:format(webp)/extras/conteudos/wildhorsenine-entrevista.jpg",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Martin McDonagh vê ecos da política atual em Cavalo Selvagem Nove e comemora a conversa sobre o Oscar",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-61705a3a7454f7e6",
+      "title": "CD Projekt explica Bard’s Ballad, preset de The Witcher 3 que tira peso e desgaste dos itens",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Project N. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-08T11:27:10Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Project N",
+      "sourceUrl": "https://projectn.com.br/the-witcher-3-remastered-bards-ballad-acessibilidade-switch-2",
+      "image": "https://projectn.com.br/wp-content/uploads/2026/11/The-Witcher-3-Wild-Hunt-Remastered-16x9-1.jpg",
+      "alt": "Imagem publicada por Project N",
+      "imageCredit": "Imagem: Project N",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "CD Projekt explica Bard’s Ballad, preset de The Witcher 3 que tira peso e desgaste dos itens",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2e3ecaa613a744f8",
+      "title": "Demissões acentuam a montanha-russa financeira da Bit Reactor, estúdio de Star Wars Zero Company",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-08T11:26:37Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/demissoes-bit-reactor-star-wars-zero-company",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794124628.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Demissões acentuam a montanha-russa financeira da Bit Reactor, estúdio de Star Wars Zero Company",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8e67ab2a26450f21",
+      "title": "Primeiras Impressões | ‘Jogos Vorazes: Amanhecer na Colheita’ é o MELHOR filme da franquia desde ‘Em Chamas’",
+      "excerpt": "‘Jogos Vorazes: Amanhecer na Colheita‘ chega muito em breve aos cinemas de todo o mundo – e o CinePOP já teve a oportunidade de assistir ao longa-metragem em uma exibição especial realizada pela Paris Filmes.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T11:20:17Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/primeiras-impressoes-jogos-vorazes-amanhecer-na-colheita-e-o-melhor-filme-da-franquia-desde-em-chamas-775323",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/04/jogos-vorazes-3-1024x612.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Primeiras Impressões | ‘Jogos Vorazes: Amanhecer na Colheita’ é o MELHOR filme da franquia desde ‘Em Chamas’",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aae7b230941f0ba1",
+      "title": "Análise: Remake de Zelda Ocarina of Time vale a pena? Confira",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em bra1.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-08T11:01:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "bra1.com.br",
+      "sourceUrl": "https://www.bra1.com.br/tecnologia/id-722522/analise__remake_de_zelda_ocarina_of_time_vale_a_penae_63_confira",
+      "image": "https://cdn.conexaohost.com.br/img/500x500/1/0/webp/arquivos/1918/conteudo/posts/722522.jpg",
+      "alt": "Imagem publicada por bra1.com.br",
+      "imageCredit": "Imagem: bra1.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Análise: Remake de Zelda Ocarina of Time vale a pena? Confira",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-21a5bd10365b2fe2",
+      "title": "Christopher Lloyd, 88 anos: “Toda vez que assisto a De Volta para o Futuro 3 e vejo aquela cena, sinto uma pontada no coração”",
+      "excerpt": "“Quase arrisquei tudo”",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-08T11:00:34Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/de-volta-para-o-futuro/157385/christopher-lloyd-88-anos-toda-vez-que-assisto-a-de-volta-para-o-futuro-3-e-vejo-aquela-cena-sinto-u",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/captura-de-tela-2026-11-06-070830_vkx7.png",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Christopher Lloyd, 88 anos: “Toda vez que assisto a De Volta para o Futuro 3 e vejo aquela cena, sinto uma pontada no coração”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d7be8065678051e1",
+      "title": "Confira o trailer INÉDITO de ‘Ray Gunn’, nova animação do diretor de ‘Ratatouille’!",
+      "excerpt": "A Netflix e a Skydance Animation reveleram um novo trailer promocional de ‘Ray Gunn’, animação dirigida pelo vencedor do Oscar Brad Bird (‘Os Incríveis’, ‘Ratatouille’).",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-08T10:59:58Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/confira-o-trailer-inedito-de-ray-gunn-nova-animacao-do-diretor-de-ratatouille-775312",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/04/ray-gunn.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Confira o trailer INÉDITO de ‘Ray Gunn’, nova animação do diretor de ‘Ratatouille’!",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a2164a333744f9e0",
+      "title": "Zelda faz 40 anos e Ocarina of Time volta no Switch 2",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Folha do Leste. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-08T10:30:30Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Folha do Leste",
+      "sourceUrl": "https://folhadoleste.com.br/zelda-40-anos-ocarina-of-time-switch-2",
+      "image": "https://folhadoleste.com.br/wp-content/uploads/2026/11/zelda-40-anos-ocarina-of-time-switch-2-divulgacao-nintendo.webp",
+      "alt": "Imagem publicada por Folha do Leste",
+      "imageCredit": "Imagem: Folha do Leste",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Zelda faz 40 anos e Ocarina of Time volta no Switch 2",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2b4750a28dcd03f4",
+      "title": "Marvel promete VisionQuest livre de “lição de casa”, mas sinaliza uma nova cartilha de continuidade",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em radiogeekbr.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T10:26:41Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "radiogeekbr.com.br",
+      "sourceUrl": "https://radiogeekbr.com.br/visionquest-marvel-dispensa-licao-de-casa-mas-revela-continuidade-modular",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794136313.jpg",
+      "alt": "Imagem publicada por radiogeekbr.com.br",
+      "imageCredit": "Imagem: radiogeekbr.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel promete VisionQuest livre de “lição de casa”, mas sinaliza uma nova cartilha de continuidade",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1310125eb6226fc5",
+      "title": "Após 13 anos, o filme de zumbis de maior sucesso ganhará uma sequência que poderá rivalizar com obras de Christopher Nolan e Denis Villeneuve",
+      "excerpt": "Durante muitos anos, houve tentativas de criar uma sequência para o mega sucesso de terror e suspense Guerra Mundial Z",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T10:00:36Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/cinema-tv/157384/apos-13-anos-o-filme-de-zumbis-de-maior-sucesso-ganhara-uma-sequencia-que-podera-rivalizar-com-obras",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/blob_7q36.png",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Após 13 anos, o filme de zumbis de maior sucesso ganhará uma sequência que poderá rivalizar com obras de Christopher Nolan e Denis Villeneuve",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dbd3147cae7284e5",
+      "title": "Geninho e a crise na Cidade de Deus: “É um rapaz mimado”, diz Victor Andrade",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-08T09:45:00Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/cidade-de-deus-a-luta-nao-para-entrevista-2-temporada-geninho",
+      "image": "https://cdn.ome.lt/dD9jxEd-nwT64sFAAfCxUHXKS3g=/1200x630/smart/filters:format(webp)/extras/conteudos/SnapInsta.to_843373014_18633055993044845_1670031851897026658_n.jpg",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Geninho e a crise na Cidade de Deus: “É um rapaz mimado”, diz Victor Andrade",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2798e03faa094f2",
+      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T09:27:28Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792172503.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6ab323965a7b1d6c",
+      "title": "Classificação R do novo spin-off de Batman expõe guinada brutal de James Gunn no DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T06:11:51Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/classificacao-r-spin-off-batman-james-gunn-dcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791223894.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Classificação R do novo spin-off de Batman expõe guinada brutal de James Gunn no DCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ad38d579b2dc10e",
+      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T05:26:50Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1787021684.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-32db59e840203ee6",
+      "title": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T04:57:04Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-transforma-robert-downey-jr-em-doutor-doom-poster-avengers-doomsday",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792351609.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-834458912c5d853e",
+      "title": "Marvel usa a bissexualidade de Tommy Maximoff para chacoalhar regras antigas – e ela não é a única cartada em VisionQuest",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T03:26:40Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-bissexualidade-tommy-maximoff-visionquest-cartada",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791350772.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel usa a bissexualidade de Tommy Maximoff para chacoalhar regras antigas – e ela não é a única cartada em VisionQuest",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-51301c3b1f563b4b",
+      "title": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T03:26:40Z",
+      "displayDate": "8 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/spiderman-cria-arma-contra-xmen-brand-new-day",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1785608657.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cd80236536b16e6",
+      "title": "Destino de Constantine 2 em risco após nova reestruturação da DC Studios",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Thunder Wave. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-08T02:53:11Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/8/rascal-does-not-dream-of-a-dear-friend-filme-novo-clipe-kaede",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2b51642344/rascal-does-not-dream-of-a-dear-friend-kaede-hero.png",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "sourceName": "Thunder Wave",
+      "sourceUrl": "https://thunderwave.com.br/2026/11/07/constantine-2-risco-dc-studios",
+      "image": "https://thunderwave.com.br/wp-content/uploads/2026/11/destino-de-constantine-2-em-risco-apos-nova-reestruturacao-da-dc-studios-tmdb-thumbnail.jpg",
+      "alt": "Imagem publicada por Thunder Wave",
+      "imageCredit": "Imagem: Thunder Wave",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Filme Rascal Does Not Dream of a Dear Friend divulga novo clipe com Kaede",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a509ac678e02ee09",
-      "title": "Oeste Cultura: Godzilla, Anime e cultura japonesa no Brasil",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Revista Oeste. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-08T01:30:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Revista Oeste",
-      "sourceUrl": "https://revistaoeste.com/videos/oeste-cultura/oeste-cultura-godzilla-anime-e-cultura-japonesa-no-brasil",
-      "image": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Oeste-cultura-dia-7-de-novembro--910x568.jpeg.webp",
-      "alt": "Imagem publicada por Revista Oeste",
-      "imageCredit": "Imagem: Revista Oeste",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Oeste Cultura: Godzilla, Anime e cultura japonesa no Brasil",
+      "originalTitle": "Destino de Constantine 2 em risco após nova reestruturação da DC Studios",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -265,58 +1055,6 @@
       }
     },
     {
-      "id": "radar-4138b3e3dad108bd",
-      "title": "Estúdio de Star Wars Zero Company despediu funcionários",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Eurogamer.pt. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-08T00:24:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Eurogamer.pt",
-      "sourceUrl": "https://www.eurogamer.pt/estudio-de-star-wars-zero-company-despediu-funcionarios",
-      "image": "https://assetsio.gnwcdn.com/image004_lqNu6ha.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "alt": "Imagem publicada por Eurogamer.pt",
-      "imageCredit": "Imagem: Eurogamer.pt",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Estúdio de Star Wars Zero Company despediu funcionários",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d8ed9de451d397f5",
-      "title": "Marvel aposenta Peter Parker em novo mangá de 2026 e muda o jogo do Homem-Aranha",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-08T00:11:49Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-aposenta-peter-parker-em-novo-manga-de-2026",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1790799028.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel aposenta Peter Parker em novo mangá de 2026 e muda o jogo do Homem-Aranha",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-c70fff6abc4ff21b",
       "title": "Bill Skarsgård diz que adoraria viver John Constantine nos cinemas",
       "excerpt": "O Pennywise quer encarar demônios de um jeito diferente!",
@@ -336,60 +1074,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Bill Skarsgård diz que adoraria viver John Constantine nos cinemas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5aea7cdbdc402b89",
-      "title": "Zelda: Ocarina of Time registra a maior pontuação de usuários da história do Metacritic apesar do bombardeio de avaliações negativas",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Notebookcheck.info. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T23:23:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Notebookcheck.info",
-      "sourceUrl": "https://www.notebookcheck.info/Zelda-Ocarina-of-Time-registra-a-maior-pontuacao-de-usuarios-da-historia-do-Metacritic-apesar-do-bombardeio-de-avaliacoes-negativas.1444997.0.html",
-      "image": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/ZeldaOcarinaMetacriticMustPlay.jpg",
-      "alt": "Imagem publicada por Notebookcheck.info",
-      "imageCredit": "Imagem: Notebookcheck.info",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Zelda: Ocarina of Time registra a maior pontuação de usuários da história do Metacritic apesar do bombardeio de avaliações negativas",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-8da16ac6dc20de6a",
-      "title": "Marvel forma Vingadores de reserva em VisionQuest e ensaia troca de guarda antes de Doomsday",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T23:11:38Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-visionquest-novo-time-vingadores-troca-de-guarda",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789732517.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel forma Vingadores de reserva em VisionQuest e ensaia troca de guarda antes de Doomsday",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -449,25 +1133,25 @@
       }
     },
     {
-      "id": "radar-707682184e3050a1",
-      "title": "Girls | Adam Driver não vai retornar para revival da série na HBO",
+      "id": "radar-44b9a673694004ff",
+      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T22:06:00Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-07T20:41:46Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/girls-adam-driver-nao-retorna-revival-girls-hbo-lena-dunham",
-      "image": "https://cdn.ome.lt/ZW2H9iMURkUy7NTz6dRBxdcl5EM=/1200x630/smart/filters:format(webp)/extras/conteudos/girls.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792448791.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Girls | Adam Driver não vai retornar para revival da série na HBO",
+      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -475,25 +1159,25 @@
       }
     },
     {
-      "id": "radar-523a68fcb4b79035",
-      "title": "Outlander: Blood of My Blood | Saiba quando estreia o 9º episódio da 2ª temporada",
+      "id": "radar-79be9cc4e5587c3d",
+      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-07T21:54:00Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T20:41:46Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/outlander-blood-of-my-blood-9-episodio-temporada-2-estreia",
-      "image": "https://cdn.ome.lt/ffsPod6XO6aa_StQLKadn9Rrr9w=/1200x630/smart/filters:format(webp)/extras/conteudos/outlander_I1bD0xV.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792342569.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Outlander: Blood of My Blood | Saiba quando estreia o 9º episódio da 2ª temporada",
+      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -501,51 +1185,25 @@
       }
     },
     {
-      "id": "radar-0d96592cf37f9c42",
-      "title": "‘100 Dias de Mentiras’: tudo sobre o k-drama de espionagem e romance da Netflix com Jinyoung",
-      "excerpt": "A Netflix emplacou mais um k-drama de época no gosto do público.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T21:00:38Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/100-dias-de-mentiras-tudo-sobre-o-k-drama-de-espionagem-e-romance-da-netflix-com-jinyoung",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/11/100-Dias-de-Mentiras-foto-2-e1793726237642.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘100 Dias de Mentiras’: tudo sobre o k-drama de espionagem e romance da Netflix com Jinyoung",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4e078943c6f297c9",
-      "title": "Heated Rivalry | Adaptação para TV de Rivalidade Ardente já tem terceira temporada e filme confirmados",
+      "id": "radar-95283e1f72bd83b7",
+      "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T20:36:00Z",
+      "publishedAt": "2026-11-07T20:41:46Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/heated-rivalry-adaptacao-tv-terceira-temporada-filme-confirmados",
-      "image": "https://cdn.ome.lt/Qve8j5WAkPHSzd4SxezjKn6VP64=/1200x630/smart/filters:format(webp)/extras/conteudos/heatedrivalry_xcJQDD1.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792031160.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Heated Rivalry | Adaptação para TV de Rivalidade Ardente já tem terceira temporada e filme confirmados",
+      "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -633,32 +1291,6 @@
       }
     },
     {
-      "id": "radar-952808cef9c9e476",
-      "title": "Club Kid | Jordan Firstman revela que usou aplicativo de relacionamentos para conseguir figurantes",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-07T20:08:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/club-kid-jordan-firstman-revela-aplicativo-relacionamentos-grindr-figurantes",
-      "image": "https://cdn.ome.lt/P9jQfiJkihVi5M-M5Q4b1o-xSNE=/1200x630/smart/filters:format(webp)/extras/conteudos/clubkid.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Club Kid | Jordan Firstman revela que usou aplicativo de relacionamentos para conseguir figurantes",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-ff9777cc3eb4c9dc",
       "title": "‘Frozen 3’: Disney revela nova vilã que pode ser mais poderosa que Elsa",
       "excerpt": "A Disney abriu o jogo sobre as novidades de Frozen 3.",
@@ -685,25 +1317,51 @@
       }
     },
     {
-      "id": "radar-362b2c6e95dd8d09",
-      "title": "LEGO lança 5 calendários de advento com minifiguras exclusivas",
+      "id": "radar-428725aea2d6a612",
+      "title": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Magazine.HD. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "colecionaveis",
-      "categoryName": "Colecionáveis",
-      "publishedAt": "2026-11-07T20:00:24Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T19:42:12Z",
       "displayDate": "7 nov. 2026",
-      "sourceName": "Magazine.HD",
-      "sourceUrl": "https://www.magazine-hd.com/apps/wp/lego-lanca-5-calendarios-advento-natal-minifiguras-exclusivas",
-      "image": "https://www.magazine-hd.com/apps/wp/wp-content/uploads/2026/03/lego.webp",
-      "alt": "Imagem publicada por Magazine.HD",
-      "imageCredit": "Imagem: Magazine.HD",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-legiao-do-mal-quinto-vilao-dcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1788216912.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "LEGO lança 5 calendários de advento com minifiguras exclusivas",
+      "originalTitle": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-328881170e679a59",
+      "title": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-07T19:42:12Z",
+      "displayDate": "7 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/black-lanterns-antecipam-apocalipse-dcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1788891931.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -739,32 +1397,6 @@
       }
     },
     {
-      "id": "radar-f724937ba1d9ae01",
-      "title": "‘Black Doves’: 2ª temporada estreia na Netflix com Keira Knightley e Ben Whishaw de volta",
-      "excerpt": "A Netflix traz de volta um dos seus suspenses de espionagem mais badalados.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T19:00:50Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/black-doves-2a-temporada-estreia-na-netflix-com-keira-knightley-e-ben-whishaw-de-volta",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/09/Black-Doves-1-e1790265914718.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘Black Doves’: 2ª temporada estreia na Netflix com Keira Knightley e Ben Whishaw de volta",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-d31262a61595fb85",
       "title": "Call of Duty: Warzone chega de surpresa ao Nintendo Switch 2",
       "excerpt": "",
@@ -784,138 +1416,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Call of Duty: Warzone chega de surpresa ao Nintendo Switch 2",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-44a70ca620e492f4",
-      "title": "The Legend of Zelda: Ocarina of Time Remake se torna jogo mais bem-avaliado da história por usuários do Metacritic",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T17:54:16Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/games/the-legend-of-zelda-ocarina-of-time-remake-jogo-mais-bem-avaliado-metacritic",
-      "image": "https://cdn.ome.lt/tw0hxjQpU4YwiuzPtkbdQzsR1sQ=/1200x630/smart/filters:format(webp)/extras/conteudos/zelda_8KJUS7c.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The Legend of Zelda: Ocarina of Time Remake se torna jogo mais bem-avaliado da história por usuários do Metacritic",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-92ddf28d27983ddb",
-      "title": "Xbox Cloud Gaming fica até 159% mais caro no Brasil; veja novos preços",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Game Overdrive. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T16:54:02Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Game Overdrive",
-      "sourceUrl": "https://gameoverdrive.com.br/xbox-cloud-gaming-novos-precos-horas-novembro-2026",
-      "image": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/xbox-cloud-gaming-ou-game-pass-2-1600x900.webp",
-      "alt": "Imagem publicada por Game Overdrive",
-      "imageCredit": "Imagem: Game Overdrive",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Xbox Cloud Gaming fica até 159% mais caro no Brasil; veja novos preços",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-555fafce7d6e1cfb",
-      "title": "A Inteligência Artificial já apresenta uma ameaça para os cartuchos da Nintendo",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Xataka Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T16:31:11Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Xataka Brasil",
-      "sourceUrl": "https://www.xataka.com.br/diversos/a-inteligencia-artificial-ja-esta-ameacando-os-cartuchos-da-nintendo",
-      "image": "https://i.blogs.es/b52ba5/original/840_560.jpeg",
-      "alt": "Imagem publicada por Xataka Brasil",
-      "imageCredit": "Imagem: Xataka Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "A Inteligência Artificial já apresenta uma ameaça para os cartuchos da Nintendo",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-76f8dcdf0ccb4ce9",
-      "title": "Anime de BLESS ganha data de estreia em novo trailer",
-      "excerpt": "Série estreia em janeiro de 2027.",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-07T15:27:00Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/7/bless-anime-data-8-de-janeiro-encerramento",
-      "image": "https://a.storyblok.com/f/178900/1280x720/1f85c7cc3e/bless.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Anime de BLESS ganha data de estreia em novo trailer",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ab4ff73b1e074bf1",
-      "title": "Batman e Lex Luthor podem disputar o posto de James Bond",
-      "excerpt": "Astros estão entre os candidatos para substituir Daniel Craig Robert Pattinson e Nicholas Hoult teriam feito testes para interpretar o próximo James Bond.",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-07T15:15:34Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/batman-e-lex-luthor-podem-disputar-o-posto-de-james-bond.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_psGWxDX3_ESo.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Batman e Lex Luthor podem disputar o posto de James Bond",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -994,58 +1494,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Mudança de chefia na Pixar: Presidente do estúdio deixa o cargo após 12 anos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a25d8eede65fd4db",
-      "title": "PlayStation está começando a enviar e-mails aos usuários para que vendam seus PS5 no Back Market",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Xataka Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T13:31:05Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "Xataka Brasil",
-      "sourceUrl": "https://www.xataka.com.br/diversos/playstation-esta-comecando-a-enviar-e-mails-aos-usuarios-vendam-seus-ps5-no-back-market",
-      "image": "https://i.blogs.es/f7446e/x2/840_560.png",
-      "alt": "Imagem publicada por Xataka Brasil",
-      "imageCredit": "Imagem: Xataka Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "PlayStation está começando a enviar e-mails aos usuários para que vendam seus PS5 no Back Market",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-8ffc39f8ee9e7c2b",
-      "title": "God of War Ragnarok é o jogo PlayStation Studios com maior receita da geração PS5",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em IGN Portugal. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-07T12:39:52Z",
-      "displayDate": "7 nov. 2026",
-      "sourceName": "IGN Portugal",
-      "sourceUrl": "https://pt.ign.com/astro-bot/164218/god-of-war-ragnarok-e-o-jogo-playstation-studios-com-maior-receita-da-geracao-ps5",
-      "image": "https://sm.ign.com/t/ign_pt/news/g/god-of-war/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playsta_g252.1200.jpg",
-      "alt": "Imagem publicada por IGN Portugal",
-      "imageCredit": "Imagem: IGN Portugal",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "God of War Ragnarok é o jogo PlayStation Studios com maior receita da geração PS5",
       "tags": [],
       "editorialReview": {
         "status": "native",
