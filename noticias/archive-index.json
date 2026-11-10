@@ -1,7 +1,439 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T12:58:51.492363Z",
+  "updatedAt": "2026-11-10T20:36:22.410651Z",
   "articles": [
+    {
+      "id": "radar-fd5b41271b3d8334",
+      "publishedAt": "2026-11-10T20:34:00Z",
+      "title": "Mensagem Para Você vai ganhar remake dirigido por Jason Orley",
+      "sourceUrl": "https://www.omelete.com.br/filmes/mensagem-para-voce-remake-jason-orley",
+      "originalTitle": "Mensagem Para Você vai ganhar remake dirigido por Jason Orley",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e7c4c6a36ebc9500",
+      "publishedAt": "2026-11-10T20:29:50Z",
+      "title": "Heróis da DC vão virar cristãos? Novo chefe faz filmes que sua avó aprovaria",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/dc-jeremy-latcham-filmes-cristaos",
+      "originalTitle": "Heróis da DC vão virar cristãos? Novo chefe faz filmes que sua avó aprovaria",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0dad3f8969850da4",
+      "publishedAt": "2026-11-10T20:22:00Z",
+      "title": "A Hora do Pesadelo | Paramount avança com novo remake, enquanto filme da Warner Bros. é cancelado",
+      "sourceUrl": "https://www.omelete.com.br/filmes/a-hora-do-pesadelo-paramount-avanca-com-novo-remake-warner-bros-cancelado",
+      "originalTitle": "A Hora do Pesadelo | Paramount avança com novo remake, enquanto filme da Warner Bros. é cancelado",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-05a797a09bcb9644",
+      "publishedAt": "2026-11-10T20:15:00Z",
+      "title": "PS Plus de novembro terá Death Stranding 2, Dragon Quest e mais jogos! Veja a lista completa",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/ps-plus-de-novembro-tera-death-stranding-2-dragon-quest-e-mais-jogos-veja-a-lista-completa",
+      "originalTitle": "PS Plus de novembro terá Death Stranding 2, Dragon Quest e mais jogos! Veja a lista completa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-82838cfb23368be5",
+      "publishedAt": "2026-11-10T20:14:41Z",
+      "title": "Novo capítulo de Dandadan revela passado trágico de Okarun antes de conhecer Momo Ayase",
+      "sourceUrl": "https://br.ign.com/dandadan/157521/novo-capitulo-de-dandadan-revela-passado-tragico-de-okarun-antes-de-conhecer-momo-ayase",
+      "originalTitle": "Novo capítulo de Dandadan revela passado trágico de Okarun antes de conhecer Momo Ayase",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a864fda748b26162",
+      "publishedAt": "2026-11-10T20:03:00Z",
+      "title": "Os Demônios | Relançamento do clássico de Ken Russell ganha data no Brasil",
+      "sourceUrl": "https://www.omelete.com.br/filmes/os-demonios-relancamento-classico-ken-russell-data-no-brasil",
+      "originalTitle": "Os Demônios | Relançamento do clássico de Ken Russell ganha data no Brasil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bd24e07cb34ede68",
+      "publishedAt": "2026-11-10T19:50:09Z",
+      "title": "DC Studios pode sofrer NOVO reboot após saída de James Gunn e Peter Safran; ENTENDA o futuro da franquia",
+      "sourceUrl": "https://cinepop.com.br/dc-studios-pode-sofrer-novo-reboot-apos-saida-de-james-gunn-e-peter-safran-entenda-o-futuro-da-franquia-775581",
+      "originalTitle": "DC Studios pode sofrer NOVO reboot após saída de James Gunn e Peter Safran; ENTENDA o futuro da franquia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2c7ca5aedc4a6609",
+      "publishedAt": "2026-11-10T19:47:00Z",
+      "title": "Minha Melhor Amiga alcança o Top 2 global de filmes da Netflix",
+      "sourceUrl": "https://www.omelete.com.br/filmes/minha-melhor-amiga-alcanca-o-top-2-global-de-filmes-da-netflix",
+      "originalTitle": "Minha Melhor Amiga alcança o Top 2 global de filmes da Netflix",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3b50772d5d9cc062",
+      "publishedAt": "2026-11-10T19:41:44Z",
+      "title": "Naruto ganha mudança em produção após reestruturação na DC Studios",
+      "sourceUrl": "https://www.maquinanerd.com.br/cinema/naruto-ganha-mudanca-em-producao-apos-reestruturacao-na-dc-studios",
+      "originalTitle": "Naruto ganha mudança em produção após reestruturação na DC Studios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-40296f10cccaca66",
+      "publishedAt": "2026-11-10T19:36:00Z",
+      "title": "Vingadores ou Duna? Atriz nos dois, Florence Pugh revela qual filme ela recomenda ver primeiro",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-ou-duna-florence-pugh-revela-qual-filme-recomenda-ver-primeiro",
+      "originalTitle": "Vingadores ou Duna? Atriz nos dois, Florence Pugh revela qual filme ela recomenda ver primeiro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-359ba10dac30536a",
+      "publishedAt": "2026-11-10T19:18:03Z",
+      "title": "Após saída de James Gunn e Peter Safran da DC Studios, fãs voltam a se MOBILIZAR para restaurar o Snyderverso",
+      "sourceUrl": "https://cinepop.com.br/apos-saida-de-james-gunn-e-peter-safran-da-dc-studios-fas-voltam-a-se-mobilizar-para-restaurar-o-snyderverso-775548",
+      "originalTitle": "Após saída de James Gunn e Peter Safran da DC Studios, fãs voltam a se MOBILIZAR para restaurar o Snyderverso",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f89a47b3e821a89d",
+      "publishedAt": "2026-11-10T19:16:35Z",
+      "title": "Revelados DETALHES por trás da saída de James Gunn e Peter Safran do comando da DC Studios",
+      "sourceUrl": "https://cinepop.com.br/revelados-detalhes-por-tras-da-demissao-de-james-gunn-e-peter-safran-da-dc-studios-775538",
+      "originalTitle": "Revelados DETALHES por trás da saída de James Gunn e Peter Safran do comando da DC Studios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5a51649faeed81c1",
+      "publishedAt": "2026-11-10T19:00:00Z",
+      "title": "Anime Ásia Fest traz gastronomia, K-POP, animes e cosplays para Mongaguá",
+      "sourceUrl": "https://santaportal.com.br/1077-fm/anime-asia-fest-traz-gastronomia-k-pop-animes-e-cosplays-para-mongagua",
+      "originalTitle": "Anime Ásia Fest traz gastronomia, K-POP, animes e cosplays para Mongaguá",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fb9e2509e5dbc3f6",
+      "publishedAt": "2026-11-10T18:51:23Z",
+      "title": "Combo Samsung na Black da Amazon! Smart TV Samsung 55\" Crystal UHD 4K + Soundbar no menor valor registrado",
+      "sourceUrl": "https://br.ign.com/descontos/157482/combo-samsung-na-black-da-amazon-smart-tv-samsung-55-crystal-uhd-4k-soundbar-no-menor-valor-registra",
+      "originalTitle": "Combo Samsung na Black da Amazon! Smart TV Samsung 55\" Crystal UHD 4K + Soundbar no menor valor registrado",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6767b8097c40a6a4",
+      "publishedAt": "2026-11-10T18:35:00Z",
+      "title": "Dark Horse foi censurado no Brasil? Distribuidor do filme responde",
+      "sourceUrl": "https://www.omelete.com.br/filmes/dark-horse-foi-censurado-no-brasil-distribuidor-do-filme-responde",
+      "originalTitle": "Dark Horse foi censurado no Brasil? Distribuidor do filme responde",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1d8dc223afd171e4",
+      "publishedAt": "2026-11-10T18:30:00Z",
+      "title": "ViewFinity S7 | Samsung anuncia novo monitor 4K focado no mercado corporativo",
+      "sourceUrl": "https://www.omelete.com.br/games/viewfinity-s7-samsung-anuncia-novo-monitor-4k-focado-no-mercado-corporativo",
+      "originalTitle": "ViewFinity S7 | Samsung anuncia novo monitor 4K focado no mercado corporativo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cf674e2ee2ab543",
+      "publishedAt": "2026-11-10T18:30:00Z",
+      "title": "SEGA e Dark Horse lançam figuras de vinil clássicas de Sonic e Tails",
+      "sourceUrl": "https://arkade.com.br/sega-e-dark-horse-lancam-figuras-de-vinil-classicas-de-sonic-e-tails",
+      "originalTitle": "SEGA e Dark Horse lançam figuras de vinil clássicas de Sonic e Tails",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0db0e35b06e2670d",
+      "publishedAt": "2026-11-10T18:02:37Z",
+      "title": "Aplicativo PlayStation Plus no PC será encerrado em dezembro",
+      "sourceUrl": "https://www.comboinfinito.com.br/principal/playstation-plus-app-pc-encerra-atividades",
+      "originalTitle": "Aplicativo PlayStation Plus no PC será encerrado em dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ba13aaa6179de597",
+      "publishedAt": "2026-11-10T17:53:28Z",
+      "title": "Astro original de Harry Potter confirma retorno à franquia antes da série da HBO",
+      "sourceUrl": "https://mixdeseries.com.br/astro-original-de-harry-potter-volta-franquia",
+      "originalTitle": "Astro original de Harry Potter confirma retorno à franquia antes da série da HBO",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1d91d6d791ff4d2b",
+      "publishedAt": "2026-11-10T17:44:04Z",
+      "title": "Godzilla Minus Zero revisita cenário do filme de 1998 em cena perturbadora",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/godzilla-minus-zero-revisita-cenario-do-filme-de-1998-em-cena-perturbadora.html",
+      "originalTitle": "Godzilla Minus Zero revisita cenário do filme de 1998 em cena perturbadora",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-669bfed50afa67d2",
+      "publishedAt": "2026-11-10T17:40:00Z",
+      "title": "Vingadores: Doutor Destino destaca VisionQuest em contagem regressiva",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-visionquest-contagem-regressiva",
+      "originalTitle": "Vingadores: Doutor Destino destaca VisionQuest em contagem regressiva",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-910ab754ea22c231",
+      "publishedAt": "2026-11-10T17:33:46Z",
+      "title": "Astro de The Big Bang Theory compartilha fotos de sua volta ao teatro",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/astro-de-the-big-bang-theory-compartilha-fotos-de-sua-volta-ao-teatro.html",
+      "originalTitle": "Astro de The Big Bang Theory compartilha fotos de sua volta ao teatro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-25dfbceff0fecf1e",
+      "publishedAt": "2026-11-10T17:33:00Z",
+      "title": "PlayStation Plus recebe Death Stranding 2 e mais 9 jogos em novembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/playstation-plus-novembro-2026-catalogo",
+      "originalTitle": "PlayStation Plus recebe Death Stranding 2 e mais 9 jogos em novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d6509c56fb5ae1a1",
+      "publishedAt": "2026-11-10T16:56:27Z",
+      "title": "GTA 6 é o jogo com mais pré-vendas da história da PlayStation Store e da Microsoft Store",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157506/gta-6-e-o-jogo-com-mais-pre-vendas-da-historia-da-playstation-store-e-da-microsoft-store",
+      "originalTitle": "GTA 6 é o jogo com mais pré-vendas da história da PlayStation Store e da Microsoft Store",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6a7e3a13bac4bf5b",
+      "publishedAt": "2026-11-10T16:26:35Z",
+      "title": "Just Dance: Decades of Hits chega ao Switch 2 com upgrade gratuito",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/just-dance-decades-of-hits-switch-2",
+      "originalTitle": "Just Dance: Decades of Hits chega ao Switch 2 com upgrade gratuito",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c95f1688c00cfb18",
+      "publishedAt": "2026-11-10T16:15:58Z",
+      "title": "Harry Potter terá maior estande da história da CCXP 2026 com experiência imersiva de Hogwarts",
+      "sourceUrl": "https://www.jwave.com.br/2026/11/harry-potter-tera-maior-estande-da-historia-da-ccxp-2026-com-experiencia-imersiva-de-hogwarts",
+      "originalTitle": "Harry Potter terá maior estande da história da CCXP 2026 com experiência imersiva de Hogwarts",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-db5fab44e3c0bb14",
+      "publishedAt": "2026-11-10T16:12:14Z",
+      "title": "GTA 6 está pronto e download já está liberado no PS5 e Xbox Series X|S, diz CEO",
+      "sourceUrl": "https://exame.com/pop/gta-6-esta-pronto-e-download-ja-esta-liberado-no-ps5-e-xbox-series-xs-diz-ceo",
+      "originalTitle": "GTA 6 está pronto e download já está liberado no PS5 e Xbox Series X|S, diz CEO",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-30fcd2bde93268c1",
+      "publishedAt": "2026-11-10T16:08:33Z",
+      "title": "MARVEL Cosmic Invasion: DLC com Doutor Destino já está disponível",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/marvel-cosmic-invasion-dlc-lancamento",
+      "originalTitle": "MARVEL Cosmic Invasion: DLC com Doutor Destino já está disponível",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0d3f40c902df1428",
+      "publishedAt": "2026-11-10T16:07:04Z",
+      "title": "GTA 6 bate recorde histórico de pré-venda no PS5 e Xbox Series S/X",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-bate-recorde-historico-de-pre-venda-no-ps5-e-xbox-series-sx",
+      "originalTitle": "GTA 6 bate recorde histórico de pré-venda no PS5 e Xbox Series S/X",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1020089066bc5b48",
+      "publishedAt": "2026-11-10T15:02:22Z",
+      "title": "MARVEL Cosmic Invasion – The Siege of Castle Doom – Uma boa expansão para o jogo | Análise",
+      "sourceUrl": "https://www.gamersegames.com.br/2026/11/10/marvel-cosmic-invasion-the-siege-of-castle-doom-uma-boa-expansao-para-o-jogo-analise",
+      "originalTitle": "MARVEL Cosmic Invasion – The Siege of Castle Doom – Uma boa expansão para o jogo | Análise",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-611062c18360b390",
+      "publishedAt": "2026-11-10T15:00:00Z",
+      "title": "Metaphor: ReFantazio (Switch 2) | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/metaphor-refantazio-switch-2-review",
+      "originalTitle": "Metaphor: ReFantazio (Switch 2) | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8011239b7ee3df5d",
+      "publishedAt": "2026-11-10T15:00:00Z",
+      "title": "Harry Potter terá ativação gigante na CCXP26,",
+      "sourceUrl": "https://www.omelete.com.br/ccxp/harry-potter-tera-ativacao-gigante-na-ccxp26-saiba-mais",
+      "originalTitle": "Harry Potter terá ativação gigante na CCXP26,",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-42ef47e2a36cf2de",
+      "publishedAt": "2026-11-10T14:30:00Z",
+      "title": "Suikoden: The Anime chega à Crunchyroll na próxima semana",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/announcements/2026/11/10/suikoden-the-anime-crunchyroll-anuncio",
+      "originalTitle": "Suikoden: The Anime chega à Crunchyroll na próxima semana",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ff6db7852b69be9c",
+      "publishedAt": "2026-11-10T14:06:03Z",
+      "title": "GTA 6 (Grand Theft Auto 6) - Teaser de Pré-Carregamento",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157498/gta-6-grand-theft-auto-6-teaser-de-pre-carregamento",
+      "originalTitle": "GTA 6 (Grand Theft Auto 6) - Teaser de Pré-Carregamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8e0fb97533a33054",
+      "publishedAt": "2026-11-10T13:26:00Z",
+      "title": "PRÉ-VENDA | Coleção PlayStation Prism com controles DualSense e Tampas",
+      "sourceUrl": "https://www.adrenaline.com.br/games/playstation/pre-venda-colecao-playstation-prism-com-controles-dualsense-e-tampas",
+      "originalTitle": "PRÉ-VENDA | Coleção PlayStation Prism com controles DualSense e Tampas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6eaadd120099c1d1",
+      "publishedAt": "2026-11-10T12:49:54Z",
+      "title": "Veterano de novelas da Globo, ator e dublador Edson Silva morre aos 95 anos",
+      "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/celebridades/veterano-de-novelas-da-globo-ator-e-dublador-edson-silva-morre-aos-95-anos-157898",
+      "originalTitle": "Veterano de novelas da Globo, ator e dublador Edson Silva morre aos 95 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-550322e68483d6d7",
       "publishedAt": "2026-11-10T12:46:32Z",
@@ -80,6 +512,30 @@
       "title": "James Gunn teria sido demitido da DC enquanto escrevia Superman 3",
       "sourceUrl": "https://mixdeseries.com.br/james-gunn-demitido-da-dc-escrevia-superman-3",
       "originalTitle": "James Gunn teria sido demitido da DC enquanto escrevia Superman 3",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e5196151408688a3",
+      "publishedAt": "2026-11-10T12:27:15Z",
+      "title": "GTA 6 está oficialmente pronto e já pode ser baixado no PS5 e Xbox Series S e X",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-esta-oficialmente-pronto-e-ja-pode-ser-baixado-no-ps5-e-xbox-series-s-e-x",
+      "originalTitle": "GTA 6 está oficialmente pronto e já pode ser baixado no PS5 e Xbox Series S e X",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-44b9a673694004ff",
+      "publishedAt": "2026-11-10T12:11:58Z",
+      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
+      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -267,6 +723,18 @@
       }
     },
     {
+      "id": "radar-9d2ae05b37a94c8c",
+      "publishedAt": "2026-11-10T09:56:15Z",
+      "title": "James Gunn e Peter Safran deixam comando da DC; o que muda agora?",
+      "sourceUrl": "https://www.einerd.com/dcu-safran-gunn-latcham-como-fica",
+      "originalTitle": "James Gunn e Peter Safran deixam comando da DC; o que muda agora?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-609834b8010250f1",
       "publishedAt": "2026-11-10T09:12:06Z",
       "title": "Marvel arma virada relâmpago no MCU: três anúncios em oito dias decidirão a próxima década",
@@ -296,18 +764,6 @@
       "title": "Nintendo Switch e Switch 2 recebem atualização 23.5.0 com suporte ao envio de presentes digitais",
       "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-switch-e-switch-2-recebem-atualizacao-2350-com-suporte-a-presentes-digitais.html",
       "originalTitle": "Nintendo Switch e Switch 2 recebem atualização 23.5.0 com suporte ao envio de presentes digitais",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6eaadd120099c1d1",
-      "publishedAt": "2026-11-10T05:12:46Z",
-      "title": "Veterano de novelas da Globo, ator e dublador Edson Silva morre aos 95 anos",
-      "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/celebridades/veterano-de-novelas-da-globo-ator-e-dublador-edson-silva-morre-aos-95-anos-157898",
-      "originalTitle": "Veterano de novelas da Globo, ator e dublador Edson Silva morre aos 95 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -584,6 +1040,18 @@
       "title": "Harry Potter | Daniel Radcliffe não sabe se verá a série da HBO",
       "sourceUrl": "https://www.omelete.com.br/series-tv/harry-potter-daniel-radcliffe-nao-sabe-se-vera-serie-da-hbo",
       "originalTitle": "Harry Potter | Daniel Radcliffe não sabe se verá a série da HBO",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5c089e09078deb22",
+      "publishedAt": "2026-11-09T22:02:00Z",
+      "title": "Harry Potter: Daniel Radcliffe não pretende assistir série da HBO",
+      "sourceUrl": "https://www.einerd.com/daniel-radcliffe-serie-harry-potter-hbo",
+      "originalTitle": "Harry Potter: Daniel Radcliffe não pretende assistir série da HBO",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -3176,18 +3644,6 @@
       "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
       "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
       "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-44b9a673694004ff",
-      "publishedAt": "2026-11-07T20:41:46Z",
-      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
-      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "translated": false,
       "editorialReview": {
         "status": "native",
