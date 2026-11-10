@@ -1,28 +1,420 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T22:42:17.048607Z",
+  "updatedAt": "2026-11-10T04:21:16.217306Z",
   "articles": [
     {
-      "id": "radar-d0c074ea90cca022",
-      "title": "HBO Max e Paramount+ terão pacote combinado no início de 2027",
+      "id": "radar-9c04a16b2797e5ce",
+      "title": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-10T03:25:09Z",
+      "displayDate": "10 nov. 2026",
+      "sourceName": "Estadão",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/tecmundo/voxel/rog-xbox-ally-x20-chega-ao-brasil-com-visual-retro-por-r-15999",
+      "image": "https://www.estadao.com.br/resizer/v2/XK52NEPLHVDP3CZTY7XGZHFFLQ.jpeg?auth=838956e94731594fe838e4820a799130241350d364e99b4fedebb7a35dbdc9ab&quality=80&width=1200&height=630&smart=true",
+      "alt": "Imagem publicada por Estadão",
+      "imageCredit": "Imagem: Estadão",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f2dd671288556f44",
+      "title": "Brasil conquista terceiro lugar no mundial de Ragnarok Online;",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-10T03:24:00Z",
+      "displayDate": "10 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/games/brasil-terceiro-lugar-mundial-ragnarok-online-2026",
+      "image": "https://cdn.ome.lt/s_pgWumkOCwliclv828LNl631RA=/1200x630/smart/filters:format(webp)/extras/conteudos/WhatsApp_Image_2026-11-06_at_23.37.34.jpeg",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Brasil conquista terceiro lugar no mundial de Ragnarok Online;",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8dabd8da2e7d25dd",
+      "title": "SuperBird é anunciado para PC e ganha playtest público",
+      "excerpt": "A publisher OKJOY anunciou nesta terça-feira, 10, que SuperBird , jogo de construção de baralhos com elementos roguelike desenvolvido por Will Cheng , será lançado para PC, via Steam, em 2027.",
+      "body": [
+        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-10T03:00:00Z",
+      "displayDate": "10 nov. 2026",
+      "sourceName": "Pizza Fria",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/superbird-anunciado-playtest",
+      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/SuperBird.avif",
+      "alt": "Imagem publicada por Pizza Fria",
+      "imageCredit": "Imagem: Pizza Fria",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "SuperBird é anunciado para PC e ganha playtest público",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e8f9c7c3a8b6d186",
+      "title": "Nintendo Switch permitirá enviar presentes digitais pela eShop em novembro",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Séries em Cena. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-10T02:39:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Séries em Cena",
+      "sourceUrl": "https://seriesemcena.com.br/noticias/nintendo-lanca-atualizacao-23-5-0-para-switch-e-switch-2-com-presentes",
+      "image": "https://seriesemcena.com.br/wp-content/uploads/2026/11/nintendo-switch-2-recebe-atualizacao-de-sistema-23-5-0-foto-reproducao-nintendo.webp",
+      "alt": "Imagem publicada por Séries em Cena",
+      "imageCredit": "Imagem: Séries em Cena",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Nintendo Switch permitirá enviar presentes digitais pela eShop em novembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce4f0061c283be18",
+      "title": "Nintendo Switch 2 tem brecha de jailbreak corrigida na atualização 23.5.0",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Universo Nintendo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-10T02:32:34Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Universo Nintendo",
+      "sourceUrl": "https://universonintendo.com/nintendo-switch-2-tem-brecha-de-jailbreak-corrigida-na-atualizacao-23-5-0",
+      "image": "https://universonintendo.com/wp-content/uploads/2026/08/Nintendo-Switch-2-ALT-3.png",
+      "alt": "Imagem publicada por Universo Nintendo",
+      "imageCredit": "Imagem: Universo Nintendo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Nintendo Switch 2 tem brecha de jailbreak corrigida na atualização 23.5.0",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-61f28535e3bd6807",
+      "title": "‘Godzilla Minus Zero’ é uma resposta direta a ‘Oppenheimer’, confirma o diretor",
+      "excerpt": "O Rei dos Monstros também tem um recado para Hollywood!",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-10T02:30:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/godzilla-minus-zero-resposta-oppenheimer-yamazaki-christopher-nolan",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Capa-Site-2026-11-09T224528.473.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Godzilla Minus Zero’ é uma resposta direta a ‘Oppenheimer’, confirma o diretor",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0fb679b0b1cea5d2",
+      "title": "‘Crepúsculo’ vai virar série animada adulta na Netflix: duas temporadas de ‘Sol da Meia-Noite’ confirmadas",
+      "excerpt": "Edward Cullen vai ter a sua vez de ser o narrador!",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-10T02:00:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/crepusculo-serie-animada-netflix-sol-da-meia-noite-duas-temporadas",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Capa-Site-2026-11-09T222855.746.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Crepúsculo’ vai virar série animada adulta na Netflix: duas temporadas de ‘Sol da Meia-Noite’ confirmadas",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-946b97a40fc0d0ab",
+      "title": "‘Godzilla Minus Zero’ faz história: maior abertura de um filme live-action estrangeiro nos EUA",
+      "excerpt": "O Rei dos Monstros acaba de derrubar um recorde que durava 24 anos!",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-10T01:30:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/godzilla-minus-zero-recorde-bilheteria-eua-filme-estrangeiro-imax",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Capa-Site-2026-11-09T214653.659.png",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Godzilla Minus Zero’ faz história: maior abertura de um filme live-action estrangeiro nos EUA",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fb3cf4cf3bfdb04e",
+      "title": "O primeiro anime decide tudo: por que 1 em cada 3 brasileiros desiste antes do episódio 3",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-10T00:57:12Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/primeiro-anime-decide-tudo-desistencia-brasileiros",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792165299.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "O primeiro anime decide tudo: por que 1 em cada 3 brasileiros desiste antes do episódio 3",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dc3f1449aaae50fe",
+      "title": "Detalhes de Uma Vida | Veja Victor Medeiros como Roberto Carlos no filme",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-09T22:23:00Z",
+      "publishedAt": "2026-11-10T00:53:00Z",
       "displayDate": "9 nov. 2026",
       "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/hbo-max-e-paramount-terao-pacote-combinado-no-inicio-de-2027",
-      "image": "https://cdn.ome.lt/b1Em3XBNuMLOzzwXSCOxzC0XTQw=/1200x630/smart/filters:format(webp)/extras/conteudos/images13_JK9TNGr.webp",
+      "sourceUrl": "https://www.omelete.com.br/filmes/detalhes-de-uma-vida-victor-medeiros-como-roberto-carlos-no-filme",
+      "image": "https://cdn.ome.lt/mq1JIqg23LGJvwy8bHbFLn8_r3c=/1200x630/smart/filters:format(webp)/extras/conteudos/img_news.php.webp",
       "alt": "Imagem publicada por Omelete",
       "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "HBO Max e Paramount+ terão pacote combinado no início de 2027",
+      "originalTitle": "Detalhes de Uma Vida | Veja Victor Medeiros como Roberto Carlos no filme",
       "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bf2b0f4ba9c23055",
+      "title": "3ª Temporada de O Senhor dos Anéis marcará reinício da série em grande mudança",
+      "excerpt": "3ª temporada terá salto de cinco anos e funcionará como um reinício suave, preparando uma nova fase para O Senhor dos Anéis.",
+      "body": [
+        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Mix de Séries",
+      "sourceUrl": "https://mixdeseries.com.br/3a-temporada-de-o-senhor-dos-aneis-sera-reinicio",
+      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/10/O-Senhor-dos-Aneis.webp",
+      "alt": "Imagem publicada por Mix de Séries",
+      "imageCredit": "Imagem: Mix de Séries",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "3ª Temporada de O Senhor dos Anéis marcará reinício da série em grande mudança",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fedda5659b4d8e4e",
+      "title": "Cancelamento da 4ª segunda temporada escancara virada da Marvel contra o “modelo Netflix”",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-09T23:56:53Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-cancela-quarta-segunda-temporada-disney-plus",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1785788695.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Cancelamento da 4ª segunda temporada escancara virada da Marvel contra o “modelo Netflix”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4ffe4468fe5c3137",
+      "title": "Re-lançamento de Endgame esconde 4 novos universos e expõe novo laboratório secreto da Marvel",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-09T23:56:53Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/avengers-endgame-encore-4-universos-marvel",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1790237422.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Re-lançamento de Endgame esconde 4 novos universos e expõe novo laboratório secreto da Marvel",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-99d3a0058bc42ed0",
+      "title": "\"Minha avó não iria gostar disso\", diz novo executivo do DC Studios sobre ideias cortadas no primeiro Homem de Ferro",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-09T23:46:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/executivo-do-dc-studios-sobre-ideias-cortadas-nos-tempos-de-mcu",
+      "image": "https://cdn.ome.lt/XAt7I_Vgs8X3cJoTqRLgNHFkigY=/1200x630/smart/filters:format(webp)/extras/conteudos/MV5BMTI5ODY5NTUzMF5BMl5BanBnXkFt.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "\"Minha avó não iria gostar disso\", diz novo executivo do DC Studios sobre ideias cortadas no primeiro Homem de Ferro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a61fb6655df486f6",
+      "title": "Panini divulga imagens da edição especial de “Jojolion”",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Biblioteca Brasileira de Mangás. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-09T23:12:28Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Biblioteca Brasileira de Mangás",
+      "sourceUrl": "https://blogbbm.com/2026/11/09/panini-divulga-imagens-da-edicao-especial-de-jojolion",
+      "image": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2026/11/Jojolion.jpg?fit=1200%2C450&ssl=1",
+      "alt": "Imagem publicada por Biblioteca Brasileira de Mangás",
+      "imageCredit": "Imagem: Biblioteca Brasileira de Mangás",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Panini divulga imagens da edição especial de “Jojolion”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-856b082dbf2fe374",
+      "title": "Keep Driving | Review",
+      "excerpt": "Existe uma liberdade muito particular em pegar um carro, escolher um destino e simplesmente partir.",
+      "body": [
+        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-09T22:59:15Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Pizza Fria",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/keep-driving-review",
+      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/vlcsnap-2026-11-04-12h37m37s053-1024x576.jpg",
+      "alt": "Imagem publicada por Pizza Fria",
+      "imageCredit": "Imagem: Pizza Fria",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Keep Driving | Review",
+      "tags": [
+        "analise"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -55,203 +447,21 @@
       }
     },
     {
-      "id": "radar-0337826122f65fac",
-      "title": "Nintendo: lucro operacional sobe 49,1% no semestre",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Revista Empreende. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-09T22:16:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Revista Empreende",
-      "sourceUrl": "https://revistaempreende.com.br/nintendo-lucro-operacional-alta-queda-receita-semestre-2026",
-      "image": "https://i0.wp.com/revistaempreende.com.br/wp-content/uploads/2026/11/nintendo-lucro-operacional-alta-queda-receita-semestre-2026-4a8e9af0-scaled.webp?fit=1200%2C675&quality=80&ssl=1",
-      "alt": "Imagem publicada por Revista Empreende",
-      "imageCredit": "Imagem: Revista Empreende",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Nintendo: lucro operacional sobe 49,1% no semestre",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-843aa7527d34832e",
-      "title": "ARMSX3: emulador de PlayStation 3 é lançado para iOS e iPadOS",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em MacMagazine. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-09T22:15:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "MacMagazine",
-      "sourceUrl": "https://macmagazine.com.br/post/2026/11/09/armsx3-emulador-de-playstation-3-e-lancado-para-ios-e-ipados",
-      "image": "https://macmagazine.com.br/wp-content/uploads/2026/11/09-ARMSX3-hero-1260x709.jpg",
-      "alt": "Imagem publicada por MacMagazine",
-      "imageCredit": "Imagem: MacMagazine",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "ARMSX3: emulador de PlayStation 3 é lançado para iOS e iPadOS",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-eac07631ee72bc84",
-      "title": "Dragon’s Dogma 2 | Jogo receberá participação do anime Delicious in Dungeon e seus personagens",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em EvilHazard. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-09T22:07:20Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "EvilHazard",
-      "sourceUrl": "https://evilhazard.com.br/dragons-dogma-2-jogo-recebera-participacao-do-anime-delicious-in-dungeon-e-seus-personagens",
-      "image": "https://evilhazard.com.br/wp-content/uploads/2026/11/capcomevilhazard-scaled.png",
-      "alt": "Imagem publicada por EvilHazard",
-      "imageCredit": "Imagem: EvilHazard",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Dragon’s Dogma 2 | Jogo receberá participação do anime Delicious in Dungeon e seus personagens",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-06d4101dbc27f7e7",
-      "title": "Harry Potter | Daniel Radcliffe não sabe se verá a série da HBO",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-09T22:02:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/harry-potter-daniel-radcliffe-nao-sabe-se-vera-serie-da-hbo",
-      "image": "https://cdn.ome.lt/RzW8LFtGDqc_GW2XP8dSzmoIeOc=/1200x630/smart/filters:format(webp)/extras/conteudos/pottedjpg-8847aa-1280w-154992660.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Harry Potter | Daniel Radcliffe não sabe se verá a série da HBO",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b5cde8479b10dcc8",
-      "title": "Setup gamer gastando pouco: monitor AOC de 24 polegadas sai por menos de R$ 600 na Amazon",
-      "excerpt": "Modelo com painel IPS, resolução Full HD e taxa de atualização de 144 Hz pode chegar a 180 Hz por overclock",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-09T22:00:34Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/descontos/157474/setup-gamer-gastando-pouco-monitor-aoc-de-24-polegadas-sai-por-menos-de-r-600-na-amazon",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/monitor-aoc_cmcz.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Setup gamer gastando pouco: monitor AOC de 24 polegadas sai por menos de R$ 600 na Amazon",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-232129f0d6998287",
-      "title": "Skydance demite funcionários da divisão de games após fusão",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-09T21:36:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/games/skydance-demite-funcionarios-divisao-de-games-pos-fusao",
-      "image": "https://cdn.ome.lt/Vj6hygEYt2cWgz2rQzCOGRiA8ZA=/1200x630/smart/filters:format(webp)/extras/conteudos/SkydanceLogo.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Skydance demite funcionários da divisão de games após fusão",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-33518fb318d560e6",
-      "title": "Novo Aragorn terá personalidade diferente em O Senhor dos Anéis: A Caçada por Gollum",
-      "excerpt": "Novo Aragorn ainda não carrega o peso da coroaJamie Dornan (“Cinquenta Tons de Cinza”) revelou que sua interpretação de Aragorn em “O Senhor dos Anéis: A Caçada por Gollum” será diferente da versão consagrada por Viggo Mortensen na trilogia de Peter Jackson.",
-      "body": [
-        "Confira a cobertura completa em Pipoca Moderna. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-09T21:35:56Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Pipoca Moderna",
-      "sourceUrl": "https://pipocamoderna.com.br/2026/11/novo-aragorn-cacada-gollum",
-      "image": "https://cdn.pipocamoderna.com.br/wp-content/uploads/2026/11/Aragorn-The-Lord-of-the-Rings-Viggo-Mortensen-800x587.png",
-      "alt": "Imagem publicada por Pipoca Moderna",
-      "imageCredit": "Imagem: Pipoca Moderna",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo Aragorn terá personalidade diferente em O Senhor dos Anéis: A Caçada por Gollum",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-9186f5f974c545a7",
       "title": "Review | SHINOBI: Art of Vengeance ganha “nova vida” no Nintendo Switch 2",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em www.jwave.com.br. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em jwave.com.br. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
       "publishedAt": "2026-11-09T21:24:46Z",
       "displayDate": "9 nov. 2026",
-      "sourceName": "www.jwave.com.br",
+      "sourceName": "jwave.com.br",
       "sourceUrl": "https://www.jwave.com.br/2026/11/review-shinobi-art-of-vengeance-nintendo-switch-2",
       "image": "https://www.jwave.com.br/wp-content/uploads/2026/11/2026100410372600_s.jpg",
-      "alt": "Imagem publicada por www.jwave.com.br",
-      "imageCredit": "Imagem: www.jwave.com.br",
+      "alt": "Imagem publicada por jwave.com.br",
+      "imageCredit": "Imagem: jwave.com.br",
       "syndicated": true,
       "meme": false,
       "translated": false,
@@ -259,32 +469,6 @@
       "tags": [
         "analise"
       ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-16f3b7fa3de39062",
-      "title": "Blade Runner 2099 ganha trailer final; confira",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-09T21:21:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/blade-runner-2099-ganha-trailer-final-confira",
-      "image": "https://cdn.ome.lt/ijBT4LaFAZ2U7_P74R47GnKpRUA=/1200x630/smart/filters:format(webp)/extras/conteudos/MV5BMzQzNTkwMWMtMmJmOC00NmQxLTli.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Blade Runner 2099 ganha trailer final; confira",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -343,155 +527,105 @@
       }
     },
     {
-      "id": "radar-900b02b94da8a842",
-      "title": "5º Concurso de Mangá da Casa Beija-Flor reúne artistas de diferentes idades em Caraguatatuba",
+      "id": "radar-3feb174458844aa2",
+      "title": "James Gunn deixa comando da DC Studios; o que muda no Universo DC",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Prefeitura de Caraguatatuba. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rede 98. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-09T19:29:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Rede 98",
+      "sourceUrl": "https://rede98.com.br/entretenimento/cinema-tv-series/james-gunn-deixa-comando-da-dc-studios-o-que-muda-no-universo-dc",
+      "image": "https://98site-assets.s3.amazonaws.com/wp-content/uploads/2026/11/09162903/capa-site-98-2026-11-09T162834.585.jpg",
+      "alt": "Imagem publicada por Rede 98",
+      "imageCredit": "Imagem: Rede 98",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "James Gunn deixa comando da DC Studios; o que muda no Universo DC",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2d16f344344a0f2e",
+      "title": "Leilão online da Receita tem Xbox que roda GTA 6 por R$ 400",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Portal Tempo Novo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-09T19:19:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Portal Tempo Novo",
+      "sourceUrl": "https://www.portaltemponovo.com.br/leilao-receita-federal-xbox-gta-6",
+      "image": "https://www.portaltemponovo.com.br/wp-content/uploads/2026/11/capa-destaque-yuri-33.jpg",
+      "alt": "Imagem publicada por Portal Tempo Novo",
+      "imageCredit": "Imagem: Portal Tempo Novo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Leilão online da Receita tem Xbox que roda GTA 6 por R$ 400",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-622294bab82f4862",
+      "title": "Análise: Godzilla: Destroy All Monsters Melee Remastered é o retorno do lendário jogo do Kaiju, com grandes acertos e poucos erros",
+      "excerpt": "O lançamento de Godzilla: Destroy All Monsters Melee Remastered é prova de um fenômeno atual: ser fã de Godzilla nunca foi tão fácil.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-09T19:00:00Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/analise-godzilla-destroy-all-monsters-melee-remastered-switch-2.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLjMmdBw2be6RGPxppVsO1fP6Nppefb5ihzZ4YsILI0BiAGX2BFGMV58xYE1ANpd0-MFy1H9XIcGyDyHp6q-0_GB1OafE2qssX9bR7jpy2r7dHawO1xxg8cxGIm0LFg-sJIJxNqVrcDprq_C9NDIAiDbBb8Jeonq7F4KbauCMqJIhk5fa4GpkfL8oU2GNr/s72-w640-h360-c/image.png",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Análise: Godzilla: Destroy All Monsters Melee Remastered é o retorno do lendário jogo do Kaiju, com grandes acertos e poucos erros",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a2ca6214664d3a8b",
+      "title": "Disney+ anuncia data de estreia de anime dos Vingadores",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-09T21:00:15Z",
+      "publishedAt": "2026-11-09T18:37:53Z",
       "displayDate": "9 nov. 2026",
-      "sourceName": "Prefeitura de Caraguatatuba",
-      "sourceUrl": "https://www.caraguatatuba.sp.gov.br/pmc/2026/11/5o-concurso-de-manga-da-casa-beija-flor-reune-artistas-de-diferentes-idades-em-caraguatatuba",
-      "image": "https://www.caraguatatuba.sp.gov.br/pmc/wp-content/uploads/2026/11/6acbd43963d9e-lg.jpg",
-      "alt": "Imagem publicada por Prefeitura de Caraguatatuba",
-      "imageCredit": "Imagem: Prefeitura de Caraguatatuba",
+      "sourceName": "Estadão",
+      "sourceUrl": "https://www.estadao.com.br/minha-serie/cultura-geek/158010-disney-anuncia-data-de-estreia-de-anime-dos-vingadores",
+      "image": "https://www.estadao.com.br/resizer/v2/XAY4J4MX2VKGHJGH3QNFVPRLN4.jpg?quality=80&auth=aa210fb8c6a52fc94d15c3b5a1c5527dfe44c49d2f04bfc64c3dc5b60a5a171b&width=1200&height=630&smart=true",
+      "alt": "Imagem publicada por Estadão",
+      "imageCredit": "Imagem: Estadão",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "5º Concurso de Mangá da Casa Beija-Flor reúne artistas de diferentes idades em Caraguatatuba",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ad8fbd3b19515eb1",
-      "title": "Dragon Ball Super é bom, mas estes 5 anime shonen são ainda melhores",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em OtakuPT. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-09T21:00:13Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "OtakuPT",
-      "sourceUrl": "https://www.otakupt.com/anime/dragon-ball-super-bom-5-anime-shonen-ainda-melhores",
-      "image": "https://www.otakupt.com/wp-content/uploads/2026/10/Dragon-Ball-Super-Beerus-screenshot-goku.jpg",
-      "alt": "Imagem publicada por OtakuPT",
-      "imageCredit": "Imagem: OtakuPT",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Dragon Ball Super é bom, mas estes 5 anime shonen são ainda melhores",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e28f3ed3eec0f5b1",
-      "title": "28 anos depois, herói de Power Rangers no Espaço está oficialmente de volta",
-      "excerpt": "Herói de Power Rangers no Espaço está de volta para nova aventura!",
-      "body": [
-        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-09T21:00:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Mix de Séries",
-      "sourceUrl": "https://mixdeseries.com.br/28-anos-heroi-power-rangers-no-espaco-volta",
-      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/11/power-rangers-no-espaco-volta.webp",
-      "alt": "Imagem publicada por Mix de Séries",
-      "imageCredit": "Imagem: Mix de Séries",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "28 anos depois, herói de Power Rangers no Espaço está oficialmente de volta",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b3b9c09bfd542470",
-      "title": "Netflix perde coroa do anime e expõe falha no seu algoritmo de “tudo para todos”",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-09T20:42:12Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/netflix-perde-coroa-anime-falha-algoritmo",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794213723.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Netflix perde coroa do anime e expõe falha no seu algoritmo de “tudo para todos”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7651fb5ccd2e80b0",
-      "title": "LG Mini RGB evo impressiona pelas cores vibrantes e mostra como a IA pode melhorar a experiência com uma TV",
-      "excerpt": "Nova TV de 65 polegadas é um upgrade notável",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-09T20:39:07Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/tech/157476/lg-mini-rgb-evo-impressiona-pelas-cores-vibrantes-e-mostra-como-a-ia-pode-melhorar-a-experiencia-com",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/thum-1600x1062_czt1.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "LG Mini RGB evo impressiona pelas cores vibrantes e mostra como a IA pode melhorar a experiência com uma TV",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-45d439a8d4ca300e",
-      "title": "Sucesso de “One Piece” quebra maldição das adaptações de anime e redesenha estratégia da Netflix",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-09T19:41:57Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/netflix-one-piece-quebra-maldicao-adaptacoes-anime",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792509104-scaled.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sucesso de “One Piece” quebra maldição das adaptações de anime e redesenha estratégia da Netflix",
+      "originalTitle": "Disney+ anuncia data de estreia de anime dos Vingadores",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -603,32 +737,6 @@
       }
     },
     {
-      "id": "radar-ec5599162323b517",
-      "title": "Que horas estreia o 8º e último episódio de 'VisionQuest', novo spin-off de 'WandaVision'?",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Terra. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-09T17:08:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Terra",
-      "sourceUrl": "https://www.terra.com.br/diversao/que-horas-estreia-o-8-e-ultimo-episodio-de-visionquest-novo-spin-off-de-wandavision,7b2737ee34460f8562df068b35310c9eevsoxnqz.html",
-      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/09/1884271484-que-horas-estreia-o-8o-e-ultimo-episodio-de-visionquest-novo-spin-off-de-wandavision-reproducao.jpg",
-      "alt": "Imagem publicada por Terra",
-      "imageCredit": "Imagem: Terra",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Que horas estreia o 8º e último episódio de 'VisionQuest', novo spin-off de 'WandaVision'?",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-19212bee45854907",
       "title": "Warhammer 40,000: Dark Heresy é confirmado para Switch 2",
       "excerpt": "",
@@ -648,32 +756,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Warhammer 40,000: Dark Heresy é confirmado para Switch 2",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-112f1acec8eb4cfb",
-      "title": "'Nintendo Switch Sports Resort' repete fórmula exitosa para divertir família",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Notícias ao Minuto Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-09T15:45:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "Notícias ao Minuto Brasil",
-      "sourceUrl": "https://www.noticiasaominuto.com.br/tech/2427459/nintendo-switch-sports-resort-repete-formula-exitosa-para-divertir-familia",
-      "image": "https://media-manager.noticiasaominuto.com.br/960/naom_6af1b3dcb1cb8.webp",
-      "alt": "Imagem publicada por Notícias ao Minuto Brasil",
-      "imageCredit": "Imagem: Notícias ao Minuto Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "'Nintendo Switch Sports Resort' repete fórmula exitosa para divertir família",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -701,6 +783,34 @@
       "translated": false,
       "originalTitle": "Que horas começa o pré-download de GTA 6? Veja os horários no Brasil",
       "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-18193d08f7c3eb15",
+      "title": "Análise: Call of Duty: Modern Warfare 4 entrega uma campanha envolvente no Switch 2",
+      "excerpt": "Depois de mais de uma década longe dos consoles da Nintendo, Call of Duty finalmente retorna com Modern Warfare 4 .",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-09T14:58:13.006000Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/analise-call-of-duty-modern-warfare-4-switch2-review.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIP6AllysJWOebG0YAPkWJa_pXjc-NOfIEoP0twJzxSaniVtSH6lz5Qp3WuM79DwTtOYTfa9x6zMkguz4ZfvZf6qm1y1_I2W4TU6585Yi9uXA7qEbHtpPC8psygdCTAwj3R3uBcnfEIehx65N0-H40lSKZz9TrXffw7hwaYeYX2S5RfdLRaZSwTuWjd10/s72-w640-h360-c/review-call-of-duty-mw-4.jpeg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Análise: Call of Duty: Modern Warfare 4 entrega uma campanha envolvente no Switch 2",
+      "tags": [
+        "analise"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -759,51 +869,25 @@
       }
     },
     {
-      "id": "radar-380977f377fe27be",
-      "title": "JENNIE lança música original para ‘Tipo Irmãs’, animação da Netflix inspirada em ‘Cinderela’",
-      "excerpt": "JENNIE, popular cantora que integra o grupo de K-pop BLACKPINK, lançou recentemente uma canção inédita para a trilha sonora de ‘Tipo Irmãs’, reimaginação da Netflix para o clássico conto ‘Cinderela’.",
+      "id": "radar-4feafcf506af952b",
+      "title": "Anime My Crush’s Crush ganha primeiro trailer e estreia para abril de 2027",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em animeflix.com.br. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-09T12:40:47Z",
+      "publishedAt": "2026-11-09T12:05:34Z",
       "displayDate": "9 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/jennie-lanca-musica-original-para-tipo-irmas-animacao-da-netflix-inspirada-em-cinderela-775421",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/06/steps-1024x576.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
+      "sourceName": "animeflix.com.br",
+      "sourceUrl": "https://animeflix.com.br/anime-my-crushs-crush-ganha-primeiro-trailer-e-estreia-para-abril-de-2027",
+      "image": "https://animeflix.com.br/wp-content/uploads/2026/11/Anime-My-Crushs-Crush-revela-imagem-promocional-trailer-equipe-elenco-e-estreia-em-abril-de-2027-1.jpg",
+      "alt": "Imagem publicada por animeflix.com.br",
+      "imageCredit": "Imagem: animeflix.com.br",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "JENNIE lança música original para ‘Tipo Irmãs’, animação da Netflix inspirada em ‘Cinderela’",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-fced9b672cf97689",
-      "title": "The Legend of Zelda Ocarina of Time Remake já roda a 60 FPS e ganha até multiplayer no PC",
-      "excerpt": "O remake de The Legend of Zelda: Ocarina of Time, lançado recentemente para Nintendo Switch 2, já está sendo executado em computadores por meio de emuladores.",
-      "body": [
-        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-09T12:24:00Z",
-      "displayDate": "9 nov. 2026",
-      "sourceName": "TecMundo",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/the-legend-of-zelda-ocarina-of-time-remake-ja-roda-a-60-fps-e-ganha-ate-multiplayer-no-pc",
-      "image": "https://www.estadao.com.br/resizer/v2/6CGFFXXZ5JGMJJ7AZRPUNP767U.jpg?quality=80&auth=b3768f7ab786b176c188ee6bcd2e087018e56bad9a0392adc1ffb172954db2d0&width=710",
-      "alt": "Imagem publicada por TecMundo",
-      "imageCredit": "Imagem: TecMundo",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The Legend of Zelda Ocarina of Time Remake já roda a 60 FPS e ganha até multiplayer no PC",
+      "originalTitle": "Anime My Crush’s Crush ganha primeiro trailer e estreia para abril de 2027",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -837,6 +921,58 @@
       }
     },
     {
+      "id": "radar-eecb0aede6c781fb",
+      "title": "Sony lança nova versão do PlayStation Portal com armazenamento extra para ‘nova função’",
+      "excerpt": "O Checkpoint desta segunda-feira (09) chega com novidades da Sony.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-09T10:51:30Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/sony-lanca-nova-versao-do-playstation-portal-com-armazenamento-extra-para-nova-funcao",
+      "image": "https://www.estadao.com.br/resizer/v2/WE5BGWLISRBHZABFRHU3D4ODQI.jpg?quality=80&auth=19ed40d3ff5c8ae8e8c05c45b642d18158abeb8225cb9ede1dde45beab244b92&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Sony lança nova versão do PlayStation Portal com armazenamento extra para ‘nova função’",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-43c261e60ec27ce5",
+      "title": "Sete joias do anime que o Cartoon Network escondeu no fim da grade – e por que ainda ditam tendência",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-09T08:12:52Z",
+      "displayDate": "9 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/sete-joias-anime-cartoon-network-toonami-influencia-atual",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1790618111.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Sete joias do anime que o Cartoon Network escondeu no fim da grade – e por que ainda ditam tendência",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-8996f516f0e9616e",
       "title": "Morre aos 95 anos o ator e dublador Edson Silva, o Heitor de Laços de Família",
       "excerpt": "",
@@ -856,34 +992,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Morre aos 95 anos o ator e dublador Edson Silva, o Heitor de Laços de Família",
-      "tags": [
-        "luto"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-661f4c05dab500ae",
-      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-08T23:26:53Z",
-      "displayDate": "8 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1787454607.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
       "tags": [
         "luto"
       ],
