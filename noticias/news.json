@@ -1,211 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T16:36:02.842645Z",
+  "updatedAt": "2026-11-11T23:03:29.809805Z",
   "articles": [
     {
-      "id": "radar-c5f63503115b8374",
-      "title": "David Zaslav é DETONADO por fãs de James Gunn após saída do diretor da DC: “A culpa é sua”",
-      "excerpt": "David Zaslav, ex-CEO da Warner Bros.",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T16:22:17Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/david-zaslav-e-detonado-por-fas-de-james-gunn-apos-saida-do-diretor-da-dc-a-culpa-e-sua-775764",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/james-gunn-superman-1024x576.webp",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "David Zaslav é DETONADO por fãs de James Gunn após saída do diretor da DC: “A culpa é sua”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a3b39d3cc89ed1b0",
-      "title": "Crítica | ‘VisionQuest’ usa robôs para criar a série mais humana da Marvel",
-      "excerpt": "A trilogia mais bem sucedida da Marvel no Disney+ chegou ao fim nesta terça-feira (10), com o series finale de VisionQuest.",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T16:21:46Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/critica-visionquest-usa-robos-para-criar-a-serie-mais-humana-da-marvel-775755",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/TM_Trailer2_Still_4-2048x851-1-1024x426.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Crítica | ‘VisionQuest’ usa robôs para criar a série mais humana da Marvel",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-61347d52062b636a",
-      "title": "Rupert Grint relembra apoio de Alan Rickman em “Harry Potter”: “Especial”",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em CNN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-11T16:20:39Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "CNN Brasil",
-      "sourceUrl": "https://www.cnnbrasil.com.br/pop/celebridades/rupert-grint-relembra-apoio-de-alan-rickman-em-harry-potter-especial",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/harry-potter-rupert-grint.png?w=1200&h=630&crop=1",
-      "alt": "Imagem publicada por CNN Brasil",
-      "imageCredit": "Imagem: CNN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Rupert Grint relembra apoio de Alan Rickman em “Harry Potter”: “Especial”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d1ae60d018ac8f62",
-      "title": "Vingadores: Doutor Destino | Empire promete revelar novidades do filme amanhã (12)",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T16:19:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-empire-doom-is-coming",
-      "image": "https://cdn.ome.lt/UFl2Ka6dilJssM210MXb9Cx__2Q=/1200x630/smart/filters:format(webp)/extras/conteudos/images_97.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino | Empire promete revelar novidades do filme amanhã (12)",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-bd2c7cad92d44208",
-      "title": "Wanda está de volta! Marvel prepara terreno para confronto com Doutor Destino",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em OFuxico. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T16:13:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "OFuxico",
-      "sourceUrl": "https://ofuxico.com.br/cinema-e-serie/wanda-esta-de-volta-marvel-prepara-terreno-para-confronto-com-doutor-destino",
-      "image": "https://ofuxico.com.br/wp-content/uploads/2026/11/elizabeth-olsen.jpg",
-      "alt": "Imagem publicada por OFuxico",
-      "imageCredit": "Imagem: OFuxico",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Wanda está de volta! Marvel prepara terreno para confronto com Doutor Destino",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d630dc5f841ef6ce",
-      "title": "Netflix vai lançar entrevista inédita de Tupac, feita meses antes de sua morte; veja trailer",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T16:05:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/musica/netflix-entrevista-inedita-tupac-angie-martinez-trailer",
-      "image": "https://cdn.ome.lt/S8qeWUQGiDQT8xz0ZG1hS99jl-w=/1200x630/smart/filters:format(webp)/extras/conteudos/images_96.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Netflix vai lançar entrevista inédita de Tupac, feita meses antes de sua morte; veja trailer",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0de24b72564400f2",
-      "title": "DCU deve abandonar planos de James Gunn após saída do estúdio",
-      "excerpt": "Após a saída de James Gunn e Peter Safran, novos relatos apontam que a DC Studios pode cancelar ou reformular projetos.",
-      "body": [
-        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T16:00:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Mix de Séries",
-      "sourceUrl": "https://mixdeseries.com.br/dcu-pode-abandonar-planos-de-james-gunn",
-      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/11/James-Gunn.webp",
-      "alt": "Imagem publicada por Mix de Séries",
-      "imageCredit": "Imagem: Mix de Séries",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "DCU deve abandonar planos de James Gunn após saída do estúdio",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-cd43a23020680c62",
-      "title": "A Hora do Pesadelo: reboot pode ter sido cancelado",
-      "excerpt": "Os fãs de terror podem ter perdido um dos reinícios mais comentados do gênero.",
+      "id": "radar-fdbfbee22c680a94",
+      "title": "‘Mashle’ 3ª temporada ganha trailer principal e data de estreia!",
+      "excerpt": "Mash volta em janeiro, com músculos e provas mais perigosas!",
       "body": [
         "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-11T16:00:00Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-11T22:45:11Z",
       "displayDate": "11 nov. 2026",
       "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/a-hora-do-pesadelo-reboot-lee-cronin-warner-cancelado",
-      "image": "https://www.einerd.com/wp-content/uploads/2020/09/freddy-krueger-e1784573491762.jpg",
+      "sourceUrl": "https://www.einerd.com/mashle-3-temporada-trailer-principal-9-de-janeiro-2027",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Capa-Site-2026-10-28T193007.257.png",
       "alt": "Imagem publicada por Ei Nerd",
       "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "A Hora do Pesadelo: reboot pode ter sido cancelado",
+      "originalTitle": "‘Mashle’ 3ª temporada ganha trailer principal e data de estreia!",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -213,25 +29,77 @@
       }
     },
     {
-      "id": "radar-de06766d9d7deb2d",
-      "title": "Godzilla Minus Zero e como lidar com a Síndrome do Sobrevivente",
-      "excerpt": "Você conseguiria viver em lugar com um Godzilla?",
+      "id": "radar-abd8d6f4016112a6",
+      "title": "James Gunn e Peter Safran | \"Foi uma experiência incrível trabalhar com ambos\", diz Frank Grillo sobre a dupla",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-11T22:39:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/james-gunn-peter-safran-experiencia-incrivel-frank-grillo-dupla",
+      "image": "https://cdn.ome.lt/qa3V4pvhAKjhfK3-DbIs4FiM7Z0=/1200x630/smart/filters:format(webp)/extras/conteudos/images47.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "James Gunn e Peter Safran | \"Foi uma experiência incrível trabalhar com ambos\", diz Frank Grillo sobre a dupla",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5c76c632d1aba947",
+      "title": "Frankie Muniz, de Malcolm in the Middle, sofre acidente de carro durante corrida e está hospitalizado",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-11T16:00:00Z",
+      "publishedAt": "2026-11-11T22:11:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/frankie-muniz-malcolm-in-the-middle-acidente-de-carro-hospitalizado",
+      "image": "https://cdn.ome.lt/GP4e176FsqnDXmeI-XmHHA7xGTE=/1200x630/smart/filters:format(webp)/extras/conteudos/frankie_muniz_nascar__1c2114y.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Frankie Muniz, de Malcolm in the Middle, sofre acidente de carro durante corrida e está hospitalizado",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2452fba045c217f1",
+      "title": "Remake de The Legend of Zelda: Ocarina of Time se torna o jogo com as vendas mais rápidas do Switch 2",
+      "excerpt": "A renovada aventura de Link vendeu 5,2 milhões de unidades nos primeiros quatro dias",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T22:10:00Z",
       "displayDate": "11 nov. 2026",
       "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/features/2026/11/11/godzilla-minus-zero-lidando-com-a-sindrome-do-sobrevivente",
-      "image": "https://a.storyblok.com/f/178900/960x540/94f1adceea/godzilla-minus-zero.png",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/11/the-legend-of-zelda-ocarina-of-time-remake-jogo-vendas-mais-rapidas-switch-2",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/101488ccd7/thelegendofzeldaocarinaoftime_46.jpg",
       "alt": "Imagem publicada por Crunchyroll Brasil",
       "imageCredit": "Imagem: Crunchyroll Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Godzilla Minus Zero e como lidar com a Síndrome do Sobrevivente",
+      "originalTitle": "Remake de The Legend of Zelda: Ocarina of Time se torna o jogo com as vendas mais rápidas do Switch 2",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -239,25 +107,623 @@
       }
     },
     {
-      "id": "radar-3d3d06400f9c9fcb",
-      "title": "SUI, cantor de visual kei, anuncia show no Brasil para 2027",
-      "excerpt": "Apresentação acontece no dia 6 de março, em São Paulo.",
+      "id": "radar-fcb68b48cb0736bb",
+      "title": "FX renova Adultos para a 3ª temporada com 16 episódios",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T21:58:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/fx-renova-adultos-para-a-3a-temporada-com-16-episodios",
+      "image": "https://cdn.ome.lt/iDFsEMQEXIfBNsJJOe03zh9EXBU=/1200x630/smart/filters:format(webp)/extras/conteudos/image4_h9vmqrd.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "FX renova Adultos para a 3ª temporada com 16 episódios",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8819ed25b7de8e33",
+      "title": "‘Cara-de-Barro’ deve dar PREJUÍZO para a Warner e a DC",
+      "excerpt": "O live-action de ‘Cara-de-Barro‘ conseguiu ultrapassar a marca dos US$ 110 milhões nas bilheterias mundiais, mas deve dar prejuízo para a Warner e a DC.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-11T21:56:18Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/cara-de-barro-deve-dar-prejuizo-para-a-warner-e-a-dc-775722",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/09/caradebarro-819x1024.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Cara-de-Barro’ deve dar PREJUÍZO para a Warner e a DC",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8c9ccf65fdda69d0",
+      "title": "Avatar: Os Sete Refúgios marca início de novo ciclo para a franquia dos elementos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T21:51:35Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/criticas/avatar-sete-refugios-critica-omelete",
+      "image": "https://cdn.ome.lt/exeJrscvQ8bEknVVc-19xqvQUF0=/1200x630/smart/filters:format(webp)/extras/conteudos/avatar-set-refugios-1x10-a-13.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Avatar: Os Sete Refúgios marca início de novo ciclo para a franquia dos elementos",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6d8ec7def8467cfc",
+      "title": "Russell Brand | Netflix prepara documentário sobre caso do ator condenado por estupro",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-11T21:39:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/russell-brand-netflix-prepara-documentario-ator-condenado-por-estupro",
+      "image": "https://cdn.ome.lt/sc2mzL58vMUXrhk7-gwNTjftNfY=/1200x630/smart/filters:format(webp)/extras/conteudos/o-ator-russell-brand-16952161145.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Russell Brand | Netflix prepara documentário sobre caso do ator condenado por estupro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c1882fe57efe54ee",
+      "title": "Anthony Mackie confirma retorno que pode mudar os rumos de Avengers: Doomsday",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em thunderwave.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-11T21:25:01Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "thunderwave.com.br",
+      "sourceUrl": "https://thunderwave.com.br/2026/11/11/anthony-mackie-retorno-marvel",
+      "image": "https://thunderwave.com.br/wp-content/uploads/2026/11/anthony-mackie-confirma-retorno-que-pode-mudar-os-rumos-de-avengers-doomsday-tmdb-thumbnail.jpg",
+      "alt": "Imagem publicada por thunderwave.com.br",
+      "imageCredit": "Imagem: thunderwave.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Anthony Mackie confirma retorno que pode mudar os rumos de Avengers: Doomsday",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3a8e0fd229f2e6b0",
+      "title": "Homem-Aranha: Além do Aranhaverso | Compositor diz que chorou várias vezes vendo o filme",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-11T21:12:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/homem-aranha-alem-do-aranhaverso-compositor-chorou-varias-vezes-vendo-o-filme",
+      "image": "https://cdn.ome.lt/oQLIWLadjzIHumR2qwq3vkso0xE=/1200x630/smart/filters:format(webp)/extras/conteudos/spider-man-beyond-the-spider-ver.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Homem-Aranha: Além do Aranhaverso | Compositor diz que chorou várias vezes vendo o filme",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e06c0a0a8c4b562f",
+      "title": "O Senhor dos Anéis: Os Anéis de Poder | 3ª temporada ganha novos pôsteres individuais de personagens",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T20:57:34Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/o-senhor-dos-aneis-os-aneis-de-poder-durin-thrain-posters-3-temporada",
+      "image": "https://cdn.ome.lt/5yxSmvC-PHO8RtJF--XLecTpPD4=/1200x630/smart/filters:format(webp)/extras/conteudos/aneispoder.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "O Senhor dos Anéis: Os Anéis de Poder | 3ª temporada ganha novos pôsteres individuais de personagens",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c8d9d31917f08b6d",
+      "title": "Bad Bunny, Roger Waters e mais podem se apresentar em posse de Lula; saiba tudo",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T20:56:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/musica/bad-bunny-roger-waters-e-mais-podem-se-apresentar-posse-de-lula",
+      "image": "https://cdn.ome.lt/bk9yhAnnbwaFd6rXwKWt3CE-8kM=/1200x630/smart/filters:format(webp)/extras/conteudos/Design_sem_nome4_sTS5rr9.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Bad Bunny, Roger Waters e mais podem se apresentar em posse de Lula; saiba tudo",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-632c37a2e10e2c12",
+      "title": "Veneta anuncia a publicação de mangá de horror de Osamu Tezuka",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Fora do Plástico. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-11T20:46:41Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Fora do Plástico",
+      "sourceUrl": "https://foradoplastico.com.br/veneta-anuncia-a-publicacao-de-manga-de-horror-de-osamu-tezuka",
+      "image": "https://foradoplastico.com.br/wp-content/uploads/2026/11/Bomba_Tezukacapa.webp",
+      "alt": "Imagem publicada por Fora do Plástico",
+      "imageCredit": "Imagem: Fora do Plástico",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Veneta anuncia a publicação de mangá de horror de Osamu Tezuka",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aae98fe65a74f82e",
+      "title": "Retorno do mangá de Naruto revela redesign fofo — e esconde mapa da próxima grande luta",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-11T20:42:29Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/retorno-manga-naruto-kishimoto-redesign-baby-kurama",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792233689.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Retorno do mangá de Naruto revela redesign fofo — e esconde mapa da próxima grande luta",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cf32f3d4bf71861b",
+      "title": "Chris Pratt não descarta RETORNO na franquia ‘Jurassic World’; Assista! [EXCLUSIVO]",
+      "excerpt": "Chris Pratt indicou que um retorno à franquia ‘Jurassic World’ continua sendo uma possibilidade, alimentando a expectativa de quem acompanha o personagem desde a aventura lançada em 2015.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T20:40:46Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/chris-pratt-faz-suspense-sobre-retorno-na-franquia-jurassic-world-assista-exclusivo-775732",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/01/jurassic-world-1024x576.webp",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Chris Pratt não descarta RETORNO na franquia ‘Jurassic World’; Assista! [EXCLUSIVO]",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f0c649d609397606",
+      "title": "Marshals | Derivada de Yellowstone apresenta nova personagem; veja foto",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T20:34:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/marshals-derivada-de-yellowstone-apresenta-nova-personagem-veja-foto",
+      "image": "https://cdn.ome.lt/9jUM7jWvYJPIEPhJ07HCh5easN4=/1200x630/smart/filters:format(webp)/extras/conteudos/d6d7f89f786f7936018aabdb3b0e387b.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marshals | Derivada de Yellowstone apresenta nova personagem; veja foto",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0c31bff09a0d34fd",
+      "title": "Just Dance 2026 garante a diversão em família, mas esbarra no próprio modelo de negócios",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T20:30:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/games/criticas/just-dance-2026-garante-a-diversao-em-familia-mas-esbarra-no-proprio-modelo-de-negocios",
+      "image": "https://cdn.ome.lt/xGrqN_4HNvCqx-lAPBllDsZ87_0=/1200x630/smart/filters:format(webp)/extras/conteudos/imagem_2026-11-11_172232500.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Just Dance 2026 garante a diversão em família, mas esbarra no próprio modelo de negócios",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-39f8d4d41e2f2fb3",
+      "title": "Predador invade Nova York para caçar o Justiceiro em novo confronto brutal da Marvel",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Salada de Cinema. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-11T20:25:51Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Salada de Cinema",
+      "sourceUrl": "https://saladadecinema.com.br/predador-invade-nova-york-para-cacar-o-justiceiro-em-novo-confronto-brutal-da-marvel",
+      "image": "https://saladadecinema.com.br/wp-content/uploads/2026/11/predador-justiceiro-marvel-nova-york.jpg",
+      "alt": "Imagem publicada por Salada de Cinema",
+      "imageCredit": "Imagem: Salada de Cinema",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Predador invade Nova York para caçar o Justiceiro em novo confronto brutal da Marvel",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f2821ef1b21ddbef",
+      "title": "Prêmio Bibi Ferreira 2026, maior prêmio do teatro brasileiro acontece nesta quarta (11), veja os indicados",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T20:21:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/musica/premio-bibi-ferreira-2026-lista-indicados",
+      "image": "https://cdn.ome.lt/USyq3dSSfHj5D1OyQ12cbffN1ss=/1200x630/smart/filters:format(webp)/extras/conteudos/premio-bibi.jpg",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Prêmio Bibi Ferreira 2026, maior prêmio do teatro brasileiro acontece nesta quarta (11), veja os indicados",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a209c9d55e12ae08",
+      "title": "Vingadores terá retorno de grande personagem após revelação em VisionQuest",
+      "excerpt": "VisionQuest confirma que Wanda Maximoff está viva e mostra Doutor Destino levando a Feiticeira Escarlate, antecipando novo Vingadores.",
+      "body": [
+        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-11T20:17:02Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Mix de Séries",
+      "sourceUrl": "https://mixdeseries.com.br/vingadores-tera-retorno-de-grande-personagem",
+      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/11/Vingadores.webp",
+      "alt": "Imagem publicada por Mix de Séries",
+      "imageCredit": "Imagem: Mix de Séries",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores terá retorno de grande personagem após revelação em VisionQuest",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3717acce65a8fd4b",
+      "title": "PS5 alcança 100 milhões de unidades vendidas antes do lançamento de GTA 6",
+      "excerpt": "A poucos dias da estreia de GTA 6 , a Sony acaba de anunciar que o PlayStation 5 ultrapassou oficialmente a marca de 100 milhões de unidades vendidas.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T19:45:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/ps5-alcanca-100-milhoes-de-unidades-vendidas-antes-do-lancamento-de-gta-6",
+      "image": "https://www.estadao.com.br/resizer/v2/ZBWVSPXCNBMM5ESUIRSFM73LME.jpg?quality=80&auth=ef13d7b97f8f7d88b08b45132519125133f0a001afb0967b01e11ca4d44cf093&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "PS5 alcança 100 milhões de unidades vendidas antes do lançamento de GTA 6",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cd67138e850cfb0e",
+      "title": "EMARP abre exposição gratuita de mangá em Ribeirão Pires",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Portal ABC do ABC. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-11T19:17:04Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Portal ABC do ABC",
+      "sourceUrl": "https://abcdoabc.com.br/emarp-exposicao-gratuita-manga-ribeirao-pires",
+      "image": "https://cdn-imgs.s3.sa-east-1.amazonaws.com/wp-content/uploads/2026/11/exposicao-gratuita-manga.webp",
+      "alt": "Imagem publicada por Portal ABC do ABC",
+      "imageCredit": "Imagem: Portal ABC do ABC",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "EMARP abre exposição gratuita de mangá em Ribeirão Pires",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-28498c9836f87956",
+      "title": "Efeito GTA 6? Logitech cria dia de folga para funcionários jogarem videogame",
+      "excerpt": "A fabricante de acessórios para eletrônicos Logitech oficializou, nesta quarta-feira (10), um novo benefício curioso.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T19:15:00Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/efeito-gta-6-logitech-cria-dia-de-folga-para-funcionarios-jogarem-video-game",
+      "image": "https://www.estadao.com.br/resizer/v2/CGIVO6KO25ATTAK6YAQ5HJQW34.jpg?quality=80&auth=ea8ff9c2d54611794366025c04d2c55704447372dd20f47b6e4855bf1349d96c&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Efeito GTA 6? Logitech cria dia de folga para funcionários jogarem videogame",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f7ee99fca0f7963b",
+      "title": "2ª temporada de O Berserker da Gula confirma mês de lançamento",
+      "excerpt": "Uma nova imagem promocional também foi divulgada",
       "body": [
         "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-11T15:53:00Z",
+      "publishedAt": "2026-11-11T19:07:00Z",
       "displayDate": "11 nov. 2026",
       "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/11/sui-show-brasil-marco-2027",
-      "image": "https://a.storyblok.com/f/178900/1024x683/e827217cef/sui.jpg",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/11/berserk-of-gluttony-temporada-2-anime-abril-2027",
+      "image": "https://a.storyblok.com/f/178900/960x539/a16738fe14/berserk-of-gluttony-s2-april-2027.jpg",
       "alt": "Imagem publicada por Crunchyroll Brasil",
       "imageCredit": "Imagem: Crunchyroll Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "SUI, cantor de visual kei, anuncia show no Brasil para 2027",
+      "originalTitle": "2ª temporada de O Berserker da Gula confirma mês de lançamento",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f95fd491827e26fe",
+      "title": "Monster Train 2: The Punished já está disponível para PC e consoles",
+      "excerpt": "A Big Fan e a desenvolvedora Shiny Shoe anunciaram nesta quarta-feira, 11, que a DLC paga Monster Train 2: The Punished já está disponível para PlayStation 5, Xbox Series X|S, Nintendo Switch e PC, via Steam.",
+      "body": [
+        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T18:52:15Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Pizza Fria",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/monster-train-2-the-punished-dlc",
+      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/ThePunished_Concept_KeyArt_Final_4K.jpg",
+      "alt": "Imagem publicada por Pizza Fria",
+      "imageCredit": "Imagem: Pizza Fria",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Monster Train 2: The Punished já está disponível para PC e consoles",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-450ebb087baf4056",
+      "title": "O Nippon Anime Awards será lançado em 2027",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em The Joplin Globe. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-11T18:05:17Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "The Joplin Globe",
+      "sourceUrl": "https://www.joplinglobe.com/region/national_business/o-nippon-anime-awards-ser-lan-ado-em-2027/article_39272ee0-592b-50e5-b929-7759174355ff.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/78/67836136-ea11-5a85-9ca7-eb4514b5e13b/6af4aedfad009.image.jpg?crop=1000%2C525%2C0%2C70",
+      "alt": "Imagem publicada por The Joplin Globe",
+      "imageCredit": "Imagem: The Joplin Globe",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "O Nippon Anime Awards será lançado em 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3b32f38bc7866f8c",
+      "title": "Dubladora de 'As Visões da Raven' pede ajuda financeira após ameaça de despejo: 'Estou desesperada'",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Portal POP Mais. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-11T17:46:54Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Portal POP Mais",
+      "sourceUrl": "https://portalpopmais.com.br/cidalia-castro-ameacada-despejo",
+      "image": "https://portalpopmais.com.br/wp-content/uploads/2026/11/image-74.png",
+      "alt": "Imagem publicada por Portal POP Mais",
+      "imageCredit": "Imagem: Portal POP Mais",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Dubladora de 'As Visões da Raven' pede ajuda financeira após ameaça de despejo: 'Estou desesperada'",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-87fa7569576a256d",
+      "title": "Nintendo intensifica combate à pirataria e derruba firmwares de modchips do Switch no GitHub",
+      "excerpt": "De acordo com um novo relatório divulgado pelo portal TorrentFreak, a Nintendo expandiu suas ações de combate ao desbloqueio e notificou oficialmente o GitHub via DMCA (Digital Millennium Copyright Act), visando firmwares utilizados em modchips do Nintendo Switch.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T16:00:57Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-intensifica-combate-pirataria-derruba-firmwares-de-modchips-do-switch-no-github.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho3HkLEseIU_gElifwQ3G4iPbV099XCDUfGqWZEA6v-jgalZrw7vegMkVbsG7F-a1zRhugzcnptBAJ6CdpzogMsVE-eLul2boKV1S6rLD3_W38W6nbl1bNeAEECN9V7jVVjbEYHXWYnpDwMtdva1cksctKIOvAqFHnVLI3R4bwygM-1SCNrM2fV7AnJ0uS/s72-w640-h360-c/pirataria.jpg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Nintendo intensifica combate à pirataria e derruba firmwares de modchips do Switch no GitHub",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -291,136 +757,6 @@
       }
     },
     {
-      "id": "radar-4f45184c36dd41cb",
-      "title": "Segundo relatos, novo líder da DC dará prioridade a personagens mais conhecidos, como Batman e Mulher-Maravilha",
-      "excerpt": "Uma nova era",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T15:38:11Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/dc-universe/157552/segundo-relatos-novo-lider-da-dc-dara-prioridade-a-personagens-mais-conhecidos-como-batman-e-mulher",
-      "image": "https://sm.ign.com/ign_br/news/d/dcs-new-le/dcs-new-leader-will-reportedly-prioritize-more-well-known-ch_hjc3.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Segundo relatos, novo líder da DC dará prioridade a personagens mais conhecidos, como Batman e Mulher-Maravilha",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b672c56f9be6f372",
-      "title": "Novo filme de Johnny Depp surpreende críticos com terror e emoção",
-      "excerpt": "Filme de Ti West estreia em 12 de novembro Johnny Depp recebeu elogios por sua versão de Scrooge nas primeiras reações a Ebenezer e os Fantasmas do Natal.",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T15:36:32Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/novo-filme-de-johnny-depp-surpreende-criticos-com-terror-e-emocao.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_oBRZ9s4l_nxV.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo filme de Johnny Depp surpreende críticos com terror e emoção",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4539e4dd2b8ce1c1",
-      "title": "Crunchyroll confirma participação na CCXP26",
-      "excerpt": "Confira a programação da Crunchyroll no evento!",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-11T15:30:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/announcements/2026/11/11/ccxp26-crunchyroll",
-      "image": "https://a.storyblok.com/f/178900/6122x4081/2db03e7c0e/ccxp25-crunchyroll-palco-thunder.jpeg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Crunchyroll confirma participação na CCXP26",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-aab9a4539a6d3e64",
-      "title": "Dragon Ball Super: Beerus terá mais diálogos inéditos, afirma dublador de Goku",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-11T15:28:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/mangas-animes/dragon-ball-super-beerus-goku-dialogos-ineditos-dublador-goku",
-      "image": "https://cdn.ome.lt/oTrLonLHKk5hQy2NmAcCzc95jlE=/1200x630/smart/filters:format(webp)/extras/conteudos/c7b2af9acdc6f836ee4fa68b.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Dragon Ball Super: Beerus terá mais diálogos inéditos, afirma dublador de Goku",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-db93a0187bad7923",
-      "title": "Japão vai lançar app com IA e personagens de anime para ensinar japonês",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Dica App do Dia. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-11T15:27:35Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Dica App do Dia",
-      "sourceUrl": "https://dicaappdodia.com/japao-vai-lancar-app-com-ia-e-personagens-de-anime-para-ensinar-japones",
-      "image": "https://i0.wp.com/dicaappdodia.com/wp-content/uploads/2026/11/japao-app-anime-aprender-japones-ia-scaled.jpg?fit=1068%2C596&ssl=1",
-      "alt": "Imagem publicada por Dica App do Dia",
-      "imageCredit": "Imagem: Dica App do Dia",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Japão vai lançar app com IA e personagens de anime para ensinar japonês",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-6b1d5a2d3ac881bd",
       "title": "PlayStation cancela Fairgame$ e acumula mais um grande fracasso na sua era de jogos serviço",
       "excerpt": "Ao que tudo indica, depois de Concord, The Last of Us Online e tantos outros projetos engavetados , a PlayStaion acumulará mais um grande fiasco em sua era de jogos serviço.",
@@ -447,417 +783,25 @@
       }
     },
     {
-      "id": "radar-988783af35e2443e",
-      "title": "A Imperatriz pode ter spin-offs, diz criadora: “O modelo de Bridgterton me parece bom”",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-11T15:14:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/a-imperatriz-netflix-spin-offs-modelo-bridgerton",
-      "image": "https://cdn.ome.lt/M5fHJPLfj-nAOpAYz4DxaoRO2Og=/1200x630/smart/filters:format(webp)/extras/conteudos/Bildschirmfoto_2026-09-24_um_19.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "A Imperatriz pode ter spin-offs, diz criadora: “O modelo de Bridgterton me parece bom”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5106f4c42e591e67",
-      "title": "Cena pós-créditos de VisionQuest confirma grande teoria defendida por fãs da Marvel nos últimos anos",
-      "excerpt": "A Marvel se esforçou bastante para manter esse momento em segredo",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T15:12:03Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/avengers-doomsday/157547/cena-pos-creditos-de-visionquest-confirma-grande-teoria-defendida-por-fas-da-marvel-nos-ultimos-anos",
-      "image": "https://sm.ign.com/ign_br/news/v/visionques/visionquest-post-credits-scene-just-confirmed-a-major-marvel_g56w.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Cena pós-créditos de VisionQuest confirma grande teoria defendida por fãs da Marvel nos últimos anos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-42de7ec746aab0a7",
-      "title": "Skydance pretende vender a DC para pagar dívidas, diz rumor",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T15:00:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/rumor-skydance-vender-dc",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Capa-Site-2026-10-09T193038.903.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Skydance pretende vender a DC para pagar dívidas, diz rumor",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-17bbcb0b8dff2749",
-      "title": "Lanternas | Produtor rebate rumores de cancelamento: “Nada foi cancelado. Calma”",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T14:56:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/lanternas-produtor-rebate-rumores-cancelamento",
-      "image": "https://cdn.ome.lt/Bu3JNQm9mkBXLTdm1UPayolZvb8=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-11-11_120009.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Lanternas | Produtor rebate rumores de cancelamento: “Nada foi cancelado. Calma”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4bb9ef613c7af49e",
-      "title": "‘Godzilla Minus One’ e ‘Godzilla Minus Zero’ devem ganhar nova sequência; Saiba detalhes!",
-      "excerpt": "O Rei dos Monstros pode voltar para mais uma rodada de destruição!",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-11T14:53:10Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/godzilla-minus-one-e-godzilla-minus-zero-devem-ganhar-nova-sequencia-saiba-detalhes-775740",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/04/Godzilla-Minus-zero-1-1024x551.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘Godzilla Minus One’ e ‘Godzilla Minus Zero’ devem ganhar nova sequência; Saiba detalhes!",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4d89a36b2f20c87a",
-      "title": "NOSTRA: Crystalbound é anunciado para PC e chega em 2027",
-      "excerpt": "A Runecraft Studios anunciou na sexta-feira, 6, que NOSTRA: Crystalbound , um roguelite de ação ambientado no universo do RPG de fantasia sombria NOSTRA , será lançado para PC, via Steam, no primeiro trimestre de 2027.",
+      "id": "radar-073b6da10be3bd22",
+      "title": "Thronefall chega ao PS5 e Xbox com a expansão Craaghelm",
+      "excerpt": "A Mythwright anunciou nesta quarta-feira, 11, que Thronefall já está disponível para PlayStation 5 e Xbox Series X|S, incluindo o Xbox Game Pass.",
       "body": [
         "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-11T14:45:11Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T14:43:32Z",
       "displayDate": "11 nov. 2026",
       "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/nostra-crystalbound-lancamento-2027",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/NOSTRA-Crystalbound.jpg",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/thronefall-ps5-xbox-craaghelm",
+      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/09/Thronefall-Craaghelm.jpg",
       "alt": "Imagem publicada por Pizza Fria",
       "imageCredit": "Imagem: Pizza Fria",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "NOSTRA: Crystalbound é anunciado para PC e chega em 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-87fa7569576a256d",
-      "title": "Nintendo intensifica combate à pirataria e derruba firmwares de modchips do Switch no GitHub",
-      "excerpt": "De acordo com um novo relatório divulgado pelo portal TorrentFreak, a Nintendo expandiu suas ações de combate ao desbloqueio e notificou oficialmente o GitHub via DMCA (Digital Millennium Copyright Act), visando firmwares utilizados em modchips do Nintendo Switch.",
-      "body": [
-        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-11T14:37:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Nintendo Blast",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-intensifica-combate-pirataria-derruba-firmwares-de-modchips-do-switch-no-github.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho3HkLEseIU_gElifwQ3G4iPbV099XCDUfGqWZEA6v-jgalZrw7vegMkVbsG7F-a1zRhugzcnptBAJ6CdpzogMsVE-eLul2boKV1S6rLD3_W38W6nbl1bNeAEECN9V7jVVjbEYHXWYnpDwMtdva1cksctKIOvAqFHnVLI3R4bwygM-1SCNrM2fV7AnJ0uS/s72-w640-h360-c/pirataria.jpg",
-      "alt": "Imagem publicada por Nintendo Blast",
-      "imageCredit": "Imagem: Nintendo Blast",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Nintendo intensifica combate à pirataria e derruba firmwares de modchips do Switch no GitHub",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f8329c22947e931a",
-      "title": "A Xbox Series S não presta, diz ex-líder de Tekken",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Eurogamer.pt. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-11T14:33:50Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Eurogamer.pt",
-      "sourceUrl": "https://www.eurogamer.pt/a-xbox-series-s-nao-presta-diz-ex-lider-de-tekken",
-      "image": "https://assetsio.gnwcdn.com/XBOX-Series_QLxDBzM.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "alt": "Imagem publicada por Eurogamer.pt",
-      "imageCredit": "Imagem: Eurogamer.pt",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "A Xbox Series S não presta, diz ex-líder de Tekken",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d4970e59d8e24670",
-      "title": "Crunchyroll retorna à CCXP 26 com ativações de Black Clover, Kagurabachi e Witch Hat Atelier, e estúdio de dublagem",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-11T14:30:38Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/crunchyroll/157545/crunchyroll-retorna-a-ccxp-26-com-ativacoes-de-black-clover-kagurabachi-e-witch-hat-atelier-e-estudi",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/c1_9xps.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Crunchyroll retorna à CCXP 26 com ativações de Black Clover, Kagurabachi e Witch Hat Atelier, e estúdio de dublagem",
-      "tags": [
-        "evento"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-fd7644c0f39f3eb5",
-      "title": "A Época da Inocência | Adaptação da Netflix ganha data e primeiras imagens; confira",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T14:29:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/a-epoca-da-inocencia-adaptacao-netflix-primeiras-fotos-data",
-      "image": "https://cdn.ome.lt/KuSX9A7eD-_cviNVKrgHr5ZoMWs=/1200x630/smart/filters:format(webp)/extras/conteudos/AGEOFINNOCENCE_101_251007_CB_00330_RC3.jpg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "A Época da Inocência | Adaptação da Netflix ganha data e primeiras imagens; confira",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-cf32f3d4bf71861b",
-      "title": "Chris Pratt faz suspense sobre RETORNO na franquia ‘Jurassic World’; Assista! [EXCLUSIVO]",
-      "excerpt": "Chris Pratt indicou que um retorno à franquia ‘Jurassic World’ continua sendo uma possibilidade, alimentando a expectativa de quem acompanha o personagem desde a aventura lançada em 2015.",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-11T14:28:46Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/chris-pratt-faz-suspense-sobre-retorno-na-franquia-jurassic-world-assista-exclusivo-775732",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/01/jurassic-world-1024x576.webp",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Chris Pratt faz suspense sobre RETORNO na franquia ‘Jurassic World’; Assista! [EXCLUSIVO]",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-cb41def3f1677e35",
-      "title": "Crunchyroll anuncia parte da programação e estande na CCXP26",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-11T14:24:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/ccxp/crunchyroll-ccxp-26",
-      "image": "https://cdn.ome.lt/pnh9Po1taF5AgrFLf4vygkODwfU=/1200x630/smart/filters:format(webp)/extras/conteudos/Estande_Fabio_Piva__Crunchyroll.jpg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Crunchyroll anuncia parte da programação e estande na CCXP26",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f1b066a077c944a4",
-      "title": "Lanternas | 2ª temporada ainda pode acontecer, afirma site em correção",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T14:24:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/lanternas-2a-temporada-ainda-pode-acontecer",
-      "image": "https://cdn.ome.lt/K_kBhcdzRACv4GKa1BE12-TO5ko=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-11-11_110812.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Lanternas | 2ª temporada ainda pode acontecer, afirma site em correção",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d51398e94abc0653",
-      "title": "Emily em Paris | 6ª e última temporada ganha primeiro trailer com final na Grécia; assista",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T14:21:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/emily-em-paris-netflix-6a-ultima-temporada-primeiro-trailer",
-      "image": "https://cdn.ome.lt/nBoKcdOqAZpsdzVbXU7K5DLPNmI=/1200x630/smart/filters:format(webp)/extras/conteudos/AAAAQbuHfcYWia3iWj5i-9-8AlkBGNTA9tvHJ860ePk8Zt85n0M3QEfZolyUvGp81qQ4nPuvLrU0RApShS0rWD5ngUosNTjJW8qzzoXEHK0l2EAoxfiSkiKOuUzX6iT9Cooe9JGMed_iHPhpS6hO61OZSQxW.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Emily em Paris | 6ª e última temporada ganha primeiro trailer com final na Grécia; assista",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f11f9e4f900f6e5a",
-      "title": "O que os comentários e filmes anteriores de Jeremy Latcham, novo executivo da DC Studios, sugerem sobre o futuro do DCU",
-      "excerpt": "“Para mim, o que importa é sempre: coração, humor e espetáculo — nessa ordem.” Este texto foi escrito por Jim Vejvoda em 1ª pessoa e mantivemos em tom pessoal.",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T14:07:10Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/man-of-tomorrow/157542/o-que-os-comentarios-e-filmes-anteriores-de-jeremy-latcham-novo-executivo-da-dc-studios-sugerem-sobr",
-      "image": "https://sm.ign.com/ign_br/feature/w/what-new-d/what-new-dc-studios-boss-jeremy-latchams-past-comments-and-f_pdum.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "O que os comentários e filmes anteriores de Jeremy Latcham, novo executivo da DC Studios, sugerem sobre o futuro do DCU",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-dc9cc702f4a437bf",
-      "title": "Asterix e Obelix | Novo filme da dupla ganha data de estreia no Brasil",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T13:48:00Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/asterix-o-reino-da-nubia-novo-filme-data-brasil",
-      "image": "https://cdn.ome.lt/HSzcp6qH2vMJAkRD75te0Pksz_U=/1200x630/smart/filters:format(webp)/extras/conteudos/unnamed_8_bXIqAG8.jpg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Asterix e Obelix | Novo filme da dupla ganha data de estreia no Brasil",
+      "originalTitle": "Thronefall chega ao PS5 e Xbox com a expansão Craaghelm",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -884,6 +828,32 @@
       "meme": false,
       "translated": false,
       "originalTitle": "3ª temporada de MASHLE: MAGIA E MÚSCULOS revela novo trailer e mais detalhes",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0d9a8804b89fb354",
+      "title": "PlayStation Plus Extra e Deluxe de novembro é anunciada",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Cromossomo Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T13:40:29Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Cromossomo Nerd",
+      "sourceUrl": "https://cromossomonerd.com.br/games/playstation-plus-anuncia-death-stranding-2-e-mais-no-catalogo-extra-e-deluxe",
+      "image": "https://cromossomonerd.com.br/wp-content/uploads/2026/11/eebf05424d998604352db943ca43cad4d94a597b-scaled-1.jpg",
+      "alt": "Imagem publicada por Cromossomo Nerd",
+      "imageCredit": "Imagem: Cromossomo Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "PlayStation Plus Extra e Deluxe de novembro é anunciada",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -947,26 +917,28 @@
       }
     },
     {
-      "id": "radar-3402acceecb0605b",
-      "title": "PS5 supera 100 milhões de unidades vendidas; veja ranking da Sony",
+      "id": "radar-6924e6ea7e128566",
+      "title": "Stacey Keach: Morre ator de Blue Bloods e Prison Break, aos 85 anos",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Game Overdrive. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-11T12:57:41Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-11T12:49:00Z",
       "displayDate": "11 nov. 2026",
-      "sourceName": "Game Overdrive",
-      "sourceUrl": "https://gameoverdrive.com.br/ps5-100-milhoes-unidades-vendidas-sony",
-      "image": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/playstation-5-ultrapassa-100-milhoes-de-unidades-vendidas-e-2-1600x900.webp",
-      "alt": "Imagem publicada por Game Overdrive",
-      "imageCredit": "Imagem: Game Overdrive",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/stacey-keach-ator-obituario",
+      "image": "https://cdn.ome.lt/FFjTwKlAy6U9em5wahgaLcCEen8=/1200x630/smart/filters:format(webp)/extras/conteudos/kean_prison.jpg",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "PS5 supera 100 milhões de unidades vendidas; veja ranking da Sony",
-      "tags": [],
+      "originalTitle": "Stacey Keach: Morre ator de Blue Bloods e Prison Break, aos 85 anos",
+      "tags": [
+        "luto"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -992,6 +964,32 @@
       "meme": false,
       "translated": false,
       "originalTitle": "The Legend of Zelda: Ocarina of Time vendeu mais de 5,2 milhões de cópias em quatro dias",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2ec6f6e6dac00f16",
+      "title": "Yu-Gi-Oh! TAG FORCE GX: confira primeiro trailer de gameplay",
+      "excerpt": "A Konami divulgou o primeiro trailer de gameplay de Yu-Gi-Oh!",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T12:02:10.574000Z",
+      "displayDate": "11 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/yu-gi-oh-tag-force-gx-confira-primeiro-trailer-de-gameplay.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK84E621KvAcUsIv4SRpGqaG88dgYOybzQMsuk74ipe5cgaW6ZZAFva5EqQ-6Lw0MM2aSUqchN-cByQ8r_pe3Ex9BULoINsAo396FipL7Lb1_lcb0GDSXxNWnQA2nYamC9tQD4YguCDMgq5TWf8MC5jg-kfvmPkGRsuxFj7EBJl8vL7_74zKmuSJvpXiqX/s72-c/image.png",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Yu-Gi-Oh! TAG FORCE GX: confira primeiro trailer de gameplay",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -1103,367 +1101,51 @@
       }
     },
     {
-      "id": "radar-ee66fe3694edb63e",
-      "title": "Agenda vazada da D23 2026 revela virada mutante e coloca Marvel em contagem regressiva",
-      "excerpt": "",
+      "id": "radar-f5ab8a65b85aadd7",
+      "title": "GTA 6 bate recorde de pré-vendas na PlayStation Store",
+      "excerpt": "Grand Theft Auto VI alcançou o maior número de pré-vendas da história da PlayStation Store.",
       "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-11T02:22:04Z",
+      "displayDate": "10 nov. 2026",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/gta-6-recorde-pre-vendas-playstation-store",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/11/GTA-6-bate-recorde-de-pre-vendas-na-PlayStation-Store.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "GTA 6 bate recorde de pré-vendas na PlayStation Store",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8161b3193b3bd1e8",
+      "title": "VisionQuest: cena pós-créditos tem Wanda e Doutor Destino",
+      "excerpt": "O final de VisionQuest guardava uma surpresa para quem esperou até o fim dos créditos.",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-11T04:41:47Z",
-      "displayDate": "11 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/agenda-vazada-d23-2026-virada-mutante-marvel",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1786719333.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Agenda vazada da D23 2026 revela virada mutante e coloca Marvel em contagem regressiva",
-      "tags": [
-        "evento"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c5b8b084b00e165f",
-      "title": "Anthony Mackie sugere Visão em Vingadores: Doutor Destino",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em einerd.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T23:48:45Z",
+      "publishedAt": "2026-11-11T02:00:00Z",
       "displayDate": "10 nov. 2026",
-      "sourceName": "einerd.com",
-      "sourceUrl": "https://www.einerd.com/mackie-paul-bettany-visao-vingadores-doutor-destino",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/06/Visao.jpg",
-      "alt": "Imagem publicada por einerd.com",
-      "imageCredit": "Imagem: einerd.com",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/visionquest-pos-creditos-doutor-destino-wanda",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/wanda-1024x426.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Anthony Mackie sugere Visão em Vingadores: Doutor Destino",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5d4b54c529c4ffea",
-      "title": "CCXP anuncia estande da nova série de Harry Potter da HBO",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Portal iG. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T23:20:31Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Portal iG",
-      "sourceUrl": "https://lorena.ig.com.br/categoria/cinema-tv/harry-potter-serie-ccxp",
-      "image": "https://lorena.ig.com.br/wp-content/uploads/2026/11/ccxp-anuncia-estande-de-harry-potter-1.png",
-      "alt": "Imagem publicada por Portal iG",
-      "imageCredit": "Imagem: Portal iG",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "CCXP anuncia estande da nova série de Harry Potter da HBO",
-      "tags": [
-        "evento"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-90a7a305523460fe",
-      "title": "Distribuidor de “Dark Horse” desmente Jim Caviezel sobre censura no Brasil",
-      "excerpt": "Distribuidor desmente acusação de censuraA Europa Filmes desmentiu Jim Caviezel, intérprete de Jair Bolsonaro em “Dark Horse”, após o ator americano acusar o governo de Luiz Inácio Lula da Silva de proibir o lançamento da cinebiografia no Brasil.",
-      "body": [
-        "Confira a cobertura completa em Pipoca Moderna. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T21:14:34Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Pipoca Moderna",
-      "sourceUrl": "https://pipocamoderna.com.br/2026/11/distribuidor-dark-horse-desmente-jim-caviezel",
-      "image": "https://cdn.pipocamoderna.com.br/wp-content/uploads/2026/06/Dark-Horse-800x512.jpg",
-      "alt": "Imagem publicada por Pipoca Moderna",
-      "imageCredit": "Imagem: Pipoca Moderna",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Distribuidor de “Dark Horse” desmente Jim Caviezel sobre censura no Brasil",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c9e73ed1c0650442",
-      "title": "Conta Nintendo: login via Google e Apple será descontinuado em 27 de janeiro de 2027",
-      "excerpt": "A Nintendo anunciou, em seu site, o encerramento do suporte de autoidentificação e vinculação de contas a partir do login por emails do Google e Apple, com previsão para 27 de janeiro de 2027.",
-      "body": [
-        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T21:10:25.653000Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Nintendo Blast",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-anuncia-encerramento-de-autoidenticacao-de-contas-por-meio-de-google-e-apple-para-janeiro-de-2027.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJhJIpmNfwvVX80r0NP9dYywdBqXaLxDG7FFX4xCXB3H-nGXj3SN1MiB_dKJEHcuik7V6oqhIhe7pum1rbK1h8NI0WyPxxz27IuWMKu90Bov_Jcwgcfp8VpVJ7GIlP5yT8XT0GenhC8HMtbfCAduBxypoUbJ-C3y5ecUsHU5Q9f0yUAOn5K4xXTkKS_hZL/s72-w640-h360-c/143800.jpg",
-      "alt": "Imagem publicada por Nintendo Blast",
-      "imageCredit": "Imagem: Nintendo Blast",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Conta Nintendo: login via Google e Apple será descontinuado em 27 de janeiro de 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-bb48e33050a1030b",
-      "title": "3 anos depois de ser anunciado, PlayStation cancela Fairgames",
-      "excerpt": "Game over Fairgames , um jogo de assalto do tipo \"serviço ao vivo\" (live-service) desenvolvido pela Haven Studios, da PlayStation, foi cancelado pela Sony.",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T21:09:58Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/fairgame/157528/3-anos-depois-de-ser-anunciado-playstation-cancela-fairgames",
-      "image": "https://sm.ign.com/ign_br/news/p/playstatio/playstation-cancels-live-service-heist-shooter-fairgames_ax52.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "3 anos depois de ser anunciado, PlayStation cancela Fairgames",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0598644a0c803e19",
-      "title": "Yu-Gi-Oh! TAG FORCE GX ganha primeiro trailer de gameplay",
-      "excerpt": "A Konami divulgou nesta terça-feira, 10, o primeiro trailer de jogabilidade de Yu-Gi-Oh!",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T19:21:53Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/yu-gi-oh-tag-force-gx-trailer-gameplay",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK84E621KvAcUsIv4SRpGqaG88dgYOybzQMsuk74ipe5cgaW6ZZAFva5EqQ-6Lw0MM2aSUqchN-cByQ8r_pe3Ex9BULoINsAo396FipL7Lb1_lcb0GDSXxNWnQA2nYamC9tQD4YguCDMgq5TWf8MC5jg-kfvmPkGRsuxFj7EBJl8vL7_74zKmuSJvpXiqX/s72-c/image.png",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Yu-Gi-Oh! TAG FORCE GX ganha primeiro trailer de gameplay",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6767b8097c40a6a4",
-      "title": "Dark Horse foi censurado no Brasil? Distribuidor do filme responde",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T18:40:03Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/dark-horse-foi-censurado-no-brasil-distribuidor-do-filme-responde",
-      "image": "https://cdn.ome.lt/w0TOz7a4tg2q1fIiBwUoGuCL-fM=/1200x630/smart/filters:format(webp)/extras/conteudos/imagem_2026-11-10_153423079.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Dark Horse foi censurado no Brasil? Distribuidor do filme responde",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-674c1b3d879a5591",
-      "title": "My Death Flags Show No Sign of Ending tem anime confirmado para 2027",
-      "excerpt": "Nessa adaptação da série de novels, acompanhamos um estudante que reencarna como o vilão do seu jogo favorito",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T18:33:19Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/10/my-death-flags-show-no-sign-of-ending-anime-anunciado-2027",
-      "image": "https://a.storyblok.com/f/178900/1100x600/a25d72b5c0/my-death-flags-show-no-sign-of-ending-header.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "My Death Flags Show No Sign of Ending tem anime confirmado para 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-25dfbceff0fecf1e",
-      "title": "PlayStation Plus recebe Death Stranding 2 e mais 9 jogos em novembro",
-      "excerpt": "A Sony anunciou nesta terça-feira, 10, que o catálogo do PlayStation Plus Extra e Deluxe receberá dez jogos em novembro de 2026, incluindo Death Stranding 2: On the Beach , Like a Dragon: Pirate Yakuza in Hawaii e Dragon Quest III HD-2D Remake .",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T18:31:26Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/playstation-plus-novembro-2026-catalogo",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/PlayStation-Plus-Extra-Deluxe-Novembro-2026-1024x576.webp",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "PlayStation Plus recebe Death Stranding 2 e mais 9 jogos em novembro",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6cf674e2ee2ab543",
-      "title": "SEGA e Dark Horse lançam figuras de vinil clássicas de Sonic e Tails",
-      "excerpt": "Em 10 de novembro, a Dark Horse anunciou sua parceria com a SEGA para uma linha oficial de figuras de vinil de Sonic the Hedgehog inspiradas nos designs clássicos.",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T18:30:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/sega-e-dark-horse-lancam-figuras-de-vinil-classicas-de-sonic-e-tails",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/11/IMG_4797.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "SEGA e Dark Horse lançam figuras de vinil clássicas de Sonic e Tails",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-84906eb0da6744f7",
-      "title": "VisionQuest tem cena pós-créditos? Saiba o que esperar do episódio final",
-      "excerpt": "Série encerra a trilogia que começou com WandaVision Quem acompanha VisionQuest vai ter um motivo para continuar assistindo quando os créditos começarem.",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T17:05:37Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/visionquest-tem-cena-pos-creditos-saiba-o-que-esperar-do-episodio-final.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_au_ly6ZgBSfh.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "VisionQuest tem cena pós-créditos? Saiba o que esperar do episódio final",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d6509c56fb5ae1a1",
-      "title": "GTA 6 é o jogo com mais pré-vendas da história da PlayStation Store e da Microsoft Store",
-      "excerpt": "Tanto a Sony quanto a Microsoft emitiram um aviso para que os fãs façam o pré-carregamento do jogo o mais rápido possível",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T16:56:27Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157506/gta-6-e-o-jogo-com-mais-pre-vendas-da-historia-da-playstation-store-e-da-microsoft-store",
-      "image": "https://sm.ign.com/ign_br/news/g/gta-6-now-/gta-6-now-the-most-preordered-game-in-playstation-store-and_dmwd.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "GTA 6 é o jogo com mais pré-vendas da história da PlayStation Store e da Microsoft Store",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ada38736916175e7",
-      "title": "Marvel Rivals: Temporada 11 chega em 13 de novembro com Nightcrawler",
-      "excerpt": "A Marvel Games e a NetEase Games anunciaram nesta terça-feira, 10, que a Temporada 11: Doomsday de Marvel Rivals será lançada em 13 de novembro.",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T16:46:52Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/marvel-rivals-temporada-11-doomsday",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/Marvel-Rivals-Season-11-Doomsday.jpg",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel Rivals: Temporada 11 chega em 13 de novembro com Nightcrawler",
+      "originalTitle": "VisionQuest: cena pós-créditos tem Wanda e Doutor Destino",
       "tags": [],
       "editorialReview": {
         "status": "native",
