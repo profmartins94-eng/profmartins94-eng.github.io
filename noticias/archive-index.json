@@ -1,7 +1,247 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T20:36:22.410651Z",
+  "updatedAt": "2026-11-11T00:53:54.706304Z",
   "articles": [
+    {
+      "id": "radar-1841662ce604d9fc",
+      "publishedAt": "2026-11-11T00:42:00Z",
+      "title": "Harry Potter | “Eu não quero falar sobre JK Rowling; direitos trans precisam ser respeitados”, diz ator de Snape",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/harry-potter-eu-nao-quero-falar-sobre-jk-rowling-direitos-trans-precisam-ser-respeitados-ator-de-snape",
+      "originalTitle": "Harry Potter | “Eu não quero falar sobre JK Rowling; direitos trans precisam ser respeitados”, diz ator de Snape",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c428378a624a283e",
+      "publishedAt": "2026-11-11T00:27:00Z",
+      "title": "Godzilla Minus Zero | Abertura da versão em IMAX é revelada; confira",
+      "sourceUrl": "https://www.omelete.com.br/filmes/godzilla-minus-zero-abertura-da-versao-em-imax-e-revelada-confira",
+      "originalTitle": "Godzilla Minus Zero | Abertura da versão em IMAX é revelada; confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5cf46493103edabf",
+      "publishedAt": "2026-11-11T00:08:00Z",
+      "title": "Hirayasumi | Adaptação em anime é confirmada pela Netflix",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/hirayasumi-adaptacao-em-anime-e-confirmada-pela-netflix",
+      "originalTitle": "Hirayasumi | Adaptação em anime é confirmada pela Netflix",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fafddaf397628393",
+      "publishedAt": "2026-11-11T00:06:48Z",
+      "title": "Novo Trailer de Yu-Gi-Oh! Tag Force GX Destaca Duelos, Exploração e Sistema de Parceiros",
+      "sourceUrl": "https://www.animeunited.com.br/noticias/novo-trailer-de-yu-gi-oh-tag-force-gx-destaca-duelos-exploracao-e-sistema-de-parceiros",
+      "originalTitle": "Novo Trailer de Yu-Gi-Oh! Tag Force GX Destaca Duelos, Exploração e Sistema de Parceiros",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e064d804e9aef6d4",
+      "publishedAt": "2026-11-10T23:56:00Z",
+      "title": "Lanternas | Com mudanças no DC Studios, série foi cancelada, diz site",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/lanternas-com-mudancas-no-dc-studios-serie-cancelada",
+      "originalTitle": "Lanternas | Com mudanças no DC Studios, série foi cancelada, diz site",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c5b8b084b00e165f",
+      "publishedAt": "2026-11-10T23:48:45Z",
+      "title": "Anthony Mackie sugere Visão em Vingadores: Doutor Destino",
+      "sourceUrl": "https://www.einerd.com/mackie-paul-bettany-visao-vingadores-doutor-destino",
+      "originalTitle": "Anthony Mackie sugere Visão em Vingadores: Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-58b110b13c015869",
+      "publishedAt": "2026-11-10T23:11:00Z",
+      "title": "Vingadores: Doutor Destino | Sebastian Stan comenta retorno como Bucky Barnes: “Festivo”",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-sebastian-stan-retorno-como-bucky-barnes",
+      "originalTitle": "Vingadores: Doutor Destino | Sebastian Stan comenta retorno como Bucky Barnes: “Festivo”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-56b20231fe27f234",
+      "publishedAt": "2026-11-10T22:57:00Z",
+      "title": "Dan Da Dan | Mangá revela passado terrível de Okarun; confira",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/dan-da-dan-manga-revela-passado-terrivel-de-okarun-confira",
+      "originalTitle": "Dan Da Dan | Mangá revela passado terrível de Okarun; confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-527212ec72947dcc",
+      "publishedAt": "2026-11-10T22:37:00Z",
+      "title": "Vingadores: Doutor Destino | Anthony Mackie deixa escapar possível personagem surpresa do filme; veja",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-anthony-mackie-deixa-escapar-possivel-personagem-surpresa",
+      "originalTitle": "Vingadores: Doutor Destino | Anthony Mackie deixa escapar possível personagem surpresa do filme; veja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2b91b327763554e6",
+      "publishedAt": "2026-11-10T22:27:36Z",
+      "title": "Fala de Sam Wilson entrega Visão em “Avengers: Doomsday” e põe VisionQuest no centro do MCU",
+      "sourceUrl": "https://radiogeekbr.com.br/visao-confirmado-avengers-doomsday-visionquest",
+      "originalTitle": "Fala de Sam Wilson entrega Visão em “Avengers: Doomsday” e põe VisionQuest no centro do MCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0f2679a38cab1746",
+      "publishedAt": "2026-11-10T21:43:37Z",
+      "title": "Prepare-se para a 3ª temporada de Os Anéis de Poder: tudo o que você precisa lembrar e como garantir 30 dias de teste grátis",
+      "sourceUrl": "https://br.ign.com/descontos/157524/prepare-se-para-a-3a-temporada-de-os-aneis-de-poder-tudo-o-que-voce-precisa-lembrar-e-como-garantir",
+      "originalTitle": "Prepare-se para a 3ª temporada de Os Anéis de Poder: tudo o que você precisa lembrar e como garantir 30 dias de teste grátis",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8b1db34427d0a4d6",
+      "publishedAt": "2026-11-10T21:43:00Z",
+      "title": "Bella Campos se afasta da Globo após Vale Tudo e fecha três projetos com streamings",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/bella-campos-se-afasta-da-globo-pos-vale-tudo-e-fecha-projetos-com-streamings",
+      "originalTitle": "Bella Campos se afasta da Globo após Vale Tudo e fecha três projetos com streamings",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-293d1489c1a94a3f",
+      "publishedAt": "2026-11-10T21:29:32Z",
+      "title": "Após sair da Marvel , confira os filmes de sucessos do diretor James Gunn",
+      "sourceUrl": "http://estrelando.r7.com/foto/2026/11/10/alem-de-superman-veja-outros-filmes-de-sucessos-do-diretor-james-gunn-311178",
+      "originalTitle": "Após sair da Marvel , confira os filmes de sucessos do diretor James Gunn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0711fef46d22eec4",
+      "publishedAt": "2026-11-10T21:29:00Z",
+      "title": "Netflix anuncia novo filme com Millie Bobby Brown",
+      "sourceUrl": "https://www.omelete.com.br/filmes/millie-bobby-brown-novo-filme",
+      "originalTitle": "Netflix anuncia novo filme com Millie Bobby Brown",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0113aa95460033e8",
+      "publishedAt": "2026-11-10T21:26:57Z",
+      "title": "VisionQuest passa longe do holofote de Doomsday, mas revela o laboratório secreto da Marvel para o novo quarteto Vingador",
+      "sourceUrl": "https://radiogeekbr.com.br/visionquest-marvel-forma-novo-quarteto-vingador",
+      "originalTitle": "VisionQuest passa longe do holofote de Doomsday, mas revela o laboratório secreto da Marvel para o novo quarteto Vingador",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bfe3b69309e7267f",
+      "publishedAt": "2026-11-10T21:21:00Z",
+      "title": "NMIXX | Show do grupo de k-pop será transmitido ao vivo nos cinemas brasileiros; saiba tudo",
+      "sourceUrl": "https://www.omelete.com.br/korea/nmixx-show-do-grupo-de-k-pop-sera-transmitido-ao-vivo-cinemas-brasileiros",
+      "originalTitle": "NMIXX | Show do grupo de k-pop será transmitido ao vivo nos cinemas brasileiros; saiba tudo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-28e188fffef0b482",
+      "publishedAt": "2026-11-10T21:17:22Z",
+      "title": "POR QUE O BRASIL AMA FÓRMULA 1? | JNEC 57",
+      "sourceUrl": "https://jovemnerd.com.br/videos/jovem-nerd-esporte-clube/por-que-o-brasil-ama-formula-1-jnec-57",
+      "originalTitle": "POR QUE O BRASIL AMA FÓRMULA 1? | JNEC 57",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-90a7a305523460fe",
+      "publishedAt": "2026-11-10T21:14:34Z",
+      "title": "Distribuidor de “Dark Horse” desmente Jim Caviezel sobre censura no Brasil",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/distribuidor-dark-horse-desmente-jim-caviezel",
+      "originalTitle": "Distribuidor de “Dark Horse” desmente Jim Caviezel sobre censura no Brasil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4b7dd46d640fd096",
+      "publishedAt": "2026-11-10T21:08:00Z",
+      "title": "NCIS: Origins | Mark Harmon terá reencontros com veteranos da franquia na 3ª temporada",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/ncis-origins-mark-harmon-reecontros-com-veteranos-franquia-3-temporada",
+      "originalTitle": "NCIS: Origins | Mark Harmon terá reencontros com veteranos da franquia na 3ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bb48e33050a1030b",
+      "publishedAt": "2026-11-10T21:00:00Z",
+      "title": "3 anos depois de ser anunciado, PlayStation cancela Fairgames",
+      "sourceUrl": "https://br.ign.com/fairgame/157528/3-anos-depois-de-ser-anunciado-playstation-cancela-fairgames",
+      "originalTitle": "3 anos depois de ser anunciado, PlayStation cancela Fairgames",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-fd5b41271b3d8334",
       "publishedAt": "2026-11-10T20:34:00Z",
@@ -172,7 +412,7 @@
     },
     {
       "id": "radar-6767b8097c40a6a4",
-      "publishedAt": "2026-11-10T18:35:00Z",
+      "publishedAt": "2026-11-10T18:40:03Z",
       "title": "Dark Horse foi censurado no Brasil? Distribuidor do filme responde",
       "sourceUrl": "https://www.omelete.com.br/filmes/dark-horse-foi-censurado-no-brasil-distribuidor-do-filme-responde",
       "originalTitle": "Dark Horse foi censurado no Brasil? Distribuidor do filme responde",
@@ -255,11 +495,11 @@
       }
     },
     {
-      "id": "radar-910ab754ea22c231",
-      "publishedAt": "2026-11-10T17:33:46Z",
-      "title": "Astro de The Big Bang Theory compartilha fotos de sua volta ao teatro",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/astro-de-the-big-bang-theory-compartilha-fotos-de-sua-volta-ao-teatro.html",
-      "originalTitle": "Astro de The Big Bang Theory compartilha fotos de sua volta ao teatro",
+      "id": "radar-25dfbceff0fecf1e",
+      "publishedAt": "2026-11-10T17:37:31Z",
+      "title": "PlayStation Plus recebe Death Stranding 2 e mais 9 jogos em novembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/playstation-plus-novembro-2026-catalogo",
+      "originalTitle": "PlayStation Plus recebe Death Stranding 2 e mais 9 jogos em novembro",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -267,11 +507,11 @@
       }
     },
     {
-      "id": "radar-25dfbceff0fecf1e",
-      "publishedAt": "2026-11-10T17:33:00Z",
-      "title": "PlayStation Plus recebe Death Stranding 2 e mais 9 jogos em novembro",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/playstation-plus-novembro-2026-catalogo",
-      "originalTitle": "PlayStation Plus recebe Death Stranding 2 e mais 9 jogos em novembro",
+      "id": "radar-910ab754ea22c231",
+      "publishedAt": "2026-11-10T17:33:46Z",
+      "title": "Astro de The Big Bang Theory compartilha fotos de sua volta ao teatro",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/astro-de-the-big-bang-theory-compartilha-fotos-de-sua-volta-ao-teatro.html",
+      "originalTitle": "Astro de The Big Bang Theory compartilha fotos de sua volta ao teatro",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -292,7 +532,7 @@
     },
     {
       "id": "radar-6a7e3a13bac4bf5b",
-      "publishedAt": "2026-11-10T16:26:35Z",
+      "publishedAt": "2026-11-10T16:35:26Z",
       "title": "Just Dance: Decades of Hits chega ao Switch 2 com upgrade gratuito",
       "sourceUrl": "https://pizzafria.ig.com.br/news/just-dance-decades-of-hits-switch-2",
       "originalTitle": "Just Dance: Decades of Hits chega ao Switch 2 com upgrade gratuito",
@@ -344,6 +584,30 @@
       "title": "GTA 6 bate recorde histórico de pré-venda no PS5 e Xbox Series S/X",
       "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-bate-recorde-historico-de-pre-venda-no-ps5-e-xbox-series-sx",
       "originalTitle": "GTA 6 bate recorde histórico de pré-venda no PS5 e Xbox Series S/X",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cd31356a2aebd714",
+      "publishedAt": "2026-11-10T16:04:56Z",
+      "title": "GTA 6 quebra recordes históricos na pré-venda do PlayStation e Xbox",
+      "sourceUrl": "https://www.einerd.com/gta-6-quebra-recordes-historicos-pre-venda",
+      "originalTitle": "GTA 6 quebra recordes históricos na pré-venda do PlayStation e Xbox",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6e01ac5fb0c665ae",
+      "publishedAt": "2026-11-10T15:30:00Z",
+      "title": "GTA 6 poderá ser jogado no Xbox One via Cloud Gaming",
+      "sourceUrl": "https://www.terra.com.br/gameon/plataformas-e-consoles/gta-6-podera-ser-jogado-no-xbox-one-via-cloud-gaming,0291531e37cdb45115075862503755728w39e6cr.html",
+      "originalTitle": "GTA 6 poderá ser jogado no Xbox One via Cloud Gaming",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -423,8 +687,20 @@
       }
     },
     {
+      "id": "radar-e5196151408688a3",
+      "publishedAt": "2026-11-10T13:17:00Z",
+      "title": "GTA 6 está oficialmente pronto e já pode ser baixado no PS5 e Xbox Series S e X",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-esta-oficialmente-pronto-e-ja-pode-ser-baixado-no-ps5-e-xbox-series-s-e-x",
+      "originalTitle": "GTA 6 está oficialmente pronto e já pode ser baixado no PS5 e Xbox Series S e X",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-6eaadd120099c1d1",
-      "publishedAt": "2026-11-10T12:49:54Z",
+      "publishedAt": "2026-11-10T13:06:00Z",
       "title": "Veterano de novelas da Globo, ator e dublador Edson Silva morre aos 95 anos",
       "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/celebridades/veterano-de-novelas-da-globo-ator-e-dublador-edson-silva-morre-aos-95-anos-157898",
       "originalTitle": "Veterano de novelas da Globo, ator e dublador Edson Silva morre aos 95 anos",
@@ -512,18 +788,6 @@
       "title": "James Gunn teria sido demitido da DC enquanto escrevia Superman 3",
       "sourceUrl": "https://mixdeseries.com.br/james-gunn-demitido-da-dc-escrevia-superman-3",
       "originalTitle": "James Gunn teria sido demitido da DC enquanto escrevia Superman 3",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e5196151408688a3",
-      "publishedAt": "2026-11-10T12:27:15Z",
-      "title": "GTA 6 está oficialmente pronto e já pode ser baixado no PS5 e Xbox Series S e X",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-esta-oficialmente-pronto-e-ja-pode-ser-baixado-no-ps5-e-xbox-series-s-e-x",
-      "originalTitle": "GTA 6 está oficialmente pronto e já pode ser baixado no PS5 e Xbox Series S e X",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -699,6 +963,18 @@
       }
     },
     {
+      "id": "radar-9d2ae05b37a94c8c",
+      "publishedAt": "2026-11-10T10:00:40Z",
+      "title": "James Gunn e Peter Safran deixam comando da DC; o que muda agora?",
+      "sourceUrl": "https://www.einerd.com/dcu-safran-gunn-latcham-como-fica",
+      "originalTitle": "James Gunn e Peter Safran deixam comando da DC; o que muda agora?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-3591c8d62311e87e",
       "publishedAt": "2026-11-10T10:00:00Z",
       "title": "Os Anéis de Poder | Showrunners escreveram mais episódios no 3º ano: “É mais ágil”",
@@ -716,18 +992,6 @@
       "title": "Contratação de Inde Navarrette revela a carta geracional da Marvel para o reboot de X-Men",
       "sourceUrl": "https://radiogeekbr.com.br/inde-navarrette-filme-x-men-mcu",
       "originalTitle": "Contratação de Inde Navarrette revela a carta geracional da Marvel para o reboot de X-Men",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9d2ae05b37a94c8c",
-      "publishedAt": "2026-11-10T09:56:15Z",
-      "title": "James Gunn e Peter Safran deixam comando da DC; o que muda agora?",
-      "sourceUrl": "https://www.einerd.com/dcu-safran-gunn-latcham-como-fica",
-      "originalTitle": "James Gunn e Peter Safran deixam comando da DC; o que muda agora?",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -764,6 +1028,18 @@
       "title": "Nintendo Switch e Switch 2 recebem atualização 23.5.0 com suporte ao envio de presentes digitais",
       "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-switch-e-switch-2-recebem-atualizacao-2350-com-suporte-a-presentes-digitais.html",
       "originalTitle": "Nintendo Switch e Switch 2 recebem atualização 23.5.0 com suporte ao envio de presentes digitais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-276e8349dcf68a1b",
+      "publishedAt": "2026-11-10T05:50:25Z",
+      "title": "Atriz De Harry Potter Desabafa Sobre O Filho Recém-nascido",
+      "sourceUrl": "https://portalgurupi.com.br/bonnie-wright-filho-recem-nascido",
+      "originalTitle": "Atriz De Harry Potter Desabafa Sobre O Filho Recém-nascido",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -13112,18 +13388,6 @@
       "title": "As Novas Desventuras de Cliff Booth | Sequência da Netflix perde 150 salas de cinema após recusa de grandes redes",
       "sourceUrl": "https://www.omelete.com.br/filmes/as-novas-desventuras-de-cliff-booth-sequencia-netflix-perde-150-salas-de-cinema-apos-recusa-grandes-redes",
       "originalTitle": "As Novas Desventuras de Cliff Booth | Sequência da Netflix perde 150 salas de cinema após recusa de grandes redes",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0113aa95460033e8",
-      "publishedAt": "2026-10-31T13:10:54Z",
-      "title": "VisionQuest passa longe do holofote de Doomsday, mas revela o laboratório secreto da Marvel para o novo quarteto Vingador",
-      "sourceUrl": "https://radiogeekbr.com.br/visionquest-marvel-forma-novo-quarteto-vingador",
-      "originalTitle": "VisionQuest passa longe do holofote de Doomsday, mas revela o laboratório secreto da Marvel para o novo quarteto Vingador",
       "translated": false,
       "editorialReview": {
         "status": "native",
