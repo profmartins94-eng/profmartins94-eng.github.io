@@ -7,8 +7,8 @@
   ],
   "category": "cinema",
   "categoryName": "Cinema & séries",
-  "publishedAt": "2026-10-28T12:11:01Z",
-  "displayDate": "28 out. 2026",
+  "publishedAt": "2026-11-11T04:41:47Z",
+  "displayDate": "11 nov. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/lanterns-referencia-interna-reordena-21-projetos-dcu",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1791357989.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Lanterns vira referência interna e reordena fila de 21 projetos do novo DCU",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }
