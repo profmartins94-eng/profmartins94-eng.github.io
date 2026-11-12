@@ -1,7 +1,559 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T13:16:03.462939Z",
+  "updatedAt": "2026-11-12T21:06:12.755019Z",
   "articles": [
+    {
+      "id": "radar-768bd5b04e08d96d",
+      "publishedAt": "2026-11-12T20:57:00Z",
+      "title": "Nvidia | Ex-CEO da empresa teve um terceiro caso extraconjugal, revela Reuters",
+      "sourceUrl": "https://www.omelete.com.br/games/nvidia-ex-ceo-da-empresa-teve-terceiro-caso-extraconjugal",
+      "originalTitle": "Nvidia | Ex-CEO da empresa teve um terceiro caso extraconjugal, revela Reuters",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8b0fa5ea4a6170e3",
+      "publishedAt": "2026-11-12T20:42:00Z",
+      "title": "Predador | Schwarzenneger confirma que continuação do clássico está em desenvolvimento",
+      "sourceUrl": "https://www.omelete.com.br/filmes/predador-schwarzenneger-confirma-continuacao-esta-em-desenvolvimento",
+      "originalTitle": "Predador | Schwarzenneger confirma que continuação do clássico está em desenvolvimento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9c295e8a91b441b7",
+      "publishedAt": "2026-11-12T20:42:00Z",
+      "title": "Estúdio de Doom anuncia novo projeto com diretor da trilogia moderna",
+      "sourceUrl": "https://www.omelete.com.br/games/estudio-de-doom-anuncia-novo-projeto-com-diretor-da-trilogia-moderna",
+      "originalTitle": "Estúdio de Doom anuncia novo projeto com diretor da trilogia moderna",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-40e1a0605331354e",
+      "publishedAt": "2026-11-12T20:35:24Z",
+      "title": "Sony | Empresa revela planos para reforçar a indústria anime no mundo",
+      "sourceUrl": "https://squared-potato.pt/sony-empresa-revela-planos-para-reforcar-a-industria-anime-no-mundo",
+      "originalTitle": "Sony | Empresa revela planos para reforçar a indústria anime no mundo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b7bde8aa012253e3",
+      "publishedAt": "2026-11-12T20:25:00Z",
+      "title": "Anime Tsugumi Project ganha arte e previsão de estreia para janeiro de 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/12/anime-tsugumi-project-arte-estreia-janeiro-2027",
+      "originalTitle": "Anime Tsugumi Project ganha arte e previsão de estreia para janeiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-28d595bdb68e5ea2",
+      "publishedAt": "2026-11-12T20:23:00Z",
+      "title": "Brad Pitt e Apple fecham parceria para filme de diretor de O Som do Silêncio",
+      "sourceUrl": "https://www.omelete.com.br/filmes/brad-pitt-apple-parceria-filme-diretor-de-o-som-do-silencio",
+      "originalTitle": "Brad Pitt e Apple fecham parceria para filme de diretor de O Som do Silêncio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-af4c1eea05aa1d1f",
+      "publishedAt": "2026-11-12T20:15:00Z",
+      "title": "Vídeo hiperrealista de GTA 6 mostra ruas de Vice City e viraliza nas redes sociais",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/video-hiperrealista-de-gta-6-mostra-ruas-de-vice-city-e-viraliza-nas-redes-sociais",
+      "originalTitle": "Vídeo hiperrealista de GTA 6 mostra ruas de Vice City e viraliza nas redes sociais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6607f73919e92468",
+      "publishedAt": "2026-11-12T20:13:31Z",
+      "title": "Primeiro Star Wars volta aos cinemas para celebrar 50 anos",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/star-wars-filme-original-volta-cinemas",
+      "originalTitle": "Primeiro Star Wars volta aos cinemas para celebrar 50 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4299e0258494ee41",
+      "publishedAt": "2026-11-12T20:03:00Z",
+      "title": "Vingadores: Doutor Destino | Revista publica arte inédita do Prof. Xavier em homenagem a Patrick Stewart",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-revista-arte-inedita-professor-xavier-homenagem-patrick-stewart",
+      "originalTitle": "Vingadores: Doutor Destino | Revista publica arte inédita do Prof. Xavier em homenagem a Patrick Stewart",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3af9588cd2d690b8",
+      "publishedAt": "2026-11-12T19:52:00Z",
+      "title": "Após saída de James Gunn, CEOs da Skydance participam de gala com Gal Gadot",
+      "sourceUrl": "https://www.omelete.com.br/filmes/apos-saida-de-james-gunn-ceos-skydance-gala-com-gal-gadot",
+      "originalTitle": "Após saída de James Gunn, CEOs da Skydance participam de gala com Gal Gadot",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-80228dff056705bb",
+      "publishedAt": "2026-11-12T19:47:35Z",
+      "title": "Além do YouTube e Twitch, o The Game Awards 2026 será transmitido ao vivo pelo Disney+",
+      "sourceUrl": "https://br.ign.com/games/157608/alem-do-youtube-e-twitch-o-the-game-awards-2026-sera-transmitido-ao-vivo-pelo-disney",
+      "originalTitle": "Além do YouTube e Twitch, o The Game Awards 2026 será transmitido ao vivo pelo Disney+",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0567431d89ecc0f2",
+      "publishedAt": "2026-11-12T19:37:00Z",
+      "title": "Prêmio Bibi Ferreira 2026: confira a lista completa dos vencedores da 13ª edição",
+      "sourceUrl": "https://www.omelete.com.br/musica/premio-bibi-ferreira-2026-lista-vencedores",
+      "originalTitle": "Prêmio Bibi Ferreira 2026: confira a lista completa dos vencedores da 13ª edição",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-04b1aaa24481134b",
+      "publishedAt": "2026-11-12T19:32:00Z",
+      "title": "Vingadores: Doutor Destino | Luta de Shang-Chi contra Gambit ganha nova imagem; veja",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-luta-shang-chi-gambi-ganha-nova-imagem",
+      "originalTitle": "Vingadores: Doutor Destino | Luta de Shang-Chi contra Gambit ganha nova imagem; veja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e60740afa1a649c3",
+      "publishedAt": "2026-11-12T19:30:00Z",
+      "title": "Fãs de Game of Thrones fizeram atriz de A Casa do Dragão apagar as redes sociais",
+      "sourceUrl": "https://mixdeseries.com.br/atriz-a-casa-do-dragao-apagou-redes-sociais-fas",
+      "originalTitle": "Fãs de Game of Thrones fizeram atriz de A Casa do Dragão apagar as redes sociais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c155ccf3da2b8a72",
+      "publishedAt": "2026-11-12T19:28:04Z",
+      "title": "Fãs DETONAM novas artes de ‘Vingadores: Doutor Destino’: “Horrível”, “Corpos desproporcionais” e “Parece IA”",
+      "sourceUrl": "https://cinepop.com.br/fas-detonam-novas-artes-de-vingadores-doutor-destino-horrivel-corpos-desproporcionais-e-parece-ia-775945",
+      "originalTitle": "Fãs DETONAM novas artes de ‘Vingadores: Doutor Destino’: “Horrível”, “Corpos desproporcionais” e “Parece IA”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-800aacd6a9556a8f",
+      "publishedAt": "2026-11-12T19:15:45Z",
+      "title": "Getting Shots on a Frying Pan: protagonista terá dupla de dubladores",
+      "sourceUrl": "https://diariodamidia.com.br/getting-shots-on-a-frying-pan-protagonista-tera-dupla-de-dubladores",
+      "originalTitle": "Getting Shots on a Frying Pan: protagonista terá dupla de dubladores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-99ba4383f410f316",
+      "publishedAt": "2026-11-12T19:00:00Z",
+      "title": "Vilões Icônicos: Ainz Ooal Gown, um jogador solitário que está fazendo o roleplay de sua vida",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/features/2026/11/12/viloes-anime-ains-ooal-gown",
+      "originalTitle": "Vilões Icônicos: Ainz Ooal Gown, um jogador solitário que está fazendo o roleplay de sua vida",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-99e7165e75fa828c",
+      "publishedAt": "2026-11-12T19:00:00Z",
+      "title": "ANIMAGE e Filmicca vão disponibilizar mais de 100 curtas animados de graça (Exclusivo)",
+      "sourceUrl": "https://www.omelete.com.br/filmes/animage-filmicca-exibem-online-mais-100-curtas-animados-de-graca-exclusivo",
+      "originalTitle": "ANIMAGE e Filmicca vão disponibilizar mais de 100 curtas animados de graça (Exclusivo)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-029c376a49788e60",
+      "publishedAt": "2026-11-12T18:56:00Z",
+      "title": "Anime Ásia Fest transforma Barueri em um pedacinho da Ásia com gastronomia, K-POP, animes e cosplays",
+      "sourceUrl": "https://www.oanhanguera.com.br/noticias/anime-asia-fest-transforma-barueri-em-um-pedacinho-da-asia-com-gastronomia-k-pop-animes-e-cosplays",
+      "originalTitle": "Anime Ásia Fest transforma Barueri em um pedacinho da Ásia com gastronomia, K-POP, animes e cosplays",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4799c87ff2f8933b",
+      "publishedAt": "2026-11-12T18:45:32Z",
+      "title": "‘Star Wars: Episódio IV – Uma Nova Esperança’ será RELANÇADO nos cinemas brasileiros; Saiba QUANDO!",
+      "sourceUrl": "https://cinepop.com.br/star-wars-episodio-iv-uma-nova-esperanca-sera-relancado-nos-cinemas-brasileiros-saiba-quando-775932",
+      "originalTitle": "‘Star Wars: Episódio IV – Uma Nova Esperança’ será RELANÇADO nos cinemas brasileiros; Saiba QUANDO!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a5225df8e8399c4b",
+      "publishedAt": "2026-11-12T18:40:28Z",
+      "title": "Lanterns tem chance de 50/50 de volta após saída de Gunn",
+      "sourceUrl": "https://www.maquinanerd.com.br/series-e-tv/lanterns-tem-chance-de-50-50-de-volta-apos-saida-de-gunn",
+      "originalTitle": "Lanterns tem chance de 50/50 de volta após saída de Gunn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1073ff992d777c20",
+      "publishedAt": "2026-11-12T18:33:31Z",
+      "title": "Metaphor: ReFantazio chega ao Nintendo Switch 2",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/metaphor-refantazio-lancamento-switch-2",
+      "originalTitle": "Metaphor: ReFantazio chega ao Nintendo Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-58e382483edfee7f",
+      "publishedAt": "2026-11-12T18:33:04Z",
+      "title": "Dica na Netflix | Divertida aventura FANTÁSTICA vai agradar fãs de ‘O Senhor dos Anéis’",
+      "sourceUrl": "https://cinepop.com.br/dica-na-netflix-divertida-aventura-fantastica-vai-agradar-fas-de-o-senhor-dos-aneis-775919",
+      "originalTitle": "Dica na Netflix | Divertida aventura FANTÁSTICA vai agradar fãs de ‘O Senhor dos Anéis’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aca8d02cec659ccd",
+      "publishedAt": "2026-11-12T18:32:00Z",
+      "title": "Detective Conan: motorista diz que cena do anime o ajudou a escapar de carro submerso",
+      "sourceUrl": "https://anmtv.com.br/detective-conan-motorista-diz-que-cena-do-anime-o-ajudou-a-escapar-de-carro-submerso",
+      "originalTitle": "Detective Conan: motorista diz que cena do anime o ajudou a escapar de carro submerso",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9b3a624ca29931a8",
+      "publishedAt": "2026-11-12T18:30:19Z",
+      "title": "ISSO É MUITO CHEETOS®!",
+      "sourceUrl": "https://jovemnerd.com.br/videos/time-jovem-nerd/isso-e-muito-cheetos",
+      "originalTitle": "ISSO É MUITO CHEETOS®!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0c31bff09a0d34fd",
+      "publishedAt": "2026-11-12T18:28:00Z",
+      "title": "Just Dance: Decades of Hits garante a diversão em família, mas esbarra no próprio modelo de negócios",
+      "sourceUrl": "https://www.omelete.com.br/games/criticas/just-dance-2026-garante-a-diversao-em-familia-mas-esbarra-no-proprio-modelo-de-negocios",
+      "originalTitle": "Just Dance: Decades of Hits garante a diversão em família, mas esbarra no próprio modelo de negócios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f33116d51f557de5",
+      "publishedAt": "2026-11-12T18:22:50Z",
+      "title": "Filme do Batman do Futuro com Michael Keaton volta a ser considerado na DC, diz site",
+      "sourceUrl": "https://mixdeseries.com.br/batman-do-futuro-filme-michael-keaton-dc",
+      "originalTitle": "Filme do Batman do Futuro com Michael Keaton volta a ser considerado na DC, diz site",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c9fffd4fceaea68c",
+      "publishedAt": "2026-11-12T18:13:00Z",
+      "title": "Naruto volta com anime-sequência e expõe aposta da Shonen Jump em revivals premium",
+      "sourceUrl": "https://radiogeekbr.com.br/naruto-volta-com-anime-sequencia-shonen-jump-revivals",
+      "originalTitle": "Naruto volta com anime-sequência e expõe aposta da Shonen Jump em revivals premium",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e00303beac78c299",
+      "publishedAt": "2026-11-12T18:01:57Z",
+      "title": "Shrek 2 Remastered | Review",
+      "sourceUrl": "https://alternativanerd.com.br/games/shrek-2-remastered-review",
+      "originalTitle": "Shrek 2 Remastered | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e7ec5dda425dab79",
+      "publishedAt": "2026-11-12T17:52:02Z",
+      "title": "Herdling chega ao Nintendo Switch 2 com upgrade gratuito",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/herdling-switch-2-lancamento",
+      "originalTitle": "Herdling chega ao Nintendo Switch 2 com upgrade gratuito",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3db9e4d0c3abe04f",
+      "publishedAt": "2026-11-12T17:36:34Z",
+      "title": "Gatto | Novo filme da Pixar ganha trailer completo e pôster; confira",
+      "sourceUrl": "https://www.omelete.com.br/filmes/gatto-pixar-filme-trailer-completo",
+      "originalTitle": "Gatto | Novo filme da Pixar ganha trailer completo e pôster; confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a1f11697d1d787ee",
+      "publishedAt": "2026-11-12T17:34:00Z",
+      "title": "Anime Millennium Family revela quem dará voz a Arthur",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/12/millennium-family-anime-arthur-voz",
+      "originalTitle": "Anime Millennium Family revela quem dará voz a Arthur",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8459597e57a19566",
+      "publishedAt": "2026-11-12T17:23:47Z",
+      "title": "Sega e Dark Horse unem forças para lançar figuras de vinil clássicas de Sonic e Tails",
+      "sourceUrl": "https://sucodemanga.com.br/sega-dark-horse-figuras-vinil-sonic-tails-classic-2027",
+      "originalTitle": "Sega e Dark Horse unem forças para lançar figuras de vinil clássicas de Sonic e Tails",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-49c959f007f35218",
+      "publishedAt": "2026-11-12T17:23:00Z",
+      "title": "Vingadores | Doutor Destino é variante de Tony Stark? Kevin Feige responde",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-kevin-feige-responde-variante-tony-stark",
+      "originalTitle": "Vingadores | Doutor Destino é variante de Tony Stark? Kevin Feige responde",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9c0e382d9c9a73d8",
+      "publishedAt": "2026-11-12T17:15:00Z",
+      "title": "O filme do Spawn de 1997 tem CGI que ainda impressiona e mostra como o Cinema “tirava leite de pedra” no passado",
+      "sourceUrl": "https://arkade.com.br/spawn-1997-o-cgi-que-ainda-impressiona-e-o-abismo-entre-cinema-e-jogos",
+      "originalTitle": "O filme do Spawn de 1997 tem CGI que ainda impressiona e mostra como o Cinema “tirava leite de pedra” no passado",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4d863e50d3cc3554",
+      "publishedAt": "2026-11-12T17:13:37Z",
+      "title": "Dome Keeper será lançado no Switch em 14 de dezembro",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/dome-keeper-sera-lancado-no-switch-em-14-de-dezembro.html",
+      "originalTitle": "Dome Keeper será lançado no Switch em 14 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-00bab3163de1dd92",
+      "publishedAt": "2026-11-12T17:08:52Z",
+      "title": "Halo: Campaign Evolved – modo cooperativo Firefight chega em breve",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/12/halo-campaign-evolved-modo-cooperativo-firefight-chega-em-breve",
+      "originalTitle": "Halo: Campaign Evolved – modo cooperativo Firefight chega em breve",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fed893bded5c56f3",
+      "publishedAt": "2026-11-12T16:59:00Z",
+      "title": "Anime Gacha Girls Corps revela quem dará voz a Mofutto",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/12/gacha-girls-corps-anime-mofutto-voz",
+      "originalTitle": "Anime Gacha Girls Corps revela quem dará voz a Mofutto",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5303f467b8ea3850",
+      "publishedAt": "2026-11-12T16:35:00Z",
+      "title": "Vingadores: Doutor Destino | Empire revela fotos inéditas do elenco em capas especiais",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-empire-revela-capas-fotos-ineditas-elenco",
+      "originalTitle": "Vingadores: Doutor Destino | Empire revela fotos inéditas do elenco em capas especiais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f2465527c2f4736d",
+      "publishedAt": "2026-11-12T16:18:50Z",
+      "title": "XBOX Playback chegou: reviva sua história com XBOX",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/12/xbox-playback-chegou-reviva-sua-historia-com-xbox",
+      "originalTitle": "XBOX Playback chegou: reviva sua história com XBOX",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3e935adfa5c8d447",
+      "publishedAt": "2026-11-12T15:57:16Z",
+      "title": "GRIME II chega ao Nintendo Switch e Switch 2 em 26 de novembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/grime-ii-switch-2-switch-26-novembro",
+      "originalTitle": "GRIME II chega ao Nintendo Switch e Switch 2 em 26 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-14be78d223658965",
+      "publishedAt": "2026-11-12T15:33:35Z",
+      "title": "Razer anuncia coleção Razer | Honkai: Star Rail inspirada em Silver Wolf LV.999",
+      "sourceUrl": "https://arkade.com.br/razer-anuncia-colecao-razer-honkai-star-rail-inspirada-em-silver-wolf-lv-999",
+      "originalTitle": "Razer anuncia coleção Razer | Honkai: Star Rail inspirada em Silver Wolf LV.999",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6c125407b75651f5",
+      "publishedAt": "2026-11-12T15:16:36Z",
+      "title": "25 anos de XBOX",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/11/12/25-years-of-xbox",
+      "originalTitle": "25 anos de XBOX",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d4ed80e0c05de75c",
+      "publishedAt": "2026-11-12T14:42:00Z",
+      "title": "Ray Gunn | Netflix divulga novo trailer de animação de Brad Bird, forte concorrente ao Oscar 2027",
+      "sourceUrl": "https://www.omelete.com.br/filmes/ray-gunn-animacao-netflix-brad-bird-trailer-2",
+      "originalTitle": "Ray Gunn | Netflix divulga novo trailer de animação de Brad Bird, forte concorrente ao Oscar 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8d44f6ba82f4f093",
+      "publishedAt": "2026-11-12T14:35:32Z",
+      "title": "FATAL FURY: City of the Wolves terá Laocorn em 19 de novembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/fatal-fury-city-of-the-wolves-laocorn",
+      "originalTitle": "FATAL FURY: City of the Wolves terá Laocorn em 19 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7943108c08610e6e",
+      "publishedAt": "2026-11-12T13:18:00Z",
+      "title": "‘Vingadores: Doutor Destino’: Ryan Reynolds e Hugh Jackman terão créditos de roteiro no filme",
+      "sourceUrl": "https://cinepop.com.br/vingadores-doutor-destino-ryan-reynolds-e-hugh-jackman-terao-creditos-de-roteiro-no-filme-775940",
+      "originalTitle": "‘Vingadores: Doutor Destino’: Ryan Reynolds e Hugh Jackman terão créditos de roteiro no filme",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-68a6b69acf0185a8",
       "publishedAt": "2026-11-12T13:00:36Z",
@@ -231,6 +783,18 @@
       }
     },
     {
+      "id": "radar-03783aef6668574b",
+      "publishedAt": "2026-11-12T11:21:46.632000Z",
+      "title": "Tomb Raider: Catalyst é listado para o Nintendo Switch 2 com lançamento em 2028",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/tomb-raider-catalyst-listado-para-nintendo-switch2-com-lancamento-em-2028.html",
+      "originalTitle": "Tomb Raider: Catalyst é listado para o Nintendo Switch 2 com lançamento em 2028",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-b12d9276653455ba",
       "publishedAt": "2026-11-12T11:02:48Z",
       "title": "“Eu nunca diria nunca agora”: Henry Cavill está aberto à possibilidade de voltar a interpretar Superman mais uma vez",
@@ -404,6 +968,18 @@
       "title": "A Imperatriz Se Casou Novamente | Quando saem os próximos episódios do k-drama? Confira agenda",
       "sourceUrl": "https://www.omelete.com.br/korea/a-imperatriz-se-casou-novamente-estreia-proximos-episodios-agenda",
       "originalTitle": "A Imperatriz Se Casou Novamente | Quando saem os próximos episódios do k-drama? Confira agenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-661f4c05dab500ae",
+      "publishedAt": "2026-11-12T02:42:01Z",
+      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
+      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -663,6 +1239,18 @@
       }
     },
     {
+      "id": "radar-db161f29b3bd5a2c",
+      "publishedAt": "2026-11-11T22:45:00Z",
+      "title": "Kamen Rider MY-TH lança crossover oficial com Tom e Jerry",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/11/kamen-rider-myth-tom-e-jerry-crossover",
+      "originalTitle": "Kamen Rider MY-TH lança crossover oficial com Tom e Jerry",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-abd8d6f4016112a6",
       "publishedAt": "2026-11-11T22:39:00Z",
       "title": "James Gunn e Peter Safran | \"Foi uma experiência incrível trabalhar com ambos\", diz Frank Grillo sobre a dupla",
@@ -771,6 +1359,18 @@
       }
     },
     {
+      "id": "radar-2a0c3002e81fe327",
+      "publishedAt": "2026-11-11T21:10:37Z",
+      "title": "O RETORNO do Snyderverse? Henry Cavill não descarta voltar como o Superman",
+      "sourceUrl": "https://cinepop.com.br/henry-cavill-nao-descarta-voltar-como-superman-nunca-diga-nunca-775849",
+      "originalTitle": "O RETORNO do Snyderverse? Henry Cavill não descarta voltar como o Superman",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-e06c0a0a8c4b562f",
       "publishedAt": "2026-11-11T20:57:34Z",
       "title": "O Senhor dos Anéis: Os Anéis de Poder | 3ª temporada ganha novos pôsteres individuais de personagens",
@@ -795,35 +1395,11 @@
       }
     },
     {
-      "id": "radar-03783aef6668574b",
-      "publishedAt": "2026-11-11T20:53:05Z",
-      "title": "Tomb Raider: Catalyst é listado para o Nintendo Switch 2 com lançamento em 2028",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/tomb-raider-catalyst-listado-para-nintendo-switch2-com-lancamento-em-2028.html",
-      "originalTitle": "Tomb Raider: Catalyst é listado para o Nintendo Switch 2 com lançamento em 2028",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-632c37a2e10e2c12",
       "publishedAt": "2026-11-11T20:46:41Z",
       "title": "Veneta anuncia a publicação de mangá de horror de Osamu Tezuka",
       "sourceUrl": "https://foradoplastico.com.br/veneta-anuncia-a-publicacao-de-manga-de-horror-de-osamu-tezuka",
       "originalTitle": "Veneta anuncia a publicação de mangá de horror de Osamu Tezuka",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2a0c3002e81fe327",
-      "publishedAt": "2026-11-11T20:44:51Z",
-      "title": "Henry Cavill não descarta voltar como Superman: “Nunca diga nunca”",
-      "sourceUrl": "https://cinepop.com.br/henry-cavill-nao-descarta-voltar-como-superman-nunca-diga-nunca-775849",
-      "originalTitle": "Henry Cavill não descarta voltar como Superman: “Nunca diga nunca”",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -860,18 +1436,6 @@
       "title": "Marshals | Derivada de Yellowstone apresenta nova personagem; veja foto",
       "sourceUrl": "https://www.omelete.com.br/series-tv/marshals-derivada-de-yellowstone-apresenta-nova-personagem-veja-foto",
       "originalTitle": "Marshals | Derivada de Yellowstone apresenta nova personagem; veja foto",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0c31bff09a0d34fd",
-      "publishedAt": "2026-11-11T20:30:00Z",
-      "title": "Just Dance 2026 garante a diversão em família, mas esbarra no próprio modelo de negócios",
-      "sourceUrl": "https://www.omelete.com.br/games/criticas/just-dance-2026-garante-a-diversao-em-familia-mas-esbarra-no-proprio-modelo-de-negocios",
-      "originalTitle": "Just Dance 2026 garante a diversão em família, mas esbarra no próprio modelo de negócios",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -4136,18 +4700,6 @@
       "title": "Atualização de NieR: Automata exige 366 GB no PC",
       "sourceUrl": "https://www.einerd.com/nier-automata-atualizacao-366-gb-steam",
       "originalTitle": "Atualização de NieR: Automata exige 366 GB no PC",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-661f4c05dab500ae",
-      "publishedAt": "2026-11-08T23:26:53Z",
-      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
-      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -26147,18 +26699,6 @@
       "translated": false,
       "editorialReview": {
         "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c9fffd4fceaea68c",
-      "publishedAt": "2026-10-28T00:40:59Z",
-      "title": "Naruto volta com anime-sequência e expõe aposta da Shonen Jump em revivals premium",
-      "sourceUrl": "https://radiogeekbr.com.br/naruto-volta-com-anime-sequencia-shonen-jump-revivals",
-      "originalTitle": "Naruto volta com anime-sequência e expõe aposta da Shonen Jump em revivals premium",
-      "translated": false,
-      "editorialReview": {
-        "status": "pending",
         "policyVersion": 2
       }
     },
