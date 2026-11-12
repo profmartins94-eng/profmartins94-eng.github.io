@@ -1,7 +1,271 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T23:03:29.809805Z",
+  "updatedAt": "2026-11-12T04:14:50.479300Z",
   "articles": [
+    {
+      "id": "radar-8c9ccf65fdda69d0",
+      "publishedAt": "2026-11-12T03:55:44Z",
+      "title": "Avatar: Os Sete Refúgios marca início de novo ciclo para a franquia dos elementos",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/criticas/avatar-sete-refugios-critica-omelete",
+      "originalTitle": "Avatar: Os Sete Refúgios marca início de novo ciclo para a franquia dos elementos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-44eb1ef6f83a0af9",
+      "publishedAt": "2026-11-12T03:50:00Z",
+      "title": "Anime Ásia Fest chega a Barueri com gastronomia, K-pop, cosplay e entrada gratuita",
+      "sourceUrl": "https://correiopaulista.com/anime-asia-fest-chega-a-barueri-com-gastronomia-k-pop-cosplay-e-entrada-gratuita",
+      "originalTitle": "Anime Ásia Fest chega a Barueri com gastronomia, K-pop, cosplay e entrada gratuita",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-39ce3a5a41a4d81c",
+      "publishedAt": "2026-11-12T02:50:50Z",
+      "title": "A Imperatriz Se Casou Novamente | Quando saem os próximos episódios do k-drama? Confira agenda",
+      "sourceUrl": "https://www.omelete.com.br/korea/a-imperatriz-se-casou-novamente-estreia-proximos-episodios-agenda",
+      "originalTitle": "A Imperatriz Se Casou Novamente | Quando saem os próximos episódios do k-drama? Confira agenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d62df1ae80ae07c8",
+      "publishedAt": "2026-11-12T02:00:00Z",
+      "title": "O ‘Superman’ de James Gunn teve, sim, impacto na cultura pop, e a justificativa da Skydance divide opiniões",
+      "sourceUrl": "https://www.einerd.com/superman-impacto-cultura-pop-skydance-gunn-safran-punkrocker-krypto",
+      "originalTitle": "O ‘Superman’ de James Gunn teve, sim, impacto na cultura pop, e a justificativa da Skydance divide opiniões",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0c8f2d726d11eb3f",
+      "publishedAt": "2026-11-12T01:41:53Z",
+      "title": "Silêncio estratégico: o anime coreano que mistura Dragon Ball e Jujutsu Kaisen está prestes a virar a mesa em 2027",
+      "sourceUrl": "https://radiogeekbr.com.br/anime-coreano-dragon-ball-jujutsu-2027",
+      "originalTitle": "Silêncio estratégico: o anime coreano que mistura Dragon Ball e Jujutsu Kaisen está prestes a virar a mesa em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-da1076db1f3da9c2",
+      "publishedAt": "2026-11-12T01:41:53Z",
+      "title": "Marvel turbina o Homem-Aranha e escancara a crise de “power creep” que ameaça o MCU",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-turbina-homem-aranha-crise-power-creep",
+      "originalTitle": "Marvel turbina o Homem-Aranha e escancara a crise de “power creep” que ameaça o MCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e070df4fd538d277",
+      "publishedAt": "2026-11-12T01:30:00Z",
+      "title": "Próximo episódio de ‘Black Clover’ promete ser o mais emocionante da temporada",
+      "sourceUrl": "https://www.einerd.com/black-clover-episodio-177-megicula-data-estreia",
+      "originalTitle": "Próximo episódio de ‘Black Clover’ promete ser o mais emocionante da temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c7a2c6c256b40837",
+      "publishedAt": "2026-11-12T01:19:43Z",
+      "title": "Frank Grillo elogia Gunn e Safran após saída da DCU",
+      "sourceUrl": "https://culpadolag.com.br/frank-grillo-elogia-gunn-e-safran-apos-saida-da-dcu",
+      "originalTitle": "Frank Grillo elogia Gunn e Safran após saída da DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4a2b009f22db4557",
+      "publishedAt": "2026-11-12T00:57:55Z",
+      "title": "HBO Max terá o maior estande da história da CCXP26 com experiência imersiva de “Harry Potter e a Pedra Filosofal”",
+      "sourceUrl": "https://poltronavip.com/hbo-max-maior-estande-ccxp26-harry-potter-pedra-filosofal",
+      "originalTitle": "HBO Max terá o maior estande da história da CCXP26 com experiência imersiva de “Harry Potter e a Pedra Filosofal”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-531f0a5b418c8c2f",
+      "publishedAt": "2026-11-12T00:52:00Z",
+      "title": "Pôster comemorativo dos 20 anos de Os Infiltrados é revelado; veja",
+      "sourceUrl": "https://www.omelete.com.br/filmes/poster-comemorativo-dos-20-anos-de-os-infiltrados-e-revelado-veja",
+      "originalTitle": "Pôster comemorativo dos 20 anos de Os Infiltrados é revelado; veja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-05991b46f7d898d4",
+      "publishedAt": "2026-11-12T00:51:10Z",
+      "title": "5 filmes da DC que podem mudar completamente após a saída de James Gunn",
+      "sourceUrl": "https://saladadecinema.com.br/5-filmes-da-dc-que-podem-mudar-completamente-apos-a-saida-de-james-gunn",
+      "originalTitle": "5 filmes da DC que podem mudar completamente após a saída de James Gunn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1faf0d826c85d554",
+      "publishedAt": "2026-11-12T00:46:58Z",
+      "title": "Berserk of Gluttony anuncia estreia da 2ª temporada",
+      "sourceUrl": "https://animenew.com.br/berserk-of-gluttony-2-temporada-estreia",
+      "originalTitle": "Berserk of Gluttony anuncia estreia da 2ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-725c247a3ac88e78",
+      "publishedAt": "2026-11-12T00:41:57Z",
+      "title": "Retorno de Dragon Ball Super revela jogo de paciência da Shueisha para alinhar mangá e novo anime",
+      "sourceUrl": "https://radiogeekbr.com.br/dragon-ball-super-retorno-shueisha-estrategia",
+      "originalTitle": "Retorno de Dragon Ball Super revela jogo de paciência da Shueisha para alinhar mangá e novo anime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4ca7c93a5ffbca5e",
+      "publishedAt": "2026-11-12T00:36:00Z",
+      "title": "Superman | Henry Cavill diz que voltaria a viver o herói na mesma semana de mudança na liderança da DC",
+      "sourceUrl": "https://www.omelete.com.br/filmes/superman-henry-cavill-voltaria-a-viver-heroi-mudancas-na-lideranca-da-dc",
+      "originalTitle": "Superman | Henry Cavill diz que voltaria a viver o herói na mesma semana de mudança na liderança da DC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-523928b682c9ff07",
+      "publishedAt": "2026-11-12T00:24:00Z",
+      "title": "Nvidia | CEO Jensen Huang teve caso extraconjugal com executiva da própria empresa, diz jornal",
+      "sourceUrl": "https://www.omelete.com.br/games/nvidia-ceo-jensen-huang-caso-extraconjugal-executiva-da-propria-empresa",
+      "originalTitle": "Nvidia | CEO Jensen Huang teve caso extraconjugal com executiva da própria empresa, diz jornal",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e3913289305eb4fc",
+      "publishedAt": "2026-11-12T00:01:00Z",
+      "title": "Irmão do Jorel ganha série em áudio com vozes originais da animação e participações especiais",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/irmao-do-jorel-ganha-serie-em-audio-vozes-originais-e-participacoes-especiais",
+      "originalTitle": "Irmão do Jorel ganha série em áudio com vozes originais da animação e participações especiais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8dbea0b0c0ca2a63",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "Game of Thrones oficialmente substitui Daenerys em nova história",
+      "sourceUrl": "https://mixdeseries.com.br/game-of-thrones-oficialmente-substitui-daenerys",
+      "originalTitle": "Game of Thrones oficialmente substitui Daenerys em nova história",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b97c44dc04976a65",
+      "publishedAt": "2026-11-11T23:47:00Z",
+      "title": "O Senhor dos Anéis: Os Anéis de Poder | Showrunners explicam razão por trás da nova estratégia de lançamento",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/os-senhor-dos-aneis-os-aneis-de-poder-showrunners-explicam-razao-nova-estrategia-de-lancamento",
+      "originalTitle": "O Senhor dos Anéis: Os Anéis de Poder | Showrunners explicam razão por trás da nova estratégia de lançamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8d83714b534fc858",
+      "publishedAt": "2026-11-11T23:37:00Z",
+      "title": "K-Pop Open Air | Festival gratuito vai exibir shows de ENHYPEN, ATEEZ e mais em SP; saiba tudo",
+      "sourceUrl": "https://www.omelete.com.br/korea/k-pop-open-air-festival-gratuito-vai-exibir-shows-enhypen-ateez-e-mais",
+      "originalTitle": "K-Pop Open Air | Festival gratuito vai exibir shows de ENHYPEN, ATEEZ e mais em SP; saiba tudo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3cab1854cfc82873",
+      "publishedAt": "2026-11-11T23:35:59Z",
+      "title": "Imagem Filmes revela line-up até 2027, com Laika, Jesse Eisenberg e o retorno de Bruna Surfistinha",
+      "sourceUrl": "https://www.omelete.com.br/filmes/imagem-filmes-line-up-2027-laika-jesse-eisenberg-bruna-surfistinha",
+      "originalTitle": "Imagem Filmes revela line-up até 2027, com Laika, Jesse Eisenberg e o retorno de Bruna Surfistinha",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7129e4f45e1f6895",
+      "publishedAt": "2026-11-11T23:11:41Z",
+      "title": "Chris Evans renasce em dose dupla e vira escudo-chave do plano da Marvel contra o fiasco iminente",
+      "sourceUrl": "https://radiogeekbr.com.br/chris-evans-dose-dupla-marvel-avengers-doomsday",
+      "originalTitle": "Chris Evans renasce em dose dupla e vira escudo-chave do plano da Marvel contra o fiasco iminente",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-faa30833173f39a7",
+      "publishedAt": "2026-11-11T23:01:00Z",
+      "title": "Feiticeira Escarlate voltou? O que se sabe sobre a próxima fase da Marvel",
+      "sourceUrl": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/11/7537002-feiticeira-escarlate-voltou-o-que-se-sabe-sobre-a-proxima-fase-da-marvel.html",
+      "originalTitle": "Feiticeira Escarlate voltou? O que se sabe sobre a próxima fase da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-fdbfbee22c680a94",
       "publishedAt": "2026-11-11T22:45:11Z",
@@ -75,11 +339,11 @@
       }
     },
     {
-      "id": "radar-8c9ccf65fdda69d0",
-      "publishedAt": "2026-11-11T21:51:35Z",
-      "title": "Avatar: Os Sete Refúgios marca início de novo ciclo para a franquia dos elementos",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/criticas/avatar-sete-refugios-critica-omelete",
-      "originalTitle": "Avatar: Os Sete Refúgios marca início de novo ciclo para a franquia dos elementos",
+      "id": "radar-02e88d21a1863509",
+      "publishedAt": "2026-11-11T21:50:09Z",
+      "title": "VisionQuest revela que Wanda está viva e prepara Vingadores: Doutor Destino",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/visionquest-wanda-viva-cena-pos-creditos",
+      "originalTitle": "VisionQuest revela que Wanda está viva e prepara Vingadores: Doutor Destino",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -603,6 +867,18 @@
       }
     },
     {
+      "id": "radar-6c2a59de3a686d83",
+      "publishedAt": "2026-11-11T14:52:06Z",
+      "title": "Kore Yamazaki, autora de The Ancient Magus’ Bride, estará presente no Brasil para a Virada Nerd 2026",
+      "sourceUrl": "https://ovicio.com.br/kore-yamazaki-autora-de-the-ancient-magus-bride-estara-presente-no-brasil-para-a-virada-nerd-2026",
+      "originalTitle": "Kore Yamazaki, autora de The Ancient Magus’ Bride, estará presente no Brasil para a Virada Nerd 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-4d89a36b2f20c87a",
       "publishedAt": "2026-11-11T14:45:11Z",
       "title": "NOSTRA: Crystalbound é anunciado para PC e chega em 2027",
@@ -699,6 +975,18 @@
       }
     },
     {
+      "id": "radar-84d631e778a1932e",
+      "publishedAt": "2026-11-11T14:15:00Z",
+      "title": "Feiticeira Escarlate em ‘Vingadores: Doutor Destino’! Disney divulga foto da cena pós-créditos de ‘VisionQuest’",
+      "sourceUrl": "https://cinepop.com.br/feiticeira-escarlate-em-vingadores-doutor-destino-disney-divulga-foto-da-cena-pos-creditos-de-visionquest-775829",
+      "originalTitle": "Feiticeira Escarlate em ‘Vingadores: Doutor Destino’! Disney divulga foto da cena pós-créditos de ‘VisionQuest’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-f11f9e4f900f6e5a",
       "publishedAt": "2026-11-11T14:07:10Z",
       "title": "O que os comentários e filmes anteriores de Jeremy Latcham, novo executivo da DC Studios, sugerem sobre o futuro do DCU",
@@ -776,6 +1064,18 @@
       "title": "PS5 supera 100 milhões de unidades vendidas; veja ranking da Sony",
       "sourceUrl": "https://gameoverdrive.com.br/ps5-100-milhoes-unidades-vendidas-sony",
       "originalTitle": "PS5 supera 100 milhões de unidades vendidas; veja ranking da Sony",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0429b1408362d6ea",
+      "publishedAt": "2026-11-11T12:51:44Z",
+      "title": "GTA 6 vai rodar no Xbox One?",
+      "sourceUrl": "https://querobolsa.com.br/revista/gta-6-vai-rodar-no-xbox-one",
+      "originalTitle": "GTA 6 vai rodar no Xbox One?",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -13868,18 +14168,6 @@
       "title": "As músicas mais marcantes de ‘Stranger Things’, de Kate Bush a Metallica",
       "sourceUrl": "https://www.einerd.com/as-musicas-mais-marcantes-de-stranger-things-de-kate-bush-a-metallica",
       "originalTitle": "As músicas mais marcantes de ‘Stranger Things’, de Kate Bush a Metallica",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7129e4f45e1f6895",
-      "publishedAt": "2026-10-31T20:55:52Z",
-      "title": "Chris Evans renasce em dose dupla e vira escudo-chave do plano da Marvel contra o fiasco iminente",
-      "sourceUrl": "https://radiogeekbr.com.br/chris-evans-dose-dupla-marvel-avengers-doomsday",
-      "originalTitle": "Chris Evans renasce em dose dupla e vira escudo-chave do plano da Marvel contra o fiasco iminente",
       "translated": false,
       "editorialReview": {
         "status": "native",
