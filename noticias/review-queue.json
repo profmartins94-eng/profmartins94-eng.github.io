@@ -1,7 +1,1314 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T21:06:12.755019Z",
+  "updatedAt": "2026-11-13T02:08:09.392199Z",
   "articles": [
+    {
+      "id": "radar-7e6e67f3821f4042",
+      "title": "Girls und Panzer: All-Star Tank Carnival adiciona versões para PS5 e PC, lança em 25 de março de 2027 no Japão",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-13T02:05:02Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/11/girls-und-panzer-all-star-tank-carnival-adds-ps5-and-pc-versions-launches-march-25-2027-in-japan",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/11/GuP-Tank-Match_11-13-26.jpg",
+      "alt": "Imagem publicada por Gematsu",
+      "imageCredit": "Imagem: Gematsu",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Girls und Panzer: All-Star Tank Carnival adds PS5 and PC versions, launches March 25, 2027 in Japan",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-bea1a49841ee552b",
+      "title": "Todos os jogos Zelda jogáveis ​​​​no Switch 2, classificados",
+      "excerpt": "Apesar de uma biblioteca de lançamento bastante básica, o Switch 2 tem uma tonelada de jogos Zelda.",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-13T02:00:18Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/every-zelda-game-nintendo-switch-2",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/various-links-and-botw-zelda-with-a-switch-2.jpg",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Every Zelda Game Playable On Switch 2, Ranked",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-8e603dcb6598d807",
+      "title": "10 vilões de Dragon Ball mais fortes que Super Saiyan 3 Goku",
+      "excerpt": "A transformação Super Saiyan 3 de Goku tem um impacto poderoso, mas vilões como Super Buu, Baby Vegeta e Gomah ainda são significativamente mais fortes.",
+      "body": [
+        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T02:00:11Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "CBR",
+      "sourceUrl": "https://www.cbr.com/dragon-ball-villains-stronger-than-super-saiyan-3-goku",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/dbsbe_02_06.jpg",
+      "alt": "Imagem publicada por CBR",
+      "imageCredit": "Imagem: CBR",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "10 Dragon Ball Villains Stronger Than Super Saiyan 3 Goku",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-51befd2446f289a0",
+      "title": "Doctor Doom acaba de vencer o maior marco do MCU de Thanos antes de Vingadores: Doomsday",
+      "excerpt": "Alguns criticaram a configuração do Doutor Destino da Marvel antes de Vingadores: Dia do Juízo Final, mas o VisionQuest acabou de acabar com todos esses medos.",
+      "body": [
+        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T02:00:11Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "CBR",
+      "sourceUrl": "https://www.cbr.com/visionquest-doctor-doom-cameo-beats-thanos-mcu-buildup",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/09/robert-downey-jr-as-doctor-doom-in-avengers-doomsday.jpg",
+      "alt": "Imagem publicada por CBR",
+      "imageCredit": "Imagem: CBR",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Doctor Doom Just Beat Thanos' Biggest MCU Milestone Ahead of Avengers: Doomsday",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-377e40f01cdc1c5f",
+      "title": "Kevin Feige, da Marvel, refuta a popular teoria de 'Vingadores: Dia do Juízo Final'",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em WDW News Today. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T02:00:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "WDW News Today",
+      "sourceUrl": "https://wdwnt.com/2026/11/marvels-kevin-feige-refutes-popular-avengers-doomsday-theory",
+      "image": "",
+      "alt": "Imagem publicada por WDW News Today",
+      "imageCredit": "Imagem: WDW News Today",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Marvel's Kevin Feige Refutes Popular 'Avengers: Doomsday' Theory",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-5aa6d5ce690d0762",
+      "title": "Os 10 quadrinhos mais sombrios do lado distante que provam que Gary Larson estava à frente de seu tempo",
+      "excerpt": "A brilhante sátira de Gary Larson muitas vezes se inclinava para um território mórbido, produzindo alguns dos humores sombrios mais engraçados que ainda existem até hoje.",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-13T01:42:18Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/darkest-far-side-comics-gary-larson-ahead-time",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/screenshot-3497.png",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "10 Darkest Far Side Comics That Prove Gary Larson Was Ahead of His Time",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-1d0776b4f4636d35",
+      "title": "Unidade de dublagem IXIS compartilha novo videoclipe “Are We Ready?”",
+      "excerpt": "O segundo mini-álbum da unidade, \"Shooot!!\" ocupa a 20ª posição no gráfico diário",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll News. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T01:34:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Crunchyroll News",
+      "sourceUrl": "https://crunchyroll.com/news/latest/2026/11/13/ixis-voice-actor-unit-new-music-video-are-we-ready",
+      "image": "https://a.storyblok.com/f/178900/960x540/bb1e84918c/ixis-are-we-ready-mv.png",
+      "alt": "Imagem publicada por Crunchyroll News",
+      "imageCredit": "Imagem: Crunchyroll News",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Voice Actor Unit IXIS Shares New Music Video \"Are We Ready?\"",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-a7340f59c7948ce7",
+      "title": "A subestimada joia da ficção científica dos anos 90 da Black Panther Star é um sucesso de streaming 30 anos após o atentado nas bilheterias",
+      "excerpt": "Ralph Fiennes e Angela Bassett em Strange Days (1995) Em apenas algumas semanas, o último capítulo da franquia Blade Runner chega com Blade Runner 2099 da Prime Video.",
+      "body": [
+        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T01:33:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ComicBook.com",
+      "sourceUrl": "https://comicbook.com/movies/news/black-panther-stars-underrated-90s-sci-fi-gem-is-a-streaming-hit-30-years-after-bombing-at-the-box-office",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/12/Strange-Days-1995-Greatest-New-Years-Eve-Movies.jpg?w=1056",
+      "alt": "Imagem publicada por ComicBook.com",
+      "imageCredit": "Imagem: ComicBook.com",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Black Panther Star’s Underrated ‘90s Sci-Fi Gem Is a Streaming Hit 30 Years After Bombing at the Box Office",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-b5a1557b1c071cf6",
+      "title": "Anúncio de novo jogo Star Wars provavelmente após atualização oficial do Game Awards",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Comic Book Resources. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-13T01:32:42Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Comic Book Resources",
+      "sourceUrl": "https://www.cbr.com/star-wars-jedi-3-game-awards-disney",
+      "image": "",
+      "alt": "Imagem publicada por Comic Book Resources",
+      "imageCredit": "Imagem: Comic Book Resources",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "New Star Wars Game Announcement Likely After Official Game Awards Update",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-2c2390e5a8e68ba6",
+      "title": "As 10 melhores piadas visuais do Casper original The Friendly Ghost Comics",
+      "excerpt": "Os quadrinhos originais de Casper the Friendly Ghost são adoráveis ​​​​e hilários, mas essas dez capas de quadrinhos têm as melhores piadas visuais da franquia.",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-13T01:30:18Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/casper-friendly-ghost-best-covers",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/casper-the-friendly-ghost-comic-comics-featured-image.png",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "10 Best Visual Gags From The Original Casper The Friendly Ghost Comics",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-6a69b0291ecdebff",
+      "title": "Solo Leveling traz oficialmente de volta personagem lendário da morte",
+      "excerpt": "O vilão mais icônico de Solo Leveling está de volta dos mortos na nova temporada.",
+      "body": [
+        "Confira a cobertura completa em Game Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T01:30:14Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Game Rant",
+      "sourceUrl": "https://gamerant.com/solo-leveling-ragnarok-back-legendary-sillad-death",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/solo-leveling-brings-back-sillad-character-death.jpeg",
+      "alt": "Imagem publicada por Game Rant",
+      "imageCredit": "Imagem: Game Rant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Solo Leveling Officially Brings Back Legendary Character From Death",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-5af3f6d0ea07fc3b",
+      "title": "Estrela da Marvel revela lutas para encontrar trabalho após ingressar no MCU",
+      "excerpt": "Embora o MCU tenha transformado muitos atores em grandes nomes, uma estrela revelou que, após sua estreia no MCU, eles lutaram para encontrar trabalho.",
+      "body": [
+        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T01:27:48Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ComicBook.com",
+      "sourceUrl": "https://comicbook.com/movies/news/marvel-star-reveals-struggles-to-find-work-after-joining-the-mcu",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/Marvel-Studios-logo.jpg?w=1056",
+      "alt": "Imagem publicada por ComicBook.com",
+      "imageCredit": "Imagem: ComicBook.com",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Marvel Star Reveals Struggles to Find Work After Joining the MCU",
+      "tags": [
+        "escalacao",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-02aa62a1c2ed86f5",
+      "title": "Exclusivos para membros D23 Gold: Pins de aniversário de “Moana”, “Rogue One” e “Dumbo” serão lançados ainda este mês",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em LaughingPlace.com. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T01:26:23Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "LaughingPlace.com",
+      "sourceUrl": "https://www.laughingplace.com/disney-merchandise/d23-anniversary-pins-moana-rogue-one-dumbo",
+      "image": "",
+      "alt": "Imagem publicada por LaughingPlace.com",
+      "imageCredit": "Imagem: LaughingPlace.com",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "D23 Gold Member Exclusives: \"Moana,\" \"Rogue One,\" and \"Dumbo\" Anniversary Pins Releasing Later this Month",
+      "tags": [
+        "evento",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-4ba89cf31a04db20",
+      "title": "Gundam Wing traz de volta seu design alternativo de mecha mais popular nos EUA",
+      "excerpt": "Uma revisão sombria do icônico design Wing Gundam Zero é um dos vários itens colecionáveis ​​​​do Gundam que chegarão ao Ocidente por tempo limitado este mês.",
+      "body": [
+        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T01:25:11Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "CBR",
+      "sourceUrl": "https://www.cbr.com/wing-gundam-zero-ew-clear-purple-bandai-america-release",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/gundam-wing-brings-back-its-most-popular-alternative-mecha-design-in-the-u-s-2.jpg",
+      "alt": "Imagem publicada por CBR",
+      "imageCredit": "Imagem: CBR",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Gundam Wing Brings Back Its Most Popular Alternative Mecha Design in the U.S.",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-5e0fd56918d93905",
+      "title": "Filme spinoff de Shrek recebe atualização promissora de Mike Myers",
+      "excerpt": "Mike Myers oferece ao público uma atualização muito necessária sobre o próximo filme derivado de Shrek e seu envolvimento no futuro da franquia.",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T01:18:24Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/shrek-spinoff-donkey-mike-myers-casting",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/shrek.jpg",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Shrek Spinoff Movie Gets Promising Update From Mike Myers",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-3ee67c62c35330c8",
+      "title": "10 animes Crunchyroll perfeitos do início ao fim",
+      "excerpt": "Crunchyroll é o lar de alguns dos fãs de anime mais perfeitos que não conseguirão parar de assistir quando começarem.",
+      "body": [
+        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T01:15:11Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "CBR",
+      "sourceUrl": "https://www.cbr.com/crunchyroll-anime-perfect-start-to-finish",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/crunchyroll-logo-brand-updates-2024.jpg",
+      "alt": "Imagem publicada por CBR",
+      "imageCredit": "Imagem: CBR",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "10 Crunchyroll Anime That Are Perfect From Start to Finish",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-e387a1976902d2a9",
+      "title": "Jogabilidade de Attack on Titan 3 ‘Interações entre personagens e expedições além das muralhas’",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-13T01:15:06Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/11/attack-on-titan-3-character-interactions-and-expeditions-beyond-the-walls-gameplay",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/11/AoT3-Gameplay_11-12-26.jpg",
+      "alt": "Imagem publicada por Gematsu",
+      "imageCredit": "Imagem: Gematsu",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Attack on Titan 3 ‘Character Interactions and Expeditions Beyond the Walls’ gameplay",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-28facd2cf2b82fc2",
+      "title": "O guarda-roupa Klingon mais controverso da Academia da Frota Estelar, validado pelo lendário escritor de Star Trek e especialista em Klingon",
+      "excerpt": "Ronald D.",
+      "body": [
+        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-13T01:07:04Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Screen Rant",
+      "sourceUrl": "https://screenrant.com/star-trek-starfleet-academy-klingon-skirt-ron-moore",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jay-den-in-the-woods.jpg",
+      "alt": "Imagem publicada por Screen Rant",
+      "imageCredit": "Imagem: Screen Rant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Starfleet Academy’s Most Controversial Klingon Wardrobe Validated By Legendary Star Trek Writer & Klingon Expert",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-212fceff2112bd5b",
+      "title": "Freya Allan, estrela de ‘The Witcher’, liderará o filme de terror ‘System’ de Joachim Rønning (EXCLUSIVO)",
+      "excerpt": "A estrela de “The Witcher” e “Planeta dos Macacos”, Freya Allan, vai estrelar “System”, o próximo filme de terror do diretor norueguês Joachim Rønning.",
+      "body": [
+        "Confira a cobertura completa em Variety. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T01:04:29Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Variety",
+      "sourceUrl": "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Freya-Allan.jpg",
+      "alt": "Imagem publicada por Variety",
+      "imageCredit": "Imagem: Variety",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)",
+      "tags": [
+        "escalacao",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-7c5871c526172ce3",
+      "title": "Blue Rights Company revela filme piloto para Orochi -Seventh Echoes- Longa-metragem de animação original",
+      "excerpt": "O diretor de animação do filme Akira, Takashi Nakamura, comanda o filme, creditado pelo conceito original",
+      "body": [
+        "Confira a cobertura completa em Anime News Network. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T01:00:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Anime News Network",
+      "sourceUrl": "https://www.animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748",
+      "image": "https://a.storyblok.com/f/178900/960x540/db917c4408/orochi-seventh-echoes-pilot-film.jpg",
+      "alt": "Imagem publicada por Anime News Network",
+      "imageCredit": "Imagem: Anime News Network",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Blue Rights Company Unveils Pilot Film for Orochi -Seventh Echoes- Original Animated Feature",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-199320f31b7ed735",
+      "title": "Esta réplica da espada do Senhor dos Anéis assinada pelo elenco pode manter os Orcs afastados e está indo para leilão",
+      "excerpt": "O Senhor dos Anéis tem quase tantos nomes para armas quanto para personagens.",
+      "body": [
+        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T00:58:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ComicBook.com",
+      "sourceUrl": "https://comicbook.com/collectibles/news/this-cast-signed-lord-of-the-rings-sword-replica-could-keep-orcs-at-bay-and-its-heading-to-auction",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Screenshot-2026-11-10-134257-1.jpg?w=1056",
+      "alt": "Imagem publicada por ComicBook.com",
+      "imageCredit": "Imagem: ComicBook.com",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "This Cast-Signed Lord of the Rings Sword Replica Could Keep Orcs at Bay, and It’s Heading to Auction",
+      "tags": [
+        "escalacao",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-11318bd25e089cc4",
+      "title": "posta teaser enigmático de Vingadores: Juízo Final: “O tempo dirá; Doom não”",
+      "excerpt": "nulo",
+      "body": [
+        "Confira a cobertura completa em GamesRadar. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T00:28:21Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "GamesRadar",
+      "sourceUrl": "https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-posts-cryptic-avengers-doomsday-teaser-time-will-tell-doom-wont",
+      "image": "https://cdn.mos.cms.futurecdn.net/RxYDgrT6cNzfkfVyCAqBCg-1920-80.jpg",
+      "alt": "Imagem publicada por GamesRadar",
+      "imageCredit": "Imagem: GamesRadar",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Robert Downey Jr. posts cryptic Avengers: Doomsday teaser: \"Time will tell; Doom won't\"",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-6038d6bbbf589cd0",
+      "title": "Xochitl Gomez diz que sua fama de ‘Doutor Estranho’ veio com uma captura inesperada",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Comic Basics. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T00:19:41Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Comic Basics",
+      "sourceUrl": "https://www.comicbasics.com/xochitl-gomez-says-her-doctor-strange-fame-came-with-an-unexpected-catch",
+      "image": "",
+      "alt": "Imagem publicada por Comic Basics",
+      "imageCredit": "Imagem: Comic Basics",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Xochitl Gomez Says Her ‘Doctor Strange’ Fame Came With an Unexpected Catch",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-2232425778b6fa1b",
+      "title": "O substituto de Viggo Mortensen do Senhor dos Anéis diz que o elenco de Aragorn o fez chorar",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Comic Book Resources. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T00:15:50Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Comic Book Resources",
+      "sourceUrl": "https://www.cbr.com/lord-of-the-rings-the-hunt-for-gollum-jamie-dornan-aragorn",
+      "image": "",
+      "alt": "Imagem publicada por Comic Book Resources",
+      "imageCredit": "Imagem: Comic Book Resources",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Lord of the Rings' Viggo Mortensen Replacement Says Aragorn Casting Made Him Cry",
+      "tags": [
+        "escalacao",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-a34f9fa7265a0203",
+      "title": "Editores apresentados aos desenvolvedores na gamescom asia x Tailândia",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em DANAMIC. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-13T00:03:40Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "DANAMIC",
+      "sourceUrl": "https://danamic.org/2026/11/13/plot-twist-in-bangkok-publishers-did-the-pitching-at-gamescom-asia-x-thailand-game-show-2026",
+      "image": "",
+      "alt": "Imagem publicada por DANAMIC",
+      "imageCredit": "Imagem: DANAMIC",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Publishers Pitched to Developers at gamescom asia x Thailand",
+      "tags": [
+        "evento",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-e93093e7caeeb207",
+      "title": "Wolfenstein 3 confirmado para estar em desenvolvimento na MachineGames",
+      "excerpt": "Como parte da celebração do 25º aniversário do Xbox no Xbox Fanfest em Seattle hoje, a desenvolvedora MachineGames confirmou o que havia rumores há muito tempo: que Wolfenstein 3 está em desenvolvimento.",
+      "body": [
+        "Confira a cobertura completa em IGN. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-13T00:01:13Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+      "image": "https://assets-prd.ignimgs.com/2026/11/10/image-2-1794348771186.png",
+      "alt": "Imagem publicada por IGN",
+      "imageCredit": "Imagem: IGN",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-400d8c6936b45cc6",
+      "title": "De Lynda Carter a Gal Gadot: conheça as 6 mulheres que deram vida à Mulher Maravilha",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Parade Magazine. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Parade Magazine",
+      "sourceUrl": "https://parade.com/entertainment/every-wonder-woman-actress",
+      "image": "",
+      "alt": "Imagem publicada por Parade Magazine",
+      "imageCredit": "Imagem: Parade Magazine",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "From Lynda Carter to Gal Gadot: Meet the 6 Women Who Brought Wonder Woman to Life",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-71d1a6537597018c",
+      "title": "Os créditos oficiais da escrita de Vingadores: Doomsday confirmam dois grandes camafeus da Marvel",
+      "excerpt": "Os créditos completos de escrita de Vingadores: Dia do Juízo Final foram revelados e incluem dois grandes atores da Marvel que deverão fazer aparições.",
+      "body": [
+        "Confira a cobertura completa em SlashFilm. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T23:45:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "SlashFilm",
+      "sourceUrl": "https://www.slashfilm.com/2315528/avengers-doomsday-writing-credits-marvel-cameos-deadpool-wolverine",
+      "image": "https://www.slashfilm.com/img/gallery/avengers-doomsdays-official-writing-credits-confirm-two-major-marvel-cameos/l-intro-1794526968.jpg",
+      "alt": "Imagem publicada por SlashFilm",
+      "imageCredit": "Imagem: SlashFilm",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Avengers: Doomsday's Official Writing Credits Confirm Two Major Marvel Cameos",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-9bee2a8f86e91525",
+      "title": "LEGO comemora 50 anos de Star Wars com conjuntos comemorativos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Flickering Myth. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "colecionaveis",
+      "categoryName": "Colecionáveis",
+      "publishedAt": "2026-11-12T23:35:28Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Flickering Myth",
+      "sourceUrl": "https://www.flickeringmyth.com/lego-celebrates-50-years-of-star-wars-with-commemorative-sets",
+      "image": "",
+      "alt": "Imagem publicada por Flickering Myth",
+      "imageCredit": "Imagem: Flickering Myth",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "LEGO celebrates 50 years of Star Wars with commemorative sets",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-b07280d21391fb26",
+      "title": "Um filme tão pouco sério, inacessível",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/PrequelMemes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T23:30:02Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "r/PrequelMemes",
+      "sourceUrl": "https://www.reddit.com/r/PrequelMemes/comments/1xus6u4/such_an_unserious_movie_unwatchable",
+      "image": "https://i.redd.it/gsti9ackn91i1.gif",
+      "alt": "Imagem publicada por r/PrequelMemes",
+      "imageCredit": "Imagem: r/PrequelMemes",
+      "syndicated": true,
+      "meme": true,
+      "translated": true,
+      "originalTitle": "Such an unserious movie, unwatchable",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-4b2c093058c4fb76",
+      "title": "VISIONQUEST Showrunner analisa cenas selvagens de pós-créditos, Major AVENGERS: DOOMSDAY Tease",
+      "excerpt": "O final do VisionQuest deu aos fãs da Marvel muito motivo de pânico, trazendo Ultron de volta à cena, reunindo Billy e Tommy Maximoff e lançando uma enorme provocação de Vingadores: Dia do Juízo Final envolvendo Doutor Destino e Feiticeira Escarlate.",
+      "body": [
+        "Confira a cobertura completa em GeekTyrant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T23:30:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "GeekTyrant",
+      "sourceUrl": "https://geektyrant.com/news/visionquest-showrunner-breaks-down-wild-post-credits-scenes-major-avengers-doomsday-tease",
+      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/2d4055d5-c75a-494b-bd93-bb23062d25e9/VISIONQUEST+Showrunner+Breaks+Down+Wild+Post-Credits+Scenes%2C+Major+AVENGERS-+DOOMSDAY+Tease.jpg?format=1000w",
+      "alt": "Imagem publicada por GeekTyrant",
+      "imageCredit": "Imagem: GeekTyrant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "VISIONQUEST Showrunner Breaks Down Wild Post-Credits Scenes, Major AVENGERS: DOOMSDAY Tease",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-0aeaf89b9d03c964",
+      "title": "O autor do projeto Hail Mary acha que Star Trek precisa de uma grande correção de curso e ele sabe o que é",
+      "excerpt": "Star Trek teve dificuldade em encontrar o caminho para o futuro com o qual provocou os fãs, desde a década de 1960.",
+      "body": [
+        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T23:25:35Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ComicBook.com",
+      "sourceUrl": "https://comicbook.com/tv-shows/news/project-hail-mary-author-thinks-star-trek-needs-major-course-correction-and-he-knows-what-it-is",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/03/Star-Trek-Logo-1.jpg?w=1056",
+      "alt": "Imagem publicada por ComicBook.com",
+      "imageCredit": "Imagem: ComicBook.com",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Project Hail Mary Author Thinks Star Trek Needs Major Course Correction, And He Knows What It Is",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-1c11a81012740ad1",
+      "title": "O novo terror psicológico de Harry Potter Star ganha pontuação estelar no Rotten Tomatoes",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em ScreenRant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T23:23:27Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ScreenRant",
+      "sourceUrl": "https://screenrant.com/jason-isaacs-victorian-psycho-rotten-tomatoes-score",
+      "image": "",
+      "alt": "Imagem publicada por ScreenRant",
+      "imageCredit": "Imagem: ScreenRant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Harry Potter Star's New Psychological Horror Earns Stellar Rotten Tomatoes Score",
+      "tags": [
+        "analise"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-5bfe2710e1946b10",
+      "title": "O diretor de Godzilla Minus Zero sugere o potencial do terceiro filme e o Kaiju que pode aparecer",
+      "excerpt": "Godzilla Minus Zero pode ter sido anunciado como o capítulo final por Toho, mas o final do filme kaiju deixa pelo menos duas portas principais abertas para o que vem a seguir.",
+      "body": [
+        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T23:02:18Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ComicBook.com",
+      "sourceUrl": "https://comicbook.com/movies/news/godzilla-minus-zero-director-hints-at-third-movie-potential-and-the-kaiju-that-might-appear",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/godzilla-minus-zero-main.jpg?w=1056",
+      "alt": "Imagem publicada por ComicBook.com",
+      "imageCredit": "Imagem: ComicBook.com",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Godzilla Minus Zero Director Hints at Third Movie Potential, And the Kaiju That Might Appear",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-8e7c5e7672f6b36f",
+      "title": "'Homem-Aranha: Brand New Day' define lançamento em dezembro para versão estendida",
+      "excerpt": "O quarto filme do Homem-Aranha de Tom Holland está voltando aos cinemas, na esperança de aumentar seu recorde de bilheteria.",
+      "body": [
+        "Confira a cobertura completa em MovieWeb. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:55:53Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "MovieWeb",
+      "sourceUrl": "https://movieweb.com/spider-man-brand-new-day-extended-cut-release-date",
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/spider-man-brand-new-day-ninja-star.jpg",
+      "alt": "Imagem publicada por MovieWeb",
+      "imageCredit": "Imagem: MovieWeb",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "'Spider-Man: Brand New Day' Sets December Release for Extended Cut",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-8f99fbfaee4239dd",
+      "title": "Clayface de repente, um filme de Elseworlds após a demissão de James Gunn na DC",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Cosmic Book News. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:55:35Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Cosmic Book News",
+      "sourceUrl": "https://cosmicbook.news/clayface-elseworlds",
+      "image": "",
+      "alt": "Imagem publicada por Cosmic Book News",
+      "imageCredit": "Imagem: Cosmic Book News",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Clayface Suddenly An Elseworlds Movie After James Gunn’s DC Firing",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-884ed4a5cece6ad1",
+      "title": "Kevin Feige, da Marvel, dobra e desmascara a maior teoria dos fãs do Juízo Final",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:44:50Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ComicBook.com",
+      "sourceUrl": "https://comicbook.com/movies/news/marvels-kevin-feige-doubles-down-and-debunks-doomsdays-biggest-fan-theory",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/08/Avengers-Doomsday-Trailer.jpg?w=1056",
+      "alt": "Imagem publicada por ComicBook.com",
+      "imageCredit": "Imagem: ComicBook.com",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Marvel’s Kevin Feige Doubles Down and Debunks Doomsday’s Biggest Fan Theory",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-c09aea55d9778fc7",
+      "title": "Sony está trazendo de volta o Homem-Aranha, sucesso de US$ 2,5 bilhões com novas filmagens",
+      "excerpt": "Homem-Aranha: Novo Dia ainda não terminou de dominar os cinemas, com a Sony planejando um relançamento prolongado do feito cinematográfico do Homem-Aranha de 2026.",
+      "body": [
+        "Confira a cobertura completa em Polygon. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:31:22Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Polygon",
+      "sourceUrl": "https://www.polygon.com/spider-man-brand-new-day-rerelease-extended-new-footage-cameos",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdspma_sp146.jpg",
+      "alt": "Imagem publicada por Polygon",
+      "imageCredit": "Imagem: Polygon",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-9efdc51ef906bf82",
+      "title": "compartilha Vingadores: vídeo do Juízo Final que faz os fãs pensarem que um novo trailer está chegando",
+      "excerpt": "Um vídeo enigmático postado por Robert Downey Jr.",
+      "body": [
+        "Confira a cobertura completa em SuperHeroHype. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:18:04Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "SuperHeroHype",
+      "sourceUrl": "https://www.superherohype.com/movies/705873-robert-downey-jr-avengers-doomsday-video-new-trailer",
+      "image": "https://www.superherohype.com/wp-content/uploads/sites/4/2026/11/Deepesh-personal-1200-_-675-2026-11-13T034344.914.png?w=1024",
+      "alt": "Imagem publicada por SuperHeroHype",
+      "imageCredit": "Imagem: SuperHeroHype",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Robert Downey Jr. Shares Avengers: Doomsday Video That Has Fans Thinking New Trailer Is Coming",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-60ccd13e758060d5",
+      "title": "‘Avatar: Seven Havens’ define data de lançamento do livro 2 na Paramount +",
+      "excerpt": "Paramount + definiu uma data de lançamento na primavera para Avatar: Seven Havens Livro 2.",
+      "body": [
+        "Confira a cobertura completa em Deadline. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:15:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Deadline",
+      "sourceUrl": "https://deadline.com/2026/11/avatar-seven-havens-book-2-release-date-paramount-plus-1237221752",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-1.26.17-PM.png",
+      "alt": "Imagem publicada por Deadline",
+      "imageCredit": "Imagem: Deadline",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "‘Avatar: Seven Havens’ Sets Book 2 Release Date At Paramount+",
+      "tags": [
+        "escalacao",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-e8d5f9ffe532d259",
+      "title": "Todos os filmes e programas de TV DCU, classificados",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Collider. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:10:30Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Collider",
+      "sourceUrl": "https://collider.com/dcu-movies-shows-ranked",
+      "image": "",
+      "alt": "Imagem publicada por Collider",
+      "imageCredit": "Imagem: Collider",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Every DCU Movie and TV Show, Ranked",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-a38a0fa33b1d0e08",
+      "title": "AVENGERS: DOOMSDAY apresenta Doom como um pai enlutado",
+      "excerpt": "Joe Russo disse que em Vingadores: Doomsday Victor von Doom estará lidando com o trauma de perder um filho, o que não é dos quadrinhos.",
+      "body": [
+        "Confira a cobertura completa em Nerdist. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:02:32Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Nerdist",
+      "sourceUrl": "https://nerdist.com/article/avengers-doomsday-will-introduce-doom-as-a-grieving-father-not-a-variant",
+      "image": "https://cdn.nerdist.com/wp-content/uploads/2026/11/12104926/Avengers-Doomsday-Throne-Room-Doom.jpg",
+      "alt": "Imagem publicada por Nerdist",
+      "imageCredit": "Imagem: Nerdist",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "AVENGERS: DOOMSDAY Introduces Doom as a Grieving Father",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-ad9ca9881256d315",
+      "title": "'Man of Tomorrow': data de lançamento, enredo, elenco e tudo o que sabemos sobre a sequência de 'Superman'",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Space. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Space",
+      "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/man-of-tomorrow-release-date-plot-cast-and-everything-we-know-about-the-superman-sequel",
+      "image": "",
+      "alt": "Imagem publicada por Space",
+      "imageCredit": "Imagem: Space",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "'Man of Tomorrow': Release date, plot, cast & everything we know about the 'Superman' sequel",
+      "tags": [
+        "escalacao",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-bd731c38bec2236e",
+      "title": "Os diretores de VINGADORES: DOOMSDAY provocam um terrível Doutor Doom, e ele será um monstro absoluto",
+      "excerpt": "Hollywood teve duas chances de trazer Doctor Doom para a tela grande e, nas duas vezes, eles estragaram tudo.",
+      "body": [
+        "Confira a cobertura completa em GeekTyrant. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "GeekTyrant",
+      "sourceUrl": "https://geektyrant.com/news/avengers-doomsday-directors-tease-a-terrifying-doctor-doom-and-hes-going-to-be-an-absolute-monster",
+      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/ea711fad-b753-45e0-9315-b693011edcfe/AVENGERS-+DOOMSDAY+Directors+Tease+a+Terrifying+Doctor+Doom%2C+and+He%E2%80%99s+Going+to+Be+an+Absolute+Monster.jpg?format=1000w",
+      "alt": "Imagem publicada por GeekTyrant",
+      "imageCredit": "Imagem: GeekTyrant",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "AVENGERS: DOOMSDAY Directors Tease a Terrifying Doctor Doom, and He’s Going to Be an Absolute Monster",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-82c5d30669cdaa38",
+      "title": "Tom e Jerry têm os crossovers mais estranhos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Den of Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Den of Geek",
+      "sourceUrl": "https://www.denofgeek.com/tv/tom-and-jerry-have-weirdest-crossovers",
+      "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Tom-and-Jerry-Kamen-Rider.jpeg",
+      "alt": "Imagem publicada por Den of Geek",
+      "imageCredit": "Imagem: Den of Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Tom and Jerry Have The Weirdest Crossovers",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-2580de6783483a9a",
+      "title": "A irmã de Kaylee Hottle intervirá para terminar o filme final da atriz de ‘Godzilla vs. Kong’ após sua morte",
+      "excerpt": "Kaylee morreu em julho em um acidente de carro em Maryland, confirmou seu pai, Joshua Hottle, na época.",
+      "body": [
+        "Confira a cobertura completa em The Hollywood Reporter. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T21:58:17Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "The Hollywood Reporter",
+      "sourceUrl": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-star-kaylee-hottle-sister-finish-final-movie-death-1236754194",
+      "image": "",
+      "alt": "Imagem publicada por The Hollywood Reporter",
+      "imageCredit": "Imagem: The Hollywood Reporter",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Kaylee Hottle’s Sister Will Step in to Finish ‘Godzilla vs. Kong’ Actress’ Final Movie Following Her Death",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-2876a0b9ed18f341",
+      "title": "Pixar confirma seu filme de animação mais exclusivo em anos – assista ao trailer de Gatto agora",
+      "excerpt": "IMAGEM CORTESIA DA PIXAR Os gatos desempenharam papéis significativos nos filmes da Pixar ao longo dos anos, desde o robótico Sox em Lightyear até o apropriadamente chamado Maquiavel de Luca.",
+      "body": [
+        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-12T21:47:31Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ComicBook.com",
+      "sourceUrl": "https://comicbook.com/movies/news/pixar-confirms-its-most-unique-animated-movie-in-years-watch-the-gatto-trailer-now",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Gatto_Teaser_Poster.jpg?w=1056",
+      "alt": "Imagem publicada por ComicBook.com",
+      "imageCredit": "Imagem: ComicBook.com",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Pixar Confirms Its Most Unique Animated Movie in Years – Watch the Gatto Trailer Now",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-e3d2264ed152ad2f",
+      "title": "Adam Savage fica cara a cara com Slimer na Rhode Island Comic Con",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Ghostbusters News. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T21:40:35Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Ghostbusters News",
+      "sourceUrl": "https://ghostbustersnews.com/2026/11/12/adam-savage-comes-face-to-face-with-slimer-at-rhode-island-comic-con",
+      "image": "",
+      "alt": "Imagem publicada por Ghostbusters News",
+      "imageCredit": "Imagem: Ghostbusters News",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Adam Savage Comes Face-to-Face with Slimer at Rhode Island Comic Con",
+      "tags": [
+        "evento",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-b678d48dfe154914",
+      "title": "Disney promete anúncios importantes de jogos no The Game Awards, e Jedi 3 pode ser um forte candidato",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Wolf's Gaming Blog. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-12T21:34:22Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Wolf's Gaming Blog",
+      "sourceUrl": "https://wolfsgamingblog.com/2026/11/12/disney-promises-major-game-announcements-at-the-game-awards-and-jedi-3-could-be-a-strong-contender",
+      "image": "",
+      "alt": "Imagem publicada por Wolf's Gaming Blog",
+      "imageCredit": "Imagem: Wolf's Gaming Blog",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Disney Promises Major Game Announcements At The Game Awards, And Jedi 3 Could Be A Strong Contender",
+      "tags": [
+        "evento",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-dbeae6a331d8306d",
+      "title": "As maiores atualizações da Marvel na San Diego Comic-Con 2022",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em IMDb. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T21:22:33Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "IMDb",
+      "sourceUrl": "https://www.imdb.com/list/ls567325274/mediaviewer/rm3990947841?ref_=ls_4_1",
+      "image": "",
+      "alt": "Imagem publicada por IMDb",
+      "imageCredit": "Imagem: IMDb",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "The Biggest Marvel Updates from San Diego Comic-Con 2022",
+      "tags": [
+        "evento",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-64185ad801ce6fee",
+      "title": "Compatibilidade com versões anteriores do Xbox no PC adiciona 21 títulos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Gematsu. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-12T21:15:06Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/11/xbox-backward-compatibility-on-pc-adds-21-titles",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Xbox-PC-Backward-Compat_11-12-26.jpg",
+      "alt": "Imagem publicada por Gematsu",
+      "imageCredit": "Imagem: Gematsu",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Xbox Backward Compatibility on PC adds 21 titles",
+      "tags": [
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-5f2fe63d73a2401f",
+      "title": "A irmã da estrela de 'Godzilla' assume seu papel final no filme após uma passagem trágica",
+      "excerpt": "Após o falecimento de uma grande estrela da franquia ‘Godzilla’, sua irmã ajudará a continuar seu legado em um novo filme.",
+      "body": [
+        "Confira a cobertura completa em MovieWeb. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T21:11:50Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "MovieWeb",
+      "sourceUrl": "https://movieweb.com/godzilla-kong-supernova-jasmine-hottle",
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/kaylee-hottle-in-godzilla-vs-kong.jpg",
+      "alt": "Imagem publicada por MovieWeb",
+      "imageCredit": "Imagem: MovieWeb",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "'Godzilla' Star's Sister Takes Over Her Final Movie Role After Tragic Passing",
+      "tags": [
+        "escalacao",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-f1ed61e8f8d4dda6",
+      "title": "Espero que ninguém tenha feito isso ainda",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/PrequelMemes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T21:09:51Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "r/PrequelMemes",
+      "sourceUrl": "https://www.reddit.com/r/PrequelMemes/comments/1xuot8n/im_hoping_no_one_has_made_this_yet",
+      "image": "https://i.redd.it/hgcd4uvpy81i1.jpeg",
+      "alt": "Imagem publicada por r/PrequelMemes",
+      "imageCredit": "Imagem: r/PrequelMemes",
+      "syndicated": true,
+      "meme": true,
+      "translated": true,
+      "originalTitle": "I'm hoping no one has made this yet",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-6f11839f5ec5e3f0",
+      "title": "Michael John Roberts morre: ‘TripTank’, animador, diretor e produtor de ‘BoJack Horseman’ tinha 48 anos",
+      "excerpt": "Michael John Roberts, animador e diretor de séries como TripTank da Comedy Central e BoJack Horseman da Netflix, morreu em 11 de novembro de glioblastoma, em Los Angeles.",
+      "body": [
+        "Confira a cobertura completa em Deadline. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-12T21:08:57Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Deadline",
+      "sourceUrl": "https://deadline.com/2026/11/michael-john-roberts-dead-1237222107",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Michael-Roberts-e1794518806291.jpg",
+      "alt": "Imagem publicada por Deadline",
+      "imageCredit": "Imagem: Deadline",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Michael John Roberts Dies: ‘TripTank’, ‘BoJack Horseman’ Animator, Director & Producer Was 48",
+      "tags": [
+        "luto",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
     {
       "id": "radar-e759a9d948354fdf",
       "title": "Stranger Things está oficialmente corrigindo o erro de spinoff da Netflix",
@@ -321,6 +1628,32 @@
       "reviewReason": "automatic-translation"
     },
     {
+      "id": "radar-ba09ae1a4b06346a",
+      "title": "D23 da Disney: tudo anunciado, de atrações a filmes e muito mais - ABC News",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em ABC News - Breaking News, Latest News and Videos. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T20:39:12Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "ABC News - Breaking News, Latest News and Videos",
+      "sourceUrl": "https://abcnews.com/GMA/Culture/disney-d23-2026-trailers-theme-parks-announcements/story?id=135624276",
+      "image": "",
+      "alt": "Imagem publicada por ABC News - Breaking News, Latest News and Videos",
+      "imageCredit": "Imagem: ABC News - Breaking News, Latest News and Videos",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Disney's D23: Everything announced, from rides to movies and more - ABC News",
+      "tags": [
+        "evento",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
       "id": "radar-2709e2f8528ae567",
       "title": "Convidados do Disney World encontram problemas crescentes com o popular passeio de Star Wars",
       "excerpt": "",
@@ -440,6 +1773,55 @@
       "reviewReason": "automatic-translation"
     },
     {
+      "id": "radar-2dc25cea27399d5d",
+      "title": "Doom Developer id Software confirma trabalho em novo jogo, que será dirigido por Hugo Martin",
+      "excerpt": "Na celebração do 25º aniversário do Xbox no evento Fan Fest em Seattle, a id Software confirmou que está trabalhando em um novo jogo, encerrando Doom: The Dark Ages do ano passado com o lançamento do próximo Slaughter Mode em 16 de novembro.",
+      "body": [
+        "Confira a cobertura completa em IGN. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-12T20:00:25Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
+      "image": "https://assets-prd.ignimgs.com/2026/11/10/doom-1794350833795.jpg",
+      "alt": "Imagem publicada por IGN",
+      "imageCredit": "Imagem: IGN",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-fa1587a539a153ae",
+      "title": "Crítica - O audiolivro 'Star Wars X-Wing: Starfighters of Adumar' traz uma leitura embelezada para um amado romance de lendas",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Star Wars News Net. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T20:00:25Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Star Wars News Net",
+      "sourceUrl": "https://www.starwarsnewsnet.com/2026/11/review-star-wars-x-wing-starfighters-of-adumar-audiobook-brings-an-embellished-reading-to-a-beloved-legends-novel.html",
+      "image": "",
+      "alt": "Imagem publicada por Star Wars News Net",
+      "imageCredit": "Imagem: Star Wars News Net",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Review - 'Star Wars X-Wing: Starfighters of Adumar' Audiobook Brings an Embellished Reading to a Beloved Legends Novel",
+      "tags": [
+        "analise",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
       "id": "radar-2183b5387690575b",
       "title": "A ausência do herói da Liga da Justiça no DCU é uma grande parte dos planos futuros da DC após a saída de James Gunn",
       "excerpt": "DCU sofreu recentemente uma grande mudança após a saída de James Gunn.",
@@ -511,6 +1893,29 @@
       "reviewReason": "automatic-translation"
     },
     {
+      "id": "radar-f78f43deade7d53b",
+      "title": "Fable – 4 minutos de nova jogabilidade de missões",
+      "excerpt": "Comemore os 25 anos do XBOX com uma visão exclusiva da nova jogabilidade do Fable Quest.",
+      "body": [
+        "Confira a cobertura completa em GameSpot. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-12T19:35:40Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "GameSpot",
+      "sourceUrl": "https://www.gamespot.com/videos/fable-4-minutes-of-new-questing-gameplay",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/11_eca807.jpg?w=300",
+      "alt": "Imagem publicada por GameSpot",
+      "imageCredit": "Imagem: GameSpot",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Fable – 4 Minutes Of New Questing Gameplay",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
       "id": "radar-389eeb028798bba8",
       "title": "Josh Gad está oficialmente conseguindo um segundo papel no universo Star Wars, confirma nova foto do set",
       "excerpt": "Josh Gad foi visto com uma fantasia completa de Star Wars no set de um próximo projeto.",
@@ -556,6 +1961,29 @@
       "meme": false,
       "translated": true,
       "originalTitle": "Before the MCU, Howard the Duck Nearly Derailed Marvel Movies, and Now a Piece of Its Creature Design Is Up for Auction",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-45f77b9efeddd326",
+      "title": "Henry Cavill cita ‘An American Tail’ enquanto DC Studios Shakeup reabre a porta do Superman",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em IMDb. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T19:29:11Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "IMDb",
+      "sourceUrl": "https://www.imdb.com/it/news/ni66107088?ref_=nm_nwr_2",
+      "image": "",
+      "alt": "Imagem publicada por IMDb",
+      "imageCredit": "Imagem: IMDb",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Henry Cavill Quotes ‘An American Tail’ as DC Studios Shakeup Reopens Superman Door",
       "tags": [],
       "reviewReason": "automatic-translation"
     },
@@ -1261,6 +2689,31 @@
       "reviewReason": "automatic-translation"
     },
     {
+      "id": "radar-7476c3122537ef61",
+      "title": "‘Avengers: Doomsday’ tem 10 escritores creditados, incluindo Hugh Jackman e Ryan Reynolds",
+      "excerpt": "Os créditos oficiais da WGA do filme praticamente confirmam que Deadpool e Wolverine aparecerão na sequência de grande sucesso.",
+      "body": [
+        "Confira a cobertura completa em IndieWire. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T17:10:49Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "IndieWire",
+      "sourceUrl": "https://www.indiewire.com/news/general-news/hugh-jackman-ryan-reynolds-writing-credit-avengers-doomsday-1235227334",
+      "image": "https://cdn.mos.cms.futurecdn.net/Kz7TUMoAJA7R6hPdweyjuj-1920-80.jpg",
+      "alt": "Imagem publicada por IndieWire",
+      "imageCredit": "Imagem: IndieWire",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "‘Avengers: Doomsday’ Has 10 Credited Writers, Including Hugh Jackman and Ryan Reynolds",
+      "tags": [
+        "escalacao"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
       "id": "radar-a8939d392179d6de",
       "title": "Animação do 35º aniversário de Sonic the Hedgehog ‘Memories and Beyond’",
       "excerpt": "A SEGA lançou a animação do 35º aniversário de Sonic the Hedgehog, intitulada “Memories and Beyond”.",
@@ -1309,25 +2762,50 @@
       "reviewReason": "automatic-translation"
     },
     {
-      "id": "radar-e3d2264ed152ad2f",
-      "title": "Adam Savage fica cara a cara com Slimer na Rhode Island Comic Con",
+      "id": "radar-75e9484b158c0fd9",
+      "title": "Mushoku Tensei: Reencarnação sem emprego, volumes 4-6, revisão de romance leve",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Ghostbusters News. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Anime News Network. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-12T16:41:23Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-12T17:00:00Z",
       "displayDate": "12 nov. 2026",
-      "sourceName": "Ghostbusters News",
-      "sourceUrl": "https://ghostbustersnews.com/2026/11/12/adam-savage-comes-face-to-face-with-slimer-at-rhode-island-comic-con",
+      "sourceName": "Anime News Network",
+      "sourceUrl": "https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-4-6/light-novel/.242823",
       "image": "",
-      "alt": "Imagem publicada por Ghostbusters News",
-      "imageCredit": "Imagem: Ghostbusters News",
+      "alt": "Imagem publicada por Anime News Network",
+      "imageCredit": "Imagem: Anime News Network",
       "syndicated": true,
       "meme": false,
       "translated": true,
-      "originalTitle": "Adam Savage Comes Face-to-Face with Slimer at Rhode Island Comic Con",
+      "originalTitle": "Mushoku Tensei: Jobless Reincarnation Volumes 4-6 Light Novel Review",
+      "tags": [
+        "analise"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-ee6d2da23a0e0dc1",
+      "title": "Starforge Systems estreia sua linha de produtos Mob Psycho 100 na Anime Expo neste fim de semana",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Gaming Age. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-12T16:52:06Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Gaming Age",
+      "sourceUrl": "https://gaming-age.com/2026/07/starforge-systems-debuts-their-mob-psycho-100-product-line-at-anime-expo-this-weekend",
+      "image": "",
+      "alt": "Imagem publicada por Gaming Age",
+      "imageCredit": "Imagem: Gaming Age",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Starforge Systems debuts their Mob Psycho 100 product line at Anime Expo this weekend",
       "tags": [
         "evento",
         "furo"
@@ -1366,7 +2844,7 @@
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-12T16:32:35Z",
+      "publishedAt": "2026-11-12T16:32:12Z",
       "displayDate": "12 nov. 2026",
       "sourceName": "Asian Movie Pulse",
       "sourceUrl": "https://asianmoviepulse.com/2026/11/smoking-behind-the-supermarket",
@@ -1558,7 +3036,7 @@
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-12T15:11:15Z",
+      "publishedAt": "2026-11-12T15:21:13Z",
       "displayDate": "12 nov. 2026",
       "sourceName": "HOLR Magazine",
       "sourceUrl": "https://holrmagazine.com/visionquest-review-a-thoughtful-but-uneven-marvel-series",
@@ -1693,6 +3171,57 @@
       "translated": true,
       "originalTitle": "Station to Station coming to PS5, Switch 2 on November 26",
       "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-8ee9d6a6bc3e884e",
+      "title": "Comic Con India abrirá a temporada 2026-27 em Vizag em outubro",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Yo Vizag. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T13:52:25Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Yo Vizag",
+      "sourceUrl": "https://www.yovizag.com/comic-con-india-vizag-visakhapatnam-october-2026",
+      "image": "",
+      "alt": "Imagem publicada por Yo Vizag",
+      "imageCredit": "Imagem: Yo Vizag",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Comic Con India to open 2026-27 season in Vizag in October",
+      "tags": [
+        "evento",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-ccd75f6c1973805c",
+      "title": "A viúva do ator de 'Star Trek' Patrick Stewart fala duas semanas após sua morte: 'Ele me mudou'",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em TMZ. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T13:46:40Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "TMZ",
+      "sourceUrl": "https://www.tmz.com/2026/11/12/sunny-ozell-mourns-husband-patrick-stewart",
+      "image": "",
+      "alt": "Imagem publicada por TMZ",
+      "imageCredit": "Imagem: TMZ",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "'Star Trek' Actor Patrick Stewart's Widow Speaks Out Two Weeks After His Death: 'He Changed Me'",
+      "tags": [
+        "luto"
+      ],
       "reviewReason": "automatic-translation"
     },
     {
@@ -1987,6 +3516,29 @@
       "originalTitle": "Harry Potter's 6 Most Secretly Powerful Hogwarts Employees, Ranked",
       "tags": [],
       "reviewReason": "international-or-unverified-source"
+    },
+    {
+      "id": "radar-797b48d874750867",
+      "title": "O Suporte Steam não brinca.",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de r/Animemes."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-12T12:45:38Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "r/Animemes",
+      "sourceUrl": "https://www.reddit.com/r/Animemes/comments/1xubuhp/steam_support_doesnt_mess_around",
+      "image": "https://i.redd.it/lph5nqyqg61i1.png",
+      "alt": "Imagem publicada por r/Animemes",
+      "imageCredit": "Imagem: r/Animemes",
+      "syndicated": true,
+      "meme": true,
+      "translated": true,
+      "originalTitle": "Steam Support doesn't mess around.",
+      "tags": [],
+      "reviewReason": "automatic-translation"
     },
     {
       "id": "radar-141f4ad1bd4fc960",
@@ -2320,7 +3872,7 @@
     },
     {
       "id": "radar-b71e9d79d1b0640f",
-      "title": "'Star Trek' Actor Walter Koenig Remembered With Posthumous Tribute",
+      "title": "O ator de 'Star Trek' Walter Koenig é lembrado com homenagem póstuma",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Yahoo Lifestyle Canada. A matéria original reúne os detalhes desta atualização."
@@ -2336,13 +3888,13 @@
       "imageCredit": "Imagem: Yahoo Lifestyle Canada",
       "syndicated": true,
       "meme": false,
-      "translated": false,
+      "translated": true,
       "originalTitle": "'Star Trek' Actor Walter Koenig Remembered With Posthumous Tribute",
       "tags": [
         "luto",
         "furo"
       ],
-      "reviewReason": "international-or-unverified-source"
+      "reviewReason": "automatic-translation"
     },
     {
       "id": "radar-547657986a712aad",
@@ -2438,7 +3990,7 @@
     },
     {
       "id": "radar-1c0682f05e046953",
-      "title": "Save to device",
+      "title": "Salvar no dispositivo",
       "excerpt": "",
       "body": [
         "Confira o meme completo na publicação original de r/raimimemes."
@@ -2454,10 +4006,10 @@
       "imageCredit": "Imagem: r/raimimemes",
       "syndicated": true,
       "meme": true,
-      "translated": false,
+      "translated": true,
       "originalTitle": "Save to device",
       "tags": [],
-      "reviewReason": "international-or-unverified-source"
+      "reviewReason": "automatic-translation"
     },
     {
       "id": "radar-6c59984c0c4e9c81",
@@ -2512,7 +4064,7 @@
     },
     {
       "id": "radar-5b72743a1c3267e4",
-      "title": "‘VisionQuest’ series review: Processing grief.exe in Marvel’s witty existential musings on artificial life",
+      "title": "Crítica da série ‘VisionQuest’: Processando grief.exe nas espirituosas reflexões existenciais da Marvel sobre a vida artificial",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em The Hindu. A matéria original reúne os detalhes desta atualização."
@@ -2528,13 +4080,13 @@
       "imageCredit": "Imagem: The Hindu",
       "syndicated": true,
       "meme": false,
-      "translated": false,
+      "translated": true,
       "originalTitle": "‘VisionQuest’ series review: Processing grief.exe in Marvel’s witty existential musings on artificial life",
       "tags": [
         "analise",
         "furo"
       ],
-      "reviewReason": "international-or-unverified-source"
+      "reviewReason": "automatic-translation"
     },
     {
       "id": "radar-c686a1b4f1b125b3",
@@ -2735,6 +4287,55 @@
       "reviewReason": "automatic-translation"
     },
     {
+      "id": "radar-0fd6b47e02ba4db5",
+      "title": "Disney provoca “anúncios importantes” para o The Game Awards",
+      "excerpt": "O Game Awards irá ao ar no Disney+ este ano e, junto com isso, a Disney provocou “grandes anúncios e surpresas” para seus próprios jogos no evento.",
+      "body": [
+        "Confira a cobertura completa em GameSpot. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-12T08:00:00Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "GameSpot",
+      "sourceUrl": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/starwars.png?w=300",
+      "alt": "Imagem publicada por GameSpot",
+      "imageCredit": "Imagem: GameSpot",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "Disney Teases “Major Announcements” For The Game Awards",
+      "tags": [
+        "evento",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
+    },
+    {
+      "id": "radar-8d2cac20bad782e7",
+      "title": "“Never Say Never” – Henry Cavill sobre o retorno como Superman",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Netflix Junkie. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-12T07:36:53Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "Netflix Junkie",
+      "sourceUrl": "https://www.netflixjunkie.com/hollywood-news-never-say-never-henry-cavill-on-returning-as-superman",
+      "image": "",
+      "alt": "Imagem publicada por Netflix Junkie",
+      "imageCredit": "Imagem: Netflix Junkie",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "“Never Say Never” – Henry Cavill on Returning as Superman",
+      "tags": [],
+      "reviewReason": "automatic-translation"
+    },
+    {
       "id": "radar-0df4a17f73d6a8c5",
       "title": "Romancing SaGa 3: Destinies United release date moved up to February 4, 2027",
       "excerpt": "",
@@ -2758,6 +4359,32 @@
         "furo"
       ],
       "reviewReason": "international-or-unverified-source"
+    },
+    {
+      "id": "radar-24750b04ea01f37f",
+      "title": "O animador de \"Macross 7\" e \"ToHeart2\" Kenichiro Katsura morre aos 59 anos enquanto a indústria lamenta um talento veterano",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em 玩具人 TOY PEOPLE. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-12T07:03:40Z",
+      "displayDate": "12 nov. 2026",
+      "sourceName": "玩具人 TOY PEOPLE",
+      "sourceUrl": "https://www.toy-people.com/en?p=115141",
+      "image": "",
+      "alt": "Imagem publicada por 玩具人 TOY PEOPLE",
+      "imageCredit": "Imagem: 玩具人 TOY PEOPLE",
+      "syndicated": true,
+      "meme": false,
+      "translated": true,
+      "originalTitle": "\"Macross 7\" and \"ToHeart2\" Animator Kenichiro Katsura Dies at 59 as Industry Mourns a Veteran Talent",
+      "tags": [
+        "luto",
+        "furo"
+      ],
+      "reviewReason": "automatic-translation"
     },
     {
       "id": "radar-90d2eb7a37ec0767",
@@ -2946,7 +4573,8 @@
       "translated": true,
       "originalTitle": "PlayStation Hero Project Coming to gamescom latam",
       "tags": [
-        "evento"
+        "evento",
+        "furo"
       ],
       "reviewReason": "automatic-translation"
     },
@@ -3514,7 +5142,8 @@
       "translated": true,
       "originalTitle": "Marvel Cosmic Invasion “The Siege of Castle Doom” DLC review",
       "tags": [
-        "analise"
+        "analise",
+        "furo"
       ],
       "reviewReason": "automatic-translation"
     },
@@ -10522,1626 +12151,6 @@
       "originalTitle": "'Lord of the Rings: The Rings of Power' Season 3 Rotten Tomatoes Score Officially Revealed",
       "tags": [
         "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-9ad56a59f0027bbf",
-      "title": "A terceira temporada de The Rings Of Power estreia com pontuação recorde do Rotten Tomatoes",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em ScreenRant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T21:01:43Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ScreenRant",
-      "sourceUrl": "https://screenrant.com/the-rings-of-power-season-3-rotten-tomatoes-score",
-      "image": "",
-      "alt": "Imagem publicada por ScreenRant",
-      "imageCredit": "Imagem: ScreenRant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "The Rings Of Power Season 3 Debuts To Record-Breaking Rotten Tomatoes Score",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-9b63656a4d890891",
-      "title": "Sony Bets on Homegrown Anime to Fuel Decades of Future Growth",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Bloomberg.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T21:00:05Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Bloomberg.com",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-11-10/sony-bets-on-anime-to-become-intellectual-property-giant-fuel-future-growth",
-      "image": "",
-      "alt": "Imagem publicada por Bloomberg.com",
-      "imageCredit": "Imagem: Bloomberg.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sony Bets on Homegrown Anime to Fuel Decades of Future Growth",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-5e370bb83937499d",
-      "title": "Primeiras críticas da terceira temporada de O Senhor dos Anéis: Os Anéis de Poder: Um retorno mais focado, cinematográfico e cheio de ação à Terra Média",
-      "excerpt": "Os críticos dizem que a série de fantasia épica finalmente parece estar encontrando sua identidade, mesmo que sua propensão para contar histórias pesadas a prejudique um pouco.",
-      "body": [
-        "Confira a cobertura completa em Rotten Tomatoes. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T21:00:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Rotten Tomatoes",
-      "sourceUrl": "https://editorial.rottentomatoes.com/article/lotr-the-rings-of-power-season-3-first-reviews",
-      "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/11/LotR_Rings_of_Power_S3_Reviews-Rep.jpg?w=240&h=240&crop=1",
-      "alt": "Imagem publicada por Rotten Tomatoes",
-      "imageCredit": "Imagem: Rotten Tomatoes",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "The Lord of the Rings: The Rings of Power Season 3 First Reviews: A More Focused, Cinematic, Action-Packed Return to Middle-earth",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-4a0a977da0c60098",
-      "title": "GTA 6: Quais serão as pontuações das análises? Você pode ganhar um vale-presente de $ 500 por acertar",
-      "excerpt": "O tão aguardado jogo de ação de mundo aberto da Rockstar, Grand Theft Auto 6, finalmente será lançado em 19 de novembro, e entre as muitas coisas que as pessoas estão animadas para descobrir é como o jogo será avaliado pelos críticos.",
-      "body": [
-        "Confira a cobertura completa em GameSpot. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T20:55:32Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "GameSpot",
-      "sourceUrl": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_84120d.jpg?w=300",
-      "alt": "Imagem publicada por GameSpot",
-      "imageCredit": "Imagem: GameSpot",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-eed87a56d67e32ab",
-      "title": "Adoro o cheiro de torpedos de prótons pela manhã",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/PrequelMemes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:53:51Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "r/PrequelMemes",
-      "sourceUrl": "https://www.reddit.com/r/PrequelMemes/comments/1xsydmf/i_love_the_smell_of_proton_torpedos_in_the_morning",
-      "image": "https://external-preview.redd.it/ZmgxemZsODFtdTBpMWl79A8VQ3_aAwt0qDpHLHmGne-VLxuPLZc1iGd0VVcw.jpeg?width=640&crop=smart&auto=webp&s=74db491862303f5256b1941a92cf25c489f6e623",
-      "alt": "Imagem publicada por r/PrequelMemes",
-      "imageCredit": "Imagem: r/PrequelMemes",
-      "syndicated": true,
-      "meme": true,
-      "translated": true,
-      "originalTitle": "I love the smell of proton torpedos in the morning",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-a3b4b3391c8c1cc2",
-      "title": "PlayStation Cancels Fairgames After Years Of Silence",
-      "excerpt": "Haven Studios' multiplayer shooter was revealed in 2023",
-      "body": [
-        "Confira a cobertura completa em Kotaku. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T20:49:43Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Kotaku",
-      "sourceUrl": "https://kotaku.com/fairgames-haven-studios-jade-raymond-playstation-canceled-2000755584",
-      "image": "https://kotaku.com/app/uploads/2026/11/fairgames.jpg",
-      "alt": "Imagem publicada por Kotaku",
-      "imageCredit": "Imagem: Kotaku",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "PlayStation Cancels Fairgames After Years Of Silence",
-      "tags": [],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-7d35eb1f4f498a2d",
-      "title": "‘Star Wars’ Seemingly on Track To Recast Lando Calrissian in Live-Action",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em disneydining.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:42:05Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "disneydining.com",
-      "sourceUrl": "https://www.disneydining.com/star-wars-on-track-to-recast-lando-calrissian-in-live-action-th1",
-      "image": "",
-      "alt": "Imagem publicada por disneydining.com",
-      "imageCredit": "Imagem: disneydining.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘Star Wars’ Seemingly on Track To Recast Lando Calrissian in Live-Action",
-      "tags": [
-        "escalacao",
-        "furo"
-      ],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-84858a21f70318bf",
-      "title": "5 mulheres-aranha que merecem tanto amor quanto o homem-aranha, e uma delas poderia mudar o legado do lançador de teias",
-      "excerpt": "Imagem cortesia da Marvel Comics O Homem-Aranha aparece em todos os filmes e aparece em inúmeros quadrinhos todos os meses, mas as mulheres que usam o símbolo da aranha participaram de histórias incríveis ao longo dos anos.",
-      "body": [
-        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:35:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBook.com",
-      "sourceUrl": "https://comicbook.com/comics/list/5-spider-women-who-deserve-as-much-love-as-spider-man-and-one-could-change-the-web-slingers-legacy",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/04/Spider-Woman-Jessica-Drew.jpg?w=1056",
-      "alt": "Imagem publicada por ComicBook.com",
-      "imageCredit": "Imagem: ComicBook.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "5 Spider-Women Who Deserve as Much Love as Spider-Man, And One Could Change the Web-Slinger’s Legacy",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-a61e1a6b5603a902",
-      "title": "Revisão da 3ª temporada de THE RINGS OF POWER: Edição Saurondriel",
-      "excerpt": "Continuando a tradição consagrada de análises de navios, apresentamos nossa análise da 3ª temporada de The Rings of Power: edição Saurondriel/Haladriel.",
-      "body": [
-        "Confira a cobertura completa em Nerdist. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:31:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Nerdist",
-      "sourceUrl": "https://nerdist.com/article/the-rings-of-power-season-3-review-saurondriel-haladriel-sauron-galadriel-edition",
-      "image": "https://cdn.nerdist.com/wp-content/uploads/2026/11/06175019/the-rings-of-power-season-3-review-saurondriel.jpg",
-      "alt": "Imagem publicada por Nerdist",
-      "imageCredit": "Imagem: Nerdist",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "THE RINGS OF POWER Season 3 Review: Saurondriel Edition",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-bfbfee42cd94281b",
-      "title": "A Torre Negra de Mike Flanagan só pode funcionar se copiar The Expanse & One Piece",
-      "excerpt": "A próxima adaptação de Mike Flanagan de The Dark Tower só pode funcionar se copiar a mesma fórmula de programas como The Expanse e One Piece.",
-      "body": [
-        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T20:30:18Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Screen Rant",
-      "sourceUrl": "https://screenrant.com/the-dark-tower-mike-flanagan-series-book-pacing",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/roland-holding-a-rose-in-the-dark-tower-book-7-the-dark-tower.jpg",
-      "alt": "Imagem publicada por Screen Rant",
-      "imageCredit": "Imagem: Screen Rant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Mike Flanagan's The Dark Tower Can Only Work If It Copies The Expanse & One Piece",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-3d0685186d7b836d",
-      "title": "Solo Leveling Temporada 3 coroa o novo caçador mais forte da Coreia",
-      "excerpt": "A Coreia do Sul tem um novo caçador mais forte no retorno da 3ª temporada de Solo Leveling Ragnarok.",
-      "body": [
-        "Confira a cobertura completa em Game Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T20:30:14Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Game Rant",
-      "sourceUrl": "https://gamerant.com/solo-leveling-season-3-korea-new-strongest-hunter",
-      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/solo-leveling-jinwoo-replacement-in-japan.jpg",
-      "alt": "Imagem publicada por Game Rant",
-      "imageCredit": "Imagem: Game Rant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Solo Leveling Season 3 Crowns Korea's New Strongest Hunter",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-076afa7207e85642",
-      "title": "A estrela da terceira temporada de THE RINGS OF POWER buscou inspiração nos filmes SENHOR DOS ANÉIS de Peter Jackson ao empunhar Narsil",
-      "excerpt": "Uma das armas mais lendárias da Terra-média está ganhando destaque na terceira temporada de O Senhor dos Anéis: Os Anéis de Poder, e Lloyd Owen voltou aos filmes O Senhor dos Anéis de Peter Jackson para ter certeza de que acertou.",
-      "body": [
-        "Confira a cobertura completa em GeekTyrant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:29:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "GeekTyrant",
-      "sourceUrl": "https://geektyrant.com/news/the-rings-of-power-season-3-star-lloyd-owen-looked-to-peter-jacksons-lord-of-the-rings-movies-for-inspiration-when-wielding-narsil",
-      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/f3b8091c-0962-4c0c-83cd-1d1458326fde/THE+RINGS+OF+POWER+Season+3+Star+Lloyd+Owen+Looked+to+Peter+Jackson%27s+LORD+OF+THE+RINGS+Movies+for+Inspiration+When+Wielding+Narsil.jpg?format=1000w",
-      "alt": "Imagem publicada por GeekTyrant",
-      "imageCredit": "Imagem: GeekTyrant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "THE RINGS OF POWER Season 3 Star Looked to Peter Jackson's LORD OF THE RINGS Movies for Inspiration When Wielding Narsil",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-2909ea9cc3011f12",
-      "title": "GTA 6 Backflips parece bom agora, mas pode haver mais nesta história",
-      "excerpt": "Um novo trailer de Grand Theft Auto 6 estreou hoje, 10 de novembro, e o vídeo mostrava um piloto de corrida dando um salto mortal para trás.",
-      "body": [
-        "Confira a cobertura completa em GameSpot. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T20:26:18Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "GameSpot",
-      "sourceUrl": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/backflip.png?w=300",
-      "alt": "Imagem publicada por GameSpot",
-      "imageCredit": "Imagem: GameSpot",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-efa52ec5ed5a09c2",
-      "title": "Fantastic Four Meet & Greets chegando ao Avengers Campus por tempo limitado antes da estreia de 'Avengers: Doomsday'",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em WDW News Today. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:25:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "WDW News Today",
-      "sourceUrl": "https://wdwnt.com/2026/11/fantastic-four-meet-greets-coming-to-avengers-campus-for-a-limited-time-ahead-of-premiere-of-avengers-doomsday",
-      "image": "",
-      "alt": "Imagem publicada por WDW News Today",
-      "imageCredit": "Imagem: WDW News Today",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Fantastic Four Meet & Greets Coming to Avengers Campus for a Limited Time Ahead of Premiere of 'Avengers: Doomsday'",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-9017dcdb44aa6156",
-      "title": "KPop Demon Hunters retorna oficialmente à Netflix com 22 novos episódios",
-      "excerpt": "Os fãs de KPop Demon Hunters podem revisitar sua franquia favorita antes da sequência com quase duas dúzias de adições inesperadas.",
-      "body": [
-        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T20:20:11Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "CBR",
-      "sourceUrl": "https://www.cbr.com/netflix-kpop-demon-hunters-22-new-episodes",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/rumi-zoey-and-mira-celebrating-in-kpop-demon-hunters.jpg",
-      "alt": "Imagem publicada por CBR",
-      "imageCredit": "Imagem: CBR",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "KPop Demon Hunters Officially Returns to Netflix With 22 New Episodes",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-d32cd335217aba97",
-      "title": "Obras-primas mais perfeitas do Game Boy Advance, classificadas",
-      "excerpt": "Essas obras-primas clássicas do Game Boy Advance variam do brilho da estratégia aos ícones de RPG e, mesmo em um console portátil, elas ainda se mantêm hoje.",
-      "body": [
-        "Confira a cobertura completa em Game Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T20:15:14Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Game Rant",
-      "sourceUrl": "https://gamerant.com/best-most-perfect-masterpieces-game-boy-advance-gba-ranked",
-      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/most-perfect-masterpieces-on-the-gba-ranked.jpg",
-      "alt": "Imagem publicada por Game Rant",
-      "imageCredit": "Imagem: Game Rant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Most Perfect Masterpieces On The Game Boy Advance, Ranked",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-e0ae0744426a5535",
-      "title": "Podcast oficial da VisionQuest com Paul Bettany e James Spader chega hoje à noite junto com o final",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em ComicBookMovie.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:11:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBookMovie.com",
-      "sourceUrl": "https://comicbookmovie.com/tv/marvel/vision/visionquest-official-podcast-with-paul-bettany-and-james-spader-arrives-tonight-alongside-the-finale-a230911",
-      "image": "",
-      "alt": "Imagem publicada por ComicBookMovie.com",
-      "imageCredit": "Imagem: ComicBookMovie.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "VisionQuest Official Podcast With Paul Bettany And James Spader Arrives Tonight Alongside The Finale",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-cdf6fed19cbd430a",
-      "title": "Chefe da Guerra: Morrison discute drama da Apple TV, futuro de Star Wars",
-      "excerpt": "Temuera Morrison refletiu sobre seu tempo no drama histórico da Apple TV, Chief of War, com Jason Momoa, e atualizou seu status de Star Wars.",
-      "body": [
-        "Confira a cobertura completa em Bleeding Cool. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:07:10Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Bleeding Cool",
-      "sourceUrl": "https://bleedingcool.com/tv/chief-of-war-morrison-discusses-apple-tv-drama-star-wars-future",
-      "image": "",
-      "alt": "Imagem publicada por Bleeding Cool",
-      "imageCredit": "Imagem: Bleeding Cool",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Chief of War: Morrison Discusses Apple TV Drama, Star Wars Future",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-e180d85503d7eb15",
-      "title": "Joanne Starer e Lukas Ketner assumindo a série HARLEY QUINN em fevereiro",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Comics Beat. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:04:21Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Comics Beat",
-      "sourceUrl": "https://www.comicsbeat.com/joanne-starer-lukas-ketner-harley-quinn-dc-comics",
-      "image": "",
-      "alt": "Imagem publicada por Comics Beat",
-      "imageCredit": "Imagem: Comics Beat",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Joanne Starer & Lukas Ketner taking over HARLEY QUINN ongoing series in February",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-e192d4085e430a42",
-      "title": "Data de lançamento de ‘Frozen 3’, elenco, novas músicas e tudo o que sabemos sobre o Threequel",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em FanBolt. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T20:03:30Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "FanBolt",
-      "sourceUrl": "https://www.fanbolt.com/179479/frozen-3-release-date",
-      "image": "",
-      "alt": "Imagem publicada por FanBolt",
-      "imageCredit": "Imagem: FanBolt",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "‘Frozen 3’ Release Date, Cast, New Songs, and Everything We Know About the Threequel",
-      "tags": [
-        "escalacao",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-cd9735abc47bbd78",
-      "title": "Marvel Studios lança mais 1 provocação de Wanda Maximoff para o final do VisionQuest",
-      "excerpt": "Antes do final de VisionQuest, a Marvel Studios mais uma vez provocou Wanda Maximoff de Elizabeth Olsen.",
-      "body": [
-        "Confira a cobertura completa em The Direct. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:02:49Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "The Direct",
-      "sourceUrl": "https://thedirect.com/article/marvel-studios-one-wanda-maximoff-visionquest-finale",
-      "image": "https://images.thedirect.com/media/article_full/wanda_visision_quest.jpg",
-      "alt": "Imagem publicada por The Direct",
-      "imageCredit": "Imagem: The Direct",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Marvel Studios Releases 1 More Wanda Maximoff Tease For VisionQuest Finale",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-a8ccaa4d7bc64a96",
-      "title": "O novo chefe da DC Studios também ajudou a lançar o MCU e está por trás da maior adaptação de anime de Hollywood",
-      "excerpt": "Fãs e críticos da Marvel e DC Studios ainda estão pasmos com a notícia de que James Gunn e Peter Safran “deixaram o cargo” como co-diretores dos DC Studios, após quatro anos no cargo.",
-      "body": [
-        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T20:02:26Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBook.com",
-      "sourceUrl": "https://comicbook.com/movies/feature/dc-studios-new-head-jeremy-latcham-explained-marvel-mcu-history-live-action-naruto-anime-movie",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Jeremy-Latcham-Explained-Marvel-MCU-History-DC-Stduios-Live-action-Naruto.jpg?w=1056",
-      "alt": "Imagem publicada por ComicBook.com",
-      "imageCredit": "Imagem: ComicBook.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "DC Studios’ New Head Also Helped Launch The MCU & Is Behind Hollywood’s Biggest Anime Adaptation",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-8062e21c5ada22fc",
-      "title": "Doctor Who confirma a substituição do médico antes do retorno de 2027",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:01:57Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "CBR",
-      "sourceUrl": "https://www.cbr.com/doctor-who-replacement-river-song-book-2027-return",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/06/doctor-who-billie-piper.jpg",
-      "alt": "Imagem publicada por CBR",
-      "imageCredit": "Imagem: CBR",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Doctor Who Confirms The Doctor Replacement Ahead of 2027 Return",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-b3f3acad3593829f",
-      "title": "Revisão dos anéis de poder: a guerra épica da 3ª temporada cai frustrantemente plana",
-      "excerpt": "A terceira temporada de The Rings of Power oferece performances fortes e visuais impressionantes, mas subtramas lotadas prejudicam seu tão esperado conflito.",
-      "body": [
-        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:01:12Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "CBR",
-      "sourceUrl": "https://www.cbr.com/lotr-the-rings-of-power-season-3-review",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/the-rings-of-power-season-3-sauron-lord-of-the-rings.jpg",
-      "alt": "Imagem publicada por CBR",
-      "imageCredit": "Imagem: CBR",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "The Rings of Power Review: Season 3's Epic War Falls Frustratingly Flat",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-651b7d4f781bd185",
-      "title": "‘The Rings of Power’ do Prime Video finalmente atinge seu pico com uma impressionante 3ª temporada | Análise",
-      "excerpt": "The Rings of Power oferece uma terceira temporada que finalmente parece digna de Tolkien, destacando a ascensão de Sauron ao poder na Terra-média.",
-      "body": [
-        "Confira a cobertura completa em Collider. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:01:12Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Collider",
-      "sourceUrl": "https://collider.com/lord-of-the-rings-the-rings-of-power-season-3-review",
-      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/rings-of-power-charlie-vickers.jpg",
-      "alt": "Imagem publicada por Collider",
-      "imageCredit": "Imagem: Collider",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Prime Video’s ‘The Rings of Power’ Finally Reaches Its Peak With a Stunning Season 3 | Review",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-9efcd25d5be7a4b4",
-      "title": "Crítica da terceira temporada de The Rings Of Power: a série Lord of the Rings do Prime Video ainda fica aquém",
-      "excerpt": "A terceira temporada de O Senhor dos Anéis: Os Anéis de Poder tem alguns altos incrivelmente altos e vários baixos frustrantes.",
-      "body": [
-        "Confira a cobertura completa em SlashFilm. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:01:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "SlashFilm",
-      "sourceUrl": "https://www.slashfilm.com/2312150/the-lord-of-the-rings-the-rings-of-power-season-3-review-prime-video",
-      "image": "https://www.slashfilm.com/img/gallery/the-rings-of-power-season-3-review-prime-videos-lord-of-the-rings-series-still-falls-short/l-intro-1794325861.jpg",
-      "alt": "Imagem publicada por SlashFilm",
-      "imageCredit": "Imagem: SlashFilm",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "The Rings Of Power Season 3 Review: Prime Video's Lord Of The Rings Series Still Falls Short",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-63108846d9d987d5",
-      "title": "Crítica da terceira temporada de Rings Of Power: uma versão mais enxuta e cruel de O Senhor dos Anéis nos melhores episódios até agora",
-      "excerpt": "The Rings of Power oferece seus melhores episódios em uma terceira temporada que se desdobra no que funciona, criando um épico de fantasia arrebatador e mordaz.",
-      "body": [
-        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:00:18Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Screen Rant",
-      "sourceUrl": "https://screenrant.com/rings-of-power-season-3-review",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/sauron-sitting-on-his-throne-in-rings-of-power-season-3.jpg",
-      "alt": "Imagem publicada por Screen Rant",
-      "imageCredit": "Imagem: Screen Rant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Rings Of Power Season 3 Review: A Leaner, Meaner Version Of Lord Of The Rings In Best Episodes Yet",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-bfcf4fedd60123b9",
-      "title": "Star Trek: Divergent Timeline reúne oficialmente toda a equipe Kelvin",
-      "excerpt": "Star Trek retorna à linha do tempo Kelvin no novo lançamento Divergent Timeline, reunindo toda a equipe da trilogia de filmes de reinicialização de 2009.",
-      "body": [
-        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:00:18Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Screen Rant",
-      "sourceUrl": "https://screenrant.com/star-trek-divergent-timeline-mtg-kelvin-crew-reunion",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/spock-and-kirk-in-star-trek-2009.jpg",
-      "alt": "Imagem publicada por Screen Rant",
-      "imageCredit": "Imagem: Screen Rant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Star Trek: Divergent Timeline Officially Reunites The Entire Kelvin Crew",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-73b65a34102f8fce",
-      "title": "6 personagens da Marvel da era Netflix que ainda não retornaram ao MCU",
-      "excerpt": "Os programas da Marvel da Netflix começaram lentamente a passar para o MCU, mas ainda não vimos o retorno desses personagens icônicos.",
-      "body": [
-        "Confira a cobertura completa em Screen Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:00:18Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Screen Rant",
-      "sourceUrl": "https://screenrant.com/netflix-era-marvel-characters-not-return-to-mcu",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/jessica-jones-wearing-a-scarf-and-giving-side-eye-while-riding-the-train-in-jessica-jones.jpg",
-      "alt": "Imagem publicada por Screen Rant",
-      "imageCredit": "Imagem: Screen Rant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "6 Netflix-Era Marvel Characters Who Still Haven't Returned To The MCU",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-95a4d7879217c638",
-      "title": "O programa fumegante de 4 temporadas de Game of Thrones de Henry Cavill faz um retorno em streaming",
-      "excerpt": "O drama histórico quente de Henry Cavill, The Tudors, é um dos programas mais assistidos em streaming.",
-      "body": [
-        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:00:12Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "CBR",
-      "sourceUrl": "https://www.cbr.com/the-tudors-historical-drama-apple-tv-success-november-2026",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/10/henry-cavill-as-charle-brandon-in-the-tudors-cropped.jpg",
-      "alt": "Imagem publicada por CBR",
-      "imageCredit": "Imagem: CBR",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Henry Cavill's Steamy 4-Season Game of Thrones-Style Show Makes a Streaming Comeback",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-98faa3bb0a54a66b",
-      "title": "Disney's Clay é o fim da era da animação 3D",
-      "excerpt": "A fórmula testada e comprovada da Disney está finalmente mudando com o próximo lançamento de um novo filme de animação, como nada que a Disney tenha feito antes.",
-      "body": [
-        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T20:00:12Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "CBR",
-      "sourceUrl": "https://www.cbr.com/disney-clay-change-3d-animation-style",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/flip-chasing-mushy-in-disney-s-new-clay-movie.jpg",
-      "alt": "Imagem publicada por CBR",
-      "imageCredit": "Imagem: CBR",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Disney's Clay is the End of the 3D Animation Era",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-292038228db07739",
-      "title": "A nova série Ghostbusters da Netflix preencherá o maior capítulo perdido da franquia",
-      "excerpt": "A próxima série animada da Netflix, Ghostbusters: Night Shift, preencherá uma grande lacuna na linha do tempo da franquia.",
-      "body": [
-        "Confira a cobertura completa em CBR. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:00:12Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "CBR",
-      "sourceUrl": "https://www.cbr.com/netflix-ghostbusters-night-shift-timeline-gap",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/aaaaqdnhglwu1bomkdtufwtf7hw7zov7dg66g8j9qzlqmwud926vugrmdp-hfitltukk1y6b2qkexlaurghfbg_cl1dl7p4wy15sfdz1ppbwmuo7u4p4630ulythkaj4vjafkjh0jutzrnrtfri5moverdevwa0.jpg",
-      "alt": "Imagem publicada por CBR",
-      "imageCredit": "Imagem: CBR",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Netflix’s New Ghostbusters Series Will Fill the Franchise’s Biggest Missing Chapter",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-c310641edcab0d10",
-      "title": "Crítica da terceira temporada de THE RINGS OF POWER: TROP cria sua melhor temporada até agora",
-      "excerpt": "O Senhor dos Anéis: Os Anéis de Poder oferece sua melhor temporada na terceira temporada; nossa análise completa dos episódios um a sete.",
-      "body": [
-        "Confira a cobertura completa em Nerdist. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T20:00:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Nerdist",
-      "sourceUrl": "https://nerdist.com/article/the-rings-of-power-season-3-review",
-      "image": "https://cdn.nerdist.com/wp-content/uploads/2026/11/10093149/the-rings-of-power-season-3-star-rating.jpg",
-      "alt": "Imagem publicada por Nerdist",
-      "imageCredit": "Imagem: Nerdist",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "THE RINGS OF POWER Season 3 Review: TROP Forges Its Best Season Yet",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-d42c81309a0c6c7b",
-      "title": "Crítica da terceira temporada de 'The Rings of Power': a série 'O Senhor dos Anéis' da Amazon está apenas passando pelos movimentos",
-      "excerpt": "Envolta por uma acentuada perda de entusiasmo, a série prequela de “O Senhor dos Anéis” de J.D.",
-      "body": [
-        "Confira a cobertura completa em IndieWire. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T20:00:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "IndieWire",
-      "sourceUrl": "https://www.indiewire.com/criticism/shows/the-rings-of-power-season-3-lord-of-the-rings-series-bad-1235226205",
-      "image": "https://assets-prd.ignimgs.com/2026/10/28/theringsofpower-gandalf-blogroll-1793231043425.jpg",
-      "alt": "Imagem publicada por IndieWire",
-      "imageCredit": "Imagem: IndieWire",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "‘The Rings of Power’ Season 3 Review: Amazon’s ‘Lord of the Rings’ Series Is Just Going Through the Motions",
-      "tags": [
-        "analise",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-839eb112b1409f2c",
-      "title": "Avengers: Doomsday & Dune Star Florence Pugh revela qual filme assistir primeiro no Dunesday",
-      "excerpt": "O dia 18 de dezembro está circulado em muitos calendários há meses, graças à chegada do “Dunasday”.",
-      "body": [
-        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T19:55:30Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBook.com",
-      "sourceUrl": "https://comicbook.com/movies/news/avengers-doomsday-dune-star-florence-pugh-reveals-which-movie-to-watch-first-on-dunesday",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/florence-pugh-avengers-doomsday-and-dune-3.jpg?w=1056",
-      "alt": "Imagem publicada por ComicBook.com",
-      "imageCredit": "Imagem: ComicBook.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Avengers: Doomsday & Dune Star Florence Pugh Reveals Which Movie to Watch First on Dunesday",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-8aef8347ba05aa2e",
-      "title": "Avatar: Seven Havens Is Avoiding The Legend of Korra’s Biggest Mistake",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T19:42:23Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBook.com",
-      "sourceUrl": "https://comicbook.com/anime/news/avatar-seven-havens-is-avoiding-the-legend-of-korras-biggest-mistake",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Avatar-Seven-Havens-The-Legend-of-Korra.jpg?w=1056",
-      "alt": "Imagem publicada por ComicBook.com",
-      "imageCredit": "Imagem: ComicBook.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Avatar: Seven Havens Is Avoiding The Legend of Korra’s Biggest Mistake",
-      "tags": [],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-9aa06b70e76ef2d4",
-      "title": "A nova sinopse de Vingadores: Doomsday estabelece uma guerra no multiverso com 5 equipes de super-heróis MCU",
-      "excerpt": "A Marvel está reunindo algumas de suas maiores equipes de super-heróis para uma grande batalha em Vingadores: Dia do Juízo Final",
-      "body": [
-        "Confira a cobertura completa em SuperHeroHype. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T19:30:53Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "SuperHeroHype",
-      "sourceUrl": "https://www.superherohype.com/movies/705288-avengers-doomsday-synopsis-update-multiverse-incursions-superhero-teams",
-      "image": "https://www.superherohype.com/wp-content/uploads/sites/4/2026/11/Doomsday-Avengers.jpg?w=1024",
-      "alt": "Imagem publicada por SuperHeroHype",
-      "imageCredit": "Imagem: SuperHeroHype",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Avengers: Doomsday’s New Synopsis Sets Up a Multiverse War With 5 MCU Superhero Teams",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-a3f963963412214d",
-      "title": "10 Yu-Gi-Oh mais subestimados! Personagens",
-      "excerpt": "Yu-Gi-Oh!",
-      "body": [
-        "Confira a cobertura completa em Game Rant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T19:30:15Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Game Rant",
-      "sourceUrl": "https://gamerant.com/most-underrated-yu-gi-oh-characters",
-      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/most-underrated-yu-gi-oh-characters.jpg",
-      "alt": "Imagem publicada por Game Rant",
-      "imageCredit": "Imagem: Game Rant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "10 Most Underrated Yu-Gi-Oh! Characters",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-dbb09915015fb7a2",
-      "title": "Esses icônicos quadrinhos do Homem-Aranha, do Hulk e do Quarteto Fantástico estão custando uma fração do preço normal, com uma só pegadinha",
-      "excerpt": "Colecionar quadrinhos antigos não é tarefa fácil.",
-      "body": [
-        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T19:27:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBook.com",
-      "sourceUrl": "https://comicbook.com/collectibles/news/these-iconic-spider-man-hulk-and-fantastic-four-comics-are-going-for-a-fraction-of-their-usual-price-with-one-catch",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Amazing_Fantasy_15.jpg?w=1056",
-      "alt": "Imagem publicada por ComicBook.com",
-      "imageCredit": "Imagem: ComicBook.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "These Iconic Spider-Man, Hulk, and Fantastic Four Comics Are Going for a Fraction of Their Usual Price, With One Catch",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-2f36072b5cd175ec",
-      "title": "Explicação da saída do DC Studios de James Gunn: confrontos de Skydance, problemas de bilheteria e seus planos de Superman em perigo",
-      "excerpt": "James Gunn está no DC Studios, e as razões por trás de sua saída inesperada estão começando a entrar em foco.",
-      "body": [
-        "Confira a cobertura completa em GeekTyrant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T19:26:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "GeekTyrant",
-      "sourceUrl": "https://geektyrant.com/news/james-gunns-dc-studios-exit-explained-skydance-clashes-box-office-trouble-and-his-superman-plans-in-jeopardy",
-      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/a66efdb8-4dd4-4d1f-80f8-147b8cd16307/Screenshot+2026-11-10+at+6.57.06%E2%80%AFAM.jpg?format=1000w",
-      "alt": "Imagem publicada por GeekTyrant",
-      "imageCredit": "Imagem: GeekTyrant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "James Gunn’s DC Studios Exit Explained: Skydance Clashes, Box Office Trouble, and His Superman Plans in Jeopardy",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-f7eec3d968b655ad",
-      "title": "A descrição oficial do Doutor Doom finalmente confirma de qual universo ele se origina em Vingadores: Dia do Juízo Final",
-      "excerpt": "As origens de Doctor Doom no MCU estão finalmente vindo à tona antes do lançamento de Avengers: Doomsday.",
-      "body": [
-        "Confira a cobertura completa em The Direct. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T19:18:44Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "The Direct",
-      "sourceUrl": "https://thedirect.com/article/doctor-doom-description-universe-originates-avengers-doomsday",
-      "image": "https://images.thedirect.com/media/article_full/doctor-doom-doomsday-avengers-mcu.jpg",
-      "alt": "Imagem publicada por The Direct",
-      "imageCredit": "Imagem: The Direct",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Official Doctor Doom Description Finally Confirms Which Universe He Originates From In Avengers: Doomsday",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-60cf98d9214199fe",
-      "title": "Quem é Jeremy Latcham? Tudo o que sabemos sobre o novo chefe dos estúdios DC",
-      "excerpt": "Jeremy Latcham é um ex-produtor da Marvel Studios que está substituindo James Gunn e Peter Safran na DC Studios.",
-      "body": [
-        "Confira a cobertura completa em SlashFilm. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T19:17:03Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "SlashFilm",
-      "sourceUrl": "https://www.slashfilm.com/2312484/jeremy-latcham-dc-studios-head-explained",
-      "image": "https://www.slashfilm.com/img/gallery/who-is-jeremy-latcham-everything-we-know-about-the-new-head-of-dc-studios/l-intro-1794337845.jpg",
-      "alt": "Imagem publicada por SlashFilm",
-      "imageCredit": "Imagem: SlashFilm",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Who Is Jeremy Latcham? Everything We Know About The New Head Of DC Studios",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-203a73811a2966e6",
-      "title": "O dublador de Pillsbury Doughboy, JoBe Cerny, morre aos 78 anos: Relatório",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em LiveNOW from FOX. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T19:14:27Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "LiveNOW from FOX",
-      "sourceUrl": "https://www.livenowfox.com/news/pillsbury-doughboy-voice-actor-jobe-cerny-dies-78-report",
-      "image": "",
-      "alt": "Imagem publicada por LiveNOW from FOX",
-      "imageCredit": "Imagem: LiveNOW from FOX",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Pillsbury Doughboy voice actor, JoBe Cerny, dies at 78: Report",
-      "tags": [
-        "luto",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-7a5209dbc542a19a",
-      "title": "Tudo o que sabemos sobre a terceira temporada de ‘Percy Jackson e os Olimpianos’ até agora",
-      "excerpt": "Outra temporada da adaptação da série de televisão da Disney de Percy Jackson e os Olimpianos de Rick Riordan veio e se foi, mas a terceira temporada está próxima.",
-      "body": [
-        "Confira a cobertura completa em Deadline. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T19:09:04Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Deadline",
-      "sourceUrl": "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797",
-      "image": "https://deadline.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-4.25.40 PM-e1755905222323.png",
-      "alt": "Imagem publicada por Deadline",
-      "imageCredit": "Imagem: Deadline",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Everything We Know About ‘Percy Jackson And The Olympians’ Season 3 So Far",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-85feb182082897c8",
-      "title": "Após 5 anos, Dandadan finalmente revela a trágica história de origem de Okarun",
-      "excerpt": "Imagem Cortesia de Shueisha DAN DA DAN tem trabalhado em um de seus arcos mais divisivos nos últimos meses, e tudo isso levou à revelação da história de origem verdadeiramente comovente de Okarun após cinco longos anos.",
-      "body": [
-        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T19:03:28Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBook.com",
-      "sourceUrl": "https://comicbook.com/anime/feature/after-5-years-dandadan-finally-reveals-okaruns-tragic-origin-story",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Dandadan-Okarun-Backstory-Origin-Manga.jpg?w=1056",
-      "alt": "Imagem publicada por ComicBook.com",
-      "imageCredit": "Imagem: ComicBook.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "After 5 Years, Dandadan Finally Reveals Okarun’s Tragic Origin Story",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-a2105de29cdbe44b",
-      "title": "Exclusivo: Made in Abyss: Awakening Mystery Heads to HIDIVE em 2027, estreia na América do Norte marcada para 5 de dezembro",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Anime Corner. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T18:59:53Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Anime Corner",
-      "sourceUrl": "https://animecorner.me/exclusive-made-in-abyss-awakening-mystery-heads-to-hidive-in-2027-north-american-premiere-set-for-december-5",
-      "image": "",
-      "alt": "Imagem publicada por Anime Corner",
-      "imageCredit": "Imagem: Anime Corner",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Exclusive: Made in Abyss: Awakening Mystery Heads to HIDIVE in 2027, North American Premiere Set for December 5",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-0125a41ae4ee517b",
-      "title": "Diretor de GODZILLA MINUS ZERO quer que Godzilla lute contra um Kaiju original em um filme futuro",
-      "excerpt": "Godzilla enfrentou alguns monstros seriamente selvagens ao longo dos anos.",
-      "body": [
-        "Confira a cobertura completa em GeekTyrant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T18:58:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "GeekTyrant",
-      "sourceUrl": "https://geektyrant.com/news/godzilla-minus-zero-director-wants-godzilla-to-fight-an-original-kaiju-in-a-future-movie",
-      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/c405bd18-2dcb-4f67-aea4-af12274affc1/GODZILLA+MINUS+ZERO+Director+Wants+Godzilla+to+Fight+an+Original+Kaiju+in+a+Future+Movie.jpg?format=1000w",
-      "alt": "Imagem publicada por GeekTyrant",
-      "imageCredit": "Imagem: GeekTyrant",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "GODZILLA MINUS ZERO Director Wants Godzilla to Fight an Original Kaiju in a Future Movie",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-73e3fb599c67fd2d",
-      "title": "Anything for that 5th Son of Sony",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/animememes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T18:56:35Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "r/animememes",
-      "sourceUrl": "https://www.reddit.com/r/animememes/comments/1xsvcv2/anything_for_that_5th_son_of_sony",
-      "image": "https://i.redd.it/nolhwg741u0i1.jpeg",
-      "alt": "Imagem publicada por r/animememes",
-      "imageCredit": "Imagem: r/animememes",
-      "syndicated": true,
-      "meme": true,
-      "translated": false,
-      "originalTitle": "Anything for that 5th Son of Sony",
-      "tags": [],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-f8f340853976252b",
-      "title": "A saída de James Gunn da DCU estava sendo planejada por Dave Ellison antes mesmo de a fusão da Skydance acontecer",
-      "excerpt": "David Ellison pode ter planejado a saída de James Gunn do DCU antes mesmo de assumir o controle da Warner Bros.",
-      "body": [
-        "Confira a cobertura completa em SuperHeroHype. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T18:43:45Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "SuperHeroHype",
-      "sourceUrl": "https://www.superherohype.com/news/705252-dave-ellison-james-gunn-dc-replacement-talks-before-merger",
-      "image": "https://www.superherohype.com/wp-content/uploads/sites/4/2026/07/MixCollage-20-Jul-2026-08-34-AM-5027.jpg?w=1024",
-      "alt": "Imagem publicada por SuperHeroHype",
-      "imageCredit": "Imagem: SuperHeroHype",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "James Gunn’s DCU Exit Was Being Planned by Dave Ellison Before Skydance Merger Even Happened",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-43dbfd7532c74717",
-      "title": "Novo filme ‘Spy x Family’ e quarta temporada anunciados para 2027",
-      "excerpt": "Após o sucesso de ‘Spy x Family Code: White’, a franquia de anime de sucesso está preparando outra aventura na tela grande com o retorno da família Forger em 2027.",
-      "body": [
-        "Confira a cobertura completa em Cartoon Brew. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T18:35:50Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Cartoon Brew",
-      "sourceUrl": "https://www.cartoonbrew.com/anime/spy-x-family-season-4-new-feature-269251.html",
-      "image": "",
-      "alt": "Imagem publicada por Cartoon Brew",
-      "imageCredit": "Imagem: Cartoon Brew",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "New ‘Spy x Family’ Movie And Fourth Season Announced For 2027",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-83bb22f66f770941",
-      "title": "A briga arrasadora e arrasadora do século continua em Homem-Aranha – Long Way Home #4",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Comic Watch. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T18:30:28Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Comic Watch",
-      "sourceUrl": "https://comic-watch.com/news/comic-book-news/the-knock-down-drag-out-brawl-of-the-century-continues-in-spider-man-long-way-home-4/amp",
-      "image": "",
-      "alt": "Imagem publicada por Comic Watch",
-      "imageCredit": "Imagem: Comic Watch",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "The Knock-Down, Drag-Out Brawl Of The Century Continues in Spider-Man - Long Way Home #4",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-fb09cbf99fb7eb6e",
-      "title": "James Gunn's DCU Will Reportedly Be Dismantled as DC Studios Prepares for Another Reboot",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em GeekTyrant. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T18:25:00Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "GeekTyrant",
-      "sourceUrl": "https://geektyrant.com/news/james-gunns-dcu-will-reportedly-be-dismantled-as-dc-studios-prepares-for-another-reboot",
-      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/429081f4-bf5e-4346-8cc0-5b0daa8c966f/James+Gunn%27s+DCU+Will+Reportedly+Be+Dismantled+as+DC+Studios+Prepares+for+Another+Reboot.jpg?format=1000w",
-      "alt": "Imagem publicada por GeekTyrant",
-      "imageCredit": "Imagem: GeekTyrant",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "James Gunn's DCU Will Reportedly Be Dismantled as DC Studios Prepares for Another Reboot",
-      "tags": [],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-75d3ddfb884e1465",
-      "title": "Homem-Aranha: Além do Verso-Aranha atinge um novo marco à medida que o final emocional da trilogia é alardeado antes de seu lançamento em 2027",
-      "excerpt": "Homem-Aranha: Além do Verso-Aranha está perto de ser finalizado, já que o compositor Daniel Pemberton diz que já viu uma versão completa do filme.",
-      "body": [
-        "Confira a cobertura completa em The Direct. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T18:22:25Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "The Direct",
-      "sourceUrl": "https://thedirect.com/article/spider-man-beyond-the-spider-verse-new-milestone-trilogy-ending",
-      "image": "https://images.thedirect.com/media/article_full/spid3_eU89Dhh.jpg",
-      "alt": "Imagem publicada por The Direct",
-      "imageCredit": "Imagem: The Direct",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Spider-Man: Beyond the Spider-Verse Acheives New Milestone As Trilogy's Emotional Ending Gets Hyped Up Ahead of its 2027 Release",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-a106b086448dc649",
-      "title": "Disney’s ‘Hexed’ Filmmakers Talk Hand-Drawn Animation, Original Stories, And Pushing CG Boundaries",
-      "excerpt": "Directors Fawn Veerasunthorn and Jason Hand discuss ambitious character designs, while studio chief Jared Bush explains his vision for Disney's future.",
-      "body": [
-        "Confira a cobertura completa em Cartoon Brew. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T18:13:24Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Cartoon Brew",
-      "sourceUrl": "https://www.cartoonbrew.com/feature-film/disney-hexed-filmmakers-hand-drawn-animation-original-films-267896.html",
-      "image": "",
-      "alt": "Imagem publicada por Cartoon Brew",
-      "imageCredit": "Imagem: Cartoon Brew",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Disney’s ‘Hexed’ Filmmakers Talk Hand-Drawn Animation, Original Stories, And Pushing CG Boundaries",
-      "tags": [],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-6a094e3c0579e6c4",
-      "title": "Doom would do that",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de r/marvelmemes."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T18:07:22Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "r/marvelmemes",
-      "sourceUrl": "https://www.reddit.com/r/marvelmemes/comments/1xsu0uj/doom_would_do_that",
-      "image": "https://i.redd.it/3kxb7oacst0i1.jpeg",
-      "alt": "Imagem publicada por r/marvelmemes",
-      "imageCredit": "Imagem: r/marvelmemes",
-      "syndicated": true,
-      "meme": true,
-      "translated": false,
-      "originalTitle": "Doom would do that",
-      "tags": [],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-0f72cdbe4bb04e54",
-      "title": "‘I Would Die’: Inde Navarrette dos X-Men explica por que ela não conseguia viver com os superpoderes de Rogue",
-      "excerpt": "Inde Navarrette é franca sobre Rogue, o mutante icônico que ela interpretará no MCU.",
-      "body": [
-        "Confira a cobertura completa em SuperHeroHype. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T18:05:20Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "SuperHeroHype",
-      "sourceUrl": "https://www.superherohype.com/news/705244-inde-navarrette-rogue-biggest-struggle-human-touch",
-      "image": "https://www.superherohype.com/wp-content/uploads/sites/4/2026/07/Untitled-design-93.png?w=1024",
-      "alt": "Imagem publicada por SuperHeroHype",
-      "imageCredit": "Imagem: SuperHeroHype",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "‘I Would Die’: X-Men’s Inde Navarrette Explains Why She Couldn’t Live With Rogue’s Superpowers",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-5c56a8e238c55828",
-      "title": "Chances da segunda temporada de Lanterns abordadas oficialmente pelo Showrunner após a saída de James Gunn na DC",
-      "excerpt": "DC Studios - HBO Os fãs de DC esperavam notícias sobre a 2ª temporada de Lanterns e uma possível renovação na HBO antes do final do ano, talvez até perto do Dia de Ação de Graças, e então a DC Studios implodiu.",
-      "body": [
-        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T17:56:30Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBook.com",
-      "sourceUrl": "https://comicbook.com/tv-shows/news/lanterns-season-2-chances-officially-addressed-by-showrunner-after-james-gunns-dc-exit",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/Lanterns-Finale-Was-Perfect-Ending-Superhero-Origin-Story.jpeg?w=1056",
-      "alt": "Imagem publicada por ComicBook.com",
-      "imageCredit": "Imagem: ComicBook.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Lanterns Season 2 Chances Officially Addressed by Showrunner After James Gunn’s DC Exit",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-3884eb2430663d89",
-      "title": "Ícone de Star Trek e X-Men morre",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Tennessee Tech Oracle. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T17:56:15Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Tennessee Tech Oracle",
-      "sourceUrl": "https://www.tntechoracle.com/2026/11/10/star-trek-and-x-men-icon-passes-away",
-      "image": "",
-      "alt": "Imagem publicada por Tennessee Tech Oracle",
-      "imageCredit": "Imagem: Tennessee Tech Oracle",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Star Trek and X-Men icon passes away",
-      "tags": [
-        "luto"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-ed4a0089fa31ca15",
-      "title": "Sir Patrick Stewart, ícone de Star Trek e X-Men, morto aos 86 anos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em IMDb. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T17:45:01Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "IMDb",
-      "sourceUrl": "https://www.imdb.com/pt/news/ni66090634?ref_=nm_nwr_2",
-      "image": "",
-      "alt": "Imagem publicada por IMDb",
-      "imageCredit": "Imagem: IMDb",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Sir Patrick Stewart, Star Trek and X-Men Icon, Dead at 86",
-      "tags": [
-        "luto"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-cc94e33e8356928f",
-      "title": "Ícone original de 'Harry Potter' aborda oficialmente o tão esperado retorno da franquia na sequência",
-      "excerpt": "O ícone de ‘Harry Potter’ Rupert Grint fala oficialmente sobre seu tão esperado retorno à franquia.",
-      "body": [
-        "Confira a cobertura completa em MovieWeb. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-10T17:43:52Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "MovieWeb",
-      "sourceUrl": "https://movieweb.com/harry-potter-rupert-grint-return",
-      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/06/movieweb-featured-image-template-73.jpg",
-      "alt": "Imagem publicada por MovieWeb",
-      "imageCredit": "Imagem: MovieWeb",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Original 'Harry Potter' Icon Officially Addresses Long-Awaited Franchise Return in Sequel",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-bf7bec48f71f1fe3",
-      "title": "Não perca este trio incrível antes do sucesso de bilheteria Vingadores: Apocalypse chegar aos cinemas.",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Vietnam.vn. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T17:42:14Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Vietnam.vn",
-      "sourceUrl": "https://www.vietnam.vn/en/dung-bo-qua-bo-ba-xin-det-nay-truoc-ngay-bom-tan-avengers-doomsday-ra-rap",
-      "image": "",
-      "alt": "Imagem publicada por Vietnam.vn",
-      "imageCredit": "Imagem: Vietnam.vn",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Don't miss this amazing trio before the blockbuster Avengers: Doomsday hits theaters.",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-93af11932a78a3fd",
-      "title": "Novo Code Geass Anime revela novo visual e elenco antes do lançamento de 2027",
-      "excerpt": "Imagem cortesia da Bandai Namco Filmworks Code Geass está de volta no próximo ano com um novo anime, e um novo visual foi revelado no elenco selvagem de novos personagens que os fãs verão em ação nesta próxima geração da franquia.",
-      "body": [
-        "Confira a cobertura completa em ComicBook.com. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-10T17:40:36Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "ComicBook.com",
-      "sourceUrl": "https://comicbook.com/anime/news/new-code-geass-anime-reveals-new-look-cast-ahead-of-2027-release",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Code-Geass-Star-Chaser-Aspal-2027-Anime.jpg?w=1056",
-      "alt": "Imagem publicada por ComicBook.com",
-      "imageCredit": "Imagem: ComicBook.com",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "New Code Geass Anime Reveals New Look & Cast Ahead of 2027 Release",
-      "tags": [
-        "escalacao",
-        "furo"
-      ],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-4b715e95da176d5e",
-      "title": "Atualização 1.10 da Invasão Cósmica da Marvel | 2.007 liberado para o DLC The Siege of Castle of Doom em 10 de novembro",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em MP1st. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T17:38:17Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "MP1st",
-      "sourceUrl": "https://mp1st.com/title-updates-and-patches/marvel-cosmic-invasion-update-1-10-2-007-unleashed-for-castle-doom-dlc-november-10",
-      "image": "",
-      "alt": "Imagem publicada por MP1st",
-      "imageCredit": "Imagem: MP1st",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Marvel Cosmic Invasion Update 1.10 | 2.007 Unleashed for The Siege of Castle of Doom DLC on November 10",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-a4119862770ef0a3",
-      "title": "A segunda temporada de Lanterns recebe uma atualização oficial desanimadora após a saída do DC Studios de James Gunn",
-      "excerpt": "O co-criador de Lanterns abordou o futuro incerto do programa após a saída repentina de James Gunn e Peter Safran do DC Studios.",
-      "body": [
-        "Confira a cobertura completa em The Direct. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T17:32:27Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "The Direct",
-      "sourceUrl": "https://thedirect.com/article/lanterns-season-2-update-james-gunn-dc-studios-exit",
-      "image": "https://images.thedirect.com/media/article_full/lantstroub.jpg",
-      "alt": "Imagem publicada por The Direct",
-      "imageCredit": "Imagem: The Direct",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Lanterns Season 2 Gets Discouraging Official Update After James Gunn’s DC Studios Exit",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-6746b96673ca592d",
-      "title": "Falhas na contagem regressiva de 'Vingadores: Dia do Juízo Final' para provocar o final de 'VisionQuest', e os fãs da Marvel estão lendo nas entrelinhas",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Comic Basics. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T17:22:31Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Comic Basics",
-      "sourceUrl": "https://www.comicbasics.com/avengers-doomsday-countdown-glitches-to-tease-the-visionquest-finale-and-marvel-fans-are-reading-between-the-lines",
-      "image": "",
-      "alt": "Imagem publicada por Comic Basics",
-      "imageCredit": "Imagem: Comic Basics",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "'Avengers: Doomsday' Countdown Glitches to Tease the 'VisionQuest' Finale, and Marvel Fans Are Reading Between the Lines",
-      "tags": [],
-      "reviewReason": "automatic-translation"
-    },
-    {
-      "id": "radar-61a6b40072650d1d",
-      "title": "The November 2026 PS Plus Catalog Update Is Adding Some Very Good Games",
-      "excerpt": "It's a solid month for anyone not playing Grand Theft Auto 6",
-      "body": [
-        "Confira a cobertura completa em Kotaku. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-10T17:15:06Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "Kotaku",
-      "sourceUrl": "https://kotaku.com/the-november-2026-ps-plus-catalog-update-is-adding-some-very-good-games-2000755543",
-      "image": "https://kotaku.com/app/uploads/2026/11/deateh-2.jpg",
-      "alt": "Imagem publicada por Kotaku",
-      "imageCredit": "Imagem: Kotaku",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The November 2026 PS Plus Catalog Update Is Adding Some Very Good Games",
-      "tags": [
-        "furo"
-      ],
-      "reviewReason": "international-or-unverified-source"
-    },
-    {
-      "id": "radar-53ca33f4557a58c3",
-      "title": "Os favoritos de Game of Thrones: House of the Dragon ganham um novo papel na grande atualização Dragonfire",
-      "excerpt": "Games e HBO lançaram a primeira grande atualização de recursos para Game of Thrones: Dragonfire.",
-      "body": [
-        "Confira a cobertura completa em SuperHeroHype. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-10T17:14:44Z",
-      "displayDate": "10 nov. 2026",
-      "sourceName": "SuperHeroHype",
-      "sourceUrl": "https://www.superherohype.com/video-games/705245-game-of-thrones-dragonfire-commanders-update-house-of-the-dragon-characters",
-      "image": "https://www.superherohype.com/wp-content/uploads/sites/4/2026/11/Game-of-Thrones-House-of-the-Dragon-Favorites-Get-a-New-Role-in-Major-Dragonfire-Update.jpg?w=1024",
-      "alt": "Imagem publicada por SuperHeroHype",
-      "imageCredit": "Imagem: SuperHeroHype",
-      "syndicated": true,
-      "meme": false,
-      "translated": true,
-      "originalTitle": "Game of Thrones: House of the Dragon Favorites Get a New Role in Major Dragonfire Update",
-      "tags": [
-        "escalacao",
         "furo"
       ],
       "reviewReason": "automatic-translation"
