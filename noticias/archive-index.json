@@ -1,7 +1,175 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T02:08:09.392199Z",
+  "updatedAt": "2026-11-13T09:58:56.672936Z",
   "articles": [
+    {
+      "id": "radar-f48df7f9a43fb71a",
+      "publishedAt": "2026-11-13T09:55:14Z",
+      "title": "Mckenna Grace lança “Half Live”, nova música da trilha sonora de ‘Jogos Vorazes: Amanhecer na Colheita’",
+      "sourceUrl": "https://cinepop.com.br/mckenna-grace-lanca-half-live-nova-musica-da-trilha-sonora-de-jogos-vorazes-amanhecer-na-colheita-776020",
+      "originalTitle": "Mckenna Grace lança “Half Live”, nova música da trilha sonora de ‘Jogos Vorazes: Amanhecer na Colheita’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-eac81d538cbfd35c",
+      "publishedAt": "2026-11-13T09:04:01Z",
+      "title": "GTA VI poderá ser jogado no Xbox One por streaming",
+      "sourceUrl": "https://www.neoteo.com/pt/gta-vi-podera-ser-jogado-no-xbox-one-por-streaming",
+      "originalTitle": "GTA VI poderá ser jogado no Xbox One por streaming",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-61fe311769d29b9d",
+      "publishedAt": "2026-11-13T09:00:37Z",
+      "title": "Esta minissérie da Netflix estreou no mês passado e já se tornou uma das mais populares dos últimos anos",
+      "sourceUrl": "https://br.ign.com/netflix/157607/esta-minisserie-da-netflix-estreou-no-mes-passado-e-ja-se-tornou-uma-das-mais-populares-dos-ultimos",
+      "originalTitle": "Esta minissérie da Netflix estreou no mês passado e já se tornou uma das mais populares dos últimos anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9db2c993c0b6fc38",
+      "publishedAt": "2026-11-13T07:59:08Z",
+      "title": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
+      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-posteres-nostalgia-upgrades-poder",
+      "originalTitle": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2e3ecaa613a744f8",
+      "publishedAt": "2026-11-13T07:59:08Z",
+      "title": "Demissões acentuam a montanha-russa financeira da Bit Reactor, estúdio de Star Wars Zero Company",
+      "sourceUrl": "https://radiogeekbr.com.br/demissoes-bit-reactor-star-wars-zero-company",
+      "originalTitle": "Demissões acentuam a montanha-russa financeira da Bit Reactor, estúdio de Star Wars Zero Company",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3d16216fc04d8191",
+      "publishedAt": "2026-11-13T05:57:48Z",
+      "title": "Gunn larga o cargo, mas prende o destino do novo DCU a um último filme-chave",
+      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-assume-ultimo-projeto-apos-deixar-dc-studios",
+      "originalTitle": "Gunn larga o cargo, mas prende o destino do novo DCU a um último filme-chave",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fe91245fc322bc27",
+      "publishedAt": "2026-11-13T05:23:23Z",
+      "title": "Cena pós-créditos de VisionQuest da Marvel é explicada: análise final",
+      "sourceUrl": "https://itamarajunoticias.com.br/editorial/entretenimento/marvels-visionquest-post-credits-scene-explained-full-breakdown",
+      "originalTitle": "Cena pós-créditos de VisionQuest da Marvel é explicada: análise final",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-063c93bff63d9669",
+      "publishedAt": "2026-11-13T04:21:25Z",
+      "title": "Ellison quer Batman de Pattinson na Liga da Justiça do DCU",
+      "sourceUrl": "https://www.maquinanerd.com.br/cinema/ellison-quer-batman-de-pattinson-na-liga-da-justica-do-dcu",
+      "originalTitle": "Ellison quer Batman de Pattinson na Liga da Justiça do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2798e03faa094f2",
+      "publishedAt": "2026-11-13T03:43:22Z",
+      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
+      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cf85ab874be3af90",
+      "publishedAt": "2026-11-13T03:43:22Z",
+      "title": "Guerra do streaming esconde joia brutal do anime e deixa assinante da Netflix no escuro",
+      "sourceUrl": "https://radiogeekbr.com.br/guerra-streaming-made-in-abyss-joia-brutal-escondida",
+      "originalTitle": "Guerra do streaming esconde joia brutal do anime e deixa assinante da Netflix no escuro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7d1a46ecc50959aa",
+      "publishedAt": "2026-11-13T03:40:51Z",
+      "title": "Supergirl e Mulher-Maravilha podem ser substituídas no novo DCU",
+      "sourceUrl": "https://www.maquinanerd.com.br/series-e-tv/supergirl-e-mulher-maravilha-podem-ser-substituidas-no-novo-dcu",
+      "originalTitle": "Supergirl e Mulher-Maravilha podem ser substituídas no novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b550a45d7fcf8a4f",
+      "publishedAt": "2026-11-13T02:36:46Z",
+      "title": "Crítica | “Morning Shall Come”, música de AURORA para ‘O Senhor dos Anéis: Os Anéis de Poder’, falha em entregar o que promete",
+      "sourceUrl": "https://cinepop.com.br/critica-morning-shall-come-musica-de-aurora-para-o-senhor-dos-aneis-os-aneis-de-poder-falha-em-entregar-o-que-promete-776018",
+      "originalTitle": "Crítica | “Morning Shall Come”, música de AURORA para ‘O Senhor dos Anéis: Os Anéis de Poder’, falha em entregar o que promete",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-93100066de457554",
+      "publishedAt": "2026-11-13T02:36:09Z",
+      "title": "RapaduraCast 121 – [Sala VIP] “Cara-de-Barro” é um ótimo body horror sobre o vilão do Batman",
+      "sourceUrl": "https://youtu.be/RgSay6sh2Xs",
+      "originalTitle": "RapaduraCast 121 – [Sala VIP] “Cara-de-Barro” é um ótimo body horror sobre o vilão do Batman",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dced239c6c7ed145",
+      "publishedAt": "2026-11-13T02:15:17Z",
+      "title": "Agradecemos aos jogadores de XBOX pelos 25 anos: veja todos os anúncios",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/13/agradecemos-aos-jogadores-de-xbox-pelos-25-anos-veja-todos-os-anuncios",
+      "originalTitle": "Agradecemos aos jogadores de XBOX pelos 25 anos: veja todos os anúncios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-196c4bf32012c12f",
       "publishedAt": "2026-11-13T02:00:00Z",
@@ -75,6 +243,18 @@
       }
     },
     {
+      "id": "radar-9b3a624ca29931a8",
+      "publishedAt": "2026-11-13T01:27:21Z",
+      "title": "ISSO É MUITO CHEETOS®!",
+      "sourceUrl": "https://jovemnerd.com.br/videos/time-jovem-nerd/isso-e-muito-cheetos",
+      "originalTitle": "ISSO É MUITO CHEETOS®!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-24e4f4e3f382a9ca",
       "publishedAt": "2026-11-13T01:08:00Z",
       "title": "CCXP26 terá Avenida Brasil 2 e mais no painel da TV Globo, confira",
@@ -99,6 +279,18 @@
       }
     },
     {
+      "id": "radar-852dd28051b6118b",
+      "publishedAt": "2026-11-13T01:00:00Z",
+      "title": "CCXP anuncia painel de 'Avenida Brasil 2' e dubladores de 'Sailor Moon'",
+      "sourceUrl": "https://oglobo.globo.com/cultura/noticia/2026/11/12/ccxp-anuncia-painel-de-avenida-brasil-2-e-dubladores-de-sailor-moon.ghtml",
+      "originalTitle": "CCXP anuncia painel de 'Avenida Brasil 2' e dubladores de 'Sailor Moon'",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-e26e94a30f89a147",
       "publishedAt": "2026-11-13T00:57:36Z",
       "title": "Escola Municipal de Artes de Ribeirão Pires (EMARP) abre exposição de mangá com trabalhos de alunos em Ribeirão Pires",
@@ -116,6 +308,30 @@
       "title": "Gatto enfrenta máfia felina em trailer de nova animação da Pixar",
       "sourceUrl": "https://pipocamoderna.com.br/2026/11/pixar-revela-trailer-gatto-mafia-felina",
       "originalTitle": "Gatto enfrenta máfia felina em trailer de nova animação da Pixar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cbe728b0479e74c",
+      "publishedAt": "2026-11-13T00:43:33Z",
+      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
+      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-72271fbbc0b7c101",
+      "publishedAt": "2026-11-13T00:43:33Z",
+      "title": "Ao coroar novo Pantera Negra, Marvel vira a chave sobre Shuri e abre crise de sucessão em Wakanda",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-anuncia-novo-pantera-negra-e-recoloca-shuri-em-xadrez",
+      "originalTitle": "Ao coroar novo Pantera Negra, Marvel vira a chave sobre Shuri e abre crise de sucessão em Wakanda",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -243,6 +459,18 @@
       }
     },
     {
+      "id": "radar-64964f4fafe665dd",
+      "publishedAt": "2026-11-12T22:42:39Z",
+      "title": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/video-de-frank-grillo-recado-ao-novo-comando-dc",
+      "originalTitle": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-d56cbb51a550dda6",
       "publishedAt": "2026-11-12T22:38:00Z",
       "title": "O Corpo | Criadoras fazem campanha e deixam pistas para a 2ª temporada",
@@ -320,6 +548,18 @@
       "title": "Sony | Empresa revela planos para reforçar a indústria anime no mundo",
       "sourceUrl": "https://squared-potato.pt/sony-empresa-revela-planos-para-reforcar-a-industria-anime-no-mundo",
       "originalTitle": "Sony | Empresa revela planos para reforçar a indústria anime no mundo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b7bde8aa012253e3",
+      "publishedAt": "2026-11-12T20:25:00Z",
+      "title": "Anime Tsugumi Project ganha arte e previsão de estreia para janeiro de 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/12/anime-tsugumi-project-arte-estreia-janeiro-2027",
+      "originalTitle": "Anime Tsugumi Project ganha arte e previsão de estreia para janeiro de 2027",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -555,18 +795,6 @@
       }
     },
     {
-      "id": "radar-9b3a624ca29931a8",
-      "publishedAt": "2026-11-12T18:30:19Z",
-      "title": "ISSO É MUITO CHEETOS®!",
-      "sourceUrl": "https://jovemnerd.com.br/videos/time-jovem-nerd/isso-e-muito-cheetos",
-      "originalTitle": "ISSO É MUITO CHEETOS®!",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-0c31bff09a0d34fd",
       "publishedAt": "2026-11-12T18:28:00Z",
       "title": "Just Dance: Decades of Hits garante a diversão em família, mas esbarra no próprio modelo de negócios",
@@ -591,11 +819,35 @@
       }
     },
     {
+      "id": "radar-c3fa85d6cabb56ed",
+      "publishedAt": "2026-11-12T18:15:00Z",
+      "title": "Hiroko Moriguchi divulga videoclipe de cover de “Get Wild”, tema de encerramento do anime de City Hunter",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/12/hiroko-moriguchi-anime-city-hunter-get-wild-encerramento-cover-videoclipe",
+      "originalTitle": "Hiroko Moriguchi divulga videoclipe de cover de “Get Wild”, tema de encerramento do anime de City Hunter",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-c9fffd4fceaea68c",
       "publishedAt": "2026-11-12T18:13:00Z",
       "title": "Naruto volta com anime-sequência e expõe aposta da Shonen Jump em revivals premium",
       "sourceUrl": "https://radiogeekbr.com.br/naruto-volta-com-anime-sequencia-shonen-jump-revivals",
       "originalTitle": "Naruto volta com anime-sequência e expõe aposta da Shonen Jump em revivals premium",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-43c261e60ec27ce5",
+      "publishedAt": "2026-11-12T18:13:00Z",
+      "title": "Sete joias do anime que o Cartoon Network escondeu no fim da grade – e por que ainda ditam tendência",
+      "sourceUrl": "https://radiogeekbr.com.br/sete-joias-anime-cartoon-network-toonami-influencia-atual",
+      "originalTitle": "Sete joias do anime que o Cartoon Network escondeu no fim da grade – e por que ainda ditam tendência",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -836,6 +1088,18 @@
       "title": "FATAL FURY: City of the Wolves terá Laocorn em 19 de novembro",
       "sourceUrl": "https://pizzafria.ig.com.br/news/fatal-fury-city-of-the-wolves-laocorn",
       "originalTitle": "FATAL FURY: City of the Wolves terá Laocorn em 19 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-eb88deecb3ecf78b",
+      "publishedAt": "2026-11-12T13:38:11Z",
+      "title": "Sakamoto Days: Mangá está chegando ao fim",
+      "sourceUrl": "https://ovicio.com.br/sakamoto-days-manga-esta-chegando-ao-fim",
+      "originalTitle": "Sakamoto Days: Mangá está chegando ao fim",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1215,18 +1479,6 @@
       }
     },
     {
-      "id": "radar-9db2c993c0b6fc38",
-      "publishedAt": "2026-11-12T09:56:44Z",
-      "title": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
-      "sourceUrl": "https://radiogeekbr.com.br/avengers-doomsday-posteres-nostalgia-upgrades-poder",
-      "originalTitle": "Doze pôsteres de “Avengers: Doomsday” escancaram plano da Marvel de cruzar nostalgia pré-MCU com novos níveis de poder",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-26b1088940388c4e",
       "publishedAt": "2026-11-12T09:56:44Z",
       "title": "Sete veteranos de antes do MCU voltam em “Avengers: Doomsday” e revelam a aposta de nostalgia que decide o futuro da Marvel",
@@ -1256,18 +1508,6 @@
       "title": "Anime Ásia Fest chega a Barueri com gastronomia, K-pop, cosplay e entrada gratuita",
       "sourceUrl": "https://correiopaulista.com/anime-asia-fest-chega-a-barueri-com-gastronomia-k-pop-cosplay-e-entrada-gratuita",
       "originalTitle": "Anime Ásia Fest chega a Barueri com gastronomia, K-pop, cosplay e entrada gratuita",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b7bde8aa012253e3",
-      "publishedAt": "2026-11-12T02:58:11Z",
-      "title": "Anime Tsugumi Project ganha arte e previsão de estreia para janeiro de 2027",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/12/anime-tsugumi-project-arte-estreia-janeiro-2027",
-      "originalTitle": "Anime Tsugumi Project ganha arte e previsão de estreia para janeiro de 2027",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -4875,18 +5115,6 @@
       }
     },
     {
-      "id": "radar-43c261e60ec27ce5",
-      "publishedAt": "2026-11-09T08:12:52Z",
-      "title": "Sete joias do anime que o Cartoon Network escondeu no fim da grade – e por que ainda ditam tendência",
-      "sourceUrl": "https://radiogeekbr.com.br/sete-joias-anime-cartoon-network-toonami-influencia-atual",
-      "originalTitle": "Sete joias do anime que o Cartoon Network escondeu no fim da grade – e por que ainda ditam tendência",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-8996f516f0e9616e",
       "publishedAt": "2026-11-09T08:10:41Z",
       "title": "Morre aos 95 anos o ator e dublador Edson Silva, o Heitor de Laços de Família",
@@ -5799,18 +6027,6 @@
       }
     },
     {
-      "id": "radar-6cbe728b0479e74c",
-      "publishedAt": "2026-11-08T14:26:47Z",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-8fa044655f2aa778",
       "publishedAt": "2026-11-08T14:00:00Z",
       "title": "Dead Island 2 na PS Plus, Silent Hill f baratinho e mais! Veja as indicações de games",
@@ -6111,18 +6327,6 @@
       }
     },
     {
-      "id": "radar-2e3ecaa613a744f8",
-      "publishedAt": "2026-11-08T11:26:37Z",
-      "title": "Demissões acentuam a montanha-russa financeira da Bit Reactor, estúdio de Star Wars Zero Company",
-      "sourceUrl": "https://radiogeekbr.com.br/demissoes-bit-reactor-star-wars-zero-company",
-      "originalTitle": "Demissões acentuam a montanha-russa financeira da Bit Reactor, estúdio de Star Wars Zero Company",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-8e67ab2a26450f21",
       "publishedAt": "2026-11-08T11:20:17Z",
       "title": "Primeiras Impressões | ‘Jogos Vorazes: Amanhecer na Colheita’ é o MELHOR filme da franquia desde ‘Em Chamas’",
@@ -6200,18 +6404,6 @@
       "title": "Geninho e a crise na Cidade de Deus: “É um rapaz mimado”, diz Victor Andrade",
       "sourceUrl": "https://www.omelete.com.br/series-tv/cidade-de-deus-a-luta-nao-para-entrevista-2-temporada-geninho",
       "originalTitle": "Geninho e a crise na Cidade de Deus: “É um rapaz mimado”, diz Victor Andrade",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c2798e03faa094f2",
-      "publishedAt": "2026-11-08T09:27:28Z",
-      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
-      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
-      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
       "translated": false,
       "editorialReview": {
         "status": "native",
