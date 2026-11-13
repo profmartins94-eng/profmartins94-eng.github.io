@@ -1,7 +1,559 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T09:58:56.672936Z",
+  "updatedAt": "2026-11-13T18:03:46.954770Z",
   "articles": [
+    {
+      "id": "radar-3eff8e74674c0029",
+      "publishedAt": "2026-11-13T18:00:00Z",
+      "title": "Getting Shots on a Frying Pan: Anime ganha estreia em janeiro de 2027",
+      "sourceUrl": "https://animeflix.com.br/getting-shots-on-a-frying-pan-anime-ganha-estreia-em-janeiro-de-2027",
+      "originalTitle": "Getting Shots on a Frying Pan: Anime ganha estreia em janeiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-615ce6abf7f771b9",
+      "publishedAt": "2026-11-13T17:43:08Z",
+      "title": "\"O combate por turnos é uma mecânica atemporal que já provou profundamente sua jogabilidade\": designer-chefe de Honkai Star Rail fala sobre o gênero e celebra chegada de Aeon Aha",
+      "sourceUrl": "https://br.ign.com/honkai-star-rail/157643/o-combate-por-turnos-e-uma-mecanica-atemporal-que-ja-provou-profundamente-sua-jogabilidade-designer",
+      "originalTitle": "\"O combate por turnos é uma mecânica atemporal que já provou profundamente sua jogabilidade\": designer-chefe de Honkai Star Rail fala sobre o gênero e celebra chegada de Aeon Aha",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-149af704f30b39b1",
+      "publishedAt": "2026-11-13T17:18:40Z",
+      "title": "Colégio FECAP apresenta quatro jogos na Brasil Game Show 2026 e alcança mais de 3.200 jogadores",
+      "sourceUrl": "https://www.fecap.br/2026/11/13/colegio-fecap-apresenta-quatro-jogos-na-brasil-game-show-2026-e-alcanca-mais-de-3-200-jogadores",
+      "originalTitle": "Colégio FECAP apresenta quatro jogos na Brasil Game Show 2026 e alcança mais de 3.200 jogadores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c8b26cacfc770bbf",
+      "publishedAt": "2026-11-13T17:14:00Z",
+      "title": "Chefão da Marvel foi contra aparição de Feiticeira Escarlate em VisionQuest",
+      "sourceUrl": "https://www.bnews.com.br/noticias/bnews-pop/chefao-da-marvel-foi-contra-aparicao-de-feiticeira-escarlate-em-visionquest.html",
+      "originalTitle": "Chefão da Marvel foi contra aparição de Feiticeira Escarlate em VisionQuest",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-154802341e8a1dc6",
+      "publishedAt": "2026-11-13T17:10:00Z",
+      "title": "Glee | Chris Colfer negocia retorno ao reboot da série: “Parece muito engraçado”",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/chris-colfer-negocia-retorno-kurt-hummel-glee-reboot",
+      "originalTitle": "Glee | Chris Colfer negocia retorno ao reboot da série: “Parece muito engraçado”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9d9fedc150704d18",
+      "publishedAt": "2026-11-13T16:55:25Z",
+      "title": "DCU mantém Superman de Corenswet e pode cortar personagens",
+      "sourceUrl": "https://www.maquinanerd.com.br/cinema/dcu-mantem-superman-de-corenswet-e-pode-cortar-personagens",
+      "originalTitle": "DCU mantém Superman de Corenswet e pode cortar personagens",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5e4b507bda686d97",
+      "publishedAt": "2026-11-13T16:53:45Z",
+      "title": "DC: Superman deve continuar, mas outros heróis podem ser cortados após saída de James Gunn",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/dc-superman-deve-continuar-mas-outros-herois-podem-ser-cortados-apos-saida-de-james-gunn.html",
+      "originalTitle": "DC: Superman deve continuar, mas outros heróis podem ser cortados após saída de James Gunn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d9fe887684894bbc",
+      "publishedAt": "2026-11-13T16:40:00Z",
+      "title": "Skydance está surpresa com repercussão negativa da demissão de James Gunn, diz site",
+      "sourceUrl": "https://www.omelete.com.br/filmes/skydance-surpresa-reacao-negativa-saida-james-gunn-dc-studios",
+      "originalTitle": "Skydance está surpresa com repercussão negativa da demissão de James Gunn, diz site",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-07fa3998c9c6af85",
+      "publishedAt": "2026-11-13T16:39:58Z",
+      "title": "Anime Nabetama revela em trailer estreia em janeiro 2027",
+      "sourceUrl": "https://www.otakupt.com/anime/anime-nabetama-revela-em-trailer-estreia-em-janeiro-2027",
+      "originalTitle": "Anime Nabetama revela em trailer estreia em janeiro 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a0c2db77211dfb74",
+      "publishedAt": "2026-11-13T16:30:00Z",
+      "title": "Como Dragon Ball Super: Beerus reestrutura suas batalhas",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/features/2026/11/13/dragon-ball-super-beerus-batalhas",
+      "originalTitle": "Como Dragon Ball Super: Beerus reestrutura suas batalhas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0037ff6366f5f1e6",
+      "publishedAt": "2026-11-13T16:30:00Z",
+      "title": "LEGO Holiday Lab estreia em Milão com truck de 17 metros e passa por mais cinco cidades italianas até 20 de dezembro",
+      "sourceUrl": "https://arkade.com.br/lego-holiday-lab-estreia-em-milao-com-truck-de-17-metros-e-passa-por-mais-cinco-cidades-ate-20-de-dezembro",
+      "originalTitle": "LEGO Holiday Lab estreia em Milão com truck de 17 metros e passa por mais cinco cidades italianas até 20 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e8b0711ab7b7a367",
+      "publishedAt": "2026-11-13T16:27:00Z",
+      "title": "Vingadores: Doutor Destino | Equipe de Sam Wilson é revelada; veja quem são os integrantes",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-equipe-sam-wilson-revelada",
+      "originalTitle": "Vingadores: Doutor Destino | Equipe de Sam Wilson é revelada; veja quem são os integrantes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-71c73150860c352d",
+      "publishedAt": "2026-11-13T16:25:00Z",
+      "title": "Nesta oficina gratuita em Carnaxide os miúdos podem aprender mangá",
+      "sourceUrl": "https://newinoeiras.nit.pt/cultura/nesta-oficina-gratuita-em-carnaxide-os-miudos-podem-aprender-manga",
+      "originalTitle": "Nesta oficina gratuita em Carnaxide os miúdos podem aprender mangá",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ebd67a67ca112e87",
+      "publishedAt": "2026-11-13T16:17:00Z",
+      "title": "VisionQuest | Kevin Feige foi contra aparição de Wanda Maximoff na série; entenda",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/wanda-maximoff-retorno-visionquest-reacao-kevin-feige",
+      "originalTitle": "VisionQuest | Kevin Feige foi contra aparição de Wanda Maximoff na série; entenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-83c007b883a498fa",
+      "publishedAt": "2026-11-13T16:15:00Z",
+      "title": "#Hashtag: Pré-venda, pré-load e pré-surto: Internet entra em contagem regressiva para 'GTA 6'; veja memes",
+      "sourceUrl": "https://www1.folha.uol.com.br/blogs/hashtag/2026/11/pre-venda-pre-load-e-pre-surto-internet-entra-em-contagem-regressiva-para-gta-6-veja-memes.shtml",
+      "originalTitle": "#Hashtag: Pré-venda, pré-load e pré-surto: Internet entra em contagem regressiva para 'GTA 6'; veja memes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d52b14e54d69f805",
+      "publishedAt": "2026-11-13T16:15:00Z",
+      "title": "Produtor de Vingadores: Doutor Destino comenta teoria sobre variações de Tony Stark",
+      "sourceUrl": "https://www.estadao.com.br/minha-serie/radar-pop/produtor-de-vingadores-doutor-destino-comenta-teoria-sobre-variacoes-de-tony-stark",
+      "originalTitle": "Produtor de Vingadores: Doutor Destino comenta teoria sobre variações de Tony Stark",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-abbe266d9612ea55",
+      "publishedAt": "2026-11-13T16:13:00Z",
+      "title": "Vingadores: Doutor Destino | Empire revela foto inédita com Senhor Fantástico, Yelena, Sam Wilson e Shang-Chi",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-empire-foto-senhor-fantastico-yelena-sam-wilson-shang-chi",
+      "originalTitle": "Vingadores: Doutor Destino | Empire revela foto inédita com Senhor Fantástico, Yelena, Sam Wilson e Shang-Chi",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-46df9d795711fe35",
+      "publishedAt": "2026-11-13T16:04:22Z",
+      "title": "RapaduraCast 932 – O Fim Humilhante da DC de James Gunn",
+      "sourceUrl": "https://cinemacomrapadura.com.br/rapaduracast-podcast/631202/rapaduracast-932-o-fim-humilhante-da-dc-de-james-gunn",
+      "originalTitle": "RapaduraCast 932 – O Fim Humilhante da DC de James Gunn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d15f35de064a37a5",
+      "publishedAt": "2026-11-13T16:03:38Z",
+      "title": "Zelda: A Link Between Worlds aparece listado como jogável no Nintendo Switch Online",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/zelda-link-between-worlds-aparece-listado-como-jogavel-no-nintendo-switch-online.html",
+      "originalTitle": "Zelda: A Link Between Worlds aparece listado como jogável no Nintendo Switch Online",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c500e289edd9f640",
+      "publishedAt": "2026-11-13T15:34:24Z",
+      "title": "CCXP26: Crunchyroll Convoca Fãs para Experiências de Anime Inéditas com Dublagem e Muito Mais",
+      "sourceUrl": "https://www.gamerscore.com.br/ccxp26-crunchyroll-convoca-fas-para-experiencias-de-anime-ineditas-com-dublagem-e-muito-mais",
+      "originalTitle": "CCXP26: Crunchyroll Convoca Fãs para Experiências de Anime Inéditas com Dublagem e Muito Mais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-22ce60d1f67b92cd",
+      "publishedAt": "2026-11-13T15:24:21Z",
+      "title": "God of War Sons of Sparta chega ao PlayStation 4 em 16 de novembro com modos Hermes e Erebus",
+      "sourceUrl": "https://arkade.com.br/god-of-war-sons-of-sparta-chega-ao-playstation-4-em-16-de-novembro-com-modos-hermes-e-erebus",
+      "originalTitle": "God of War Sons of Sparta chega ao PlayStation 4 em 16 de novembro com modos Hermes e Erebus",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7de9d14d7343e728",
+      "publishedAt": "2026-11-13T15:07:08Z",
+      "title": "Próxima semana em XBOX: novos jogos para 16 a 20 de novembro",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/13/proxima-semana-em-xbox-novos-jogos-para-16-a-20-de-novembro",
+      "originalTitle": "Próxima semana em XBOX: novos jogos para 16 a 20 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-70c3a612fdc058c6",
+      "publishedAt": "2026-11-13T15:05:00Z",
+      "title": "Law & Order: SVU | Stabler vai voltar? Showrunner define destino de Christopher Meloni na série",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/law-order-svu-stabler-christopher-meloni-vai-voltar-showrunner-responde",
+      "originalTitle": "Law & Order: SVU | Stabler vai voltar? Showrunner define destino de Christopher Meloni na série",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a7d84387974b4ec0",
+      "publishedAt": "2026-11-13T15:02:00Z",
+      "title": "Law & Order: SVU | Saiba como foi o reencontro entre Stabler e Benson no 600º episódio",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/law-order-svu-600-episodio-reencontro-benson-stabler",
+      "originalTitle": "Law & Order: SVU | Saiba como foi o reencontro entre Stabler e Benson no 600º episódio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d5491f87f9efc292",
+      "publishedAt": "2026-11-13T15:00:00Z",
+      "title": "Trees Hate You | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/trees-hate-you-review",
+      "originalTitle": "Trees Hate You | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-33838ea03888b5d4",
+      "publishedAt": "2026-11-13T15:00:00Z",
+      "title": "Clube do audiolivro da Audible tem T-Zombii como nova escolha de arrepiar; saiba tudo",
+      "sourceUrl": "https://www.omelete.com.br/quadrinhos/clube-do-audiolivro-da-audible-tem-t-zombii-como-nova-escolha-de-arrepiar-saiba-tudo",
+      "originalTitle": "Clube do audiolivro da Audible tem T-Zombii como nova escolha de arrepiar; saiba tudo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-44b9a673694004ff",
+      "publishedAt": "2026-11-13T14:57:55Z",
+      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
+      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b856e8a9c7f6e2ff",
+      "publishedAt": "2026-11-13T14:57:55Z",
+      "title": "3ª temporada confirmada! Tudo o que você precisa saber sobre esse anime bombástico",
+      "sourceUrl": "https://radiogeekbr.com.br/saiba-tudo-sobre-a-3a-temporada-spy-x-family",
+      "originalTitle": "3ª temporada confirmada! Tudo o que você precisa saber sobre esse anime bombástico",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b23114792413ab4c",
+      "publishedAt": "2026-11-13T14:48:08Z",
+      "title": "Warota chega ao PC em Acesso Antecipado",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/warota-lancamento-acesso-antecipado",
+      "originalTitle": "Warota chega ao PC em Acesso Antecipado",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4e44afe167a60eb2",
+      "publishedAt": "2026-11-13T14:23:00Z",
+      "title": "Avatar: Os Sete Refúgios | 2ª temporada ganha data de estreia no Paramount+",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/avatar-os-sete-refugios-2a-temporada-data-de-estreia-paramount-plus",
+      "originalTitle": "Avatar: Os Sete Refúgios | 2ª temporada ganha data de estreia no Paramount+",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e11a01f703ee7694",
+      "publishedAt": "2026-11-13T14:11:00Z",
+      "title": "Virgin River | Após 8ª temporada, Netflix decide se série vai continuar; saiba tudo",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/virgin-river-apos-8a-temporada-netflix-decide-futuro-serie-anuncio",
+      "originalTitle": "Virgin River | Após 8ª temporada, Netflix decide se série vai continuar; saiba tudo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3156b9bd0bbe89c0",
+      "publishedAt": "2026-11-13T14:03:20Z",
+      "title": "Serramar Shopping recebe 5º Concurso de Mangá com categoria especial sobre prevenção ao trabalho infantil",
+      "sourceUrl": "https://litoralempauta.com.br/serramar-shopping-recebe-5o-concurso-de-manga-com-categoria-especial-sobre-prevencao-ao-trabalho-infantil",
+      "originalTitle": "Serramar Shopping recebe 5º Concurso de Mangá com categoria especial sobre prevenção ao trabalho infantil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-57ebb862c480c74c",
+      "publishedAt": "2026-11-13T13:59:00Z",
+      "title": "Batman | Nova DC quer Robert Pattinson no DCU, diz site",
+      "sourceUrl": "https://www.omelete.com.br/filmes/batman-robert-pattinson-dcu-james-bond-futuro-franquia",
+      "originalTitle": "Batman | Nova DC quer Robert Pattinson no DCU, diz site",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e947a3219b0985f3",
+      "publishedAt": "2026-11-13T13:58:56Z",
+      "title": "The Legend of Zelda: Ocarina of Time teria ReDeads mais assustadores no remake, explica Nintendo",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-teria-redeads-mais-assustadores-remake-explica-nintendo.html",
+      "originalTitle": "The Legend of Zelda: Ocarina of Time teria ReDeads mais assustadores no remake, explica Nintendo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fe93245f729daeeb",
+      "publishedAt": "2026-11-13T13:49:00Z",
+      "title": "Superman | David Corenswet não será substituído pela nova gestão da DC, diz site",
+      "sourceUrl": "https://www.omelete.com.br/filmes/superman-david-corenswet-nao-sera-substituido-mudanca-gestao-dc",
+      "originalTitle": "Superman | David Corenswet não será substituído pela nova gestão da DC, diz site",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-80925b5403de6712",
+      "publishedAt": "2026-11-13T13:48:00Z",
+      "title": "Lá Na Minha Terra passará por mudanças após críticas, diz diretor de dramaturgia da Globo",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/la-na-minha-terra-novela-globo-mudancas-apos-criticas-diretor-dramaturgia",
+      "originalTitle": "Lá Na Minha Terra passará por mudanças após críticas, diz diretor de dramaturgia da Globo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-98c2e13cbcb06a3f",
+      "publishedAt": "2026-11-13T13:31:00Z",
+      "title": "The Witcher 3 está usando IA para voz de Geralt em polonês; entenda motivo",
+      "sourceUrl": "https://www.omelete.com.br/games/the-witcher-3-esta-usando-ia-para-voz-de-geralt-em-polones-entenda-motivo",
+      "originalTitle": "The Witcher 3 está usando IA para voz de Geralt em polonês; entenda motivo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fc136a4f025a7a86",
+      "publishedAt": "2026-11-13T13:23:00Z",
+      "title": "Guerreiras do K-Pop | Netflix anuncia turnê mundial das HUNTR/X e confirma América Latina",
+      "sourceUrl": "https://www.omelete.com.br/korea/guerreiras-do-k-pop-anuncio-turne-mundial-confirma-america-latina",
+      "originalTitle": "Guerreiras do K-Pop | Netflix anuncia turnê mundial das HUNTR/X e confirma América Latina",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b40d37088b00e790",
+      "publishedAt": "2026-11-13T13:22:00Z",
+      "title": "Sexta-Feira 13 ganhará novo filme após duas décadas, saiba tudo",
+      "sourceUrl": "https://www.omelete.com.br/filmes/sexta-feira-13-novo-filme-steve-miner",
+      "originalTitle": "Sexta-Feira 13 ganhará novo filme após duas décadas, saiba tudo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2a99b8222d9e1a71",
+      "publishedAt": "2026-11-13T13:19:05Z",
+      "title": "Station to Station: simulador ferroviário chega ao Switch 2 em 26 de novembro",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/station-to-station-simulador-ferroviario-chega-switch2-26-novembro.html",
+      "originalTitle": "Station to Station: simulador ferroviário chega ao Switch 2 em 26 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a2d18894712a15e0",
+      "publishedAt": "2026-11-13T13:14:01Z",
+      "title": "John Rhys-Davies, o Gimli de 'O Senhor dos Anéis', virá ao Brasil para a CCXP 2026",
+      "sourceUrl": "https://www.ingresso.com/noticias/john-rhys-davies-gimli-o-senhor-dos-aneis-vira-brasil-para-ccxp26",
+      "originalTitle": "John Rhys-Davies, o Gimli de 'O Senhor dos Anéis', virá ao Brasil para a CCXP 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e5a982ddeec1c1be",
+      "publishedAt": "2026-11-13T13:06:46Z",
+      "title": "Novo Godzilla perde para Os Farofeiros 3 e fica em segundo lugar nos cinemas do Brasil",
+      "sourceUrl": "https://mixdeseries.com.br/godzilla-minus-zero-perde-cinema-os-farofeiros-3",
+      "originalTitle": "Novo Godzilla perde para Os Farofeiros 3 e fica em segundo lugar nos cinemas do Brasil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d0271794e45bf36f",
+      "publishedAt": "2026-11-13T12:54:00Z",
+      "title": "Golden Joystick Awards 2026: The Witcher ganha dois prêmios",
+      "sourceUrl": "https://www.notebookcheck.info/Golden-Joystick-Awards-2026-The-Witcher-ganha-dois-premios.1449699.0.html",
+      "originalTitle": "Golden Joystick Awards 2026: The Witcher ganha dois prêmios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-94c06667e8d0f783",
+      "publishedAt": "2026-11-13T12:34:49Z",
+      "title": "Gimli na CCXP26 reforça encontro épico de O Senhor dos Anéis",
+      "sourceUrl": "https://alternativanerd.com.br/filmes/gimli-na-ccxp26-reforca-encontro-epico-de-o-senhor-dos-aneis",
+      "originalTitle": "Gimli na CCXP26 reforça encontro épico de O Senhor dos Anéis",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1fa9033b97258d88",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "title": "Wolfenstein 3 é confirmado por Asha Sharma, CEO do Xbox",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/wolfenstein-3-e-confirmado-por-asha-sharma-ceo-do-xbox",
+      "originalTitle": "Wolfenstein 3 é confirmado por Asha Sharma, CEO do Xbox",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6335e154ec11ff65",
+      "publishedAt": "2026-11-13T10:57:34Z",
+      "title": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-chega-com-cinco-cortes-diferentes-e-laboratorio-dcu",
+      "originalTitle": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-f48df7f9a43fb71a",
       "publishedAt": "2026-11-13T09:55:14Z",
@@ -56,6 +608,18 @@
       "title": "Demissões acentuam a montanha-russa financeira da Bit Reactor, estúdio de Star Wars Zero Company",
       "sourceUrl": "https://radiogeekbr.com.br/demissoes-bit-reactor-star-wars-zero-company",
       "originalTitle": "Demissões acentuam a montanha-russa financeira da Bit Reactor, estúdio de Star Wars Zero Company",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95283e1f72bd83b7",
+      "publishedAt": "2026-11-13T06:57:53Z",
+      "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
+      "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -315,6 +879,18 @@
       }
     },
     {
+      "id": "radar-e6e03685e42a046d",
+      "publishedAt": "2026-11-13T00:46:23Z",
+      "title": "Metaphor: ReFantazio chega ao Nintendo Switch 2",
+      "sourceUrl": "https://animenew.com.br/metaphor-refantazio-nintendo-switch-2",
+      "originalTitle": "Metaphor: ReFantazio chega ao Nintendo Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-6cbe728b0479e74c",
       "publishedAt": "2026-11-13T00:43:33Z",
       "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
@@ -380,6 +956,18 @@
       "title": "BATEKOO Festival anuncia line-up com Pixote, Sango e Kiddy Smile",
       "sourceUrl": "https://www.omelete.com.br/musica/batekoo-festival-anuncia-line-up-pixote-sango-e-kiddy-smile",
       "originalTitle": "BATEKOO Festival anuncia line-up com Pixote, Sango e Kiddy Smile",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6af11e7a21bf0bdf",
+      "publishedAt": "2026-11-13T00:08:26Z",
+      "title": "Mangá Sakamoto Days chega ao fim na próxima semana após 6 anos",
+      "sourceUrl": "https://animeflix.com.br/manga-sakamoto-days-chega-ao-fim-na-proxima-semana-apos-6-anos",
+      "originalTitle": "Mangá Sakamoto Days chega ao fim na próxima semana após 6 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -496,7 +1084,7 @@
     },
     {
       "id": "radar-db1b083640e81378",
-      "publishedAt": "2026-11-12T21:38:00Z",
+      "publishedAt": "2026-11-12T22:00:51Z",
       "title": "25 jogos do XBOX original estão disponíveis no PC via retrocompatibilidade",
       "sourceUrl": "https://news.xbox.com/pt-br/2026/11/12/25-jogos-do-xbox-original-estao-disponiveis-no-pc-por-meio-da-retrocompatibilidade",
       "originalTitle": "25 jogos do XBOX original estão disponíveis no PC via retrocompatibilidade",
@@ -740,6 +1328,18 @@
       "title": "‘Star Wars: Episódio IV – Uma Nova Esperança’ será RELANÇADO nos cinemas brasileiros; Saiba QUANDO!",
       "sourceUrl": "https://cinepop.com.br/star-wars-episodio-iv-uma-nova-esperanca-sera-relancado-nos-cinemas-brasileiros-saiba-quando-775932",
       "originalTitle": "‘Star Wars: Episódio IV – Uma Nova Esperança’ será RELANÇADO nos cinemas brasileiros; Saiba QUANDO!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-836c0f6778b7d625",
+      "publishedAt": "2026-11-12T18:45:00Z",
+      "title": "Doutor Destino não é uma variante de Tony Stark, confirma Kevin Feige",
+      "sourceUrl": "https://br.ign.com/avengers-doomsday/157617/doutor-destino-nao-e-uma-variante-de-tony-stark-confirma-kevin-feige",
+      "originalTitle": "Doutor Destino não é uma variante de Tony Stark, confirma Kevin Feige",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -3879,18 +4479,6 @@
       }
     },
     {
-      "id": "radar-44b9a673694004ff",
-      "publishedAt": "2026-11-10T12:11:58Z",
-      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
-      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-653dfdf4cfa73c14",
       "publishedAt": "2026-11-10T12:03:32Z",
       "title": "A maior série de ficção científica da Netflix retornará com uma prequela, mas ainda vai demorar para chegar",
@@ -6147,18 +6735,6 @@
       }
     },
     {
-      "id": "radar-6335e154ec11ff65",
-      "publishedAt": "2026-11-08T13:12:12Z",
-      "title": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-chega-com-cinco-cortes-diferentes-e-laboratorio-dcu",
-      "originalTitle": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-4c1803c133275c54",
       "publishedAt": "2026-11-08T13:04:33Z",
       "title": "Kekkaishi no Ichirinka: Novo anime de romance sobrenatural estreia em janeiro",
@@ -6860,18 +7436,6 @@
       "title": "Reki Kawahara abandona o escapismo de Sword Art Online e leva seu novo anime a um Japão em modo “Battle Royale”",
       "sourceUrl": "https://radiogeekbr.com.br/reki-kawahara-retorna-com-the-isolator-anime-survival",
       "originalTitle": "Reki Kawahara abandona o escapismo de Sword Art Online e leva seu novo anime a um Japão em modo “Battle Royale”",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-95283e1f72bd83b7",
-      "publishedAt": "2026-11-07T20:41:46Z",
-      "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
-      "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
       "translated": false,
       "editorialReview": {
         "status": "native",
