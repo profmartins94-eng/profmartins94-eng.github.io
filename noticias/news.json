@@ -1,7 +1,555 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T23:52:16.839890Z",
+  "updatedAt": "2026-11-14T07:01:32.835935Z",
   "articles": [
+    {
+      "id": "radar-b581e6ecc0c1107d",
+      "title": "Neo-Queen Serenity ganha versão de luxo só para 2027 e escancara a nova matemática do colecionismo de anime",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "colecionaveis",
+      "categoryName": "Colecionáveis",
+      "publishedAt": "2026-11-14T05:13:02Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/neo-queen-serenity-sailor-moon-2027",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794519777.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Neo-Queen Serenity ganha versão de luxo só para 2027 e escancara a nova matemática do colecionismo de anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64964f4fafe665dd",
+      "title": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-14T05:13:02Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/video-de-frank-grillo-recado-ao-novo-comando-dc",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794526064.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9729227f0c4f0917",
+      "title": "Funeral precoce: Marvel define quais filhos de Doctor Doom devem cair em Avengers: Doomsday",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-14T05:13:02Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/funeral-filhos-doctor-doom-avengers-doomsday",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794537787.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Funeral precoce: Marvel define quais filhos de Doctor Doom devem cair em Avengers: Doomsday",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fc3ca7af6ad03c52",
+      "title": "Litígio sigiloso trava retorno do mangá de Dragon Ball Super e empurra franquia para seu maior vácuo criativo em 15 anos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em radiogeekbr.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-14T04:57:55Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "radiogeekbr.com.br",
+      "sourceUrl": "https://radiogeekbr.com.br/litigio-trava-retorno-manga-dragon-ball-super",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794633186.webp",
+      "alt": "Imagem publicada por radiogeekbr.com.br",
+      "imageCredit": "Imagem: radiogeekbr.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Litígio sigiloso trava retorno do mangá de Dragon Ball Super e empurra franquia para seu maior vácuo criativo em 15 anos",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3620dea27628c8b1",
+      "title": "Temporada 2 de Cyberpunk: Edgerunners vira febre e expõe o anime que (ainda) não existe",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-14T03:58:02Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/temporada-2-cyberpunk-edgerunners-vira-febre",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792463184-scaled.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Temporada 2 de Cyberpunk: Edgerunners vira febre e expõe o anime que (ainda) não existe",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5b64c41d07c4e457",
+      "title": "James Gunn afirma que NINGUÉM da Skydance assistiu ‘Superman 2’: “Há muitos rumores falsos circulando por aí”",
+      "excerpt": "Através do seu perfil no Threads, o diretor James Gunn (‘O Esquadrão Suicida’) esclareceu os rumores envolvendo o futuro da sequência ‘Superman 2: O Homem do Amanhã‘, cujo destino parece incerto após sua demissão do comando do DCU.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-14T03:48:18Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/james-gunn-afirma-que-ninguem-da-skydance-assistiu-superman-2-ha-muitos-rumores-falsos-circulando-por-ai-776144",
+      "image": "https://cinepop.com.br/wp-content/uploads/2025/07/superman-3-1024x576.webp",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "James Gunn afirma que NINGUÉM da Skydance assistiu ‘Superman 2’: “Há muitos rumores falsos circulando por aí”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-14952c0c23fde93d",
+      "title": "‘VisionQuest’ registra o final de série MAIS ASSISTIDO da Marvel em 3 anos",
+      "excerpt": "Sucesso!",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-14T03:24:59Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/visionquest-registra-o-final-de-serie-mais-assistido-da-marvel-em-3-anos-776131",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/10/vision-ultron-visionquest-1024x576.avif",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘VisionQuest’ registra o final de série MAIS ASSISTIDO da Marvel em 3 anos",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d545cddd72a138cc",
+      "title": "Bless Anime estreia 8/01/2027 e supera My Dress-Up Darling",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-14T03:17:59Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "culpadolag.com.br",
+      "sourceUrl": "https://culpadolag.com.br/bless-anime-estreia-8012027-e-supera-my-dress-up-darling",
+      "image": "https://culpadolag.com.br/storage/posts/bless-anime-estreia-8012027-e-supera-my-dress-up-darling-4b9f2c9c.webp",
+      "alt": "Imagem publicada por culpadolag.com.br",
+      "imageCredit": "Imagem: culpadolag.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Bless Anime estreia 8/01/2027 e supera My Dress-Up Darling",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5c4254092f5e4152",
+      "title": "R$1500 OFF em Notebook ASUS! Modelo Vivobook 15 Intel Core i5 surge no precinho na Black da Amazon",
+      "excerpt": "Vivobook 15 com 16 GB de RAM e SSD de 512 GB cai R$1500 na Amazon.",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-14T03:10:05Z",
+      "displayDate": "14 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/descontos/157654/r1500-off-em-notebook-asus-modelo-vivobook-15-intel-core-i5-surge-no-precinho-na-black-da-amazon",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/ign-45_fst2.png",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "R$1500 OFF em Notebook ASUS! Modelo Vivobook 15 Intel Core i5 surge no precinho na Black da Amazon",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-92291d5afbf5a9f7",
+      "title": "Schwarzenegger negocia retorno em novo Predador",
+      "excerpt": "Schwarzenegger de volta à franquia PredadorArnold Schwarzenegger confirmou que uma nova produção da franquia “Predador” está em desenvolvimento e revelou conversas para voltar a interpretar Dutch, protagonista do filme original de 1987.",
+      "body": [
+        "Confira a cobertura completa em Pipoca Moderna. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-14T02:18:57Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Pipoca Moderna",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/schwarzenegger-novo-predador-retorno-dutch",
+      "image": "https://cdn.pipocamoderna.com.br/wp-content/uploads/2019/08/terminator-dark-fate5-800x450.jpg",
+      "alt": "Imagem publicada por Pipoca Moderna",
+      "imageCredit": "Imagem: Pipoca Moderna",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Schwarzenegger negocia retorno em novo Predador",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cadbf87db1251e8f",
+      "title": "Melhores ferramentas de IA para ganhar dinheiro: 6 opções para criar e vender",
+      "excerpt": "De sites a músicas, plataformas ajudam a desenvolver projetos e prestar serviços em diferentes áreas",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-14T02:17:18Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/tech/157651/melhores-ferramentas-de-ia-para-ganhar-dinheiro-6-opcoes-para-criar-e-vender",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/capa-ferramentas-ia-1280x720_f1ar.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Melhores ferramentas de IA para ganhar dinheiro: 6 opções para criar e vender",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c235cc5aa9918318",
+      "title": "REVIEW | Star Wars: Galactic Racer é um injeção de novidade no mundo dos jogos de corrida",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Adrenaline. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-14T01:25:00Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Adrenaline",
+      "sourceUrl": "https://www.adrenaline.com.br/analise/games/star-wars-galactic-racer-review",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/pr-v3j-sc7s.jpg",
+      "alt": "Imagem publicada por Adrenaline",
+      "imageCredit": "Imagem: Adrenaline",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "REVIEW | Star Wars: Galactic Racer é um injeção de novidade no mundo dos jogos de corrida",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0e7a8e31183d84e9",
+      "title": "A-1 Pictures prioriza animes originais e acende alerta sobre a 3ª temporada de Solo Leveling",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-14T01:12:33Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/a1-pictures-prioriza-animes-originais-3-temporada-solo-leveling",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1793498740.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "A-1 Pictures prioriza animes originais e acende alerta sobre a 3ª temporada de Solo Leveling",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d5acde97fac094f7",
+      "title": "Jon Hamm e Andrew Koji estrelarão thriller de Takashi Miike",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-14T00:45:00Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/jon-hamm-e-andrew-koji-estrelarao-thriller-de-takashi-miike",
+      "image": "https://cdn.ome.lt/bH32jB4MvhUTq2jXKlQhomqOVrI=/1200x630/smart/filters:format(webp)/extras/conteudos/sem_nome45.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Jon Hamm e Andrew Koji estrelarão thriller de Takashi Miike",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-425be643a0a0e00b",
+      "title": "Kaiju No. 8 terá 3ª temporada? Entenda o anúncio sobre o futuro do anime",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Game Overdrive. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-14T00:26:00Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Game Overdrive",
+      "sourceUrl": "https://gameoverdrive.com.br/kaiju-no-8-terceira-temporada-filme-final",
+      "image": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/kaiju-no-8-the-final-mission-3-1280x720.webp",
+      "alt": "Imagem publicada por Game Overdrive",
+      "imageCredit": "Imagem: Game Overdrive",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Kaiju No. 8 terá 3ª temporada? Entenda o anúncio sobre o futuro do anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-067fee0dc25cfb97",
+      "title": "Corrente do Mal 2 | Maika Monroe dá detalhes de sua personagem na sequência",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-14T00:21:00Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/corrente-do-mal-2-maika-monroe-detalhes-personagem-na-sequencia",
+      "image": "https://cdn.ome.lt/gWNr9789t4-j7e00DP8bLJK_eCY=/1200x630/smart/filters:format(webp)/extras/conteudos/y8syj6q65sye1.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Corrente do Mal 2 | Maika Monroe dá detalhes de sua personagem na sequência",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-319ba93521e6ee48",
+      "title": "Colin Farrell comenta possibilidade de 2ª temporada de Pinguim",
+      "excerpt": "Colin Farrell demonstra interesse em retornar para Pinguim em 2ª temporada, mas a HBO ainda não confirmou a renovação da série.",
+      "body": [
+        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-14T00:20:00Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Mix de Séries",
+      "sourceUrl": "https://mixdeseries.com.br/colin-farrell-comenta-2a-temporada-de-pinguim",
+      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/11/Pinguim.webp",
+      "alt": "Imagem publicada por Mix de Séries",
+      "imageCredit": "Imagem: Mix de Séries",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Colin Farrell comenta possibilidade de 2ª temporada de Pinguim",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c746eedece938a8e",
+      "title": "Teaser fantasma de Wanda na véspera de VisionQuest expõe plano da Marvel para religar Disney+ ao cinema",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-14T00:13:13Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/wanda-retorno-teaser-visionquest-marvel-ponte-avengers-doomsday",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794359520.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Teaser fantasma de Wanda na véspera de VisionQuest expõe plano da Marvel para religar Disney+ ao cinema",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2b4750a28dcd03f4",
+      "title": "Marvel promete VisionQuest livre de “lição de casa”, mas sinaliza uma nova cartilha de continuidade",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-14T00:13:13Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/visionquest-marvel-dispensa-licao-de-casa-mas-revela-continuidade-modular",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794136313.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel promete VisionQuest livre de “lição de casa”, mas sinaliza uma nova cartilha de continuidade",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ea5b40e9693f7674",
+      "title": "The X Factor | Reboot está sendo desenvolvido pela Fox",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/the-x-factor-reboot-esta-sendo-desenvolvido-pela-fox",
+      "image": "https://cdn.ome.lt/Qz9HO1wGG5YiieuO5wjkI5dMm-4=/1200x630/smart/filters:format(webp)/extras/conteudos/the-x-factor1.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "The X Factor | Reboot está sendo desenvolvido pela Fox",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0659b9a8370cd9ca",
+      "title": "Vingadores: Doutor Destino: Ciclope e Gambit ganham destaque em nova imagem",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/vingadores-doutor-destino-ciclope-gambit-nova-imagem",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Cyclops.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino: Ciclope e Gambit ganham destaque em nova imagem",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-9bc81447fdb818f5",
       "title": "Homem-Aranha: Um Novo Dia | CEO da Sony vai fazer campanha para Oscar de Melhor Filme",
@@ -55,58 +603,6 @@
       }
     },
     {
-      "id": "radar-438f034400d75999",
-      "title": "Um Real Madrid em poucos dias: o impacto do GTA VI no mercado do entretenimento",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Sport Insider -. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-13T23:30:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Sport Insider -",
-      "sourceUrl": "https://sportinsider.com.br/newsletter/mais-que-o-real-madrid-em-tres-dias-o-tamanho-do-gta-que-lanca-o-sexto-jogo-nesta-quinta",
-      "image": "https://sportinsider.com.br/wp-content/uploads/2026/11/Jason_Lucia_Beach_With_Logos_landscape-scaled.jpg",
-      "alt": "Imagem publicada por Sport Insider -",
-      "imageCredit": "Imagem: Sport Insider -",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Um Real Madrid em poucos dias: o impacto do GTA VI no mercado do entretenimento",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-890a55b4116baafa",
-      "title": "GTA 6 vai virar filme? CEO da Take-Two fala sobre possibilidade de levar a franquia para o cinema",
-      "excerpt": "O Checkpoint desta sexta-feira (13) chega com comentários de Strauss Zelnick, CEO da Take-Two, sobre uma possível adaptação da franquia GTA para os cinemas ou uma série de TV.",
-      "body": [
-        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-13T23:30:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "TecMundo",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-vai-virar-filme-ceo-da-take-two-fala-sobre-possibilidade-de-levar-a-franquia-para-o-cinema",
-      "image": "https://www.estadao.com.br/resizer/v2/FIE7AKJTPVETNCQNUHYJY6RDQM.jpg?quality=80&auth=5f66b7d76763fcc5942bfdb2353879ef7b7cc1f2a8a2cecbdfed9927b01c5ba6&width=710",
-      "alt": "Imagem publicada por TecMundo",
-      "imageCredit": "Imagem: TecMundo",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "GTA 6 vai virar filme? CEO da Take-Two fala sobre possibilidade de levar a franquia para o cinema",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-723fb74c8449989f",
       "title": "Duna e Magic: The Gathering | Collab entre os mundos pode ter vazado",
       "excerpt": "",
@@ -126,6 +622,32 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Duna e Magic: The Gathering | Collab entre os mundos pode ter vazado",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6175b71b45d6e6b",
+      "title": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T23:12:32Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-quatro-pistas-corrida-novo-batman-dcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1793330756.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Quatro pistas de James Gunn viram o tabuleiro e estreitam a corrida pelo novo Batman do DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -211,51 +733,25 @@
       }
     },
     {
-      "id": "radar-a5e302390ca8ee42",
-      "title": "U2 lança dueto póstumo com Dolly Parton, em versões rock e country; ouça ambas",
+      "id": "radar-79be9cc4e5587c3d",
+      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-13T22:12:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/musica/u2-lanca-dueto-postumo-com-dolly-parton-versoes-rock-e-country",
-      "image": "https://cdn.ome.lt/KzHLzB_0cmiuJQ-KNiZ3tD2E_Co=/1200x630/smart/filters:format(webp)/extras/conteudos/dolly.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "U2 lança dueto póstumo com Dolly Parton, em versões rock e country; ouça ambas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a32bec4bfb7dcefc",
-      "title": "Margot Robbie vai estrelar novo filme do diretor de O Drama, com produção da A24",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-13T21:43:00Z",
+      "publishedAt": "2026-11-13T21:57:55Z",
       "displayDate": "13 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/margot-robbie-vai-estrelar-novo-filme-diretor-de-o-drama-a24",
-      "image": "https://cdn.ome.lt/v8w8aOEMwgNAxfrzofAqG78PkMA=/1200x630/smart/filters:format(webp)/extras/conteudos/images53.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792342569.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Margot Robbie vai estrelar novo filme do diretor de O Drama, com produção da A24",
+      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -263,259 +759,25 @@
       }
     },
     {
-      "id": "radar-69ad79790e99dcd4",
-      "title": "CCXP26 anuncia John Rhys-Davies, dubladores de Sailor Moon, conteúdos de TV Globo e Globoplay, além de exposição com itens inéditos de “Batman: O Cavaleiro das Trevas”",
-      "excerpt": "",
+      "id": "radar-9b50640209d92f85",
+      "title": "‘Magic: The Gathering’: Série animada da Netflix ganha teaser, imagens e previsão de lançamento",
+      "excerpt": "A Netflix divulgou o primeiro teaser e imagens oficiais da série animada ‘Planeswalker‘, baseada no jogo de RPG ‘Magic: The Gathering‘.",
       "body": [
-        "Confira a cobertura completa em CCXP. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-13T21:38:25Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "CCXP",
-      "sourceUrl": "https://ccxp.com.br/imprensa/imprensa-119",
-      "image": "https://ccxp.com.br/og-image.png",
-      "alt": "Imagem publicada por CCXP",
-      "imageCredit": "Imagem: CCXP",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "CCXP26 anuncia John Rhys-Davies, dubladores de Sailor Moon, conteúdos de TV Globo e Globoplay, além de exposição com itens inéditos de “Batman: O Cavaleiro das Trevas”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f9a60b445f5f08c5",
-      "title": "O fim da Sony dos eletrônicos e a grande aposta em animes como One Piece e Naruto",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Itatiaia. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-13T21:27:32Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Rádio Itatiaia",
-      "sourceUrl": "https://www.itatiaia.com.br/trends/o-fim-da-sony-dos-eletronicos-e-a-grande-aposta-em-animes-como-one-piece-e-naruto",
-      "image": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/11/1794604860154.jpg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1",
-      "alt": "Imagem publicada por Rádio Itatiaia",
-      "imageCredit": "Imagem: Rádio Itatiaia",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "O fim da Sony dos eletrônicos e a grande aposta em animes como One Piece e Naruto",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-35b3734ad7193d5b",
-      "title": "A Era da Rockstar Games e o Novo GTA VI: Memes e Expectativa nas Redes Sociais",
-      "excerpt": "",
-      "body": [
-        "Confira o meme completo na publicação original de boca.com.br."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-13T20:57:18Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "boca.com.br",
-      "sourceUrl": "https://boca.com.br/noticias/era-rockstar-games-gta-vi",
-      "image": "https://images.boca.com.br/upload/imagens-resizes/af97e5ed969160da2d3ab498605e60d8_858x483.jpg",
-      "alt": "Imagem publicada por boca.com.br",
-      "imageCredit": "Imagem: boca.com.br",
-      "syndicated": true,
-      "meme": true,
-      "translated": false,
-      "originalTitle": "A Era da Rockstar Games e o Novo GTA VI: Memes e Expectativa nas Redes Sociais",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6fc8e67a191bc990",
-      "title": "Romancing SaGa 3: Destinies United tem seu lançamento antecipado em duas semanas",
-      "excerpt": "Agora o remake chegará dia 4 de fevereiro de 2027",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-13T20:15:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/13/romancing-saga-3-destinies-united-mudanca-data-lancamento",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2ab269b6f9/romancing-saga3.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Romancing SaGa 3: Destinies United tem seu lançamento antecipado em duas semanas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0cd1394294b089b1",
-      "title": "Måneskin volta aos palcos no Coachella 2027 depois de uma pausa de mais de dois anos",
-      "excerpt": "A banda italiana mais barulhenta do rock moderno está de volta!",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-13T20:00:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/maneskin-coachella-2027-retorno-datas-ingressos",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Capa-Site-2026-11-12T235724.941.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Måneskin volta aos palcos no Coachella 2027 depois de uma pausa de mais de dois anos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-326605d8b6389944",
-      "title": "Elements Destiny, RPG alemão inspirado em JRPGs, chega ao Switch em dezembro",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Project N. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-13T19:52:44Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Project N",
-      "sourceUrl": "https://projectn.com.br/elements-destiny-nintendo-switch-15-dezembro",
-      "image": "https://projectn.com.br/wp-content/uploads/2026/11/Elements-Destiny.jpg",
-      "alt": "Imagem publicada por Project N",
-      "imageCredit": "Imagem: Project N",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Elements Destiny, RPG alemão inspirado em JRPGs, chega ao Switch em dezembro",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b0a65efc0e58e1ee",
-      "title": "\"É nossa intenção fazer com que isso dure 10 ou 20, se não 50 a 100 anos\": Sony não quer encerrar a história de Demon Slayer com a última parte de Castelo Infinito e não descarta adquirir a Shueisha para que isso aconteça",
-      "excerpt": "Ainda teremos muito de Tanjiro no futuro A Sony não pretende encerrar Demon Slayer após o lançamento da úlitma parte de Castelo Infinito .",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-13T19:45:21Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/demon-slayer/157647/e-nossa-intencao-fazer-com-que-isso-dure-10-ou-20-se-nao-50-a-100-anos-sony-nao-quer-encerrar-a-hist",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/demon-slayer_jbd8.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "\"É nossa intenção fazer com que isso dure 10 ou 20, se não 50 a 100 anos\": Sony não quer encerrar a história de Demon Slayer com a última parte de Castelo Infinito e não descarta adquirir a Shueisha para que isso aconteça",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2e776263f2f09214",
-      "title": "Conheça os livros de Drauzio Varella, novo imortal da Academia Brasileira de Letras",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-13T19:43:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/quadrinhos/conheca-livros-de-drauzio-varella-novo-imortal-academia-brasileira-de-letras",
-      "image": "https://cdn.ome.lt/IQ8O7DFkuRenKfb7K07sdIbg6a0=/1200x630/smart/filters:format(webp)/extras/conteudos/drauzio-varella-credito-michel-souza.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Conheça os livros de Drauzio Varella, novo imortal da Academia Brasileira de Letras",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5ec37ca0d0a08faf",
-      "title": "Magic: The Gathering | Série animada ganha primeiro teaser e chega em 2027",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
       "publishedAt": "2026-11-13T19:39:00Z",
       "displayDate": "13 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/games/magic-the-gathering-serie-animada-ganha-primeiro-teaser-e-chega-em-2027",
-      "image": "https://cdn.ome.lt/P7-RyKDDSnOnGZVvj8s3e-6MczU=/1200x630/smart/filters:format(webp)/extras/conteudos/imagem_2026-11-13_163908758.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/magic-the-gathering-serie-animada-da-netflix-ganha-teaser-imagens-e-previsao-de-lancamento-776135",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/Magic-the-Gathering-Netlfix-Planeswalker-1024x451.webp",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Magic: The Gathering | Série animada ganha primeiro teaser e chega em 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-911a96b342f7c9ec",
-      "title": "Luffy, Sun Wukong e Hanuman: as lendas por trás da nova forma de macaco de ‘One Piece’",
-      "excerpt": "Luffy virou um macaco, e isso pode fazer mais sentido do que parece!",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-13T19:00:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/luffy-sun-wukong-hanuman-forma-macaco-one-piece-1198-teoria",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/11/download.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Luffy, Sun Wukong e Hanuman: as lendas por trás da nova forma de macaco de ‘One Piece’",
+      "originalTitle": "‘Magic: The Gathering’: Série animada da Netflix ganha teaser, imagens e previsão de lançamento",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -577,58 +839,6 @@
       }
     },
     {
-      "id": "radar-bac02ac0e9a89736",
-      "title": "Skydance teria subestimado reação dos fãs à demissão de James Gunn",
-      "excerpt": "Incerteza sobre o futuro do DCU alimenta críticas A Skydance teria subestimado a reação dos fãs à demissão de James Gunn e Peter Safran da DC Studios.",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-13T18:11:19Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/skydance-teria-subestimado-reacao-dos-fas-a-demissao-de-james-gunn.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_Xg9ERtkNZ6A2.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Skydance teria subestimado reação dos fãs à demissão de James Gunn",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4b93c65fd750c792",
-      "title": "Sony anuncia objetivo de dominar anime",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-13T18:08:36Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "culpadolag.com.br",
-      "sourceUrl": "https://culpadolag.com.br/sony-anuncia-objetivo-de-dominar-anime",
-      "image": "https://culpadolag.com.br/storage/posts/sony-anuncia-objetivo-de-dominar-anime-614b767f.webp",
-      "alt": "Imagem publicada por culpadolag.com.br",
-      "imageCredit": "Imagem: culpadolag.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sony anuncia objetivo de dominar anime",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-344891c02ac1c1d1",
       "title": "Razer anuncia cadeiras Soma Pro e Soma Sensa HD Haptics",
       "excerpt": "A Razer anunciou nesta sexta-feira, 13, as cadeiras gamer Razer Soma Pro e Razer Soma Sensa HD Haptics , dois novos modelos equipados com tecnologia de feedback háptico e conectividade sem fio.",
@@ -655,110 +865,6 @@
       }
     },
     {
-      "id": "radar-9d9fedc150704d18",
-      "title": "DCU mantém Superman de Corenswet e pode cortar personagens",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Máquina Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-13T16:55:25Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Máquina Nerd",
-      "sourceUrl": "https://www.maquinanerd.com.br/cinema/dcu-mantem-superman-de-corenswet-e-pode-cortar-personagens",
-      "image": "https://www.maquinanerd.com.br/media/522fc964-fcaa-4a92-a556-ad56ccd37c33/16x9-v1.jpg",
-      "alt": "Imagem publicada por Máquina Nerd",
-      "imageCredit": "Imagem: Máquina Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "DCU mantém Superman de Corenswet e pode cortar personagens",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5e4b507bda686d97",
-      "title": "DC: Superman deve continuar, mas outros heróis podem ser cortados após saída de James Gunn",
-      "excerpt": "Novo rumor aponta possíveis mudanças no elenco e na história de Homem do Amanhã A saída de James Gunn e Peter Safran do comando da DC Studios pode provocar mudanças importantes no futuro do universo compartilhado da editora.",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-13T16:53:45Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/dc-superman-deve-continuar-mas-outros-herois-podem-ser-cortados-apos-saida-de-james-gunn.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_6VtHA5OqECiX.jpeg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "DC: Superman deve continuar, mas outros heróis podem ser cortados após saída de James Gunn",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d9fe887684894bbc",
-      "title": "Skydance está surpresa com repercussão negativa da demissão de James Gunn, diz site",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-13T16:40:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/skydance-surpresa-reacao-negativa-saida-james-gunn-dc-studios",
-      "image": "https://cdn.ome.lt/nSMBSISBOHRdTHHVYYL57oH7zYY=/1200x630/smart/filters:format(webp)/extras/conteudos/images_-_2026-11-13T134435.096.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Skydance está surpresa com repercussão negativa da demissão de James Gunn, diz site",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a0c2db77211dfb74",
-      "title": "Como Dragon Ball Super: Beerus reestrutura suas batalhas",
-      "excerpt": "Uma nova forma de curtir as icônicas lutas da franquia Dragon Ball",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-13T16:30:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/features/2026/11/13/dragon-ball-super-beerus-batalhas",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/80bb2ce350/dbs-beerus-goku-contra-beerus-latam-logo.png",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Como Dragon Ball Super: Beerus reestrutura suas batalhas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-83c007b883a498fa",
       "title": "#Hashtag: Pré-venda, pré-load e pré-surto: Internet entra em contagem regressiva para 'GTA 6'; veja memes",
       "excerpt": "",
@@ -778,32 +884,6 @@
       "meme": true,
       "translated": false,
       "originalTitle": "#Hashtag: Pré-venda, pré-load e pré-surto: Internet entra em contagem regressiva para 'GTA 6'; veja memes",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-46df9d795711fe35",
-      "title": "RapaduraCast 932 – O Fim Humilhante da DC de James Gunn",
-      "excerpt": "⁠Jurandir Filho⁠, ⁠Rogério Montanare⁠, ⁠Thiago Siqueira⁠ e ⁠Fernanda Bermoltz⁠ discutem mais um fim melancólico de um universo DC.",
-      "body": [
-        "Confira a cobertura completa em Cinema com Rapadura. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-13T16:04:22Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "Cinema com Rapadura",
-      "sourceUrl": "https://cinemacomrapadura.com.br/rapaduracast-podcast/631202/rapaduracast-932-o-fim-humilhante-da-dc-de-james-gunn",
-      "image": "https://cinemacomrapadura.com.br/imagens/2026/11/20261113-rc-thumb-gunn.png",
-      "alt": "Imagem publicada por Cinema com Rapadura",
-      "imageCredit": "Imagem: Cinema com Rapadura",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "RapaduraCast 932 – O Fim Humilhante da DC de James Gunn",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -889,25 +969,25 @@
       }
     },
     {
-      "id": "radar-e947a3219b0985f3",
-      "title": "The Legend of Zelda: Ocarina of Time teria ReDeads mais assustadores no remake, explica Nintendo",
-      "excerpt": "Os ReDeads, criaturas que estão entre os inimigos mais perturbadores de The Legend of Zelda: Ocarina of Time , poderiam ser ainda mais assustadores no remake para Nintendo Switch 2.",
+      "id": "radar-44b9a673694004ff",
+      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-13T13:58:56Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-13T14:57:55Z",
       "displayDate": "13 nov. 2026",
-      "sourceName": "Nintendo Blast",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-teria-redeads-mais-assustadores-remake-explica-nintendo.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCCiGzJSPnhB0MNWZIw7_7G5UtG7gnlfcIhtj7iptzL5K4WZwvL_kPb0tXrNRzZRGh-CZJ5zOUTzKwl13OlraCxn6ekqLGTCSurs4S_TxoruO2b_Zj9hlo0GN1MCKy_Zr4Jdq9Babuj8ogwk7YHSmgI_pvkgaeQoIy2RtEzeHn2iYY0sTp1Ofi8EtlDG0/s72-w640-h360-c/Zelda-Ocarina-of-Time-ReDead-capa.jpg",
-      "alt": "Imagem publicada por Nintendo Blast",
-      "imageCredit": "Imagem: Nintendo Blast",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792448791.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "The Legend of Zelda: Ocarina of Time teria ReDeads mais assustadores no remake, explica Nintendo",
+      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -967,6 +1047,58 @@
       }
     },
     {
+      "id": "radar-3fd13e73aae94455",
+      "title": "Daniel Radcliffe revela que não vai assistir à nova série de Harry Potter",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Jornal Correio. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-13T12:19:45Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Jornal Correio",
+      "sourceUrl": "https://www.correio24horas.com.br/em-alta/daniel-radcliffe-revela-que-nao-vai-assistir-a-nova-serie-de-harry-potter-1126",
+      "image": "https://midias.correio24horas.com.br/2026/06/01/daniel-radcliffe-3291119.jpg",
+      "alt": "Imagem publicada por Jornal Correio",
+      "imageCredit": "Imagem: Jornal Correio",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Daniel Radcliffe revela que não vai assistir à nova série de Harry Potter",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-47d7ba95b1c1880d",
+      "title": "Como comprar GTA 6 mais barato no Mercado Livre",
+      "excerpt": "GTA 6 será lançado no dia 19 de novembro para PlayStation 5 e Xbox Series X/S, mas o jogo já está em pré-venda e com o download antecipado liberado.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-13T11:15:00Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/como-comprar-gta-6-mais-barato-no-mercado-livre",
+      "image": "https://www.estadao.com.br/resizer/v2/R2K7ITEEZRG4FKDCOCSZ2Y4KMI.jpg?quality=80&auth=6d2556f9ad76939626dabdd4d3eb9cd09cab92aa9012973c9998de4c7593be70&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Como comprar GTA 6 mais barato no Mercado Livre",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-f8c821cb5a3e8cb2",
       "title": "Xbox adiciona mais 21 jogos à Retrocompatibilidade no PC",
       "excerpt": "",
@@ -993,51 +1125,25 @@
       }
     },
     {
-      "id": "radar-7d443b37817184c6",
-      "title": "Daniel Radcliffe diz que não pretende assistir à nova série de 'Harry Potter': 'Oito horas é muita coisa'",
-      "excerpt": "",
+      "id": "radar-4fab65548a4d9553",
+      "title": "‘Ray Gunn’: Brad Bird dirige animação noir de ficção científica na Netflix",
+      "excerpt": "A Netflix apostou alto em uma de suas animações mais ambiciosas.",
       "body": [
-        "Confira a cobertura completa em O GLOBO. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-13T07:00:00Z",
-      "displayDate": "13 nov. 2026",
-      "sourceName": "O GLOBO",
-      "sourceUrl": "https://oglobo.globo.com/cultura/filmes/noticia/2026/11/13/daniel-radcliffe-diz-que-nao-pretende-assistir-a-nova-serie-de-harry-potter-oito-horas-e-muita-coisa.ghtml",
-      "image": "https://s2-oglobo.glbimg.com/_64cZi19pIFjK8IukbNOrWbPr5E=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/l/n/0RgmobQfmfUQA0bdj3cA/harry-potter-1-.jpg",
-      "alt": "Imagem publicada por O GLOBO",
-      "imageCredit": "Imagem: O GLOBO",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Daniel Radcliffe diz que não pretende assistir à nova série de 'Harry Potter': 'Oito horas é muita coisa'",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4ba2b86b3891a331",
-      "title": "Gatto enfrenta máfia felina em trailer de nova animação da Pixar",
-      "excerpt": "Gatto ganha trailer completoA Disney e a Pixar divulgaram nesta quinta-feira (12/11) o trailer completo de “Gatto”, animação dirigida por Enrico Casarosa, responsável por “Luca” (2021).",
-      "body": [
-        "Confira a cobertura completa em Pipoca Moderna. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-13T00:51:28Z",
-      "displayDate": "12 nov. 2026",
-      "sourceName": "Pipoca Moderna",
-      "sourceUrl": "https://pipocamoderna.com.br/2026/11/pixar-revela-trailer-gatto-mafia-felina",
-      "image": "https://cdn.pipocamoderna.com.br/wp-content/uploads/2026/11/Gatto-800x485.jpg",
-      "alt": "Imagem publicada por Pipoca Moderna",
-      "imageCredit": "Imagem: Pipoca Moderna",
+      "publishedAt": "2026-11-13T10:30:52Z",
+      "displayDate": "13 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/ray-gunn-brad-bird-dirige-animacao-noir-de-ficcao-cientifica-na-netflix",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Ray-Gunn-e1794499399534.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Gatto enfrenta máfia felina em trailer de nova animação da Pixar",
+      "originalTitle": "‘Ray Gunn’: Brad Bird dirige animação noir de ficção científica na Netflix",
       "tags": [],
       "editorialReview": {
         "status": "native",
