@@ -1,7 +1,487 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T07:01:32.835935Z",
+  "updatedAt": "2026-11-14T14:30:43.410389Z",
   "articles": [
+    {
+      "id": "radar-533c314c9c7694c8",
+      "publishedAt": "2026-11-14T14:29:10Z",
+      "title": "Frozen 3",
+      "sourceUrl": "https://cinepop.com.br/frozen-3-776153",
+      "originalTitle": "Frozen 3",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-00fafea3f9b1db38",
+      "publishedAt": "2026-11-14T14:14:00Z",
+      "title": "Colorful lança placa-mãe iGame X870E Senna, com visual de garota de anime",
+      "sourceUrl": "https://www.adrenaline.com.br/amd/colorful-lanca-placa-mae-igame-x870e-senna-com-visual-de-garota-de-anime",
+      "originalTitle": "Colorful lança placa-mãe iGame X870E Senna, com visual de garota de anime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1402bb099200bed4",
+      "publishedAt": "2026-11-14T14:12:00Z",
+      "title": "VisionQuest | Último episódio quebra recorde de audiência no Disney+",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/visionquest-ultimo-episodio-quebra-recorde-audiencia-disney-plus",
+      "originalTitle": "VisionQuest | Último episódio quebra recorde de audiência no Disney+",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65aac3591c21a130",
+      "publishedAt": "2026-11-14T14:00:25Z",
+      "title": "O mangá de Assassin’s Creed Shadows chegou ao fim",
+      "sourceUrl": "https://www.otakupt.com/manga/o-manga-de-assassins-creed-shadows-chegou-ao-fim",
+      "originalTitle": "O mangá de Assassin’s Creed Shadows chegou ao fim",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4c9d84086867a0a0",
+      "publishedAt": "2026-11-14T14:00:00Z",
+      "title": "A Bíblia do Mangá abre pré-venda e revisita séculos de história em ano recorde no Brasil",
+      "sourceUrl": "https://arkade.com.br/a-biblia-do-manga-abre-pre-venda-e-revisita-seculos-de-historia-em-ano-recorde-no-brasil",
+      "originalTitle": "A Bíblia do Mangá abre pré-venda e revisita séculos de história em ano recorde no Brasil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cce77a6a4f72e3ae",
+      "publishedAt": "2026-11-14T14:00:00Z",
+      "title": "Vingadores: Doutor Destino confirma participação de Ryan Reynolds e Hugh Jackman",
+      "sourceUrl": "https://mixdeseries.com.br/vingadores-doutor-destino-confirma-participacao",
+      "originalTitle": "Vingadores: Doutor Destino confirma participação de Ryan Reynolds e Hugh Jackman",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-965c630beaa0292d",
+      "publishedAt": "2026-11-14T13:35:05Z",
+      "title": "GTA VI Chega ao Xbox Cloud Gaming no Lançamento: Uma Virada de Jogo na Sua Semana!",
+      "sourceUrl": "https://www.gamerscore.com.br/gta-vi-chega-ao-xbox-cloud-gaming-no-lancamento-uma-virada-de-jogo-na-sua-semana",
+      "originalTitle": "GTA VI Chega ao Xbox Cloud Gaming no Lançamento: Uma Virada de Jogo na Sua Semana!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-218a3a4edb404a14",
+      "publishedAt": "2026-11-14T13:33:00Z",
+      "title": "Star Wars | Relançamento no Brasil usa o título Guerra nas Estrelas; veja pôster",
+      "sourceUrl": "https://www.omelete.com.br/filmes/star-wars-relancamento-brasil-titulo-guerra-nas-estrelas-poster",
+      "originalTitle": "Star Wars | Relançamento no Brasil usa o título Guerra nas Estrelas; veja pôster",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6f59a21fb5062ddd",
+      "publishedAt": "2026-11-14T13:32:06Z",
+      "title": "James Gunn desmente rumor de mudanças em Homem do Amanhã",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/james-gunn-desmente-rumor-de-mudancas-em-homem-do-amanha.html",
+      "originalTitle": "James Gunn desmente rumor de mudanças em Homem do Amanhã",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a17e04ff17853fb1",
+      "publishedAt": "2026-11-14T13:21:00Z",
+      "title": "Ex-chefe de Tekken pede à Xbox que não repita o Series S, chamando-o de 'trabalho extra' para os desenvolvedores",
+      "sourceUrl": "https://www.notebookcheck.info/Ex-chefe-de-Tekken-pede-a-Xbox-que-nao-repita-o-Series-S-chamando-o-de-trabalho-extra-para-os-desenvolvedores.1450455.0.html",
+      "originalTitle": "Ex-chefe de Tekken pede à Xbox que não repita o Series S, chamando-o de 'trabalho extra' para os desenvolvedores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-13dd7ad61fbfba64",
+      "publishedAt": "2026-11-14T13:19:00Z",
+      "title": "James Gunn esclarece rumores sobre Superman: Homem do Amanhã após deixar liderança da DC",
+      "sourceUrl": "https://www.omelete.com.br/filmes/james-gunn-esclarece-rumores-superman-homem-do-amanha-dc-studios",
+      "originalTitle": "James Gunn esclarece rumores sobre Superman: Homem do Amanhã após deixar liderança da DC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f2252de580044f65",
+      "publishedAt": "2026-11-14T13:00:34Z",
+      "title": "\"Foi uma completa idiotice\": 10 anos antes da CD Projekt fazer história com The Witcher, outro estúdio tentou trazer Geralt para os games",
+      "sourceUrl": "https://br.ign.com/the-witcher-2/157650/foi-uma-completa-idiotice-10-anos-antes-da-cd-projekt-fazer-historia-com-the-witcher-outro-estudio-t",
+      "originalTitle": "\"Foi uma completa idiotice\": 10 anos antes da CD Projekt fazer história com The Witcher, outro estúdio tentou trazer Geralt para os games",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0e14d091ace0dece",
+      "publishedAt": "2026-11-14T13:00:25Z",
+      "title": "Mangá Killing Bites chega ao fim após quase 13 anos",
+      "sourceUrl": "https://www.otakupt.com/manga/manga-killing-bites-chega-ao-fim-apos-quase-13-anos",
+      "originalTitle": "Mangá Killing Bites chega ao fim após quase 13 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-72f6740cb78d7ec1",
+      "publishedAt": "2026-11-14T13:00:00Z",
+      "title": "Vingadores: Doomsday - Atriz solta grande spoiler e confirma participação inesperada",
+      "sourceUrl": "https://legadodamarvel.com.br/vingadores-doomsday-atriz-solta-grande-spoiler-e-confirma-participacao-inesperada",
+      "originalTitle": "Vingadores: Doomsday - Atriz solta grande spoiler e confirma participação inesperada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aad2b8602f1a0bbd",
+      "publishedAt": "2026-11-14T13:00:00Z",
+      "title": "Os Batutinhas | Ator pede ajuda financeira para a chegada de 6º filho após fazer voto de pobreza",
+      "sourceUrl": "https://www.omelete.com.br/filmes/os-batutinhas-bug-hall-pede-ajuda-financeira-sexto-filho",
+      "originalTitle": "Os Batutinhas | Ator pede ajuda financeira para a chegada de 6º filho após fazer voto de pobreza",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d3a3d1896fda291e",
+      "publishedAt": "2026-11-14T12:44:21Z",
+      "title": "Ator dá atualização sobre 3ª Temporada de The Last of Us e data de estreia preocupa",
+      "sourceUrl": "https://mixdeseries.com.br/atualizacao-sobre-3a-temporada-de-the-last-of-us",
+      "originalTitle": "Ator dá atualização sobre 3ª Temporada de The Last of Us e data de estreia preocupa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f70c535862c68918",
+      "publishedAt": "2026-11-14T12:33:37Z",
+      "title": "Re:ZERO é renovado para sua 5ª temporada",
+      "sourceUrl": "https://animenew.com.br/rezero-5-temporada-anunciada",
+      "originalTitle": "Re:ZERO é renovado para sua 5ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-44ae29f2c26bab10",
+      "publishedAt": "2026-11-14T12:30:00Z",
+      "title": "The Chosen | Diretor diz que crucificação e açoitamento de Jesus serão momentos dolorosos e brutais",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/the-chosen-diretor-dallas-jenkins-crucificacao-jesus-brutal-doloroso",
+      "originalTitle": "The Chosen | Diretor diz que crucificação e açoitamento de Jesus serão momentos dolorosos e brutais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9b408f950f1acb70",
+      "publishedAt": "2026-11-14T12:27:53Z",
+      "title": "James Gunn e Peter Safran deixam a liderança da DC Studios",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/minha-serie/radar-pop/james-gunn-e-peter-safran-deixam-a-lideranca-da-dc-studios",
+      "originalTitle": "James Gunn e Peter Safran deixam a liderança da DC Studios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0e04e0dc0239d27a",
+      "publishedAt": "2026-11-14T12:12:43Z",
+      "title": "Marvel resgata os Eternos e confirma o primeiro filme da Fase 7 — decisão reposiciona o MCU depois de Secret Wars",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-confirma-eternos-2-primeiro-filme-fase-7",
+      "originalTitle": "Marvel resgata os Eternos e confirma o primeiro filme da Fase 7 — decisão reposiciona o MCU depois de Secret Wars",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3948d73391d625ec",
+      "publishedAt": "2026-11-14T12:12:43Z",
+      "title": "Jean Grey entra “de penetra” em Brand New Day e revela nova tática da Marvel para lançar os X-Men",
+      "sourceUrl": "https://radiogeekbr.com.br/jean-grey-brand-new-day-estrategia-marvel-x-men",
+      "originalTitle": "Jean Grey entra “de penetra” em Brand New Day e revela nova tática da Marvel para lançar os X-Men",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-36e41f2534d6e562",
+      "publishedAt": "2026-11-14T12:12:43Z",
+      "title": "Anime romântico de 26 episódios vira arma secreta da Netflix contra o cancelamento de fim de mês",
+      "sourceUrl": "https://radiogeekbr.com.br/anime-romantico-26-episodios-arma-secreta-netflix",
+      "originalTitle": "Anime romântico de 26 episódios vira arma secreta da Netflix contra o cancelamento de fim de mês",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3b6f7cea506932c8",
+      "publishedAt": "2026-11-14T12:12:43Z",
+      "title": "Pesquisa de 2026 tira Pokémon do pódio e coroa anime recém-chegado como favorito dos japoneses",
+      "sourceUrl": "https://radiogeekbr.com.br/pesquisa-2026-anime-pokemon-fora-top-3-frieren-lidera",
+      "originalTitle": "Pesquisa de 2026 tira Pokémon do pódio e coroa anime recém-chegado como favorito dos japoneses",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d9621a9772ca4727",
+      "publishedAt": "2026-11-14T12:00:49Z",
+      "title": "DCU: plano original de James Gunn vem à tona em meio à turbulência de sua saída",
+      "sourceUrl": "https://www.einerd.com/dcu-plano-original-de-james-gunn-vem-a-tona-em-meio-a-turbulencia-de-sua-saida",
+      "originalTitle": "DCU: plano original de James Gunn vem à tona em meio à turbulência de sua saída",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-67f9430b63e89590",
+      "publishedAt": "2026-11-14T12:00:40Z",
+      "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandory Academy já está disponível",
+      "sourceUrl": "https://salaodejogos.net/pikmin-4-nintendo-switch-2-edition-dandory-academy-ja-esta-disponivel",
+      "originalTitle": "Pikmin 4 – Nintendo Switch 2 Edition + Dandory Academy já está disponível",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9a9cfd8f057dc6da",
+      "publishedAt": "2026-11-14T12:00:40Z",
+      "title": "Melhores ferramentas de vibe coding: 7 opções para criar sites e apps com IA",
+      "sourceUrl": "https://br.ign.com/tech/157652/melhores-ferramentas-de-vibe-coding-7-opcoes-para-criar-sites-e-apps-com-ia",
+      "originalTitle": "Melhores ferramentas de vibe coding: 7 opções para criar sites e apps com IA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95c02c180246cdf7",
+      "publishedAt": "2026-11-14T12:00:38Z",
+      "title": "Jogador de PC recebe memória RAM novinha da Corsair e se sente \"culpado\" por estar \"roubando\" hardware de Sam Altman",
+      "sourceUrl": "https://br.ign.com/tech/157648/jogador-de-pc-recebe-memoria-ram-novinha-da-corsair-e-se-sente-culpado-por-estar-roubando-hardware-d",
+      "originalTitle": "Jogador de PC recebe memória RAM novinha da Corsair e se sente \"culpado\" por estar \"roubando\" hardware de Sam Altman",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9f5b28d6b90d070e",
+      "publishedAt": "2026-11-14T12:00:36Z",
+      "title": "Eu não tinha dado este mangá uma chance, até eu ver 4 episódios do anime e ficar completamente obcecada",
+      "sourceUrl": "https://br.ign.com/anime/157564/eu-nao-tinha-dado-este-manga-uma-chance-ate-eu-ver-4-episodios-do-anime-e-ficar-completamente-obceca",
+      "originalTitle": "Eu não tinha dado este mangá uma chance, até eu ver 4 episódios do anime e ficar completamente obcecada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a3a4d426576c78ed",
+      "publishedAt": "2026-11-14T12:00:00Z",
+      "title": "Paul McCartney se torna um bilionário, e o 3º músico mais rico do mundo",
+      "sourceUrl": "https://www.omelete.com.br/musica/paul-mccartney-bilionario-3o-musico-mais-rico-do-mundo",
+      "originalTitle": "Paul McCartney se torna um bilionário, e o 3º músico mais rico do mundo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0ea03aa972be0a71",
+      "publishedAt": "2026-11-14T11:47:00Z",
+      "title": "Alerta de \"apagão\" nos escritórios: o videogame GTA VI vem aí",
+      "sourceUrl": "https://neofeed.com.br/finde/alerta-de-apagao-nos-escritorios-o-videogame-gta-vi-vem-ai",
+      "originalTitle": "Alerta de \"apagão\" nos escritórios: o videogame GTA VI vem aí",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e8d3ecdd0d13b9d2",
+      "publishedAt": "2026-11-14T11:33:31Z",
+      "title": "Mulher Invisível e Doutor Destino Invadem MARVEL Cosmic Invasion com DLC \"O Cerco no Castelo do Destino\"",
+      "sourceUrl": "https://www.gamerscore.com.br/mulher-invisivel-e-doutor-destino-invadem-marvel-cosmic-invasion-com-dlc-o-cerco-no-castelo-do-destino",
+      "originalTitle": "Mulher Invisível e Doutor Destino Invadem MARVEL Cosmic Invasion com DLC \"O Cerco no Castelo do Destino\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f75f1eb2cc71afc2",
+      "publishedAt": "2026-11-14T11:30:40Z",
+      "title": "‘No Coração de Nashville’: Jessica Chastain estrela thriller country na Netflix",
+      "sourceUrl": "https://www.einerd.com/no-coracao-de-nashville-jessica-chastain-estrela-thriller-country-na-netflix",
+      "originalTitle": "‘No Coração de Nashville’: Jessica Chastain estrela thriller country na Netflix",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7976cd3b573812c1",
+      "publishedAt": "2026-11-14T11:30:00Z",
+      "title": "O Desejo do Chefe tem estrutura sólida, mas nenhum requinte",
+      "sourceUrl": "https://www.omelete.com.br/korea/o-desejo-do-chefe-dorama-critica-sung-hoon-viki",
+      "originalTitle": "O Desejo do Chefe tem estrutura sólida, mas nenhum requinte",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2cbe56d94fa041c1",
+      "publishedAt": "2026-11-14T11:26:27Z",
+      "title": "Garimpo Gamer traz hub UGREEN 12 em 1, mouse sem fio por R$ 67,11 e SSD NVMe KOOTION",
+      "sourceUrl": "https://arkade.com.br/garimpo-gamer-traz-hub-ugreen-12-em-1-mouse-sem-fio-por-r-6711-e-ssd-nvme-kootion",
+      "originalTitle": "Garimpo Gamer traz hub UGREEN 12 em 1, mouse sem fio por R$ 67,11 e SSD NVMe KOOTION",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-38758f0dde0937bb",
+      "publishedAt": "2026-11-14T11:20:00Z",
+      "title": "Série Zelda foi revigorada por Breath of the Wild, afirmam ex-funcionários da Nintendo",
+      "sourceUrl": "https://www.adrenaline.com.br/games/serie-zelda-foi-revigorada-por-breath-of-the-wild-afirmam-ex-funcionarios-da-nintendo",
+      "originalTitle": "Série Zelda foi revigorada por Breath of the Wild, afirmam ex-funcionários da Nintendo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c084bb2727665149",
+      "publishedAt": "2026-11-14T11:12:49Z",
+      "title": "Marvel acelera 12 anos no tempo para encaixar heróis da era Netflix e driblar caos cronológico do MCU",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-salto-temporal-12-anos-daredevil-era-netflix",
+      "originalTitle": "Marvel acelera 12 anos no tempo para encaixar heróis da era Netflix e driblar caos cronológico do MCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-88a6a5d44df6bc3d",
+      "publishedAt": "2026-11-14T11:00:36Z",
+      "title": "‘Guerreiras do K-Pop’ vira turnê mundial ao vivo; veja as datas",
+      "sourceUrl": "https://www.einerd.com/guerreiras-do-k-pop-vira-turne-mundial-ao-vivo-veja-as-datas",
+      "originalTitle": "‘Guerreiras do K-Pop’ vira turnê mundial ao vivo; veja as datas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cbe728b0479e74c",
+      "publishedAt": "2026-11-14T10:13:09Z",
+      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
+      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-11-14T08:42:48Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-572949cc5e6db113",
+      "publishedAt": "2026-11-14T07:12:37Z",
+      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
+      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-64964f4fafe665dd",
       "publishedAt": "2026-11-14T05:13:02Z",
@@ -519,6 +999,18 @@
       }
     },
     {
+      "id": "radar-b362d696a63a854a",
+      "publishedAt": "2026-11-13T19:18:19Z",
+      "title": "Robert Pattinson pode deixar Batman sem Matt Reeves, avalia jornalista",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/robert-pattinson-pode-deixar-batman-sem-matt-reeves-avalia-jornalista.html",
+      "originalTitle": "Robert Pattinson pode deixar Batman sem Matt Reeves, avalia jornalista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-911a96b342f7c9ec",
       "publishedAt": "2026-11-13T19:00:00Z",
       "title": "Luffy, Sun Wukong e Hanuman: as lendas por trás da nova forma de macaco de ‘One Piece’",
@@ -932,6 +1424,18 @@
       "title": "Warota chega ao PC em Acesso Antecipado",
       "sourceUrl": "https://pizzafria.ig.com.br/news/warota-lancamento-acesso-antecipado",
       "originalTitle": "Warota chega ao PC em Acesso Antecipado",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7edceefff8d192a3",
+      "publishedAt": "2026-11-13T14:41:54Z",
+      "title": "Morre Michael John Roberts, animador e diretor de ‘Bojack Horseman’, aos 48 anos",
+      "sourceUrl": "https://rollingstone.com.br/cinema/morre-michael-john-roberts-animador-e-diretor-de-bojack-horseman-aos-48-anos",
+      "originalTitle": "Morre Michael John Roberts, animador e diretor de ‘Bojack Horseman’, aos 48 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1532,18 +2036,6 @@
       "title": "Metaphor: ReFantazio chega ao Nintendo Switch 2",
       "sourceUrl": "https://animenew.com.br/metaphor-refantazio-nintendo-switch-2",
       "originalTitle": "Metaphor: ReFantazio chega ao Nintendo Switch 2",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6cbe728b0479e74c",
-      "publishedAt": "2026-11-13T00:43:33Z",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2636,18 +3128,6 @@
       "title": "Stick: Criador explica por que separou Pryce e Santi na segunda temporada;",
       "sourceUrl": "https://www.omelete.com.br/series-tv/stick-criador-explica-por-que-separou-pryce-santi-segunda-temporada",
       "originalTitle": "Stick: Criador explica por que separou Pryce e Santi na segunda temporada;",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0e04e0dc0239d27a",
-      "publishedAt": "2026-11-12T10:57:10Z",
-      "title": "Marvel resgata os Eternos e confirma o primeiro filme da Fase 7 — decisão reposiciona o MCU depois de Secret Wars",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-confirma-eternos-2-primeiro-filme-fase-7",
-      "originalTitle": "Marvel resgata os Eternos e confirma o primeiro filme da Fase 7 — decisão reposiciona o MCU depois de Secret Wars",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -7215,18 +7695,6 @@
       }
     },
     {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-11-08T14:26:47Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-8fa044655f2aa778",
       "publishedAt": "2026-11-08T14:00:00Z",
       "title": "Dead Island 2 na PS Plus, Silent Hill f baratinho e mais! Veja as indicações de games",
@@ -10563,18 +11031,6 @@
       }
     },
     {
-      "id": "radar-c084bb2727665149",
-      "publishedAt": "2026-11-05T22:27:33Z",
-      "title": "Marvel acelera 12 anos no tempo para encaixar heróis da era Netflix e driblar caos cronológico do MCU",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-salto-temporal-12-anos-daredevil-era-netflix",
-      "originalTitle": "Marvel acelera 12 anos no tempo para encaixar heróis da era Netflix e driblar caos cronológico do MCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-cd1ed224b162903b",
       "publishedAt": "2026-11-05T22:27:33Z",
       "title": "Jocasta estreia em VisionQuest e escancara aposta da Marvel em inteligência artificial para remodelar o MCU",
@@ -13100,18 +13556,6 @@
       "title": "Vingadores: Doutor Destino ganha vídeo promocional de colaboração com o KFC; confira",
       "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-video-promocional-colaboracao-kfc",
       "originalTitle": "Vingadores: Doutor Destino ganha vídeo promocional de colaboração com o KFC; confira",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-572949cc5e6db113",
-      "publishedAt": "2026-11-03T22:41:09Z",
-      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
-      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -17060,18 +17504,6 @@
       "title": "7 k-dramas de viagem no tempo que você vai se arrepender de pular",
       "sourceUrl": "https://www.einerd.com/7-k-dramas-de-viagem-no-tempo-que-voce-vai-se-arrepender-de-pular",
       "originalTitle": "7 k-dramas de viagem no tempo que você vai se arrepender de pular",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3948d73391d625ec",
-      "publishedAt": "2026-10-31T17:11:11Z",
-      "title": "Jean Grey entra “de penetra” em Brand New Day e revela nova tática da Marvel para lançar os X-Men",
-      "sourceUrl": "https://radiogeekbr.com.br/jean-grey-brand-new-day-estrategia-marvel-x-men",
-      "originalTitle": "Jean Grey entra “de penetra” em Brand New Day e revela nova tática da Marvel para lançar os X-Men",
       "translated": false,
       "editorialReview": {
         "status": "native",
