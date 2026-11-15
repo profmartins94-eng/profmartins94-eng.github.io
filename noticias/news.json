@@ -1,27 +1,891 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T17:58:56.066068Z",
+  "updatedAt": "2026-11-15T23:10:38.802975Z",
   "articles": [
     {
-      "id": "radar-e5aa35ed90f95f18",
-      "title": "Star Wars: Starfighter | Personagem do filme pode ter conexão importante com os Skywalker",
+      "id": "radar-c140aa806f5d42b5",
+      "title": "The End of the Sun Chega ao Xbox Series X|S: Uma Jornada Temporal Pelos Mitos Eslavos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Gamerscore Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T23:01:49Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Gamerscore Brasil",
+      "sourceUrl": "https://www.gamerscore.com.br/the-end-of-the-sun-chega-ao-xbox-series-xs-uma-jornada-temporal-pelos-mitos-eslavos",
+      "image": "https://www.gamerscore.com.br/wp-content/uploads/2026/10/The-End-Of-The-Sun.jpg",
+      "alt": "Imagem publicada por Gamerscore Brasil",
+      "imageCredit": "Imagem: Gamerscore Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "The End of the Sun Chega ao Xbox Series X|S: Uma Jornada Temporal Pelos Mitos Eslavos",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0ae92d915be1abe0",
+      "title": "GTA 6: Rockstar explica progressão de crimes e empatia na história",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T23:00:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/gta-6-rockstar-explica-progressao-crimes-empatia",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/GTA-6-Vice_City_16.16hjjmnxqg9mv.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "GTA 6: Rockstar explica progressão de crimes e empatia na história",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-086e07e4dedda411",
+      "title": "Marvel e DC | Trump defende lei que pode levar gravações de super-heróis de volta aos EUA",
+      "excerpt": "Proposta prevê incentivo fiscal para filmes e séries produzidos no país O presidente dos Estados Unidos, Donald Trump, está defendendo a aprovação de uma proposta que pode mudar os bastidores das produções de Hollywood, incluindo os próximos filmes da Marvel e da DC.",
+      "body": [
+        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T22:37:51Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Legião dos Heróis",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/marvel-e-dc-trump-defende-lei-que-pode-levar-gravacoes-de-super-herois-de-volta-aos-eua.html",
+      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_QoKlV0zIqBbZ.jpeg",
+      "alt": "Imagem publicada por Legião dos Heróis",
+      "imageCredit": "Imagem: Legião dos Heróis",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel e DC | Trump defende lei que pode levar gravações de super-heróis de volta aos EUA",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fed2b6b969b8d886",
+      "title": "Pokémon Colosseum chega ao Nintendo Switch 2 e pode renascer",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em diariodamidia.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T22:33:37Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "diariodamidia.com.br",
+      "sourceUrl": "https://diariodamidia.com.br/pokemon-colosseum-chega-ao-nintendo-switch-2-e-pode-renascer",
+      "image": "https://diariodamidia.com.br/api/og-image.php?f=pokemon-colosseum-chega-ao-nintendo-switch-2-e-pode-renascer.webp&v=3",
+      "alt": "Imagem publicada por diariodamidia.com.br",
+      "imageCredit": "Imagem: diariodamidia.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Pokémon Colosseum chega ao Nintendo Switch 2 e pode renascer",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9b7a62c23ea272e9",
+      "title": "GTA 6 e mais! Veja os lançamentos de games da semana",
+      "excerpt": "Mais uma semana começa com a nossa lista de lançamentos, para te ajudar a se programar para os próximos dias.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T22:30:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/gta-6-e-mais-veja-os-lancamentos-de-games-da-semana",
+      "image": "https://www.estadao.com.br/resizer/v2/XJVEFMJMMRHE5MBOEZIBBQF7A4.jpg?quality=80&auth=243c9ddc3ef2fa90bc174df19ebe301dc34d017d970873bd335105623045a717&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "GTA 6 e mais! Veja os lançamentos de games da semana",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c86c0f0ab38fb204",
+      "title": "Globo vai confinar Samira do BBB 26 no Roblox durante o BBB 27",
+      "excerpt": "Samira voltará ao confinamento no RobloxA Globo vai colocar Samira Sagr, ex-participante do “BBB 26”, numa versão virtual da casa do “Big Brother Brasil” durante a 27ª temporada do reality.",
+      "body": [
+        "Confira a cobertura completa em Pipoca Moderna. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T22:24:38Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Pipoca Moderna",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/globo-samira-bbb-27-casa-virtual-roblox",
+      "image": "https://cdn.pipocamoderna.com.br/wp-content/uploads/2026/02/Samira-Sagr-BBB-26-2-800x500.jpg",
+      "alt": "Imagem publicada por Pipoca Moderna",
+      "imageCredit": "Imagem: Pipoca Moderna",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Globo vai confinar Samira do BBB 26 no Roblox durante o BBB 27",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7b94c2407e04f0b8",
+      "title": "VisionQuest dublado: Marvel lança série de graça no YouTube",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Legado da Marvel. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T22:20:18Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Legado da Marvel",
+      "sourceUrl": "https://legadodamarvel.com.br/visionquest-dublado-marvel-lanca-serie-de-graca-no-youtube",
+      "image": "https://legadodamarvel.com.br/wp-content/uploads/2026/11/VisionQuest-dublado-Marvel-lanca-serie-de-graca-no-YouTube-legadodamarvel.webp",
+      "alt": "Imagem publicada por Legado da Marvel",
+      "imageCredit": "Imagem: Legado da Marvel",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "VisionQuest dublado: Marvel lança série de graça no YouTube",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9cc7ada55181c6f8",
+      "title": "Crítica | Godzilla Conquista o Multiverso",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Plano Crítico. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-15T22:19:45Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Plano Crítico",
+      "sourceUrl": "https://www.planocritico.com/critica-godzilla-conquista-o-multiverso",
+      "image": "https://www.planocritico.com/wp-content/uploads/2026/11/godzilla_conquista_o_multiverso_b_plano_critico.jpg",
+      "alt": "Imagem publicada por Plano Crítico",
+      "imageCredit": "Imagem: Plano Crítico",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Crítica | Godzilla Conquista o Multiverso",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-814999d05a38e91c",
+      "title": "WITCH WATCH terá segunda temporada em 2027 após fim do mangá",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Séries em Cena. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-15T22:16:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Séries em Cena",
+      "sourceUrl": "https://seriesemcena.com.br/noticias/witch-watch-tera-segunda-temporada-em-2027-apos-fim-do-manga",
+      "image": "https://seriesemcena.com.br/wp-content/uploads/2026/11/witch-watch-tera-segunda-temporada-em-2027-apos-fim-do-manga.webp",
+      "alt": "Imagem publicada por Séries em Cena",
+      "imageCredit": "Imagem: Séries em Cena",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "WITCH WATCH terá segunda temporada em 2027 após fim do mangá",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65d79065095150e3",
+      "title": "‘Godzilla Minus Zero’ ultrapassa US$ 100 milhões nas bilheterias mundiais",
+      "excerpt": "Sucesso!",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-15T22:14:29Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/godzilla-minus-zero-ultrapassa-us-100-milhoes-nas-bilheterias-mundiais-776276",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/10/godzilla-minus-zero-1024x576.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Godzilla Minus Zero’ ultrapassa US$ 100 milhões nas bilheterias mundiais",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0165f1447bf3ba8b",
+      "title": "Rumor: Marvel prepara Homem de Ferro 4 em segredo?",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T22:00:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/marvel-homem-de-ferro-4-rumor-robert-downey-jr",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Homem-de-Ferro.webp",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Rumor: Marvel prepara Homem de Ferro 4 em segredo?",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64e8a35bdfc18db8",
+      "title": "Tudo o que você precisa saber antes de comprar um PlayStation",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Estadão. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T21:51:02Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Estadão",
+      "sourceUrl": "https://www.estadao.com.br/em-alta/tecmundo/produto-e-review/286157-tudo-voce-precisa-saber-comprar-playstation",
+      "image": "https://www.estadao.com.br/resizer/v2/PBKCNEQ5BVE6NLA4NRJLZ2DW3M.jpg?auth=ba84e26737555c4bd6cc98dcf30b0266b4040d6d0013e9819d5a481420266a09&quality=80&width=1200&height=630&smart=true",
+      "alt": "Imagem publicada por Estadão",
+      "imageCredit": "Imagem: Estadão",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Tudo o que você precisa saber antes de comprar um PlayStation",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-355be7ba27488996",
+      "title": "Slow Horses | Olivia Cooke diz que oitava temporada da série será a última",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T17:49:00Z",
+      "publishedAt": "2026-11-15T21:51:00Z",
       "displayDate": "15 nov. 2026",
       "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/star-wars-starfighter-personagem-conexao-importante-skywalker",
-      "image": "https://cdn.ome.lt/I_IShjjjH2nOLQCukcPEfPoP-Ws=/1200x630/smart/filters:format(webp)/extras/conteudos/starfighter_N42DJ3H.webp",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/slow-horses-olivia-cooke-oitava-temporada-ultima",
+      "image": "https://cdn.ome.lt/6JhhVrOQ-jQ6KnC4boBlv9CAAmA=/1200x630/smart/filters:format(webp)/extras/conteudos/slowhorses.webp",
       "alt": "Imagem publicada por Omelete",
       "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Star Wars: Starfighter | Personagem do filme pode ter conexão importante com os Skywalker",
+      "originalTitle": "Slow Horses | Olivia Cooke diz que oitava temporada da série será a última",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ee40893b02eb6625",
+      "title": "Pokémon: Duolingo dá pistas de colaboração com os monstrinhos e prepara anúncio para 17 de novembro",
+      "excerpt": "O Duolingo publicou uma imagem misteriosa que indica uma possível colaboração com Pokémon .",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T21:45:25.892000Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/pokemon-duolingo-da-pistas-de-colaboracao-com-os-monstrinhos-e-prepara-anuncio-para-17-de-novembro.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZyD77qIHrwhmfSrJ98jC6a9QebM4hdZGFhzLUnbBP_82sSjrjEFwChL8cTxJcpWzs3H7FmcM3mXp8krf-uq0R5HJChI9PfHQy3PFfBKipah5jbKudZ2syKHX9M64EpPjgmP2fyrv9Fl95ibsykJpKgAJfl_KNpZPY1ozOwSb3U6zciX2hRB35FK-3moz_/s72-w640-h400-c/pikachu%20duolingo.png",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Pokémon: Duolingo dá pistas de colaboração com os monstrinhos e prepara anúncio para 17 de novembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2ef94df849d118a7",
+      "title": "Análise – Kalanoro – Nintendo Switch",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em ResidentEvil.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T21:41:06Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "ResidentEvil.com.br",
+      "sourceUrl": "https://residentevil.com.br/reviews/analise-kalanoro-nintendo-switch",
+      "image": "https://residentevil.com.br/wp-content/uploads/2026/11/Kalanoro-Nintendo-Switch.jpg",
+      "alt": "Imagem publicada por ResidentEvil.com.br",
+      "imageCredit": "Imagem: ResidentEvil.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Análise – Kalanoro – Nintendo Switch",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-05ebe9eb14e7bf28",
+      "title": "Tudo Pode Ser Visto | Marido de Elizabeth Holmes comenta atuação de Amanda Seyfried no documentário",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-15T21:33:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/tudo-pode-ser-visto-marido-elizabeth-holmes-amanda-seyfried-atuacao",
+      "image": "https://cdn.ome.lt/K-2Kex3oipwxa8GQmprehnnyEDQ=/1200x630/smart/filters:format(webp)/extras/conteudos/Hulu-Dropout.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Tudo Pode Ser Visto | Marido de Elizabeth Holmes comenta atuação de Amanda Seyfried no documentário",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6fe0adae2d11d48d",
+      "title": "Mega Man: Dual Override – Revelado o design de Robot Master vencedor de concurso de fãs",
+      "excerpt": "A Capcom revelou Cleanser Man como o vencedor do concurso de criação de Robot Masters para Mega Man: Dual Override .",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T21:29:17.670000Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/mega-man-dual-override-revelado o design-de-robot-master-vencedor-de-concurso-de-fas.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEintnORcI-9zKshb9Xw5VR3nmhtOlX1jZCmjoFz5VaKlfG8gUWygg4-KLcWt4MDvjo8mEJ_MvlT0qtpD9WDDf9iZZbOtjR0vb06B2q6HbVo_4C6twKJC3yvRrxgKu-Mxkn_jTbfCnPcSRZQ6ljVxS8bCtlCb2TaYMXPQf325K410T7oukj-52AH80-Op0wt/s72-w640-h360-c/Mega-Man-Dual-Override-Cleanser-Man-1-656x368.jpg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Mega Man: Dual Override – Revelado o design de Robot Master vencedor de concurso de fãs",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bae4adc24a333090",
+      "title": "‘Toy Story 6’? Produtora comenta futuro da franquia e revela final descartado para o quinto filme",
+      "excerpt": "‘Toy Story’ pode continuar explorando os anos de Bonnie ao lado dos brinquedos.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-15T20:47:58Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/toy-story-6-produtora-comenta-futuro-da-franquia-e-revela-final-descartado-para-o-quinto-filme-776274",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/06/toy-story-5-1024x576.webp",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Toy Story 6’? Produtora comenta futuro da franquia e revela final descartado para o quinto filme",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3da830d087672eaf",
+      "title": "Paul Bettany provoca retorno de Wanda e expõe plano da Marvel de reciclar heróis em VisionQuest",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T20:42:38Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/paul-bettany-retorno-wanda-visionquest-cameos-mcu",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789768502.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Paul Bettany provoca retorno de Wanda e expõe plano da Marvel de reciclar heróis em VisionQuest",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c084bb2727665149",
+      "title": "Marvel acelera 12 anos no tempo para encaixar heróis da era Netflix e driblar caos cronológico do MCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T20:42:38Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-salto-temporal-12-anos-daredevil-era-netflix",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793606155.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Marvel acelera 12 anos no tempo para encaixar heróis da era Netflix e driblar caos cronológico do MCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b7dd232d991a4b80",
+      "title": "Netflix desenterra a velha guarda do Toonami e usa nostalgia para blindar catálogo de anime",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-15T20:42:38Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/netflix-toonami-nostalgia-animes-cartoon-network",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794725012.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Netflix desenterra a velha guarda do Toonami e usa nostalgia para blindar catálogo de anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b2e1d414ccde2363",
+      "title": "Phil Collins dá atualizações sobre estado de saúde e futuros trabalhos em cerimônia do Rock & Roll Hall of Fame",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-15T20:42:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/musica/phil-collins-atualiza-estado-saude-trabalho-rock-roll-hall-of-fame",
+      "image": "https://cdn.ome.lt/1zges2Zp_kmak7ytSyaaSR4h2Nc=/1200x630/smart/filters:format(webp)/extras/conteudos/philcollins.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Phil Collins dá atualizações sobre estado de saúde e futuros trabalhos em cerimônia do Rock & Roll Hall of Fame",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9a885a683198cfbb",
+      "title": "Novo Motoqueiro Fantasma quer ser “pé no chão”",
+      "excerpt": "Linus Sandgren comenta os planos para o filme O novo Motoqueiro Fantasma, estrelado por Ryan Gosling, quer explorar o lado dramático do Espírito de Vingança.",
+      "body": [
+        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T20:37:40Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Legião dos Heróis",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/novo-motoqueiro-fantasma-quer-ser-pe-no-chao.html",
+      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_9NiYcsJS4mwP.jpg",
+      "alt": "Imagem publicada por Legião dos Heróis",
+      "imageCredit": "Imagem: Legião dos Heróis",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Novo Motoqueiro Fantasma quer ser “pé no chão”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-60b1550aad9ea217",
+      "title": "Adeus definitivo a Mushoku Tensei: último livro da sequência chega em 2026 e fecha a era do isekai raiz",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-15T20:27:31Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/adeus-definitivo-mushoku-tensei-ultimo-livro-sequencia-2026",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1783740976.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Adeus definitivo a Mushoku Tensei: último livro da sequência chega em 2026 e fecha a era do isekai raiz",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-76a9f6e8d07cc70d",
+      "title": "Vingadores: Doutor Destino | Kevin Feige celebra união dos Vingadores e dos X-Men",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T19:51:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-x-men-kevin-feige-uniao-cinema",
+      "image": "https://cdn.ome.lt/gaEEdfX7XICKSGa_rNaRCsPxsMw=/1200x630/smart/filters:format(webp)/extras/conteudos/xmen_LZDw26R.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino | Kevin Feige celebra união dos Vingadores e dos X-Men",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0856ad186265d2c2",
+      "title": "Quatro episódios são isca: novo anime de Naruto prepara virada definitiva da franquia",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-15T19:42:49Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-anime-naruto-virada-franquia",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1790295968.webp",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Quatro episódios são isca: novo anime de Naruto prepara virada definitiva da franquia",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fbc1a36b53b31776",
+      "title": "Sem ideia do que fazer? Confira 5 atrações de graça em Manaus com samba, anime e cultura neste domingo (15)",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Portal CM7. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-15T19:32:52Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Portal CM7",
+      "sourceUrl": "https://www.cm7brasil.com/entretenimento/agenda-cultural/sem-ideia-do-que-fazer-confira-5-atracoes-de-graca-em-manaus-com-samba-anime-e-cultura-neste-domingo-15",
+      "image": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/11/15152213/1-2026-11-15T152204.726.jpg",
+      "alt": "Imagem publicada por Portal CM7",
+      "imageCredit": "Imagem: Portal CM7",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Sem ideia do que fazer? Confira 5 atrações de graça em Manaus com samba, anime e cultura neste domingo (15)",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5e52245459dcb048",
+      "title": "Star Wars: Galactic Racer supera 1,5 milhão de jogadores",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-15T19:32:07Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "GameVicio",
+      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/star-wars-galactic-racer-15-milhao-jogadores",
+      "image": "https://www.gamevicio.com/wp-content/uploads/2026/11/star-wars-galactic-racer-15-milhao-jogadores-e1794771114116.jpg",
+      "alt": "Imagem publicada por GameVicio",
+      "imageCredit": "Imagem: GameVicio",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Star Wars: Galactic Racer supera 1,5 milhão de jogadores",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0637709507dad3b7",
+      "title": "Doctor Who | David Tennant comenta futuro da série: \"Merece continuar para sempre\"",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T19:25:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/doctor-who-david-tennant-futuro-serie",
+      "image": "https://cdn.ome.lt/sxdl8VFXrHxYg9V0-EyJ80oIVEY=/1200x630/smart/filters:format(webp)/extras/conteudos/doctor.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Doctor Who | David Tennant comenta futuro da série: \"Merece continuar para sempre\"",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-af371169e192bc41",
+      "title": "A Certain Dark Item revela quatro novas vilãs e prepara confronto entre equipes no anime",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Portal N10. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-15T19:13:38Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Portal N10",
+      "sourceUrl": "https://portaln10.com.br/entrete/animes/a-certain-dark-item-revela-quatro-novas-vilas-e-prepara-confronto-entre-equipes-no-anime-357751",
+      "image": "https://portaln10.com.br/wp-content/uploads/2026/11/Mikoto-Misaka-aparece-em-novo-trailer-de-A-Certain-Dark-Item.jpg",
+      "alt": "Imagem publicada por Portal N10",
+      "imageCredit": "Imagem: Portal N10",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "A Certain Dark Item revela quatro novas vilãs e prepara confronto entre equipes no anime",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aafe734b2286c0f7",
+      "title": "Análise: The Binding of Isaac: Repentance+ é a versão definitiva do clássico roguelite, agora no Switch 2",
+      "excerpt": "Se você é fã de jogos indie e roguelites, certamente já ouviu falar em The Binding of Isaac.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T19:00:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-binding-of-isaac-repentance-switch-2-analise-critica-review.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Ext3CsvjgxV4pjk1G-ComXfCR-Uqe8go4F8JrwFDFjQZPMa_RJilsX1i-8-2pRI9fXujUwyAXkloYj87cuMbK5exlmFJ20ULgY04dbmJS64TgRmAfgCYqD7rSKx-PDF0jxYyEZf2UHrc75yT9EtFq_7fnSwlTbnS6c8XQQE1D-tzDZSoYBbqOpcY/s72-w640-h360-c/3f73756a35fb31f63ac6b97fb086d3edcf820490610896a5981f8b57b002a238.png",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Análise: The Binding of Isaac: Repentance+ é a versão definitiva do clássico roguelite, agora no Switch 2",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c81cfa29bb94bb3c",
+      "title": "DOOM: The Dark Ages anuncia Slaughter Mode com muito mais demônios e ação; confira",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-15T18:44:00Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/games/doom-the-dark-ages-slaughter-mode-revelation-demonios",
+      "image": "https://cdn.ome.lt/tDv_2gkFQ1bXFXeg3gfflAbb8Qw=/1200x630/smart/filters:format(webp)/extras/conteudos/doom_1_2tkoax2.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "DOOM: The Dark Ages anuncia Slaughter Mode com muito mais demônios e ação; confira",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cfe8f7aba7753536",
+      "title": "Happy Magical Nirvana | NewPOP lança mangá BL de volume único em dezembro",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em jwave.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-15T18:40:33Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "jwave.com.br",
+      "sourceUrl": "https://www.jwave.com.br/2026/11/happy-magical-nirvana-newpop-lanca-manga-bl-de-volume-unico-em-dezembro",
+      "image": "https://www.jwave.com.br/wp-content/uploads/2026/11/Happy-Magical-Nirvana.png",
+      "alt": "Imagem publicada por jwave.com.br",
+      "imageCredit": "Imagem: jwave.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Happy Magical Nirvana | NewPOP lança mangá BL de volume único em dezembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3c07e92056f9d1ff",
+      "title": "Project Helix será um console capaz de rodar jogos de PC, e não um PC que roda jogos de Xbox, explica executivo",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Central Xbox. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-15T18:14:33Z",
+      "displayDate": "15 nov. 2026",
+      "sourceName": "Central Xbox",
+      "sourceUrl": "https://centralxbox.com.br/2026/11/15/project-helix-sera-um-console-capaz-de-rodar-jogos-de-pc-e-nao-um-pc-que-roda-jogos-de-xbox-explica-executivo",
+      "image": "https://centralxbox.com.br/wp-content/uploads/2026/03/Xbox-Helix.jpg",
+      "alt": "Imagem publicada por Central Xbox",
+      "imageCredit": "Imagem: Central Xbox",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Project Helix será um console capaz de rodar jogos de PC, e não um PC que roda jogos de Xbox, explica executivo",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -55,84 +919,6 @@
       }
     },
     {
-      "id": "radar-39ea6768ccff973c",
-      "title": "Suikoden: The Anime chega ao Crunchyroll",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em culpadolag.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-15T17:16:41Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "culpadolag.com.br",
-      "sourceUrl": "https://culpadolag.com.br/suikoden-the-anime-chega-ao-crunchyroll-2",
-      "image": "https://culpadolag.com.br/storage/posts/suikoden-the-anime-chega-ao-crunchyroll-3bc1758e.webp",
-      "alt": "Imagem publicada por culpadolag.com.br",
-      "imageCredit": "Imagem: culpadolag.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Suikoden: The Anime chega ao Crunchyroll",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-8800e60c6769708e",
-      "title": "77º Kohaku Uta Gassen anuncia Ado, YOASOBI, TM NETWORK, T.M.Revolution e mais atrações",
-      "excerpt": "O programa musical mais prestigiado da televisão japonesa vai ao ar em 31 de dezembro",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-15T17:15:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/15/77-kohaku-uta-gassen-anuncia-ado-yoasobi-tm-network-tm-revolution",
-      "image": "https://a.storyblok.com/f/178900/960x540/9dd6061ebe/77th-kohaku-header.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "77º Kohaku Uta Gassen anuncia Ado, YOASOBI, TM NETWORK, T.M.Revolution e mais atrações",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b1c680f55927e481",
-      "title": "Halo: Campaign Evolved vai ganhar mapas e armas com o retorno de Firefight",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Ver-o-Fato. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T17:13:57Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Ver-o-Fato",
-      "sourceUrl": "https://ver-o-fato.com.br/halo-campaign-evolved-firefight-inverno-2026",
-      "image": "https://ver-o-fato.com.br/wp-content/uploads/imagens-sociais/250650-5a3fbda7ef.jpg",
-      "alt": "Imagem publicada por Ver-o-Fato",
-      "imageCredit": "Imagem: Ver-o-Fato",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Halo: Campaign Evolved vai ganhar mapas e armas com o retorno de Firefight",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-f8527fb24df04835",
       "title": "Anime A Certain Dark Item divulga trailer “VS ITEM”",
       "excerpt": "A Crunchyroll transmite a adaptação baseada na série de light novels de ficção científica",
@@ -152,110 +938,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Anime A Certain Dark Item divulga trailer “VS ITEM”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3fd1b025b3a86e1e",
-      "title": "Better xCloud: ferramenta gratuita melhora o Xbox Cloud Gaming, incluindo a versão com anúncios, em PC, celular e TV",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T17:00:52Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/better-xcloud-ferramenta-gratuita-melhora-o-xbox-cloud-gaming-incluindo-a-versao-com-anuncios-em-pc-celular-e-tv",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/11/better-xcloud-ferramenta-gratuita-melhora-o-xbox-cloud-gaming-incluindo-a-versao.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Better xCloud: ferramenta gratuita melhora o Xbox Cloud Gaming, incluindo a versão com anúncios, em PC, celular e TV",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a0f7b7677d6643e0",
-      "title": "Com 87% de aprovação, melhor trilogia da Marvel surpreende no Disney+",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em UOL. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T17:00:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "UOL",
-      "sourceUrl": "https://tangerina.uol.com.br/filmes-series/com-87-de-aprovacao-melhor-trilogia-da-marvel-surpreende-no-disney-plus",
-      "image": "https://feira.tangerina.news/wp-content/uploads/2026/11/paul-bettany-WandaVision-trilogia-marvel.jpg",
-      "alt": "Imagem publicada por UOL",
-      "imageCredit": "Imagem: UOL",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Com 87% de aprovação, melhor trilogia da Marvel surpreende no Disney+",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3766ac4d3e7349b2",
-      "title": "A Odisseia | Matt Damon revela que Ben Affleck adorou a performance de Robert Pattinson",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-15T16:49:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/a-odisseia-matt-damon-ben-affleck-robert-pattinson",
-      "image": "https://cdn.ome.lt/BK2jNdaVTaoMYtC351ejAnWZCro=/1200x630/smart/filters:format(webp)/extras/conteudos/1794760550824813.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "A Odisseia | Matt Damon revela que Ben Affleck adorou a performance de Robert Pattinson",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-bd89da6b0bd2e4e5",
-      "title": "Quais jogos de GTA seguem disponíveis antes do 6",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em SpaceMoney. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T16:45:19Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "SpaceMoney",
-      "sourceUrl": "https://www.spacemoney.com.br/tecnologia/onde-jogar-gta-antes-do-6",
-      "image": "https://www.spacemoney.com.br/wp-content/uploads/2026/11/pexels-photo-9069366-5.webp",
-      "alt": "Imagem publicada por SpaceMoney",
-      "imageCredit": "Imagem: SpaceMoney",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Quais jogos de GTA seguem disponíveis antes do 6",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -289,32 +971,6 @@
       }
     },
     {
-      "id": "radar-84883ab9816f585f",
-      "title": "Crunchyroll usa nostalgia de Zelda para converter gamers em assinantes de anime",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T16:28:20Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/crunchryoll-nostalgia-zelda-converter-gamers-assinantes-anime",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794162422.webp",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Crunchyroll usa nostalgia de Zelda para converter gamers em assinantes de anime",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-4014366c25aa9c75",
       "title": "Gatto, nova animação da Pixar, ganha pôster inédito; confira",
       "excerpt": "",
@@ -334,188 +990,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Gatto, nova animação da Pixar, ganha pôster inédito; confira",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a9b40cd8054ecefc",
-      "title": "PlayStation Plus de novembro tem Death Stranding 2, Atomfall e mais",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Showmetech. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T16:08:50Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Showmetech",
-      "sourceUrl": "https://www.showmetech.com.br/playstation-plus-de-novembro-2026",
-      "image": "https://www.showmetech.com.br/wp-content/uploads//2026/11/playstation-plus-novembro-2026-catalogo-jogos-1024x576.avif",
-      "alt": "Imagem publicada por Showmetech",
-      "imageCredit": "Imagem: Showmetech",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "PlayStation Plus de novembro tem Death Stranding 2, Atomfall e mais",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7bb2daf2cff413d2",
-      "title": "Star Wars: Fate of the Old Republic promete novidades em 2027",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-15T16:07:36Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "GameVicio",
-      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/star-wars-fate-old-republic-novidades-2026",
-      "image": "https://www.gamevicio.com/wp-content/uploads/2026/11/star-wars-fate-old-republic-novidades-2026.jpg",
-      "alt": "Imagem publicada por GameVicio",
-      "imageCredit": "Imagem: GameVicio",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Star Wars: Fate of the Old Republic promete novidades em 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-380e330368d116f4",
-      "title": "Boneco de Jason Vorhees de Crystal Lake já está à venda; veja",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "colecionaveis",
-      "categoryName": "Colecionáveis",
-      "publishedAt": "2026-11-15T16:03:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/crystal-lake-jason-vorhees-boneco-venda",
-      "image": "https://cdn.ome.lt/nvEXyrjLKTM8aM8DjuC8m3SDfZk=/1200x630/smart/filters:format(webp)/extras/conteudos/jason.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Boneco de Jason Vorhees de Crystal Lake já está à venda; veja",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4980bb7df45bde30",
-      "title": "Tesla libera pré-pedidos do Cybercab para uso pessoal com restrições no Texas e taxa de US$ 299 por mês",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T16:00:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/tesla-libera-pre-pedidos-do-cybercab-para-uso-pessoal-com-restricoes-no-texas-e-taxa-de-us-299-por-mes",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/11/tesla-libera-pre-pedidos-do-cybercab-para-uso-pessoal-com-restricoes-no-texas-e.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Tesla libera pré-pedidos do Cybercab para uso pessoal com restrições no Texas e taxa de US$ 299 por mês",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-45b70c98f361175c",
-      "title": "Vingadores: Doutor Destino | Confira imagens dos novos colecionáveis do filme",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "colecionaveis",
-      "categoryName": "Colecionáveis",
-      "publishedAt": "2026-11-15T15:50:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-colecionaveis-hot-toys",
-      "image": "https://cdn.ome.lt/72mh6zWghyjMF_SDqp8LtMMyTv0=/1200x630/smart/filters:format(webp)/extras/conteudos/vondoom_7IUYxSu.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino | Confira imagens dos novos colecionáveis do filme",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f15382bb9e919f55",
-      "title": "Atriz da Marvel revela que foi vítima de agressão sexual ao explicar participação em filme de diretora brasileira",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Globo. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T15:48:56Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Globo",
-      "sourceUrl": "https://revistamonet.globo.com/filmes/noticia/2026/11/atriz-da-marvel-revela-que-foi-vitima-de-agressao-sexual-ao-explicar-participacao-em-filme-de-diretora-brasileira.ghtml",
-      "image": "https://s2-monet.glbimg.com/doMLA0p9tv2hFrwvfCVKy2NkPMY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e7c91519bbbb4fadb4e509085746275d/internal_photos/bs/2026/J/x/ZwqGydQDCsPwvcgZIpew/abre-monet-1980-x-1080-2026-11-15t115227.438.png",
-      "alt": "Imagem publicada por Globo",
-      "imageCredit": "Imagem: Globo",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Atriz da Marvel revela que foi vítima de agressão sexual ao explicar participação em filme de diretora brasileira",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-572edba6042e54a0",
-      "title": "O Final (e pós-créditos) de VisionQuest + James Gunn FORA da DC | De Quinta Podcast",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T15:36:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/de-quinta-omeleteve-james-gunn-visionquest",
-      "image": "https://cdn.ome.lt/hkrxlo7fDaZWpiy-81PURsCo87A=/1200x630/smart/filters:format(webp)/extras/conteudos/1794756686981523.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "O Final (e pós-créditos) de VisionQuest + James Gunn FORA da DC | De Quinta Podcast",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -551,84 +1025,6 @@
       }
     },
     {
-      "id": "radar-ee0d339ff8de3471",
-      "title": "GTA 6 bate recorde de pré-vendas na PlayStation",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em MaisTecnologia. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T15:17:07Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "MaisTecnologia",
-      "sourceUrl": "https://www.maistecnologia.com/gta-6-bate-recorde-de-pre-vendas-na-playstation",
-      "image": "https://www.maistecnologia.com/wp-content/uploads/2026/11/a-caixa-de-gta-6-ja-apareceu-eis-o-que-traz-maistecnologia.com.jpg",
-      "alt": "Imagem publicada por MaisTecnologia",
-      "imageCredit": "Imagem: MaisTecnologia",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "GTA 6 bate recorde de pré-vendas na PlayStation",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d0704e983547cbff",
-      "title": "Coisas sobre Anime [23] – Seitokai ni mo Ana wa Aru!",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em PróximoNível. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-15T15:05:16Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "PróximoNível",
-      "sourceUrl": "https://proximonivel.pt/coisas-sobre-anime-23-seitokai-ni-mo-ana-wa-aru",
-      "image": "https://proximonivel.pt/wp-content/uploads/2026/11/seitokai-ni-mo-ana-wa-aru-random-001-pn.jpg",
-      "alt": "Imagem publicada por PróximoNível",
-      "imageCredit": "Imagem: PróximoNível",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Coisas sobre Anime [23] – Seitokai ni mo Ana wa Aru!",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3a845d058bb61358",
-      "title": "‘Harry Potter’: Novo clipe da série da HBO recria cena ICÔNICA; Confira!",
-      "excerpt": "A HBO divulgou um clipe inédito da nova adaptação de ‘Harry Potter‘.",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T14:59:35Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/harry-potter-novo-clipe-da-serie-da-hbo-recria-cena-iconica-confira-776239",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/03/harry-potter-8.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘Harry Potter’: Novo clipe da série da HBO recria cena ICÔNICA; Confira!",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-d4bf30fd4029decc",
       "title": "MARVEL Tōkon: Fighting Souls ganha DLC com versão de Ciclope da Fênix Negra; veja",
       "excerpt": "",
@@ -648,32 +1044,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "MARVEL Tōkon: Fighting Souls ganha DLC com versão de Ciclope da Fênix Negra; veja",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-36b5f0318b29ad88",
-      "title": "Archive of Our Own, site de fanfics conhecido como AO3, volta a funcionar após mais de duas semanas fora do ar",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-15T14:11:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/ao3-volta-ao-ar-apos-duas-semanas",
-      "image": "https://cdn.ome.lt/ipHGzTj8z1n-hxq7LyAOrZSIdQQ=/1200x630/smart/filters:format(webp)/extras/conteudos/ao3.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Archive of Our Own, site de fanfics conhecido como AO3, volta a funcionar após mais de duas semanas fora do ar",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -707,136 +1077,6 @@
       }
     },
     {
-      "id": "radar-ff8a564131fca0b0",
-      "title": "Love Live! Hasunosora revela primeiras cenas do novo anime com sete episódios",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Portal N10. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-15T13:58:40Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Portal N10",
-      "sourceUrl": "https://portaln10.com.br/entrete/animes/love-live-hasunosora-primeiras-cenas-anime-2027-357744",
-      "image": "https://portaln10.com.br/wp-content/uploads/2026/11/Anime-de-Love-Live-Hasunosora-revela-primeiras-cenas-da-nova-geracao.jpg",
-      "alt": "Imagem publicada por Portal N10",
-      "imageCredit": "Imagem: Portal N10",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Love Live! Hasunosora revela primeiras cenas do novo anime com sete episódios",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4b13c93f2df97097",
-      "title": "VisionQuest | Showrunner esclarece dúvidas sobre voz de Doutor Destino na série",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T13:50:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/visionquest-showrunner-confirma-voz-robert-downey-jr",
-      "image": "https://cdn.ome.lt/chvOEEAJDKm4GwCV11BBhmhfCw8=/1200x630/smart/filters:format(webp)/extras/conteudos/drdoom_pWVKTW2.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "VisionQuest | Showrunner esclarece dúvidas sobre voz de Doutor Destino na série",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4600b7921c5e3414",
-      "title": "Marvel solta Sentry em teaser de produtos e muda o jogo de hype para “Avengers: Doomsday”",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T13:42:35Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-solta-sentry-teaser-produtos-muda-hype-avengers-doomsday",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1788846000.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel solta Sentry em teaser de produtos e muda o jogo de hype para “Avengers: Doomsday”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-31075c097f98589c",
-      "title": "Marvel insere 6º filme após “Avengers: Doomsday” e põe à prova seu novo reset de franquia",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T13:42:35Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-sexto-filme-pos-avengers-doomsday-aposta-reset",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1784941815.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel insere 6º filme após “Avengers: Doomsday” e põe à prova seu novo reset de franquia",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a664aa29968e1e11",
-      "title": "Marvel retoca linha capilar de Chris Evans em ‘Avengers: Doomsday’ e escancara obsessão com nostalgia",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T13:42:35Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-retoca-linha-capilar-chris-evans-avengers-doomsday",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794223633.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Marvel retoca linha capilar de Chris Evans em ‘Avengers: Doomsday’ e escancara obsessão com nostalgia",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-82b2033f6d82540c",
       "title": "DC: petição para manter James Gunn no comando passa de 235 mil assinaturas",
       "excerpt": "Mobilização também pede a permanência de Peter Safran A campanha para manter James Gunn e Peter Safran no comando da DC Studios ultrapassou 235 mil assinaturas.",
@@ -856,32 +1096,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "DC: petição para manter James Gunn no comando passa de 235 mil assinaturas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b382d8a900c8fe44",
-      "title": "Funcom libera modo offline completo no Dune: Awakening",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em GameVicio. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-15T13:25:28Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "GameVicio",
-      "sourceUrl": "https://www.gamevicio.com/noticias/2026/11/dune-awakening-modo-offline",
-      "image": "https://www.gamevicio.com/wp-content/uploads/2026/10/dune-awakening-blood-and-ice-dezembro.png",
-      "alt": "Imagem publicada por GameVicio",
-      "imageCredit": "Imagem: GameVicio",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Funcom libera modo offline completo no Dune: Awakening",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -945,84 +1159,6 @@
       }
     },
     {
-      "id": "radar-d0384187392099dc",
-      "title": "LEGO celebra os 50 anos de Star Wars com os melhores sets de sempre",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Magazine.HD. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "colecionaveis",
-      "categoryName": "Colecionáveis",
-      "publishedAt": "2026-11-15T13:00:28Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Magazine.HD",
-      "sourceUrl": "https://www.magazine-hd.com/apps/wp/lego-celebra-50-anos-star-wars-melhores-sets-sempre",
-      "image": "https://www.magazine-hd.com/apps/wp/wp-content/uploads/2026/11/lego-star-wars-50-anos.webp",
-      "alt": "Imagem publicada por Magazine.HD",
-      "imageCredit": "Imagem: Magazine.HD",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "LEGO celebra os 50 anos de Star Wars com os melhores sets de sempre",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4d8b9be0cb457d1b",
-      "title": "Warner Bros. confirma participação na CCXP26 com experiências de Duna: Parte Três e Godzilla x Kong: Supernova",
-      "excerpt": "A Warner Bros.",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-15T13:00:00Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/warner-bros-confirma-participacao-na-ccxp26-com-experiencias-de-duna-parte-tres-e-godzilla-x-kong-supernova",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/11/Capa-Materias-19.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Warner Bros. confirma participação na CCXP26 com experiências de Duna: Parte Três e Godzilla x Kong: Supernova",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-65805484956d4d67",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-15T12:42:34Z",
-      "displayDate": "15 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792571177.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-68b51d937868902b",
       "title": "“Era um PowerPoint com ideias de executivos”: aqueles que testaram Fairgames, que foi cancelado pela Sony, não pouparam críticas ao jogo",
       "excerpt": "Fairgames estava sendo desenvolvido por Jade Raymond, veterana da Ubisoft, ao menos até sua saída em 2025",
@@ -1079,51 +1215,25 @@
       }
     },
     {
-      "id": "radar-4807fbd8be063f8b",
-      "title": "Metaphor: ReFantazio estreia no Nintendo Switch 2 com três opções gráficas",
-      "excerpt": "",
+      "id": "radar-892716d21d5fbd84",
+      "title": "Nova série de Harry Potter da HBO revela banquete de Hogwarts; confira",
+      "excerpt": "Adaptação de A Pedra Filosofal estreia no Natal Harry Potter e a Pedra Filosofal ganhou seu primeiro clipe oficial, com direito ao banquete que recebe os novos alunos em Hogwarts.",
       "body": [
-        "Confira a cobertura completa em ON Pop Life. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T04:23:58Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-15T10:34:00Z",
       "displayDate": "15 nov. 2026",
-      "sourceName": "ON Pop Life",
-      "sourceUrl": "https://onpoplife.com.br/metaphor-refantazio-estreia-no-nintendo-switch-2-com-tres-opcoes-graficas",
-      "image": "https://onpoplife.com.br/wp-content/uploads/2026/11/Metaphor-capa.jpg",
-      "alt": "Imagem publicada por ON Pop Life",
-      "imageCredit": "Imagem: ON Pop Life",
+      "sourceName": "Legião dos Heróis",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/nova-serie-de-harry-potter-da-hbo-revela-banquete-de-hogwarts-confira.html",
+      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_6FPT9qtizs3E.jpg",
+      "alt": "Imagem publicada por Legião dos Heróis",
+      "imageCredit": "Imagem: Legião dos Heróis",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Metaphor: ReFantazio estreia no Nintendo Switch 2 com três opções gráficas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-012b16c062ba277d",
-      "title": "Minecraft receberá controles de mouse para o Nintendo Switch 2",
-      "excerpt": "A versão de Minecraft para Nintendo Switch 2 receberá controles de mouse compatíveis com o Joy-Con 2.",
-      "body": [
-        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-15T01:05:39.137000Z",
-      "displayDate": "14 nov. 2026",
-      "sourceName": "Nintendo Blast",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/minecraft-recebera-controles-de-mouse-para-o-nintendo-switch-2.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwP8vUhnCOYi6f7fgCsVlOHEVPABUFNm6NLpy0LBsTzRIDUbg9w_S5bumGLbHLySdGSj-238Efw9YffhPOlI_362I9XsoLCquR__nBqgwYnNpN42a_U6I2awq69TmQCxQnJW03U3jaQ7yye3Y4pErFQARFAlO5Y7aWF5oGafcYCfycuANBcUxpJ8pLQFM/s72-w640-h360-c/minecraft.jpg",
-      "alt": "Imagem publicada por Nintendo Blast",
-      "imageCredit": "Imagem: Nintendo Blast",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Minecraft receberá controles de mouse para o Nintendo Switch 2",
+      "originalTitle": "Nova série de Harry Potter da HBO revela banquete de Hogwarts; confira",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -1151,62 +1261,6 @@
       "translated": false,
       "originalTitle": "Chris Pratt quer fazer Guardiões da Galáxia 4 com James Gunn",
       "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e3e47ebdfd0acfa5",
-      "title": "CCXP 2026: datas, ingressos e atrações confirmadas da CCXP26",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em escutai. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-14T21:59:37Z",
-      "displayDate": "14 nov. 2026",
-      "sourceName": "escutai",
-      "sourceUrl": "https://escutai.com/ccxp-2026-datas-ingressos-atracoes",
-      "image": "https://escutai.com/wp-content/uploads/2026/11/CCXP.webp",
-      "alt": "Imagem publicada por escutai",
-      "imageCredit": "Imagem: escutai",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "CCXP 2026: datas, ingressos e atrações confirmadas da CCXP26",
-      "tags": [
-        "evento"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-539c7f3b3e760bcc",
-      "title": "Morre Skip Hinnant, ator de The Electric Company e voz do Gato Fritz, aos 86 anos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-14T21:16:00Z",
-      "displayDate": "14 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/morre-skip-hinnant-86-anos",
-      "image": "https://cdn.ome.lt/O0HLmasn1B7Uun-WAU1ebQ5b8CQ=/1200x630/smart/filters:format(webp)/extras/conteudos/Skip-Hinnant-111426-1-0029b027149d467e86ee89e5eb.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Morre Skip Hinnant, ator de The Electric Company e voz do Gato Fritz, aos 86 anos",
-      "tags": [
-        "luto"
-      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
