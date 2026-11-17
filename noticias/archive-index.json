@@ -1,7 +1,595 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T04:46:43.369912Z",
+  "updatedAt": "2026-11-17T14:53:27.029567Z",
   "articles": [
+    {
+      "id": "radar-c441b1d0fec61308",
+      "publishedAt": "2026-11-17T14:48:50Z",
+      "title": "POPUCOM chega ao PS5 com trailer de lançamento",
+      "sourceUrl": "https://criticalhits.com.br/games/popucom-chega-ao-ps5-com-trailer-de-lancamento",
+      "originalTitle": "POPUCOM chega ao PS5 com trailer de lançamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95ffc84771447ea8",
+      "publishedAt": "2026-11-17T14:46:50Z",
+      "title": "Filmagens de Ocean’s 14 ficam para o fim de 2027, confirma Brad Pitt",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/filmagens-de-oceans-14-ficam-para-o-fim-de-2027-confirma-brad-pitt",
+      "originalTitle": "Filmagens de Ocean’s 14 ficam para o fim de 2027, confirma Brad Pitt",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-082e867b4f1a70b9",
+      "publishedAt": "2026-11-17T14:45:00Z",
+      "title": "HBO Max divulga as 10 séries mais amadas pelos fãs na América Latina",
+      "sourceUrl": "https://arkade.com.br/hbo-max-divulga-as-10-series-mais-amadas-pelos-fas-na-america-latina",
+      "originalTitle": "HBO Max divulga as 10 séries mais amadas pelos fãs na América Latina",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-86e8556ac1cfdf29",
+      "publishedAt": "2026-11-17T14:44:50Z",
+      "title": "Doctor Who exibe episódio estendido nos cinemas com cenas inéditas",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/doctor-who-exibe-episodio-estendido-nos-cinemas-com-cenas-ineditas",
+      "originalTitle": "Doctor Who exibe episódio estendido nos cinemas com cenas inéditas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-74fff7608641f84d",
+      "publishedAt": "2026-11-17T14:42:50Z",
+      "title": "Justiça britânica rejeita ação contra Sony por preços do PlayStation",
+      "sourceUrl": "https://criticalhits.com.br/games/justica-britanica-rejeita-acao-contra-sony-por-precos-do-playstation",
+      "originalTitle": "Justiça britânica rejeita ação contra Sony por preços do PlayStation",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d3640876323d300e",
+      "publishedAt": "2026-11-17T14:41:35Z",
+      "title": "Drova II: Torn Lands | Preview",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/drova-ii-torn-lands-preview",
+      "originalTitle": "Drova II: Torn Lands | Preview",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-85963f70db6ac530",
+      "publishedAt": "2026-11-17T14:41:27Z",
+      "title": "Sony vence processo de US$ 2,6 bilhões por preços de jogos no PlayStation",
+      "sourceUrl": "https://www.hardware.com.br/games/sony-vence-26-bilhoes-playstation",
+      "originalTitle": "Sony vence processo de US$ 2,6 bilhões por preços de jogos no PlayStation",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3b28ef4213ab6a37",
+      "publishedAt": "2026-11-17T14:38:50Z",
+      "title": "Animal Crossing ganha seis modelos de hashis em dezembro",
+      "sourceUrl": "https://criticalhits.com.br/games/animal-crossing-ganha-seis-modelos-de-hashis-em-dezembro",
+      "originalTitle": "Animal Crossing ganha seis modelos de hashis em dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9d799f3a9d3f10dc",
+      "publishedAt": "2026-11-17T14:36:00Z",
+      "title": "Superman | Atriz compartilha abaixo-assinado pela permanência de James Gunn no comando da DC",
+      "sourceUrl": "https://www.omelete.com.br/filmes/james-gunn-peter-safran-saida-dc-studios-abaixo-assinado-permanencia",
+      "originalTitle": "Superman | Atriz compartilha abaixo-assinado pela permanência de James Gunn no comando da DC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8226f8d6f3a37e6f",
+      "publishedAt": "2026-11-17T14:33:00Z",
+      "title": "Jogos Vorazes | Jennifer Lawrence reencontra Josh Hutcherson na estreia de Amanhecer na Colheita",
+      "sourceUrl": "https://www.omelete.com.br/filmes/jogos-vorazes-jennifer-lawrence-josh-hutcherson-reencontro-amanhecer-na-colheita",
+      "originalTitle": "Jogos Vorazes | Jennifer Lawrence reencontra Josh Hutcherson na estreia de Amanhecer na Colheita",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d4e6c6ac03c96d62",
+      "publishedAt": "2026-11-17T14:28:00Z",
+      "title": "Filme de Impuros será focado em Gilmar",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/filme-de-impuros-sera-focado-em-gilmar",
+      "originalTitle": "Filme de Impuros será focado em Gilmar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2fa5b07b43a76964",
+      "publishedAt": "2026-11-17T14:13:00Z",
+      "title": "Brad Pitt explica por que Leonardo DiCaprio ficou fora do novo filme de Cliff Booth",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/brad-pitt-explica-por-que-leonardo-dicaprio-ficou-fora-do-novo-filme-de-cliff-booth",
+      "originalTitle": "Brad Pitt explica por que Leonardo DiCaprio ficou fora do novo filme de Cliff Booth",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bcab7adaf1a33917",
+      "publishedAt": "2026-11-17T14:12:48Z",
+      "title": "Novo Sexta-Feira 13 pode levar Jason a uma colônia de artistas",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/novo-sexta-feira-13-pode-levar-jason-a-uma-colonia-de-artistas",
+      "originalTitle": "Novo Sexta-Feira 13 pode levar Jason a uma colônia de artistas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-67f69150114ebe10",
+      "publishedAt": "2026-11-17T14:12:00Z",
+      "title": "Vingadores: Doutor Destino | Kevin Feige diz que o plano sempre foi substituir Kang por Victor Von Doom",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-kevin-feige-diz-que-o-plano-sempre-foi-substituir-kang-por-victor-von-doom",
+      "originalTitle": "Vingadores: Doutor Destino | Kevin Feige diz que o plano sempre foi substituir Kang por Victor Von Doom",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cf61f514479cf971",
+      "publishedAt": "2026-11-17T14:07:06Z",
+      "title": "Star Wars: Starfighter pode ganhar trailer antes das sessões de Doomsday",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/star-wars-starfighter-pode-ganhar-trailer-antes-das-sessoes-de-doomsday",
+      "originalTitle": "Star Wars: Starfighter pode ganhar trailer antes das sessões de Doomsday",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aaf624dba4086225",
+      "publishedAt": "2026-11-17T14:01:16Z",
+      "title": "Jake Gyllenhaal é confirmado na CCXP 2026",
+      "sourceUrl": "https://gshow.globo.com/cultura-pop/noticia/jake-gyllenhaal-e-confirmado-na-ccxp-2026.ghtml",
+      "originalTitle": "Jake Gyllenhaal é confirmado na CCXP 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-99bc4b9d1f5bec34",
+      "publishedAt": "2026-11-17T14:00:00Z",
+      "title": "Jake Gyllenhaal participa de painel de Matador de Aluguel 2 na CCXP26",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/jake-gyllenhaal-participa-de-painel-de-matador-de-aluguel-2-na-ccxp26",
+      "originalTitle": "Jake Gyllenhaal participa de painel de Matador de Aluguel 2 na CCXP26",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dd8d007dcaf8315d",
+      "publishedAt": "2026-11-17T14:00:00Z",
+      "title": "Crítica | O que achamos de Jogos Vorazes: Amanhecer na Colheita",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/critica-o-que-achamos-de-jogos-vorazes-amanhecer-na-colheita.html",
+      "originalTitle": "Crítica | O que achamos de Jogos Vorazes: Amanhecer na Colheita",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-804ff9bfcd0a476f",
+      "publishedAt": "2026-11-17T13:57:02Z",
+      "title": "Josh O’Connor teria sido a primeira escolha para James Bond antes de Robert Pattinson",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/josh-oconnor-teria-sido-a-primeira-escolha-para-james-bond-antes-de-robert-pattinson",
+      "originalTitle": "Josh O’Connor teria sido a primeira escolha para James Bond antes de Robert Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ab6191988088a9eb",
+      "publishedAt": "2026-11-17T13:53:34Z",
+      "title": "Suikoden: The Anime divulga vídeo especial do tema de encerramento",
+      "sourceUrl": "https://ovicio.com.br/suikoden-the-anime-divulga-video-especial-do-tema-de-encerramento",
+      "originalTitle": "Suikoden: The Anime divulga vídeo especial do tema de encerramento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ab26d2913793d19c",
+      "publishedAt": "2026-11-17T13:52:56Z",
+      "title": "Os 10 Melhores Animes de Ficção Científica dos Anos 2000",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-10-melhores-animes-de-ficcao-cientifica-dos-anos-2000",
+      "originalTitle": "Os 10 Melhores Animes de Ficção Científica dos Anos 2000",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6bb4c3fc5ddf1ee6",
+      "publishedAt": "2026-11-17T13:43:34Z",
+      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
+      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8235196926e00503",
+      "publishedAt": "2026-11-17T13:43:34Z",
+      "title": "Dragon Ball derruba Crunchyroll e escancara a corrida por infraestrutura no streaming de anime",
+      "sourceUrl": "https://radiogeekbr.com.br/dragon-ball-derruba-crunchyroll-corrida-infraestrutura-streaming-anime",
+      "originalTitle": "Dragon Ball derruba Crunchyroll e escancara a corrida por infraestrutura no streaming de anime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-27829170bff378c2",
+      "publishedAt": "2026-11-17T13:43:34Z",
+      "title": "Os oito heróis que ainda pagam a conta do anime em plena guerra dos streamings",
+      "sourceUrl": "https://radiogeekbr.com.br/oito-herois-anime-guerra-dos-streamings",
+      "originalTitle": "Os oito heróis que ainda pagam a conta do anime em plena guerra dos streamings",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5606ba20d81d6614",
+      "publishedAt": "2026-11-17T13:21:57Z",
+      "title": "The Odyssey chega ao digital para compra em casa",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/the-odyssey-chega-ao-digital-para-compra-em-casa",
+      "originalTitle": "The Odyssey chega ao digital para compra em casa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8fd59fb8f4b53063",
+      "publishedAt": "2026-11-17T13:07:54Z",
+      "title": "Solo Leveling: KARMA revela Go Gunhee em versão mutante",
+      "sourceUrl": "https://criticalhits.com.br/games/solo-leveling-karma-revela-go-gunhee-em-versao-mutante",
+      "originalTitle": "Solo Leveling: KARMA revela Go Gunhee em versão mutante",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5d59a15ed463fae8",
+      "publishedAt": "2026-11-17T13:02:49Z",
+      "title": "\"Re Cervin\": mangá de fantasia publicado pela Panini chega ao fim no Japão",
+      "sourceUrl": "https://foradoplastico.com.br/re-cervin-manga-de-fantasia-publicado-pela-panini-chega-ao-fim-no-japao",
+      "originalTitle": "\"Re Cervin\": mangá de fantasia publicado pela Panini chega ao fim no Japão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-11cec312fc79c318",
+      "publishedAt": "2026-11-17T13:02:06Z",
+      "title": "A Seiko apresenta um cronógrafo de anime de edição limitada com um design discreto inteiramente preto",
+      "sourceUrl": "https://www.notebookcheck.info/A-Seiko-apresenta-um-cronografo-de-anime-de-edicao-limitada-com-um-design-discreto-inteiramente-preto.1452560.0.html",
+      "originalTitle": "A Seiko apresenta um cronógrafo de anime de edição limitada com um design discreto inteiramente preto",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9762f498e7dd0c7a",
+      "publishedAt": "2026-11-17T13:00:33Z",
+      "title": "O jogo mais vendido do mundo no Steam atualmente foi ressuscitado graças ao modo Zombies",
+      "sourceUrl": "https://br.ign.com/bodycam/157695/o-jogo-mais-vendido-do-mundo-no-steam-atualmente-foi-ressuscitado-gracas-ao-modo-zombies",
+      "originalTitle": "O jogo mais vendido do mundo no Steam atualmente foi ressuscitado graças ao modo Zombies",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-71a7c216a063020e",
+      "publishedAt": "2026-11-17T13:00:00Z",
+      "title": "Como Robert Downey Jr. encontrou o sotaque do Doutor Destino?",
+      "sourceUrl": "https://www.einerd.com/rdj-sotaque-doutor-destino-vingadores",
+      "originalTitle": "Como Robert Downey Jr. encontrou o sotaque do Doutor Destino?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-92195b29065de126",
+      "publishedAt": "2026-11-17T12:57:24Z",
+      "title": "Robert Pattinson fica livre de contrato para Batman 3, diz site",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/robert-pattinson-fica-livre-de-contrato-para-batman-3-diz-site.html",
+      "originalTitle": "Robert Pattinson fica livre de contrato para Batman 3, diz site",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-80efd68c24503a29",
+      "publishedAt": "2026-11-17T12:56:45Z",
+      "title": "Receita Federal leiloa Xbox por R$ 400, iPhone por R$ 2,5 mil e carro por R$ 9 mil",
+      "sourceUrl": "https://exame.com/invest/minhas-financas/receita-federal-leiloa-xbox-por-r-400-iphone-por-r-25-mil-e-carro-por-r-9-mil",
+      "originalTitle": "Receita Federal leiloa Xbox por R$ 400, iPhone por R$ 2,5 mil e carro por R$ 9 mil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95283e1f72bd83b7",
+      "publishedAt": "2026-11-17T12:43:56Z",
+      "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
+      "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cbe728b0479e74c",
+      "publishedAt": "2026-11-17T12:43:56Z",
+      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
+      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-21b2b3090783c692",
+      "publishedAt": "2026-11-17T12:43:56Z",
+      "title": "Terceira temporada de Daredevil: Born Again rompe molde Netflix e vira espinha do “street-verse” da Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/terceira-temporada-daredevil-born-again-muda-formula",
+      "originalTitle": "Terceira temporada de Daredevil: Born Again rompe molde Netflix e vira espinha do “street-verse” da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-be8ffb334665be00",
+      "publishedAt": "2026-11-17T12:38:40Z",
+      "title": "Yasunori Mitsuda sugere aposentar Dragon Quest após novo jogo mobile com arte de Toriyama",
+      "sourceUrl": "https://criticalhits.com.br/games/yasunori-mitsuda-sugere-aposentar-dragon-quest-apos-novo-jogo-mobile-com-arte-de-toriyama",
+      "originalTitle": "Yasunori Mitsuda sugere aposentar Dragon Quest após novo jogo mobile com arte de Toriyama",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ad1d72e25a7701bb",
+      "publishedAt": "2026-11-17T12:09:22Z",
+      "title": "Homem-Aranha Um Novo Dia volta aos cinemas com cenas inéditas",
+      "sourceUrl": "https://alternativanerd.com.br/filmes/homem-aranha-um-novo-dia-volta-aos-cinemas-com-cenas-ineditas",
+      "originalTitle": "Homem-Aranha Um Novo Dia volta aos cinemas com cenas inéditas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bbcf08a3445805b8",
+      "publishedAt": "2026-11-17T11:28:38Z",
+      "title": "Chris Pratt quer James Gunn de volta à Marvel após saída da DC",
+      "sourceUrl": "https://www.maquinanerd.com.br/cinema/chris-pratt-quer-james-gunn-de-volta-a-marvel-apos-saida-da-dc",
+      "originalTitle": "Chris Pratt quer James Gunn de volta à Marvel após saída da DC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-40ab13eff1da6e0f",
+      "publishedAt": "2026-11-17T11:00:47Z",
+      "title": "‘Planeswalker’: Netflix revela detalhes da série animada de Magic: The Gathering",
+      "sourceUrl": "https://www.einerd.com/planeswalker-netflix-revela-detalhes-da-serie-animada-de-magic-the-gathering",
+      "originalTitle": "‘Planeswalker’: Netflix revela detalhes da série animada de Magic: The Gathering",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ba0490f9900dcac",
+      "publishedAt": "2026-11-17T10:43:20Z",
+      "title": "Splatoon Raiders recebe demonstração gratuita na Nintendo eShop",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/splatoon-raiders-recebe-demonstracao-gratuita-na-nintendo-eshop.html",
+      "originalTitle": "Splatoon Raiders recebe demonstração gratuita na Nintendo eShop",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1e9b4cb3128ff40e",
+      "publishedAt": "2026-11-17T09:00:00Z",
+      "title": "N-BlastCast #372 — The Legend of Zelda: Ocarina of Time — o GOTY chegou",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/podcast-the-legend-of-zelda-ocarina-of-time-o-goty-chegou.html",
+      "originalTitle": "N-BlastCast #372 — The Legend of Zelda: Ocarina of Time — o GOTY chegou",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-11-17T08:42:49Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ad38d579b2dc10e",
+      "publishedAt": "2026-11-17T08:42:49Z",
+      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
+      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2b1924454047cf22",
+      "publishedAt": "2026-11-17T08:42:49Z",
+      "title": "Peter Safran quebra silêncio, expõe falha-chave do Snyderverso e dita rumo do novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/peter-safran-critica-snyderverso-e-dita-rumo-dcu",
+      "originalTitle": "Peter Safran quebra silêncio, expõe falha-chave do Snyderverso e dita rumo do novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79be9cc4e5587c3d",
+      "publishedAt": "2026-11-17T07:57:37Z",
+      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
+      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-906b3866de3257d2",
+      "publishedAt": "2026-11-17T07:57:37Z",
+      "title": "Lenda da DC detona Lobo de Jason Momoa e expõe rachadura precoce no reboot de James Gunn",
+      "sourceUrl": "https://radiogeekbr.com.br/lenda-da-dc-detona-lobo-de-jason-momoa-no-reboot-dc",
+      "originalTitle": "Lenda da DC detona Lobo de Jason Momoa e expõe rachadura precoce no reboot de James Gunn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ba12c2d8664bec07",
+      "publishedAt": "2026-11-17T05:57:45Z",
+      "title": "Comando Skydance corre para escalar a nova Liga da Justiça e vira de cabeça para baixo o cronograma do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/liga-da-justica-prioridade-skydance-dc-studios",
+      "originalTitle": "Comando Skydance corre para escalar a nova Liga da Justiça e vira de cabeça para baixo o cronograma do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6a55154a65e1b516",
+      "publishedAt": "2026-11-17T04:23:20Z",
+      "title": "Cara-de-Barro supera Supergirl na bilheteria mundial da DC Studios",
+      "sourceUrl": "https://cabanadoleitor.com.br/cara-de-barro-passa-supergirl-bilheteria-dc",
+      "originalTitle": "Cara-de-Barro supera Supergirl na bilheteria mundial da DC Studios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2916af5c564d9ff5",
+      "publishedAt": "2026-11-17T04:12:42Z",
+      "title": "Estrela de “Superman” reage à saída de Gunn e Safran e revela corrida por vacina criativa na nova DC",
+      "sourceUrl": "https://radiogeekbr.com.br/estrela-superman-reage-saida-gunn-safran-dc",
+      "originalTitle": "Estrela de “Superman” reage à saída de Gunn e Safran e revela corrida por vacina criativa na nova DC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-df8f7eebaea0deec",
       "publishedAt": "2026-11-17T03:12:49Z",
@@ -56,6 +644,18 @@
       "title": "As 6 Frutas do Diabo Mais Fortes de One Piece em Elbaf",
       "sourceUrl": "https://criticalhits.com.br/anime/as-6-frutas-do-diabo-mais-fortes-de-one-piece-em-elbaf",
       "originalTitle": "As 6 Frutas do Diabo Mais Fortes de One Piece em Elbaf",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1374d0d51bc5ccae",
+      "publishedAt": "2026-11-17T02:06:05Z",
+      "title": "Panini divulga a capa brasileira de “Yotsubato!”",
+      "sourceUrl": "https://blogbbm.com/2026/11/16/panini-divulga-a-capa-brasileira-de-yotsubato",
+      "originalTitle": "Panini divulga a capa brasileira de “Yotsubato!”",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -152,6 +752,18 @@
       "title": "Vingadores: Doutor Destino tem Robert Downey Jr. comparado a Thanos, mas há um detalhe nas primeiras reações",
       "sourceUrl": "https://saladadecinema.com.br/vingadores-doutor-destino-tem-robert-downey-jr-comparado-a-thanos-mas-ha-um-detalhe-nas-primeiras-reacoes",
       "originalTitle": "Vingadores: Doutor Destino tem Robert Downey Jr. comparado a Thanos, mas há um detalhe nas primeiras reações",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-16ddc4e8f06d0ae9",
+      "publishedAt": "2026-11-16T23:15:00Z",
+      "title": "Os Cavaleiros do Zodíaco: Almanaque Científico do Japão anuncia colaboração com o mangá ‘Next Dimension’",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/16/os-cavaleiros-do-zodiaco-almanaque-cientifico-do-japao-anuncia-colaboracao-com-o-manga-next-dimension",
+      "originalTitle": "Os Cavaleiros do Zodíaco: Almanaque Científico do Japão anuncia colaboração com o mangá ‘Next Dimension’",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -423,6 +1035,18 @@
       }
     },
     {
+      "id": "radar-c8763ef023820f36",
+      "publishedAt": "2026-11-16T21:21:21Z",
+      "title": "Meme de PS5 como Kaiba de Yu-Gi-Oh! vira realidade",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/206911-meme-ps5-kaiba-yu-gi-oh-vira-realidade",
+      "originalTitle": "Meme de PS5 como Kaiba de Yu-Gi-Oh! vira realidade",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-33b594fa0ccea2bf",
       "publishedAt": "2026-11-16T21:15:00Z",
       "title": "Estúdio de Crimson Desert afirma que agora usa IA em diversas etapas de desenvolvimento do RPG",
@@ -435,11 +1059,35 @@
       }
     },
     {
+      "id": "radar-1faf33965b16ec91",
+      "publishedAt": "2026-11-16T21:14:02Z",
+      "title": "Ichi, o Bruxo: novo mangá de fantasia da Panini aposta em caçadas, magias e um herói improvável",
+      "sourceUrl": "https://nerdizmo.ig.com.br/ichi-o-bruxo-manga-panini",
+      "originalTitle": "Ichi, o Bruxo: novo mangá de fantasia da Panini aposta em caçadas, magias e um herói improvável",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-1087dc09cde075f0",
       "publishedAt": "2026-11-16T21:14:00Z",
       "title": "O Problema dos Três Corpos | 2ª temporada ganha pôster e data de estreia na Netflix",
       "sourceUrl": "https://www.omelete.com.br/series-tv/o-problema-dos-3-corpos-2-temporada-data-de-estreia-netflix-poster",
       "originalTitle": "O Problema dos Três Corpos | 2ª temporada ganha pôster e data de estreia na Netflix",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-eb779290af6f3ad1",
+      "publishedAt": "2026-11-16T21:11:28Z",
+      "title": "Witch Watch chega ao fim após 270 capítulos e confirma 2ª temporada do anime para 2027",
+      "sourceUrl": "https://portaln10.com.br/entrete/manga/witch-watch-chega-ao-fim-apos-270-capitulos-e-confirma-2a-temporada-do-anime-para-2027-357864",
+      "originalTitle": "Witch Watch chega ao fim após 270 capítulos e confirma 2ª temporada do anime para 2027",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -471,6 +1119,18 @@
       }
     },
     {
+      "id": "radar-b96ba15469625c42",
+      "publishedAt": "2026-11-16T20:15:00Z",
+      "title": "Xbox afirma que Project Helix é um console capaz de rodar jogos de PC — e não o contrário",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-afirma-que-project-helix-e-um-console-capaz-de-rodar-jogos-de-pc-e-nao-o-contrario",
+      "originalTitle": "Xbox afirma que Project Helix é um console capaz de rodar jogos de PC — e não o contrário",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-8d2193ece3a73d7c",
       "publishedAt": "2026-11-16T20:11:48Z",
       "title": "Samsung Galaxy Tab S10 FE Plus | Review",
@@ -495,6 +1155,18 @@
       }
     },
     {
+      "id": "radar-661f4c05dab500ae",
+      "publishedAt": "2026-11-16T19:12:42Z",
+      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
+      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-14f4f1dfeda4d39e",
       "publishedAt": "2026-11-16T18:41:31Z",
       "title": "Morre aos 83 anos atriz de Star Wars, Batman e diversos filmes de Hollywood",
@@ -507,11 +1179,11 @@
       }
     },
     {
-      "id": "radar-b3adddb293476538",
-      "publishedAt": "2026-11-16T18:15:00Z",
-      "title": "Dona de GTA 6 critica OpenAI e Anthropic por “clones” de IA de jogos",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/dona-de-gta-6-critica-openai-e-anthropic-por-clones-de-ia-de-jogos",
-      "originalTitle": "Dona de GTA 6 critica OpenAI e Anthropic por “clones” de IA de jogos",
+      "id": "radar-cf3bc266dd32da38",
+      "publishedAt": "2026-11-16T18:35:10Z",
+      "title": "Morte de atriz de Star Wars e Batman é confirmada",
+      "sourceUrl": "https://www.areavip.com.br/cinema/morte-de-atriz-de-star-wars-e-batman-e-confirmada",
+      "originalTitle": "Morte de atriz de Star Wars e Batman é confirmada",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -519,11 +1191,11 @@
       }
     },
     {
-      "id": "radar-ba12c2d8664bec07",
-      "publishedAt": "2026-11-16T17:42:57Z",
-      "title": "Comando Skydance corre para escalar a nova Liga da Justiça e vira de cabeça para baixo o cronograma do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/liga-da-justica-prioridade-skydance-dc-studios",
-      "originalTitle": "Comando Skydance corre para escalar a nova Liga da Justiça e vira de cabeça para baixo o cronograma do DCU",
+      "id": "radar-b3adddb293476538",
+      "publishedAt": "2026-11-16T18:15:00Z",
+      "title": "Dona de GTA 6 critica OpenAI e Anthropic por “clones” de IA de jogos",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/dona-de-gta-6-critica-openai-e-anthropic-por-clones-de-ia-de-jogos",
+      "originalTitle": "Dona de GTA 6 critica OpenAI e Anthropic por “clones” de IA de jogos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -603,6 +1275,18 @@
       }
     },
     {
+      "id": "radar-35225ac6e61192ec",
+      "publishedAt": "2026-11-16T14:56:00Z",
+      "title": "Quem era Tina Simmons, atriz de Star Wars e 007 encontrada morta em casa",
+      "sourceUrl": "https://www.metropoles.com/celebridades/quem-era-tina-simmons-atriz",
+      "originalTitle": "Quem era Tina Simmons, atriz de Star Wars e 007 encontrada morta em casa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-d9bf1e83382983ed",
       "publishedAt": "2026-11-16T14:34:53Z",
       "title": "Vídeo: Empresário coloca bomba em videogame para atingir concorrente em SP",
@@ -632,18 +1316,6 @@
       "title": "Rainbow Six Siege anuncia Operação Vital Signal com reformulação de Doc",
       "sourceUrl": "https://pizzafria.ig.com.br/news/rainbow-six-siege-operacao-vital-signal",
       "originalTitle": "Rainbow Six Siege anuncia Operação Vital Signal com reformulação de Doc",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-11-16T13:57:36Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1424,18 +2096,6 @@
       "title": "DC libera cenas completas do retorno de Superman e escancara nova cartilha de marketing do estúdio",
       "sourceUrl": "https://radiogeekbr.com.br/dc-libera-cenas-retorno-superman-nova-cartilha-marketing",
       "originalTitle": "DC libera cenas completas do retorno de Superman e escancara nova cartilha de marketing do estúdio",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6bb4c3fc5ddf1ee6",
-      "publishedAt": "2026-11-15T22:12:39Z",
-      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
-      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
-      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2403,18 +3063,6 @@
       }
     },
     {
-      "id": "radar-95283e1f72bd83b7",
-      "publishedAt": "2026-11-15T09:42:37Z",
-      "title": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-james-gunn-indica-futuro-dcu-reevesverse",
-      "originalTitle": "Clayface em dobro? Como a pista de James Gunn expõe o primeiro “teste de multiverso” do novo DC Studios",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-efa846f7a7699a86",
       "publishedAt": "2026-11-15T09:42:37Z",
       "title": "Ranking japonês de anime de terror consagra folclore clássico e contraria o paladar do streaming global",
@@ -3008,18 +3656,6 @@
       "title": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
       "sourceUrl": "https://radiogeekbr.com.br/man-of-tomorrow-superman-15-personagem-cinema-tv-dcu",
       "originalTitle": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2916af5c564d9ff5",
-      "publishedAt": "2026-11-14T19:13:07Z",
-      "title": "Estrela de “Superman” reage à saída de Gunn e Safran e revela corrida por vacina criativa na nova DC",
-      "sourceUrl": "https://radiogeekbr.com.br/estrela-superman-reage-saida-gunn-safran-dc",
-      "originalTitle": "Estrela de “Superman” reage à saída de Gunn e Safran e revela corrida por vacina criativa na nova DC",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -3987,18 +4623,6 @@
       }
     },
     {
-      "id": "radar-6cbe728b0479e74c",
-      "publishedAt": "2026-11-14T10:13:09Z",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-572949cc5e6db113",
       "publishedAt": "2026-11-14T07:12:37Z",
       "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
@@ -4364,18 +4988,6 @@
       "title": "Living It Up in Another World Until I Get Bored ganha anime",
       "sourceUrl": "https://animenew.com.br/living-it-up-in-another-world-anime",
       "originalTitle": "Living It Up in Another World Until I Get Bored ganha anime",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-79be9cc4e5587c3d",
-      "publishedAt": "2026-11-13T21:57:55Z",
-      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
-      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -6495,18 +7107,6 @@
       }
     },
     {
-      "id": "radar-8235196926e00503",
-      "publishedAt": "2026-11-12T11:42:40Z",
-      "title": "Dragon Ball derruba Crunchyroll e escancara a corrida por infraestrutura no streaming de anime",
-      "sourceUrl": "https://radiogeekbr.com.br/dragon-ball-derruba-crunchyroll-corrida-infraestrutura-streaming-anime",
-      "originalTitle": "Dragon Ball derruba Crunchyroll e escancara a corrida por infraestrutura no streaming de anime",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-d74da67ee823a2e3",
       "publishedAt": "2026-11-12T11:36:34Z",
       "title": "Devils’ Crest: anime terá dois cours consecutivos",
@@ -6716,18 +7316,6 @@
       "title": "A Imperatriz Se Casou Novamente | Quando saem os próximos episódios do k-drama? Confira agenda",
       "sourceUrl": "https://www.omelete.com.br/korea/a-imperatriz-se-casou-novamente-estreia-proximos-episodios-agenda",
       "originalTitle": "A Imperatriz Se Casou Novamente | Quando saem os próximos episódios do k-drama? Confira agenda",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-661f4c05dab500ae",
-      "publishedAt": "2026-11-12T02:42:01Z",
-      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
-      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -11499,18 +12087,6 @@
       }
     },
     {
-      "id": "radar-1ad38d579b2dc10e",
-      "publishedAt": "2026-11-08T05:26:50Z",
-      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
-      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
-      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-e978fdfaaaed48cc",
       "publishedAt": "2026-11-08T05:02:00Z",
       "title": "10 melhores jogos de RPG baseados em anime para jogar em 2026",
@@ -15308,18 +15884,6 @@
       "title": "Remake de Ocarina of Time já roda no PC com emulação do Switch 2",
       "sourceUrl": "https://criticalhits.com.br/games/remake-de-ocarina-of-time-ja-roda-no-pc-com-emulacao-do-switch-2",
       "originalTitle": "Remake de Ocarina of Time já roda no PC com emulação do Switch 2",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-906b3866de3257d2",
-      "publishedAt": "2026-11-05T07:41:17Z",
-      "title": "Lenda da DC detona Lobo de Jason Momoa e expõe rachadura precoce no reboot de James Gunn",
-      "sourceUrl": "https://radiogeekbr.com.br/lenda-da-dc-detona-lobo-de-jason-momoa-no-reboot-dc",
-      "originalTitle": "Lenda da DC detona Lobo de Jason Momoa e expõe rachadura precoce no reboot de James Gunn",
       "translated": false,
       "editorialReview": {
         "status": "native",
