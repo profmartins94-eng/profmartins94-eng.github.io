@@ -1,13 +1,409 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T02:48:52.057853Z",
+  "updatedAt": "2026-11-19T12:08:54.670141Z",
   "articles": [
     {
+      "id": "radar-db073285d670123c",
+      "publishedAt": "2026-11-19T12:03:11Z",
+      "title": "Zendaya, Robert Pattinson e mais no teaser INÉDITO de ‘Duna: Parte Três’; Confira!",
+      "sourceUrl": "https://cinepop.com.br/zendaya-robert-pattinson-e-mais-no-teaser-inedito-de-duna-parte-tres-confira-776684",
+      "originalTitle": "Zendaya, Robert Pattinson e mais no teaser INÉDITO de ‘Duna: Parte Três’; Confira!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-029f84c389dd2fb7",
+      "publishedAt": "2026-11-19T12:00:43Z",
+      "title": "Warcraft III Reforged: Forsaken Kingdom | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/warcraft-iii-reforged-forsaken-kingdom-review",
+      "originalTitle": "Warcraft III Reforged: Forsaken Kingdom | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bac3649457642baa",
+      "publishedAt": "2026-11-19T12:00:03Z",
+      "title": "Lisa, do BLACKPINK, lança o emocionante clipe de ‘Leave With Me’",
+      "sourceUrl": "https://www.einerd.com/lisa-do-blackpink-lanca-o-emocionante-clipe-de-leave-with-me",
+      "originalTitle": "Lisa, do BLACKPINK, lança o emocionante clipe de ‘Leave With Me’",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-711fe13df8001489",
+      "publishedAt": "2026-11-19T11:57:12Z",
+      "title": "Taylor Swift performa “I Knew It, I Knew You”, de ‘Toy Story 5’, no CMA Awards 2026",
+      "sourceUrl": "https://cinepop.com.br/taylor-swift-performa-i-knew-it-i-knew-you-de-toy-story-5-no-cma-awards-2026-776680",
+      "originalTitle": "Taylor Swift performa “I Knew It, I Knew You”, de ‘Toy Story 5’, no CMA Awards 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-eac0588d7f249c8f",
+      "publishedAt": "2026-11-19T11:55:49Z",
+      "title": "Devoradores de Estrelas volta aos cinemas em dezembro mirando o Oscar 2027",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/devoradores-de-estrelas-volta-aos-cinemas-em-dezembro-mirando-o-oscar-2027",
+      "originalTitle": "Devoradores de Estrelas volta aos cinemas em dezembro mirando o Oscar 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4e051e2c0451343a",
+      "publishedAt": "2026-11-19T11:53:49Z",
+      "title": "Robert Downey Jr. hesitou antes de definir a voz de Doutor Destino",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/robert-downey-jr-hesitou-antes-de-definir-a-voz-de-doutor-destino",
+      "originalTitle": "Robert Downey Jr. hesitou antes de definir a voz de Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7024d0b3ded45fcc",
+      "publishedAt": "2026-11-19T11:52:38Z",
+      "title": "Jogadores ao redor do mundo mergulham em \"GTA VI\", com notas quase perfeitas",
+      "sourceUrl": "https://br.tradingview.com/news/afp:78d6f23d7af4d:0",
+      "originalTitle": "Jogadores ao redor do mundo mergulham em \"GTA VI\", com notas quase perfeitas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-331ec96c755ada70",
+      "publishedAt": "2026-11-19T11:50:35Z",
+      "title": "GTA 6 não terá modo de 60 FPS nos consoles da geração atual",
+      "sourceUrl": "https://mobidevices.com/pt/gta-6-not-get-60-fps-mode",
+      "originalTitle": "GTA 6 não terá modo de 60 FPS nos consoles da geração atual",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5ca0f6b42f0cbd8c",
+      "publishedAt": "2026-11-19T11:49:11Z",
+      "title": "5 Saiyajins de Dragon Ball que já alcançaram o nível dos deuses",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-saiyajins-de-dragon-ball-que-ja-alcancaram-o-nivel-dos-deuses",
+      "originalTitle": "5 Saiyajins de Dragon Ball que já alcançaram o nível dos deuses",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aa32f4680d8bda40",
+      "publishedAt": "2026-11-19T11:48:34Z",
+      "title": "Jordan Peele pode estar ligado ao reboot de A Hora do Pesadelo",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/jordan-peele-pode-estar-ligado-ao-reboot-de-a-hora-do-pesadelo",
+      "originalTitle": "Jordan Peele pode estar ligado ao reboot de A Hora do Pesadelo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-999d709cd89324e7",
+      "publishedAt": "2026-11-19T11:46:34Z",
+      "title": "Tom Hiddleston diz que Loki pode visitar Steve Rogers em Doomsday",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/tom-hiddleston-diz-que-loki-pode-visitar-steve-rogers-em-doomsday",
+      "originalTitle": "Tom Hiddleston diz que Loki pode visitar Steve Rogers em Doomsday",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2c5bbc285a35cade",
+      "publishedAt": "2026-11-19T11:44:34Z",
+      "title": "Chris Pratt firma acordo de três anos para criar projetos na Paramount",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/chris-pratt-firma-acordo-de-tres-anos-para-criar-projetos-na-paramount",
+      "originalTitle": "Chris Pratt firma acordo de três anos para criar projetos na Paramount",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cab7148bdb4b0e66",
+      "publishedAt": "2026-11-19T11:43:55Z",
+      "title": "Corridas locais chegam a Star Wars Galactic Racer em 2027",
+      "sourceUrl": "https://www.spacemoney.com.br/entretenimento/star-wars-galactic-racer-modo-local-2027",
+      "originalTitle": "Corridas locais chegam a Star Wars Galactic Racer em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-631298c7cb8462a5",
+      "publishedAt": "2026-11-19T11:43:13Z",
+      "title": "O prólogo de GTA 6 pode ser bem diferente dependendo de suas ações",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157765/o-prologo-de-gta-6-pode-ser-bem-diferente-dependendo-de-suas-acoes",
+      "originalTitle": "O prólogo de GTA 6 pode ser bem diferente dependendo de suas ações",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1797a57925c40ffe",
+      "publishedAt": "2026-11-19T11:43:07Z",
+      "title": "GTA 6 no Brasil: preço, tamanho e onde jogar",
+      "sourceUrl": "https://www.hoop78.com/artigos/gta_6_no_brasil_preco_tamanho_e_onde_jogar",
+      "originalTitle": "GTA 6 no Brasil: preço, tamanho e onde jogar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e0dd42e9c13088d5",
+      "publishedAt": "2026-11-19T11:42:34Z",
+      "title": "‘You’re So Sloppy, Hotta-sensei’ vai terminar em dois capítulos",
+      "sourceUrl": "https://criticalhits.com.br/anime/youre-so-sloppy-hotta-sensei-vai-terminar-em-dois-capitulos",
+      "originalTitle": "‘You’re So Sloppy, Hotta-sensei’ vai terminar em dois capítulos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-86d770c43e627809",
+      "publishedAt": "2026-11-19T11:36:34Z",
+      "title": "AYÔ estreia no Globoplay com seis episódios gratuitos em 20 de novembro",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/ayo-estreia-no-globoplay-com-seis-episodios-gratuitos-em-20-de-novembro",
+      "originalTitle": "AYÔ estreia no Globoplay com seis episódios gratuitos em 20 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f437410dfc2fbbc0",
+      "publishedAt": "2026-11-19T11:32:34Z",
+      "title": "Sesuji ganhará filme live-action de terror em 2027",
+      "sourceUrl": "https://criticalhits.com.br/anime/sesuji-ganhara-filme-live-action-de-terror-em-2027",
+      "originalTitle": "Sesuji ganhará filme live-action de terror em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b46867df977a9359",
+      "publishedAt": "2026-11-19T11:31:08Z",
+      "title": "Exposição em Angoulême reúne ícones do mangá underground",
+      "sourceUrl": "https://foradoplastico.com.br/exposicao-em-angouleme-reune-icones-do-manga-underground",
+      "originalTitle": "Exposição em Angoulême reúne ícones do mangá underground",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d7763170aad85c3c",
+      "publishedAt": "2026-11-19T11:30:36Z",
+      "title": "‘Protegendo Estrelas’: Leighton Meester e Jared Padalecki estrelam comédia natalina da Netflix",
+      "sourceUrl": "https://www.einerd.com/protegendo-estrelas-leighton-meester-e-jared-padalecki-estrelam-comedia-natalina-da-netflix",
+      "originalTitle": "‘Protegendo Estrelas’: Leighton Meester e Jared Padalecki estrelam comédia natalina da Netflix",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-db9f0229c7a37fd9",
+      "publishedAt": "2026-11-19T11:30:00Z",
+      "title": "Falha na PlayStation Network ocorre antes de GTA VI",
+      "sourceUrl": "https://sempreupdate.com.br/falha-na-playstation-network-antes-gta-vi",
+      "originalTitle": "Falha na PlayStation Network ocorre antes de GTA VI",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-3029d1df9dbaa465",
-      "publishedAt": "2026-11-19T02:13:41Z",
+      "publishedAt": "2026-11-19T11:28:24Z",
       "title": "O Senhor dos Anéis: Os Anéis de Poder | Quando saem os próximos episódios da 3ª temporada? Veja agenda completa",
       "sourceUrl": "https://www.omelete.com.br/series-tv/o-senhor-dos-aneis-aneis-de-poder-data-proximos-episodios-3-temporada-agenda-completa",
       "originalTitle": "O Senhor dos Anéis: Os Anéis de Poder | Quando saem os próximos episódios da 3ª temporada? Veja agenda completa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d99e5405347d6964",
+      "publishedAt": "2026-11-19T11:15:00Z",
+      "title": "Star Wars Galactic Racer terá nova atualização com multiplayer local e tela dividida",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/star-wars-galactic-racer-tera-nova-atualizacao-com-multiplayer-local-e-tela-dividida",
+      "originalTitle": "Star Wars Galactic Racer terá nova atualização com multiplayer local e tela dividida",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f8f8a06ab8cca4b9",
+      "publishedAt": "2026-11-19T11:14:58Z",
+      "title": "Variety inclui Fernanda Torres em lista para vilã do novo James Bond",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/variety-inclui-fernanda-torres-em-lista-para-vila-do-novo-james-bond",
+      "originalTitle": "Variety inclui Fernanda Torres em lista para vilã do novo James Bond",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ab0107e241358664",
+      "publishedAt": "2026-11-19T11:12:58Z",
+      "title": "Multiverso de Dragon Ball Super pode render novas histórias",
+      "sourceUrl": "https://criticalhits.com.br/anime/multiverso-de-dragon-ball-super-pode-render-novas-historias",
+      "originalTitle": "Multiverso de Dragon Ball Super pode render novas histórias",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8ac7a1e522e4bd63",
+      "publishedAt": "2026-11-19T11:11:31Z",
+      "title": "PAPgame revela os modos PAPcrazy e PAPrhythm",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/papgame-modos-papcrazy-paprhythm",
+      "originalTitle": "PAPgame revela os modos PAPcrazy e PAPrhythm",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f9442c25da15184e",
+      "publishedAt": "2026-11-19T11:00:39Z",
+      "title": "David Corenswet destaca cenas de ação de Homem do Amanhã",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/david-corenswet-destaca-cenas-de-acao-de-homem-do-amanha",
+      "originalTitle": "David Corenswet destaca cenas de ação de Homem do Amanhã",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c494fdb92b76f499",
+      "publishedAt": "2026-11-19T11:00:00Z",
+      "title": "‘Only Murders in the Building’: 6ª temporada estreia em 8 de dezembro no Disney+",
+      "sourceUrl": "https://www.einerd.com/only-murders-in-the-building-6a-temporada-estreia-em-8-de-dezembro-no-disney",
+      "originalTitle": "‘Only Murders in the Building’: 6ª temporada estreia em 8 de dezembro no Disney+",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6f2d91dd93f8d70",
+      "publishedAt": "2026-11-19T11:00:00Z",
+      "title": "Blade Runner 2099 | Como a minissérie reinventa o futuro criado por Ridley Scott, confira nosso set visit",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/blade-runner-2099-minisserie-reinventa-futuro-ridley-scott-set-visit-prime-video",
+      "originalTitle": "Blade Runner 2099 | Como a minissérie reinventa o futuro criado por Ridley Scott, confira nosso set visit",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-97a7226b4ec7364e",
+      "publishedAt": "2026-11-19T10:58:04Z",
+      "title": "Leingham Tavern Story chega ao Android e iOS",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/leingham-tavern-story-android-ios",
+      "originalTitle": "Leingham Tavern Story chega ao Android e iOS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7fee60614064c947",
+      "publishedAt": "2026-11-19T10:08:51Z",
+      "title": "Suikoden: The Anime chega à Crunchyroll com seis episódios e legenda em português",
+      "sourceUrl": "https://espacodopovo.com.br/suikoden-the-anime-crunchyroll-episodios",
+      "originalTitle": "Suikoden: The Anime chega à Crunchyroll com seis episódios e legenda em português",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-833f626f2f02f21e",
+      "publishedAt": "2026-11-19T10:08:34Z",
+      "title": "Anime de elfo reencarnado estreia na ABEMA em 30 de dezembro",
+      "sourceUrl": "https://criticalhits.com.br/anime/anime-de-elfo-reencarnado-estreia-na-abema-em-30-de-dezembro",
+      "originalTitle": "Anime de elfo reencarnado estreia na ABEMA em 30 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fff1fe758d442ade",
+      "publishedAt": "2026-11-19T08:48:57Z",
+      "title": "5 animes de harém que vão muito além da fórmula",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-animes-de-harem-que-vao-muito-alem-da-formula",
+      "originalTitle": "5 animes de harém que vão muito além da fórmula",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64964f4fafe665dd",
+      "publishedAt": "2026-11-19T08:14:01Z",
+      "title": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/video-de-frank-grillo-recado-ao-novo-comando-dc",
+      "originalTitle": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -188,6 +584,18 @@
       "title": "Devoradores de Estrelas voltará aos cinemas de olho no Oscar 2027 e ganha novo trailer, assista",
       "sourceUrl": "https://www.omelete.com.br/filmes/devoradores-de-estrelas-voltara-aos-cinemas-olho-oscar-2027-ganha-trailer",
       "originalTitle": "Devoradores de Estrelas voltará aos cinemas de olho no Oscar 2027 e ganha novo trailer, assista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2243f50d79036c5",
+      "publishedAt": "2026-11-18T22:50:00Z",
+      "title": "2ª temporada de Spice and Wolf: MERCHANT MEETS THE WISE WOLF tem estreia confirmada para janeiro de 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/18/anime-spice-and-wolf-merchant-meets-the-wise-wolf-temporada-2-estreia-janeiro-2027-arte",
+      "originalTitle": "2ª temporada de Spice and Wolf: MERCHANT MEETS THE WISE WOLF tem estreia confirmada para janeiro de 2027",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -437,9 +845,9 @@
     {
       "id": "radar-9eaf04b1a0851216",
       "publishedAt": "2026-11-18T20:41:35Z",
-      "title": "GTA 6: primeiros bugs e glitches viram meme poucas horas após estreia",
+      "title": "GTA VI: primeiros bugs e glitches viram meme poucas horas após estreia",
       "sourceUrl": "https://seletronic.com.br/gta-6-primeiros-bugs-e-glitches-lancamento-nova-zelandia",
-      "originalTitle": "GTA 6: primeiros bugs e glitches viram meme poucas horas após estreia",
+      "originalTitle": "GTA VI: primeiros bugs e glitches viram meme poucas horas após estreia",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -627,6 +1035,18 @@
       }
     },
     {
+      "id": "radar-e6ef74647a5b082d",
+      "publishedAt": "2026-11-18T18:04:00Z",
+      "title": "Otherworldly Munchkin ganha trailer; anime estreia em janeiro após adiamento",
+      "sourceUrl": "https://seriesemcena.com.br/noticias/otherworldly-munchkin-trailer-estreia-janeiro-2027",
+      "originalTitle": "Otherworldly Munchkin ganha trailer; anime estreia em janeiro após adiamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-0cd9864bb66bda72",
       "publishedAt": "2026-11-18T17:00:00Z",
       "title": "Onde comprar o GTA 6 pelo menor preço?",
@@ -644,6 +1064,18 @@
       "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
       "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
       "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9086397a62874d78",
+      "publishedAt": "2026-11-18T16:11:00Z",
+      "title": "‘Batman 3’ pode estar em RISCO após Robert Pattinson ter sido escalado como o novo James Bond",
+      "sourceUrl": "https://cinepop.com.br/batman-3-pode-estar-em-risco-apos-robert-pattinson-ter-sido-escalado-como-o-novo-james-bond-776640",
+      "originalTitle": "‘Batman 3’ pode estar em RISCO após Robert Pattinson ter sido escalado como o novo James Bond",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1083,6 +1515,18 @@
       }
     },
     {
+      "id": "radar-7618e5272a589621",
+      "publishedAt": "2026-11-18T12:09:30.050000Z",
+      "title": "Spyro: A Realm Beyond terá novidades reveladas no The Game Awards 2026",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/spyro-a-realm-beyond-tera-novidades-reveladas-no-the-game-awards-2026.html",
+      "originalTitle": "Spyro: A Realm Beyond terá novidades reveladas no The Game Awards 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-bd7e2db19650792d",
       "publishedAt": "2026-11-18T12:00:03Z",
       "title": "Raye faz história com 11 indicações ao Grammy 2027",
@@ -1407,35 +1851,11 @@
       }
     },
     {
-      "id": "radar-7618e5272a589621",
-      "publishedAt": "2026-11-18T08:12:35Z",
-      "title": "Spyro: A Realm Beyond terá novidades reveladas no The Game Awards 2026",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/spyro-a-realm-beyond-tera-novidades-reveladas-no-the-game-awards-2026.html",
-      "originalTitle": "Spyro: A Realm Beyond terá novidades reveladas no The Game Awards 2026",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-bd121b55b9999eb9",
       "publishedAt": "2026-11-18T06:43:56Z",
       "title": "Quinto Jovem Titã é confirmado e expõe o plano silencioso de James Gunn para o DCU",
       "sourceUrl": "https://radiogeekbr.com.br/quinto-jovem-tita-confirmado-plano-silencioso-james-gunn-dcu",
       "originalTitle": "Quinto Jovem Titã é confirmado e expõe o plano silencioso de James Gunn para o DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-64964f4fafe665dd",
-      "publishedAt": "2026-11-18T04:58:25Z",
-      "title": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/video-de-frank-grillo-recado-ao-novo-comando-dc",
-      "originalTitle": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
