@@ -1,27 +1,159 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T20:58:30.575335Z",
+  "updatedAt": "2026-11-20T02:36:10.642386Z",
   "articles": [
     {
-      "id": "radar-8a3048a94a45db0b",
-      "title": "A Era do Gelo 6 apresenta o filho de Scrat em novo trailer",
-      "excerpt": "O filho de Scrat vai estrear nos cinemas ao lado do esquilo obcecado por nozes em A Era do Gelo: Mundo de Lava.",
+      "id": "radar-6f0b19e8f27794ff",
+      "title": "Filmagem da cena de Superman em Adão Negro é divulgada",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-20T02:15:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/cameo-henry-cavill-adao-negro-fundo-verde",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Superman-Black-Adam.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Filmagem da cena de Superman em Adão Negro é divulgada",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2a060ab97bd79b7",
+      "title": "Em The Big Suck, você é um tornado que começa arrancando grama e acaba destruindo a Terra",
+      "excerpt": "The Big Suck, jogo incremental da Critics Arcade para PC, coloca o jogador no comando de um tornado que cresce até destruir a Terra e partir para um planeta alienígena.",
+      "body": [
+        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-20T02:01:17Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Arkade",
+      "sourceUrl": "https://arkade.com.br/em-the-big-suck-voce-e-um-tornado-que-comeca-arrancando-grama-e-acaba-destruindo-a-terra",
+      "image": "https://arkade.com.br/wp-content/uploads/2026/11/the-big-suck-tornado-mapa-mundi-1.webp",
+      "alt": "Imagem publicada por Arkade",
+      "imageCredit": "Imagem: Arkade",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Em The Big Suck, você é um tornado que começa arrancando grama e acaba destruindo a Terra",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e210bddec6247261",
+      "title": "Cyberleek voltou e diz que vai liberar build de GTA 6 por torrent",
+      "excerpt": "O grupo hacker voltou a agir pela primeira vez depois do lançamento do jogo.",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-20T02:00:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/cyberleek-build-gta-6-torrent",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/11/GTA-6-Vice_City_16.16hjjmnxqg9mv.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Cyberleek voltou e diz que vai liberar build de GTA 6 por torrent",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64985fae419a25fb",
+      "title": "Valve libera a compra direta do Steam Machine de 512 GB",
+      "excerpt": "A Valve liberou a compra direta do Steam Machine de 512 GB após concluir os convites para quem estava na fila de reservas.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-20T01:54:19Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/valve-libera-a-compra-direta-do-steam-machine-de-512-gb",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/valve-libera-a-compra-direta-do-steam-machine-de-512-gb-featured.png",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Valve libera a compra direta do Steam Machine de 512 GB",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce12dbc1cd07dd91",
+      "title": "Ator de série da Marvel morre aos 43 anos nos Estados Unidos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em UOL. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-20T01:39:16Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "UOL",
+      "sourceUrl": "https://www.uol.com.br/splash/noticias/2026/11/19/ator-de-serie-da-marvel-morre-aos-43-anos-nos-estados-unidos.ghtm",
+      "image": "https://conteudo.imguol.com.br/c/splash/68/2026/11/19/lance-broadway-ator-de-serie-da-marvel-morreu-aos-43-anos-no-texas-nos-estados-unidos-1795138503250_v2_615x300.jpg",
+      "alt": "Imagem publicada por UOL",
+      "imageCredit": "Imagem: UOL",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Ator de série da Marvel morre aos 43 anos nos Estados Unidos",
+      "tags": [
+        "luto"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c591649078e03ff2",
+      "title": "From supera 5 bilhões de minutos vistos na Netflix",
+      "excerpt": "A série de terror From alcançou a marca de 5 bilhões de minutos assistidos na Netflix após a chegada das três primeiras temporadas à plataforma.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-19T20:52:37Z",
+      "publishedAt": "2026-11-20T01:23:04Z",
       "displayDate": "19 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/a-era-do-gelo-6-apresenta-o-filho-de-scrat-em-novo-trailer",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/a-era-do-gelo-6-apresenta-o-filho-de-scrat-em-novo-trailer-featured.jpg",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/from-supera-5-bilhoes-de-minutos-vistos-na-netflix",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/from-supera-5-bilhoes-de-minutos-vistos-na-netflix-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "A Era do Gelo 6 apresenta o filho de Scrat em novo trailer",
+      "originalTitle": "From supera 5 bilhões de minutos vistos na Netflix",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -29,181 +161,25 @@
       }
     },
     {
-      "id": "radar-a9040a9baf5237a5",
-      "title": "Nike lança novos Air Force 1 em parceria com a Cactus Jack e GTA VI",
-      "excerpt": "Nike lança Air Force 1 em parceria com Cactus Jack e Rockstar, com detalhes e símbolos inspirados no universo de GTA VI.",
-      "body": [
-        "Confira a cobertura completa em Geek Publicitário. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-19T20:43:59Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Geek Publicitário",
-      "sourceUrl": "https://gkpb.com.br/201194/air-force-1-gta-vi",
-      "image": "https://gkpb.com.br/wp-content/uploads/2026/11/gkpb-nike-1024x576.jpg",
-      "alt": "Imagem publicada por Geek Publicitário",
-      "imageCredit": "Imagem: Geek Publicitário",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Nike lança novos Air Force 1 em parceria com a Cactus Jack e GTA VI",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b88e3847130474e5",
-      "title": "Estratégia da TIM integra lançamento de GTA VI e PlayStation 5 para acelerar planos de alto valor",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Brasil Inovador. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-19T20:42:14Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Brasil Inovador",
-      "sourceUrl": "https://brasilinovador.com.br/estrategia-da-tim-integra-lancamento-de-gta-vi-e-playstation-5-para-acelerar-planos-de-alto-valor",
-      "image": "https://brasilinovador.com.br/wp-content/uploads/2026/09/brasil-inovador-11.jpg",
-      "alt": "Imagem publicada por Brasil Inovador",
-      "imageCredit": "Imagem: Brasil Inovador",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Estratégia da TIM integra lançamento de GTA VI e PlayStation 5 para acelerar planos de alto valor",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5afb36e6dcabe5ec",
-      "title": "Os 5 RPGs por Turnos com Sistemas de Grupo Quase Perfeitos",
-      "excerpt": "Cinco RPGs por turnos mostram como a composição do grupo pode transformar cada batalha em um exercício de estratégia.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-19T20:41:47Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/os-5-rpgs-por-turnos-com-sistemas-de-grupo-quase-perfeitos",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/os-5-rpgs-por-turnos-com-sistemas-de-grupo-quase-perfeitos-6.png",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Os 5 RPGs por Turnos com Sistemas de Grupo Quase Perfeitos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ab994a465794ded7",
-      "title": "GTA 6 encara histórico desfavorável na disputa pelo GOTY",
-      "excerpt": "Com nove indicações ao The Game Awards 2026, GTA 6 chega à disputa pelo GOTY diante de um retrospecto pouco favorável a jogos lançados em novembro.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-19T20:41:31Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/gta-6-encara-historico-desfavoravel-na-disputa-pelo-goty",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/gta-6-encara-historico-desfavoravel-na-disputa-pelo-goty-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "GTA 6 encara histórico desfavorável na disputa pelo GOTY",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f8057b557df7bfd3",
-      "title": "Nintendo 64 ganha novo RPG em cartucho físico após 30 anos",
-      "excerpt": "Um novo RPG em cartucho para Nintendo 64 está em desenvolvimento e poderá ser jogado no console original, sem Expansion Pak.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-19T20:39:31Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/nintendo-64-ganha-novo-rpg-em-cartucho-fisico-apos-30-anos",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/nintendo-64-ganha-novo-rpg-em-cartucho-fisico-apos-30-anos-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Nintendo 64 ganha novo RPG em cartucho físico após 30 anos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-824c6aed22cf5a61",
-      "title": "Yuki Tabata revela Asta como Rei Mago em nova arte de Black Clover",
-      "excerpt": "A nova arte de Yuki Tabata mostra Asta como Rei Mago e destaca o visual do protagonista após a conquista que guiou sua jornada em Black Clover.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-19T20:37:31Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/yuki-tabata-revela-asta-como-rei-mago-em-nova-arte-de-black-clover",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/yuki-tabata-revela-asta-como-rei-mago-em-nova-arte-de-black-clover-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Yuki Tabata revela Asta como Rei Mago em nova arte de Black Clover",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-52c8726d7aa8a22d",
-      "title": "Marvel dá a Steve Rogers o codinome The War Dead em Hulk War",
-      "excerpt": "Steve Rogers ganha o nome The War Dead na nova equipe de monstros liderada pelo Hulk Infernal.",
+      "id": "radar-35463e459fb60145",
+      "title": "Disney+ desenvolve adaptação de The Curse Workers",
+      "excerpt": "A adaptação de The Curse Workers está em desenvolvimento para o Disney+, com a 20th Television à frente do projeto.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-19T20:14:09Z",
+      "publishedAt": "2026-11-20T01:22:03Z",
       "displayDate": "19 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/quadrinhos/marvel-da-a-steve-rogers-o-codinome-the-war-dead-em-hulk-war",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/marvel-da-a-steve-rogers-o-codinome-the-war-dead-em-hulk-war-featured.jpg",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/disney-desenvolve-adaptacao-de-the-curse-workers",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/disney-desenvolve-adaptacao-de-the-curse-workers-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Marvel dá a Steve Rogers o codinome The War Dead em Hulk War",
+      "originalTitle": "Disney+ desenvolve adaptação de The Curse Workers",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -211,51 +187,25 @@
       }
     },
     {
-      "id": "radar-6efa74439177df7f",
-      "title": "Mangá “Rasputin: O Patriota” entra em pré-venda",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Biblioteca Brasileira de Mangás. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-19T20:11:31Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Biblioteca Brasileira de Mangás",
-      "sourceUrl": "https://blogbbm.com/2026/11/19/manga-rasputin-o-patriota-entra-em-pre-venda",
-      "image": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2024/12/Rasputin.jpg?fit=800%2C300&ssl=1",
-      "alt": "Imagem publicada por Biblioteca Brasileira de Mangás",
-      "imageCredit": "Imagem: Biblioteca Brasileira de Mangás",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Mangá “Rasputin: O Patriota” entra em pré-venda",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-825d3fa9d0f4b152",
-      "title": "Os 5 rivais mais fortes de Bakugo em My Hero Academia",
-      "excerpt": "Em My Hero Academia, Katsuki Bakugo se define pela vontade de vencer, a ponto de recusar um convite para entrar na Liga dos Vilões por ver os vilões como gente que perde.",
+      "id": "radar-be70c1ed96a99c69",
+      "title": "Chris Evans confirma que Steve não será o Capitão América em Doomsday",
+      "excerpt": "Chris Evans confirmou que Steve Rogers não retomará o posto de Capitão América em Doomsday.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-19T20:10:01Z",
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-20T01:08:04Z",
       "displayDate": "19 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/os-5-rivais-mais-fortes-de-bakugo-em-my-hero-academia",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2025/10/bakugo-01.jpg",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/chris-evans-confirma-que-steve-nao-sera-o-capitao-america-em-doomsday",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/chris-evans-confirma-que-steve-nao-sera-o-capitao-america-em-doomsday-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Os 5 rivais mais fortes de Bakugo em My Hero Academia",
+      "originalTitle": "Chris Evans confirma que Steve não será o Capitão América em Doomsday",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -263,25 +213,79 @@
       }
     },
     {
-      "id": "radar-28e1a3913b4cbc78",
-      "title": "Jogador paga a mais por \"montagem premium\", mas encontra um erro bizarro quando o PC atinge 91º de temperatura",
-      "excerpt": "Além do reembolso, ele também recebeu garantia e voucher após o erro da loja Felizmente, o fornecedor respondeu prontamente com boas compensações pelo erro grotesco.",
+      "id": "radar-c31524d4b034288a",
+      "title": "Guarding Stars chega ao topo da Netflix em dezenas de países, incluindo o Brasil",
+      "excerpt": "Lançado em 18 de novembro, Guarding Stars chegou rapidamente ao primeiro lugar entre os filmes mais vistos da Netflix nos Estados Unidos e em dezenas de outros países, incluindo o Brasil, segundo o FlixPatrol.",
       "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-20T00:55:37Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/guarding-stars-chega-ao-topo-da-netflix-em-dezenas-de-paises-incluindo-o-brasil",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/guarding-stars-conquista-o-topo-global-da-netflix-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Guarding Stars chega ao topo da Netflix em dezenas de países, incluindo o Brasil",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b6e51aacb6a113d2",
+      "title": "Crítica | 5º episódio da 3ª temporada de ‘O Senhor dos Anéis: Os Anéis de Poder’ tropeça em certos vícios, mas nos envolve como pode",
+      "excerpt": "Atenção: o texto a seguir discorre sobre o quinto capítulo da 3ª temporada.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-19T20:00:34Z",
+      "publishedAt": "2026-11-20T00:25:11Z",
       "displayDate": "19 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/tech/157791/jogador-paga-a-mais-por-montagem-premium-mas-encontra-um-erro-bizarro-quando-o-pc-atinge-91o-de-temp",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/imagem_exad.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/critica-5o-episodio-da-3a-temporada-de-o-senhor-dos-aneis-os-aneis-de-poder-tropeca-em-certos-vicios-mas-nos-envolve-como-pode-776650",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/aneis-de-poder-7-1024x576.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Jogador paga a mais por \"montagem premium\", mas encontra um erro bizarro quando o PC atinge 91º de temperatura",
+      "originalTitle": "Crítica | 5º episódio da 3ª temporada de ‘O Senhor dos Anéis: Os Anéis de Poder’ tropeça em certos vícios, mas nos envolve como pode",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1df19e8ca3532f5a",
+      "title": "Anime Inu x Boku Secret Service comemora 15º aniversário com nova ilustração promocional",
+      "excerpt": "O público japonês poderá rever todos os 12 episódios da série",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-20T00:25:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/20/inu-x-boku-secret-service-15-aniversario-ilustracao-promocional",
+      "image": "https://a.storyblok.com/f/178900/960x540/0d84ff5b49/inu-x-boku-hero.png",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Anime Inu x Boku Secret Service comemora 15º aniversário com nova ilustração promocional",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -289,25 +293,25 @@
       }
     },
     {
-      "id": "radar-ea660de282cffdf2",
-      "title": "Pedro Pascal não volta como Joel em The Last of Us, mas o espírito do personagem fica",
-      "excerpt": "Pedro Pascal não deve voltar como Joel na terceira temporada de The Last of Us, mas a presença do personagem continuará influenciando a história da série da HBO.",
+      "id": "radar-b8ecdd31a3f83ca2",
+      "title": "Marvel revela novo codinome de Vision em Hulk War",
+      "excerpt": "A Marvel revelou que Vision ganhará o codinome Diaboli Ex Machina durante os eventos de Hulk War.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-19T19:56:00Z",
+      "publishedAt": "2026-11-20T00:14:51Z",
       "displayDate": "19 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/pedro-pascal-nao-volta-como-joel-em-the-last-of-us-mas-o-espirito-do-personagem-fica",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/gabriel-luna-descarta-retorno-de-pedro-pascal-em-the-last-of-us-featured.jpg",
+      "sourceUrl": "https://criticalhits.com.br/quadrinhos/marvel-revela-novo-codinome-de-vision-em-hulk-war",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/marvel-revela-novo-codinome-de-vision-em-hulk-war-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Pedro Pascal não volta como Joel em The Last of Us, mas o espírito do personagem fica",
+      "originalTitle": "Marvel revela novo codinome de Vision em Hulk War",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -315,285 +319,131 @@
       }
     },
     {
-      "id": "radar-170bb394e74e2924",
-      "title": "GTA 6 esconde carro de Paul Walker e referência a Toy Story",
-      "excerpt": "O carro de Paul Walker em Velozes e Furiosos aparece como um easter egg em GTA 6: o Mitsubishi Eclipse verde de Brian O’Conner pode ser encontrado e dirigido pelos jogadores em Vice City.",
+      "id": "radar-1d28865b5344ceca",
+      "title": "Gary Oldman chama Slow Horses de destaque da carreira, e série é renovada até a 10ª temporada",
+      "excerpt": "Gary Oldman descreveu Slow Horses como um dos destaques de sua carreira, enquanto a série de espionagem da Apple TV+ já tem continuidade garantida até a 10ª temporada.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-20T00:12:29Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/gary-oldman-chama-slow-horses-de-destaque-da-carreira-e-serie-e-renovada-ate-a-10a-temporada",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/gary-oldman-chama-slow-horses-de-destaque-da-carreira-e-serie-e-renovada-ate-a-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Gary Oldman chama Slow Horses de destaque da carreira, e série é renovada até a 10ª temporada",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b4fef5566cfe4b1a",
+      "title": "Os 10 Animes Esquecidos do Cartoon Network Que Merecem Voltar",
+      "excerpt": "De corridas de mechas a mistérios psicológicos, os animes esquecidos do Cartoon Network mostram como Toonami e Adult Swim ajudaram a apresentar histórias diferentes ao público ocidental.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-20T00:05:17Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-10-animes-esquecidos-do-cartoon-network-que-merecem-voltar",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/os-10-animes-esquecidos-do-cartoon-network-que-merecem-voltar-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Os 10 Animes Esquecidos do Cartoon Network Que Merecem Voltar",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6387d742e5efcd45",
+      "title": "2ª temporada de YAIBA: Samurai Legend revela música de abertura e dublador de Gekko",
+      "excerpt": "A série reboot retorna no próximo ano",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-20T00:05:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/20/yaiba-samurai-legend-2-temporada-musica-abertura-dublador-gekko",
+      "image": "https://a.storyblok.com/f/178900/960x540/95e9dc045b/yaiba-samurai-legend.jpg",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "2ª temporada de YAIBA: Samurai Legend revela música de abertura e dublador de Gekko",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0fac6ff38c23bc0a",
+      "title": "Análise: Metaphor: ReFantazio apresenta uma fábula política cativante em um JRPG essencial no Switch 2",
+      "excerpt": "Se você é fã de RPGs, especialmente os nipônicos, certamente já ouviu falar da prolífica desenvolvedora Atlus.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-19T19:52:55Z",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/gta-6-esconde-carro-de-paul-walker-e-referencia-a-toy-story",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/gta-6-esconde-carro-de-paul-walker-e-referencia-a-toy-story-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/metaphor-refantazio-switch-2-analise-critica-review.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIeUuVkTuECteqRB23_uYWoPFgG2b6ZZPKvjqfrB7t2eeyTk7LTXeo0puDswum9R90xF8G__6b8Wg2wbW9T_LRAgmuBeggQiXlea64MFABT_lFciHyJ0bZ7thsByGXeAYUKlux5-KjPPpy54jQh3NJJ8E4I6pxRr8NT5ewfbKcKr09msx44uj6GJrM/s72-w640-h360-c/metaphor-refantazio-switch-2-analise-critica-review.jpg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "GTA 6 esconde carro de Paul Walker e referência a Toy Story",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a0e58bb8a5c93ddb",
-      "title": "The Rookie ganha trailer da 9ª temporada, que estreia em 6 de janeiro",
-      "excerpt": "O trailer da 9ª temporada de The Rookie mostra John Nolan, personagem de Nathan Fillion, envolvido em uma missão de resgate.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      "originalTitle": "Análise: Metaphor: ReFantazio apresenta uma fábula política cativante em um JRPG essencial no Switch 2",
+      "tags": [
+        "analise"
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-19T19:44:27Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/the-rookie-ganha-trailer-da-9a-temporada-que-estreia-em-6-de-janeiro",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/the-rookie-ganha-trailer-da-9a-temporada-que-estreia-em-6-de-janeiro-featured.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The Rookie ganha trailer da 9ª temporada, que estreia em 6 de janeiro",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
       }
     },
     {
-      "id": "radar-21f3216268c8b4fd",
-      "title": "Amanhecer na Colheita não terá cena pós-créditos, mas traz música de Noah Kahan",
-      "excerpt": "A adaptação de Jogos Vorazes: Amanhecer na Colheita não inclui cena pós-créditos, mas reserva uma música inédita para acompanhar os créditos.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-19T19:42:27Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/amanhecer-na-colheita-nao-tera-cena-pos-creditos-mas-traz-musica-de-noah-kahan",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/sunrise-on-the-reaping-nao-tera-cena-pos-creditos-mas-traz-musica-de-noah-kahan-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Amanhecer na Colheita não terá cena pós-créditos, mas traz música de Noah Kahan",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-06704a73b3651533",
-      "title": "Os 7 Power-Ups Finais Mais Fortes de My Hero Academia",
-      "excerpt": "Na reta final de My Hero Academia, os power-ups finais mudam o rumo de confrontos decisivos e levam heróis e vilões além dos próprios limites.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-19T19:41:41Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/os-7-power-ups-finais-mais-fortes-de-my-hero-academia",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/os-7-power-ups-finais-mais-fortes-de-my-hero-academia-featured-scaled.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Os 7 Power-Ups Finais Mais Fortes de My Hero Academia",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-8d1b47267a21670c",
-      "title": "South Park traz Mike Judge de volta como Kenny após 27 anos",
-      "excerpt": "Mike Judge voltou a interpretar Kenny em South Park depois de 27 anos, em uma cena que pode indicar que a morte do personagem na estreia da 29ª temporada não será definitiva.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-19T19:36:27Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/south-park-traz-mike-judge-de-volta-como-kenny-apos-27-anos",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/south-park-traz-mike-judge-de-volta-como-kenny-apos-27-anos-featured-scaled.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "South Park traz Mike Judge de volta como Kenny após 27 anos",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-70b388f1b57f067a",
-      "title": "HBO confirma renovação de The Gilded Age para a 5ª temporada",
-      "excerpt": "A renovação de The Gilded Age para a quinta temporada foi confirmada pela HBO após a exibição de apenas três episódios da quarta fase.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-19T19:34:27Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/hbo-confirma-renovacao-de-the-gilded-age-para-a-5a-temporada",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/hbo-confirma-renovacao-de-the-gilded-age-para-a-5a-temporada-featured-scaled.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "HBO confirma renovação de The Gilded Age para a 5ª temporada",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4424ab735edebd14",
-      "title": "Revival de Gilmore Girls chega ao Disney+ em 25 de novembro",
-      "excerpt": "O revival de Gilmore Girls, Um Ano para Recordar, passa a integrar o catálogo do Hulu dentro do Disney+ em 25 de novembro, junto das sete temporadas da série original.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-19T19:32:27Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/revival-de-gilmore-girls-chega-ao-disney-em-25-de-novembro",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/revival-de-gilmore-girls-chega-ao-disney-em-25-de-novembro-featured.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Revival de Gilmore Girls chega ao Disney+ em 25 de novembro",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2bf6782fb683d141",
-      "title": "Vingadores: Doutor Destino terá dois Capitães América? Entenda o retorno de Steve Rogers",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Salada de Cinema. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-19T19:23:58Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Salada de Cinema",
-      "sourceUrl": "https://saladadecinema.com.br/vingadores-doutor-destino-tera-dois-capitaes-america-entenda-o-retorno-de-steve-rogers",
-      "image": "https://saladadecinema.com.br/wp-content/uploads/2026/11/vingadores-doutor-destino-steve-rogers-thor.jpg",
-      "alt": "Imagem publicada por Salada de Cinema",
-      "imageCredit": "Imagem: Salada de Cinema",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino terá dois Capitães América? Entenda o retorno de Steve Rogers",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7d6b642ee20a3655",
-      "title": "The Rookie | 9ª temporada da série ganha trailer cheio de ação, assista",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-19T19:22:00Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/the-rookie-9a-temporada-da-serie-ganha-trailer-cheio-de-acao-assista",
-      "image": "https://cdn.ome.lt/oEgU8oZgcXDGmM0VYXxN82N6UPw=/1200x630/smart/filters:format(webp)/extras/conteudos/the-rookie-9-temporada.jpg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The Rookie | 9ª temporada da série ganha trailer cheio de ação, assista",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c2e53a14e88fc793",
-      "title": "Artificial | Filme de Luca Guadagnino ganha trailer e pôster parodiando artes feitas por IA",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-19T19:16:46Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/artificial-filme-de-luca-guadagnino-ganha-trailer-e-poster-parodiando-artes-feitas-por-ia",
-      "image": "https://cdn.ome.lt/B3mlyM3NCBtCiXFwoEgQbmXrVnw=/1200x630/smart/filters:format(webp)/extras/conteudos/artificial-garfield-guadagnino.jpeg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Artificial | Filme de Luca Guadagnino ganha trailer e pôster parodiando artes feitas por IA",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-295e71f9d3b48476",
-      "title": "Gilmore Girls | Revival ganha nova casa no streaming; saiba qual",
+      "id": "radar-e6987a1ea1d57816",
+      "title": "Top Gun 3 | David Ellison confirma sequência, mas deve demorar",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-19T19:11:00Z",
+      "publishedAt": "2026-11-19T23:35:00Z",
       "displayDate": "19 nov. 2026",
       "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/gilmore-girls-revival-streaming",
-      "image": "https://cdn.ome.lt/AXaJcYcXgBKYkgaoUV40pkvlzeQ=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-11-19_160731.png",
+      "sourceUrl": "https://www.omelete.com.br/filmes/top-gun-3-david-ellison-confirma-sequencia-deve-demorar",
+      "image": "https://cdn.ome.lt/WLZcIZUMQqLyyLSC_aUVpppgbSU=/1200x630/smart/filters:format(webp)/extras/conteudos/3PBV5QFMWRESRJV4VOQREV67YQ.webp",
       "alt": "Imagem publicada por Omelete",
       "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Gilmore Girls | Revival ganha nova casa no streaming; saiba qual",
+      "originalTitle": "Top Gun 3 | David Ellison confirma sequência, mas deve demorar",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -601,25 +451,25 @@
       }
     },
     {
-      "id": "radar-eef3653d001a526e",
-      "title": "Kobo Libra Colour para ler mangá: será este o leitor digital ideal para os fãs de anime?",
-      "excerpt": "",
+      "id": "radar-30b6a648427e271b",
+      "title": "Anime Super Psychic Policeman Chojo divulga vídeo com a letra de \"Chinjuku Sentai Chinranger\"",
+      "excerpt": "Vídeo homenageia as aberturas de Super Sentai e destaca a música apresentada no episódio 7",
       "body": [
-        "Confira a cobertura completa em OtakuPT. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-19T19:00:36Z",
+      "publishedAt": "2026-11-19T23:15:00Z",
       "displayDate": "19 nov. 2026",
-      "sourceName": "OtakuPT",
-      "sourceUrl": "https://www.otakupt.com/review/kobo-libra-colour-para-ler-manga-sera-este-o-leitor-digital-ideal-para-os-fas-de-anime",
-      "image": "https://www.otakupt.com/wp-content/uploads/2026/11/Review-Kobo-Libra-Colour-foto-OtakuPT-27.jpg",
-      "alt": "Imagem publicada por OtakuPT",
-      "imageCredit": "Imagem: OtakuPT",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/19/super-psychic-policeman-chojo-video-letra-chinjuku-sentai-chinranger",
+      "image": "https://a.storyblok.com/f/178900/960x540/6ebe2ff6f4/chinjuku-sentai-chinranger-lyric-video.png",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Kobo Libra Colour para ler mangá: será este o leitor digital ideal para os fãs de anime?",
+      "originalTitle": "Anime Super Psychic Policeman Chojo divulga vídeo com a letra de \"Chinjuku Sentai Chinranger\"",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -627,25 +477,371 @@
       }
     },
     {
-      "id": "radar-0005d76e8d6b00bd",
-      "title": "The Sphere exibe imagens de Vingadores: Doutor Destino em Las Vegas",
+      "id": "radar-46ac45c81f0eccce",
+      "title": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
+      "excerpt": "O catálogo do Xbox Game Pass continua recebendo grandes novidades — e ficará ainda maior em novembro.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-19T23:15:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-de-novembro-recebe-high-on-life-2-e-mais-jogos-veja-a-lista",
+      "image": "https://www.estadao.com.br/resizer/v2/W5ADT4ZQQBB35BPGPRYDMXY3WQ.jpg?quality=80&auth=e7fe977bf6266cf25e75ae4c61161cfb3d1694c3b5603b231f23a92f5044c4f3&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-75a8ae17382f076a",
+      "title": "Fuga de Nova York | John Carpenter vai compor a trilha sonora do remake de Zack Snyder",
       "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-19T23:13:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/fuga-de-nova-york-john-carpenter-compor-trilha-sonora-remake-zack-snyder",
+      "image": "https://cdn.ome.lt/tbgAgHHnCP-C0KzEGqe_LGUnRvU=/1200x630/smart/filters:format(webp)/extras/conteudos/images58.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Fuga de Nova York | John Carpenter vai compor a trilha sonora do remake de Zack Snyder",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e0ed2d5dc86ece5d",
+      "title": "Guillermo del Toro nega negociações com Star Wars e Marvel",
+      "excerpt": "Guillermo del Toro afirmou que não está em negociações nem envolvido em projetos de Star Wars ou da Marvel.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-19T18:52:00Z",
+      "publishedAt": "2026-11-19T23:12:00Z",
       "displayDate": "19 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/the-sphere-exibe-imagens-de-vingadores-doutor-destino-em-las-vegas",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/the-sphere-exibe-imagens-de-vingadores-doutor-destino-em-las-vegas-featured.webp",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/guillermo-del-toro-nega-negociacoes-com-star-wars-e-marvel",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/guillermo-del-toro-nega-negociacoes-com-star-wars-e-marvel-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "The Sphere exibe imagens de Vingadores: Doutor Destino em Las Vegas",
+      "originalTitle": "Guillermo del Toro nega negociações com Star Wars e Marvel",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5aacc6dec2aa38bc",
+      "title": "Lana e Lilly Wachowski podem recuperar os direitos da franquia ‘Matrix’ EM BREVE; Entenda!",
+      "excerpt": "‘Matrix’ é uma das produções que definiram a cultura pop desde seu lançamento em 1999 e, ao que tudo indica, as cineasta Lana e Lilly Wachowski estão tomando todas as medidas possíveis para retormar o controle da franquia.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-19T23:09:59Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/lana-e-lilly-wachowski-podem-recuperar-os-direitos-da-franquia-matrix-em-breve-entenda-776696",
+      "image": "https://cinepop.com.br/wp-content/uploads/2025/06/matrix-cinepop-1024x576.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Lana e Lilly Wachowski podem recuperar os direitos da franquia ‘Matrix’ EM BREVE; Entenda!",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-83a5705e70f03f32",
+      "title": "Top Gun 3 deve avançar após sequência de Dias de Trovão",
+      "excerpt": "Top Gun 3 deve entrar em desenvolvimento ativo depois que Tom Cruise concluir a sequência de Dias de Trovão, segundo David Ellison, executivo da Skydance.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-19T22:52:59Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/top-gun-3-deve-avancar-apos-sequencia-de-dias-de-trovao",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/top-gun-3-deve-avancar-apos-sequencia-de-dias-de-trovao-featured-scaled.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Top Gun 3 deve avançar após sequência de Dias de Trovão",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7d593abf855750c3",
+      "title": "Prime Video prepara nova versão de The Prisoner ambientada nos dias atuais",
+      "excerpt": "A Amazon Studios adquiriu os direitos de The Prisoner e prepara uma nova versão da série britânica, desta vez ambientada nos dias atuais.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-19T22:44:12Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/prime-video-prepara-nova-versao-de-the-prisoner-ambientada-nos-dias-atuais",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/prime-video-prepara-nova-versao-de-the-prisoner-ambientada-nos-dias-atuais-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Prime Video prepara nova versão de The Prisoner ambientada nos dias atuais",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4de517a417fc1593",
+      "title": "GTA VI estreia com nota 99 no Metacritic e empata recorde de 1998",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em TV Sim Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-19T22:44:09Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "TV Sim Brasil",
+      "sourceUrl": "https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/19/gta-vi-estreia-nota-99-metacritic-empata-recorde-zelda",
+      "image": "https://tvsimbrasil.com.br/_next/image?url=https%3A%2F%2Fapi-news.tvsimbrasil.com.br%2Fstorage%2Farticles%2F4f505a3b-6c12-461a-b1f4-6965c45ab4f1.webp&w=1200&q=75",
+      "alt": "Imagem publicada por TV Sim Brasil",
+      "imageCredit": "Imagem: TV Sim Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "GTA VI estreia com nota 99 no Metacritic e empata recorde de 1998",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ee0c157389347fec",
+      "title": "Man of Tomorrow pode apresentar Superman com uniforme branco",
+      "excerpt": "David Corenswet pode vestir um uniforme branco em Man of Tomorrow, sequência de Superman prevista para chegar aos cinemas em 9 de julho de 2027.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-19T22:42:12Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/man-of-tomorrow-pode-apresentar-superman-com-uniforme-branco",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/man-of-tomorrow-pode-apresentar-superman-com-uniforme-branco-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Man of Tomorrow pode apresentar Superman com uniforme branco",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5b0640c230e748ec",
+      "title": "Novo anime de Oishinbo ganha novo trailer e arte promocional",
+      "excerpt": "A série de temática culinária estreia dia 4 de janeiro",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-19T22:05:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/19/novo-anime-oishinbo-estreia-4-de-janeiro-trailer-arte-elenco",
+      "image": "https://a.storyblok.com/f/178900/960x540/4c9c784479/new-oishinbo-tv-anime.jpg",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Novo anime de Oishinbo ganha novo trailer e arte promocional",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-232a2783651851b2",
+      "title": "Atleta que se tornou ator e brilhou em série da Marvel morre aos 43 anos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Caras Portugal. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-19T22:00:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Caras Portugal",
+      "sourceUrl": "https://caras.pt/mundo/2026-11-19-atleta-que-se-tornou-ator-e-brilhou-em-serie-da-marvel-morre-aos-43-anos",
+      "image": "https://caras.pt/wp-content/uploads/2026/11/261119_lancebroadway-marvel-morre-aos-43-anos-600x315.jpg",
+      "alt": "Imagem publicada por Caras Portugal",
+      "imageCredit": "Imagem: Caras Portugal",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Atleta que se tornou ator e brilhou em série da Marvel morre aos 43 anos",
+      "tags": [
+        "luto"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d3cb7a96353c2f7c",
+      "title": "Jogador de beisebol que virou ator e fez série da Marvel morre aos 43 anos",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Globo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-19T21:00:49Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Globo",
+      "sourceUrl": "https://revistamonet.globo.com/noticias/noticia/2026/11/jogador-de-beisebol-que-virou-ator-e-fez-serie-da-marvel-morre-aos-43-anos.ghtml",
+      "image": "https://s2-monet.glbimg.com/a5WY49UzmIFoDvMI92UryCs1gqQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e7c91519bbbb4fadb4e509085746275d/internal_photos/bs/2026/1/N/ibQEoDROiSIHQOBaNKIg/abre-monet-1980-x-1080-2026-11-19t175421.386.png",
+      "alt": "Imagem publicada por Globo",
+      "imageCredit": "Imagem: Globo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Jogador de beisebol que virou ator e fez série da Marvel morre aos 43 anos",
+      "tags": [
+        "luto"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9d6ba5faf6576421",
+      "title": "Lance Broadway, ator de Invasão à Casa Branca, morre aos 43 anos",
+      "excerpt": "Lance Broadway, ator conhecido por trabalhos em Invasão à Casa Branca e Agentes da S.H.I.E.L.D., morreu aos 43 anos.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-19T20:34:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/lance-broadway-ator-de-invasao-a-casa-branca-morre-aos-43-anos",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/lance-broadway-ator-de-invasao-a-casa-branca-morre-aos-43-anos-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Lance Broadway, ator de Invasão à Casa Branca, morre aos 43 anos",
+      "tags": [
+        "luto"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3decc470fa8f8a44",
+      "title": "Invencível | 5ª temporada ganha trailer e data de estreia no Prime Video, confira",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-19T17:37:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/invencivel-5a-temporada-ganha-trailer-e-data-de-estreia-no-prime-video-confira",
+      "image": "https://cdn.ome.lt/44-7ldqVCyFDcUm9KpVtvtU9qSY=/1200x630/smart/filters:format(webp)/extras/conteudos/invencivel-5-temporada.jpg",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Invencível | 5ª temporada ganha trailer e data de estreia no Prime Video, confira",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bf217aba75887614",
+      "title": "Anime KUKU-LOOP confirma estreia em 2027",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em animeflix.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-19T17:36:25Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "animeflix.com.br",
+      "sourceUrl": "https://animeflix.com.br/anime-kuku-loop-confirma-estreia-em-2027",
+      "image": "https://animeflix.com.br/wp-content/uploads/2026/11/KUKU-LOOP_-Anime-_A-centesima-vez-e-a-que-da-certo_-e-oficialmente-anunciado-para-2027-1.jpg",
+      "alt": "Imagem publicada por animeflix.com.br",
+      "imageCredit": "Imagem: animeflix.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Anime KUKU-LOOP confirma estreia em 2027",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -783,26 +979,80 @@
       }
     },
     {
-      "id": "radar-2d014d25258f7c7b",
-      "title": "Presidente da Production I.G diz que a Netflix salvou a indústria de anime",
+      "id": "radar-3ea52931b46eb3ca",
+      "title": "GTA VI: qual é o limite de tempo para jogar videogame e quando pode virar excesso? Estudo tem a resposta",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em O Vício. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em O GLOBO. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-19T14:42:47Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-19T15:20:34Z",
       "displayDate": "19 nov. 2026",
-      "sourceName": "O Vício",
-      "sourceUrl": "https://ovicio.com.br/presidente-da-production-i-g-diz-que-a-netflix-salvou-a-industria-de-anime",
-      "image": "https://ovicio.com.br/wp-content/uploads/2026/11/20261119-haikyu-the-dumpster-batlle-ovicio.webp",
-      "alt": "Imagem publicada por O Vício",
-      "imageCredit": "Imagem: O Vício",
+      "sourceName": "O GLOBO",
+      "sourceUrl": "https://oglobo.globo.com/saude/noticia/2026/11/19/gta-iv-qual-e-o-limite-de-tempo-para-jogar-videogame-e-quando-pode-virar-excesso-estudo-tem-a-resposta.ghtml",
+      "image": "https://s2-oglobo.glbimg.com/pX40W_xnvzt4erUUn9RfhhfdRdM=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/T/6/WO52ZLTYKaG6S659Kg8g/arte-2026-11-19t121554.630.png",
+      "alt": "Imagem publicada por O GLOBO",
+      "imageCredit": "Imagem: O GLOBO",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Presidente da Production I.G diz que a Netflix salvou a indústria de anime",
+      "originalTitle": "GTA VI: qual é o limite de tempo para jogar videogame e quando pode virar excesso? Estudo tem a resposta",
       "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9d9e63fb9c9d3d12",
+      "title": "GTA 6 transforma celular ao volante em meme viral",
+      "excerpt": "",
+      "body": [
+        "Confira o meme completo na publicação original de Critical Hits."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-19T15:11:25Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-transforma-celular-ao-volante-em-meme-viral",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/gta-6-transforma-celular-ao-volante-em-meme-viral-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": true,
+      "translated": false,
+      "originalTitle": "GTA 6 transforma celular ao volante em meme viral",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1247811f73f76d6e",
+      "title": "CCXP 26: Jensen Ackles vem ao Brasil para participar do evento",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em CNN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-19T15:01:20Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/noticias/ccxp-26-jensen-ackles-vem-ao-brasil-para-participar-do-evento",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/irmaos-Winchester-supernatural.jpg?w=1080&h=630&crop=1",
+      "alt": "Imagem publicada por CNN Brasil",
+      "imageCredit": "Imagem: CNN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "CCXP 26: Jensen Ackles vem ao Brasil para participar do evento",
+      "tags": [
+        "evento"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -913,6 +1163,60 @@
       }
     },
     {
+      "id": "radar-8a3b9d23a27c5fbf",
+      "title": "Vingadores: Doutor Destino | Ator indica que Attuma fará parte da equipe do vilão",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-19T13:49:00Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-attuma-deve-fazer-parte-equipe-vilao",
+      "image": "https://cdn.ome.lt/ZFXbb11mfatkMU2hEcGxSerhsoU=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-11-19_105410.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino | Ator indica que Attuma fará parte da equipe do vilão",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-407dc2102f3803e0",
+      "title": "Causa da morte de Patrick Stewart é revelada em certidão",
+      "excerpt": "A morte de Patrick Stewart foi atribuída a uma parada cardiorrespiratória e a um distúrbio neurocognitivo com corpos de Lewy, segundo informações da certidão de óbito obtidas pelo TMZ.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-19T13:12:50Z",
+      "displayDate": "19 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/causa-da-morte-de-patrick-stewart-e-revelada-em-certidao",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/causa-da-morte-de-patrick-stewart-e-revelada-em-certidao-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Causa da morte de Patrick Stewart é revelada em certidão",
+      "tags": [
+        "luto"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-68d3e6add9415704",
       "title": "Sakamoto Days: Mangá chega ao fim após 6 anos",
       "excerpt": "",
@@ -965,34 +1269,6 @@
       }
     },
     {
-      "id": "radar-029f84c389dd2fb7",
-      "title": "Warcraft III Reforged: Forsaken Kingdom | Review",
-      "excerpt": "Alguns anos atrás, o gênero de RTS era um dos pilares da indústria de games.",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-19T12:00:43Z",
-      "displayDate": "19 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/analises/warcraft-iii-reforged-forsaken-kingdom-review",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/image-7-1024x576.jpg",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Warcraft III Reforged: Forsaken Kingdom | Review",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-55fa597bb2158141",
       "title": "Crítica: Eu Sou o Rocky busca na recriação perfeita a paixão pela obra de Sylvester Stallone",
       "excerpt": "",
@@ -1001,7 +1277,7 @@
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-19T12:00:00Z",
+      "publishedAt": "2026-11-19T12:08:02Z",
       "displayDate": "19 nov. 2026",
       "sourceName": "Omelete",
       "sourceUrl": "https://www.omelete.com.br/filmes/criticas/eu-sou-o-rocky-critica",
@@ -1021,25 +1297,25 @@
       }
     },
     {
-      "id": "radar-711fe13df8001489",
-      "title": "Taylor Swift performa “I Knew It, I Knew You”, de ‘Toy Story 5’, no CMA Awards 2026",
-      "excerpt": "Taylor Swift foi uma das atrações musicais da 60ª edição do Country Music Association (CMA) Awards – e subiu aos palcos para performar uma de suas canções inéditas de 2026.",
+      "id": "radar-7c2a31907e9ba7b0",
+      "title": "Como ganhar dinheiro em GTA 6?",
+      "excerpt": "Money, money, money Grand Theft Auto 6 finalmente está disponível em todas as partes do mundo.",
       "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-19T11:57:12Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-19T12:06:00Z",
       "displayDate": "19 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/taylor-swift-performa-i-knew-it-i-knew-you-de-toy-story-5-no-cma-awards-2026-776680",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/06/taylor-swift-3-1024x577.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157766/como-ganhar-dinheiro-em-gta-6",
+      "image": "https://sm.ign.com/ign_br/photo/default/vice-city-25-1793891731329_wjgy.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Taylor Swift performa “I Knew It, I Knew You”, de ‘Toy Story 5’, no CMA Awards 2026",
+      "originalTitle": "Como ganhar dinheiro em GTA 6?",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -1144,58 +1420,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Homem do Amanhã tem Superman de traje branco?",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9785bac4b1d6fe0f",
-      "title": "GTA VI: 4 melhores métodos para ganhar dinheiro rápido",
-      "excerpt": "Dinheiro é um dos recursos mais importantes de Grand Theft Auto VI .",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-19T00:52:36Z",
-      "displayDate": "18 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/listas/gta-vi-metodos-ganhar-dinheiro-rapido",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/gta-vi-grand-theft-auto-vi-13-1024x576.jpg",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "GTA VI: 4 melhores métodos para ganhar dinheiro rápido",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c2243f50d79036c5",
-      "title": "2ª temporada de Spice and Wolf: MERCHANT MEETS THE WISE WOLF tem estreia confirmada para janeiro de 2027",
-      "excerpt": "Também foi revelada uma nova arte promocional da série de fantasia",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-18T22:50:00Z",
-      "displayDate": "18 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/18/anime-spice-and-wolf-merchant-meets-the-wise-wolf-temporada-2-estreia-janeiro-2027-arte",
-      "image": "https://a.storyblok.com/f/178900/1766x995/e183edfd6c/spice-and-wolf-merchant-meets-the-wise-wolf-season-2.png",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "2ª temporada de Spice and Wolf: MERCHANT MEETS THE WISE WOLF tem estreia confirmada para janeiro de 2027",
       "tags": [],
       "editorialReview": {
         "status": "native",

@@ -1,7 +1,355 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T20:58:30.575335Z",
+  "updatedAt": "2026-11-20T02:36:10.642386Z",
   "articles": [
+    {
+      "id": "radar-6f0b19e8f27794ff",
+      "publishedAt": "2026-11-20T02:15:00Z",
+      "title": "Filmagem da cena de Superman em Adão Negro é divulgada",
+      "sourceUrl": "https://www.einerd.com/cameo-henry-cavill-adao-negro-fundo-verde",
+      "originalTitle": "Filmagem da cena de Superman em Adão Negro é divulgada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2a060ab97bd79b7",
+      "publishedAt": "2026-11-20T02:01:17Z",
+      "title": "Em The Big Suck, você é um tornado que começa arrancando grama e acaba destruindo a Terra",
+      "sourceUrl": "https://arkade.com.br/em-the-big-suck-voce-e-um-tornado-que-comeca-arrancando-grama-e-acaba-destruindo-a-terra",
+      "originalTitle": "Em The Big Suck, você é um tornado que começa arrancando grama e acaba destruindo a Terra",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e210bddec6247261",
+      "publishedAt": "2026-11-20T02:00:00Z",
+      "title": "Cyberleek voltou e diz que vai liberar build de GTA 6 por torrent",
+      "sourceUrl": "https://www.einerd.com/cyberleek-build-gta-6-torrent",
+      "originalTitle": "Cyberleek voltou e diz que vai liberar build de GTA 6 por torrent",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64985fae419a25fb",
+      "publishedAt": "2026-11-20T01:54:19Z",
+      "title": "Valve libera a compra direta do Steam Machine de 512 GB",
+      "sourceUrl": "https://criticalhits.com.br/games/valve-libera-a-compra-direta-do-steam-machine-de-512-gb",
+      "originalTitle": "Valve libera a compra direta do Steam Machine de 512 GB",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce12dbc1cd07dd91",
+      "publishedAt": "2026-11-20T01:39:16Z",
+      "title": "Ator de série da Marvel morre aos 43 anos nos Estados Unidos",
+      "sourceUrl": "https://www.uol.com.br/splash/noticias/2026/11/19/ator-de-serie-da-marvel-morre-aos-43-anos-nos-estados-unidos.ghtm",
+      "originalTitle": "Ator de série da Marvel morre aos 43 anos nos Estados Unidos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c591649078e03ff2",
+      "publishedAt": "2026-11-20T01:23:04Z",
+      "title": "From supera 5 bilhões de minutos vistos na Netflix",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/from-supera-5-bilhoes-de-minutos-vistos-na-netflix",
+      "originalTitle": "From supera 5 bilhões de minutos vistos na Netflix",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-35463e459fb60145",
+      "publishedAt": "2026-11-20T01:22:03Z",
+      "title": "Disney+ desenvolve adaptação de The Curse Workers",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/disney-desenvolve-adaptacao-de-the-curse-workers",
+      "originalTitle": "Disney+ desenvolve adaptação de The Curse Workers",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-be70c1ed96a99c69",
+      "publishedAt": "2026-11-20T01:08:04Z",
+      "title": "Chris Evans confirma que Steve não será o Capitão América em Doomsday",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/chris-evans-confirma-que-steve-nao-sera-o-capitao-america-em-doomsday",
+      "originalTitle": "Chris Evans confirma que Steve não será o Capitão América em Doomsday",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c31524d4b034288a",
+      "publishedAt": "2026-11-20T00:55:37Z",
+      "title": "Guarding Stars chega ao topo da Netflix em dezenas de países, incluindo o Brasil",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/guarding-stars-chega-ao-topo-da-netflix-em-dezenas-de-paises-incluindo-o-brasil",
+      "originalTitle": "Guarding Stars chega ao topo da Netflix em dezenas de países, incluindo o Brasil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b6e51aacb6a113d2",
+      "publishedAt": "2026-11-20T00:25:11Z",
+      "title": "Crítica | 5º episódio da 3ª temporada de ‘O Senhor dos Anéis: Os Anéis de Poder’ tropeça em certos vícios, mas nos envolve como pode",
+      "sourceUrl": "https://cinepop.com.br/critica-5o-episodio-da-3a-temporada-de-o-senhor-dos-aneis-os-aneis-de-poder-tropeca-em-certos-vicios-mas-nos-envolve-como-pode-776650",
+      "originalTitle": "Crítica | 5º episódio da 3ª temporada de ‘O Senhor dos Anéis: Os Anéis de Poder’ tropeça em certos vícios, mas nos envolve como pode",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1df19e8ca3532f5a",
+      "publishedAt": "2026-11-20T00:25:00Z",
+      "title": "Anime Inu x Boku Secret Service comemora 15º aniversário com nova ilustração promocional",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/20/inu-x-boku-secret-service-15-aniversario-ilustracao-promocional",
+      "originalTitle": "Anime Inu x Boku Secret Service comemora 15º aniversário com nova ilustração promocional",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b8ecdd31a3f83ca2",
+      "publishedAt": "2026-11-20T00:14:51Z",
+      "title": "Marvel revela novo codinome de Vision em Hulk War",
+      "sourceUrl": "https://criticalhits.com.br/quadrinhos/marvel-revela-novo-codinome-de-vision-em-hulk-war",
+      "originalTitle": "Marvel revela novo codinome de Vision em Hulk War",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1d28865b5344ceca",
+      "publishedAt": "2026-11-20T00:12:29Z",
+      "title": "Gary Oldman chama Slow Horses de destaque da carreira, e série é renovada até a 10ª temporada",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/gary-oldman-chama-slow-horses-de-destaque-da-carreira-e-serie-e-renovada-ate-a-10a-temporada",
+      "originalTitle": "Gary Oldman chama Slow Horses de destaque da carreira, e série é renovada até a 10ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b4fef5566cfe4b1a",
+      "publishedAt": "2026-11-20T00:05:17Z",
+      "title": "Os 10 Animes Esquecidos do Cartoon Network Que Merecem Voltar",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-10-animes-esquecidos-do-cartoon-network-que-merecem-voltar",
+      "originalTitle": "Os 10 Animes Esquecidos do Cartoon Network Que Merecem Voltar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6387d742e5efcd45",
+      "publishedAt": "2026-11-20T00:05:00Z",
+      "title": "2ª temporada de YAIBA: Samurai Legend revela música de abertura e dublador de Gekko",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/20/yaiba-samurai-legend-2-temporada-musica-abertura-dublador-gekko",
+      "originalTitle": "2ª temporada de YAIBA: Samurai Legend revela música de abertura e dublador de Gekko",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0fac6ff38c23bc0a",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "Análise: Metaphor: ReFantazio apresenta uma fábula política cativante em um JRPG essencial no Switch 2",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/metaphor-refantazio-switch-2-analise-critica-review.html",
+      "originalTitle": "Análise: Metaphor: ReFantazio apresenta uma fábula política cativante em um JRPG essencial no Switch 2",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e6987a1ea1d57816",
+      "publishedAt": "2026-11-19T23:35:00Z",
+      "title": "Top Gun 3 | David Ellison confirma sequência, mas deve demorar",
+      "sourceUrl": "https://www.omelete.com.br/filmes/top-gun-3-david-ellison-confirma-sequencia-deve-demorar",
+      "originalTitle": "Top Gun 3 | David Ellison confirma sequência, mas deve demorar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-30b6a648427e271b",
+      "publishedAt": "2026-11-19T23:15:00Z",
+      "title": "Anime Super Psychic Policeman Chojo divulga vídeo com a letra de \"Chinjuku Sentai Chinranger\"",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/19/super-psychic-policeman-chojo-video-letra-chinjuku-sentai-chinranger",
+      "originalTitle": "Anime Super Psychic Policeman Chojo divulga vídeo com a letra de \"Chinjuku Sentai Chinranger\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-46ac45c81f0eccce",
+      "publishedAt": "2026-11-19T23:15:00Z",
+      "title": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-de-novembro-recebe-high-on-life-2-e-mais-jogos-veja-a-lista",
+      "originalTitle": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-75a8ae17382f076a",
+      "publishedAt": "2026-11-19T23:13:00Z",
+      "title": "Fuga de Nova York | John Carpenter vai compor a trilha sonora do remake de Zack Snyder",
+      "sourceUrl": "https://www.omelete.com.br/filmes/fuga-de-nova-york-john-carpenter-compor-trilha-sonora-remake-zack-snyder",
+      "originalTitle": "Fuga de Nova York | John Carpenter vai compor a trilha sonora do remake de Zack Snyder",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e0ed2d5dc86ece5d",
+      "publishedAt": "2026-11-19T23:12:00Z",
+      "title": "Guillermo del Toro nega negociações com Star Wars e Marvel",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/guillermo-del-toro-nega-negociacoes-com-star-wars-e-marvel",
+      "originalTitle": "Guillermo del Toro nega negociações com Star Wars e Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5aacc6dec2aa38bc",
+      "publishedAt": "2026-11-19T23:09:59Z",
+      "title": "Lana e Lilly Wachowski podem recuperar os direitos da franquia ‘Matrix’ EM BREVE; Entenda!",
+      "sourceUrl": "https://cinepop.com.br/lana-e-lilly-wachowski-podem-recuperar-os-direitos-da-franquia-matrix-em-breve-entenda-776696",
+      "originalTitle": "Lana e Lilly Wachowski podem recuperar os direitos da franquia ‘Matrix’ EM BREVE; Entenda!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-83a5705e70f03f32",
+      "publishedAt": "2026-11-19T22:52:59Z",
+      "title": "Top Gun 3 deve avançar após sequência de Dias de Trovão",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/top-gun-3-deve-avancar-apos-sequencia-de-dias-de-trovao",
+      "originalTitle": "Top Gun 3 deve avançar após sequência de Dias de Trovão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7d593abf855750c3",
+      "publishedAt": "2026-11-19T22:44:12Z",
+      "title": "Prime Video prepara nova versão de The Prisoner ambientada nos dias atuais",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/prime-video-prepara-nova-versao-de-the-prisoner-ambientada-nos-dias-atuais",
+      "originalTitle": "Prime Video prepara nova versão de The Prisoner ambientada nos dias atuais",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4de517a417fc1593",
+      "publishedAt": "2026-11-19T22:44:09Z",
+      "title": "GTA VI estreia com nota 99 no Metacritic e empata recorde de 1998",
+      "sourceUrl": "https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/19/gta-vi-estreia-nota-99-metacritic-empata-recorde-zelda",
+      "originalTitle": "GTA VI estreia com nota 99 no Metacritic e empata recorde de 1998",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ee0c157389347fec",
+      "publishedAt": "2026-11-19T22:42:12Z",
+      "title": "Man of Tomorrow pode apresentar Superman com uniforme branco",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/man-of-tomorrow-pode-apresentar-superman-com-uniforme-branco",
+      "originalTitle": "Man of Tomorrow pode apresentar Superman com uniforme branco",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5b0640c230e748ec",
+      "publishedAt": "2026-11-19T22:05:00Z",
+      "title": "Novo anime de Oishinbo ganha novo trailer e arte promocional",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/19/novo-anime-oishinbo-estreia-4-de-janeiro-trailer-arte-elenco",
+      "originalTitle": "Novo anime de Oishinbo ganha novo trailer e arte promocional",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-232a2783651851b2",
+      "publishedAt": "2026-11-19T22:00:00Z",
+      "title": "Atleta que se tornou ator e brilhou em série da Marvel morre aos 43 anos",
+      "sourceUrl": "https://caras.pt/mundo/2026-11-19-atleta-que-se-tornou-ator-e-brilhou-em-serie-da-marvel-morre-aos-43-anos",
+      "originalTitle": "Atleta que se tornou ator e brilhou em série da Marvel morre aos 43 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d3cb7a96353c2f7c",
+      "publishedAt": "2026-11-19T21:00:49Z",
+      "title": "Jogador de beisebol que virou ator e fez série da Marvel morre aos 43 anos",
+      "sourceUrl": "https://revistamonet.globo.com/noticias/noticia/2026/11/jogador-de-beisebol-que-virou-ator-e-fez-serie-da-marvel-morre-aos-43-anos.ghtml",
+      "originalTitle": "Jogador de beisebol que virou ator e fez série da Marvel morre aos 43 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-8a3048a94a45db0b",
       "publishedAt": "2026-11-19T20:52:37Z",
@@ -80,6 +428,18 @@
       "title": "Yuki Tabata revela Asta como Rei Mago em nova arte de Black Clover",
       "sourceUrl": "https://criticalhits.com.br/anime/yuki-tabata-revela-asta-como-rei-mago-em-nova-arte-de-black-clover",
       "originalTitle": "Yuki Tabata revela Asta como Rei Mago em nova arte de Black Clover",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9d6ba5faf6576421",
+      "publishedAt": "2026-11-19T20:34:00Z",
+      "title": "Lance Broadway, ator de Invasão à Casa Branca, morre aos 43 anos",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/lance-broadway-ator-de-invasao-a-casa-branca-morre-aos-43-anos",
+      "originalTitle": "Lance Broadway, ator de Invasão à Casa Branca, morre aos 43 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -303,6 +663,30 @@
       }
     },
     {
+      "id": "radar-3decc470fa8f8a44",
+      "publishedAt": "2026-11-19T17:37:00Z",
+      "title": "Invencível | 5ª temporada ganha trailer e data de estreia no Prime Video, confira",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/invencivel-5a-temporada-ganha-trailer-e-data-de-estreia-no-prime-video-confira",
+      "originalTitle": "Invencível | 5ª temporada ganha trailer e data de estreia no Prime Video, confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bf217aba75887614",
+      "publishedAt": "2026-11-19T17:36:25Z",
+      "title": "Anime KUKU-LOOP confirma estreia em 2027",
+      "sourceUrl": "https://animeflix.com.br/anime-kuku-loop-confirma-estreia-em-2027",
+      "originalTitle": "Anime KUKU-LOOP confirma estreia em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-d091bd3698444b2f",
       "publishedAt": "2026-11-19T17:09:22Z",
       "title": "‘Invencível’: 5ª temporada da série animada ganha teaser DUBLADO e data de estreia",
@@ -356,6 +740,42 @@
       "title": "#Hashtag: Presença de Anitta em 'GTA 6' como 'doutora do sexo' vira meme",
       "sourceUrl": "https://www1.folha.uol.com.br/blogs/hashtag/2026/11/presenca-de-anitta-em-gta-6-como-doutora-do-sexo-vira-meme.shtml",
       "originalTitle": "#Hashtag: Presença de Anitta em 'GTA 6' como 'doutora do sexo' vira meme",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3ea52931b46eb3ca",
+      "publishedAt": "2026-11-19T15:20:34Z",
+      "title": "GTA VI: qual é o limite de tempo para jogar videogame e quando pode virar excesso? Estudo tem a resposta",
+      "sourceUrl": "https://oglobo.globo.com/saude/noticia/2026/11/19/gta-iv-qual-e-o-limite-de-tempo-para-jogar-videogame-e-quando-pode-virar-excesso-estudo-tem-a-resposta.ghtml",
+      "originalTitle": "GTA VI: qual é o limite de tempo para jogar videogame e quando pode virar excesso? Estudo tem a resposta",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9d9e63fb9c9d3d12",
+      "publishedAt": "2026-11-19T15:11:25Z",
+      "title": "GTA 6 transforma celular ao volante em meme viral",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-transforma-celular-ao-volante-em-meme-viral",
+      "originalTitle": "GTA 6 transforma celular ao volante em meme viral",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1247811f73f76d6e",
+      "publishedAt": "2026-11-19T15:01:20Z",
+      "title": "CCXP 26: Jensen Ackles vem ao Brasil para participar do evento",
+      "sourceUrl": "https://www.cnnbrasil.com.br/noticias/ccxp-26-jensen-ackles-vem-ao-brasil-para-participar-do-evento",
+      "originalTitle": "CCXP 26: Jensen Ackles vem ao Brasil para participar do evento",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -423,6 +843,30 @@
       }
     },
     {
+      "id": "radar-8a3b9d23a27c5fbf",
+      "publishedAt": "2026-11-19T13:49:00Z",
+      "title": "Vingadores: Doutor Destino | Ator indica que Attuma fará parte da equipe do vilão",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-attuma-deve-fazer-parte-equipe-vilao",
+      "originalTitle": "Vingadores: Doutor Destino | Ator indica que Attuma fará parte da equipe do vilão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-407dc2102f3803e0",
+      "publishedAt": "2026-11-19T13:12:50Z",
+      "title": "Causa da morte de Patrick Stewart é revelada em certidão",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/causa-da-morte-de-patrick-stewart-e-revelada-em-certidao",
+      "originalTitle": "Causa da morte de Patrick Stewart é revelada em certidão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-68d3e6add9415704",
       "publishedAt": "2026-11-19T12:23:28Z",
       "title": "Sakamoto Days: Mangá chega ao fim após 6 anos",
@@ -440,6 +884,30 @@
       "title": "Anime de I Lost My Adventurer’s License estreia em janeiro",
       "sourceUrl": "https://criticalhits.com.br/anime/anime-de-i-lost-my-adventurers-license-estreia-em-janeiro",
       "originalTitle": "Anime de I Lost My Adventurer’s License estreia em janeiro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-55fa597bb2158141",
+      "publishedAt": "2026-11-19T12:08:02Z",
+      "title": "Crítica: Eu Sou o Rocky busca na recriação perfeita a paixão pela obra de Sylvester Stallone",
+      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/eu-sou-o-rocky-critica",
+      "originalTitle": "Crítica: Eu Sou o Rocky busca na recriação perfeita a paixão pela obra de Sylvester Stallone",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7c2a31907e9ba7b0",
+      "publishedAt": "2026-11-19T12:06:00Z",
+      "title": "Como ganhar dinheiro em GTA 6?",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157766/como-ganhar-dinheiro-em-gta-6",
+      "originalTitle": "Como ganhar dinheiro em GTA 6?",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -476,18 +944,6 @@
       "title": "Lisa, do BLACKPINK, lança o emocionante clipe de ‘Leave With Me’",
       "sourceUrl": "https://www.einerd.com/lisa-do-blackpink-lanca-o-emocionante-clipe-de-leave-with-me",
       "originalTitle": "Lisa, do BLACKPINK, lança o emocionante clipe de ‘Leave With Me’",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-55fa597bb2158141",
-      "publishedAt": "2026-11-19T12:00:00Z",
-      "title": "Crítica: Eu Sou o Rocky busca na recriação perfeita a paixão pela obra de Sylvester Stallone",
-      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/eu-sou-o-rocky-critica",
-      "originalTitle": "Crítica: Eu Sou o Rocky busca na recriação perfeita a paixão pela obra de Sylvester Stallone",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1124,18 +1580,6 @@
       "title": "‘Jogos Vorazes: Amanhecer na Colheita’ deve arrecadar entre US$ 160-190 milhões em estreia GLOBAL",
       "sourceUrl": "https://cinepop.com.br/jogos-vorazes-amanhecer-na-colheita-deve-arrecadar-entre-us-160-190-milhoes-em-estreia-global-776651",
       "originalTitle": "‘Jogos Vorazes: Amanhecer na Colheita’ deve arrecadar entre US$ 160-190 milhões em estreia GLOBAL",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b6e51aacb6a113d2",
-      "publishedAt": "2026-11-18T22:34:11Z",
-      "title": "Crítica | 5º episódio da 3ª temporada de ‘O Senhor dos Anéis: Os Anéis de Poder’ tropeça em certos vícios, mas nos envolve como pode",
-      "sourceUrl": "https://cinepop.com.br/critica-5o-episodio-da-3a-temporada-de-o-senhor-dos-aneis-os-aneis-de-poder-tropeca-em-certos-vicios-mas-nos-envolve-como-pode-776650",
-      "originalTitle": "Crítica | 5º episódio da 3ª temporada de ‘O Senhor dos Anéis: Os Anéis de Poder’ tropeça em certos vícios, mas nos envolve como pode",
       "translated": false,
       "editorialReview": {
         "status": "native",
