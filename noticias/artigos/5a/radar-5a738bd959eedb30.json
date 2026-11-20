@@ -7,8 +7,8 @@
   ],
   "category": "animacao",
   "categoryName": "Anime",
-  "publishedAt": "2026-10-29T09:26:04Z",
-  "displayDate": "29 out. 2026",
+  "publishedAt": "2026-11-19T11:58:30Z",
+  "displayDate": "19 nov. 2026",
   "sourceName": "Rádio Geek",
   "sourceUrl": "https://radiogeekbr.com.br/vampira-perde-intocabilidade-x-men-97-temporada-2",
   "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/08/radiogeekbr-1787909091.jpg",
@@ -18,5 +18,9 @@
   "meme": false,
   "translated": false,
   "originalTitle": "Vampira perde intocabilidade em X-Men ‘97 e muda o eixo emocional da série",
-  "tags": []
+  "tags": [],
+  "editorialReview": {
+    "status": "native",
+    "policyVersion": 2
+  }
 }
