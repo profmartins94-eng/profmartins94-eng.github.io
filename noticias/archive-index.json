@@ -1,7 +1,643 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T10:29:54.192446Z",
+  "updatedAt": "2026-11-20T18:50:02.829140Z",
   "articles": [
+    {
+      "id": "radar-5e0ebd39391ef176",
+      "publishedAt": "2026-11-20T18:42:31Z",
+      "title": "GTA 6 quer um mundo aberto que não vire lista de tarefas",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-quer-um-mundo-aberto-que-nao-vire-lista-de-tarefas",
+      "originalTitle": "GTA 6 quer um mundo aberto que não vire lista de tarefas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d7f8ae2662d32026",
+      "publishedAt": "2026-11-20T18:41:29Z",
+      "title": "Blu-ray de Evangelion reúne especial de 30 anos em fevereiro de 2027",
+      "sourceUrl": "https://criticalhits.com.br/anime/blu-ray-de-evangelion-reune-especial-de-30-anos-em-fevereiro-de-2027",
+      "originalTitle": "Blu-ray de Evangelion reúne especial de 30 anos em fevereiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dfee8bafef0b36b6",
+      "publishedAt": "2026-11-20T18:41:28Z",
+      "title": "Rockstar mantém cerca de 1.000 funcionários há mais de 10 anos",
+      "sourceUrl": "https://criticalhits.com.br/games/rockstar-mantem-cerca-de-1-000-funcionarios-ha-mais-de-10-anos",
+      "originalTitle": "Rockstar mantém cerca de 1.000 funcionários há mais de 10 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a9811fabc7f4bb33",
+      "publishedAt": "2026-11-20T18:41:17Z",
+      "title": "Ratchet & Clank entra no catálogo clássico do PS Plus Premium em dezembro",
+      "sourceUrl": "https://criticalhits.com.br/games/ratchet-clank-entra-no-catalogo-classico-do-ps-plus-premium-em-dezembro",
+      "originalTitle": "Ratchet & Clank entra no catálogo clássico do PS Plus Premium em dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e5f696b5e213188e",
+      "publishedAt": "2026-11-20T18:38:29Z",
+      "title": "Filme live-action de Mashle ganha pôster com Mash comendo choux cream",
+      "sourceUrl": "https://criticalhits.com.br/anime/filme-live-action-de-mashle-ganha-poster-com-mash-comendo-choux-cream",
+      "originalTitle": "Filme live-action de Mashle ganha pôster com Mash comendo choux cream",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79930c989ebc0620",
+      "publishedAt": "2026-11-20T18:38:21Z",
+      "title": "Log Horizon constrói um mundo de MMORPG mais complexo que Sword Art Online",
+      "sourceUrl": "https://criticalhits.com.br/anime/log-horizon-constroi-um-mundo-de-mmorpg-mais-complexo-que-sword-art-online",
+      "originalTitle": "Log Horizon constrói um mundo de MMORPG mais complexo que Sword Art Online",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7117211e01559b7e",
+      "publishedAt": "2026-11-20T18:37:39Z",
+      "title": "Niko Bellic retorna em GTA 6 e participa da história principal",
+      "sourceUrl": "https://criticalhits.com.br/games/niko-bellic-retorna-em-gta-6-e-participa-da-historia-principal",
+      "originalTitle": "Niko Bellic retorna em GTA 6 e participa da história principal",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ab98a253c08a12a1",
+      "publishedAt": "2026-11-20T18:37:20Z",
+      "title": "Macaulay Culkin deve voltar em novo Esqueceram de Mim",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/macaulay-culkin-deve-voltar-em-novo-esqueceram-de-mim",
+      "originalTitle": "Macaulay Culkin deve voltar em novo Esqueceram de Mim",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c3faefd15f2fcf5d",
+      "publishedAt": "2026-11-20T18:37:00Z",
+      "title": "Produção do jogo de cartas WIXOSS chega ao fim em 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/20/wixoss-cardgame-fim",
+      "originalTitle": "Produção do jogo de cartas WIXOSS chega ao fim em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c7ed2794cd48a09e",
+      "publishedAt": "2026-11-20T18:36:36Z",
+      "title": "Aaron Pierre comenta saída de James Gunn e Peter Safran da DC",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/aaron-pierre-comenta-saida-de-james-gunn-e-peter-safran-da-dc",
+      "originalTitle": "Aaron Pierre comenta saída de James Gunn e Peter Safran da DC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-07b3fe5c2c46da6e",
+      "publishedAt": "2026-11-20T18:35:58Z",
+      "title": "Josh Hutcherson diz que Sr. Milagre pode ganhar versão live-action",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/josh-hutcherson-diz-que-sr-milagre-pode-ganhar-versao-live-action",
+      "originalTitle": "Josh Hutcherson diz que Sr. Milagre pode ganhar versão live-action",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fbbc3445fa0fe59a",
+      "publishedAt": "2026-11-20T18:34:49Z",
+      "title": "Solo Leveling revela a origem de Thalia De Rossi em novo capítulo",
+      "sourceUrl": "https://criticalhits.com.br/anime/solo-leveling-revela-a-origem-de-thalia-de-rossi-em-novo-capitulo",
+      "originalTitle": "Solo Leveling revela a origem de Thalia De Rossi em novo capítulo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b93be7f2d7cce57d",
+      "publishedAt": "2026-11-20T18:26:30Z",
+      "title": "Super Dragon Ball Heroes mostra o poder da forma base de Cumber",
+      "sourceUrl": "https://criticalhits.com.br/anime/super-dragon-ball-heroes-mostra-o-poder-da-forma-base-de-cumber",
+      "originalTitle": "Super Dragon Ball Heroes mostra o poder da forma base de Cumber",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bd38596f96e24bd5",
+      "publishedAt": "2026-11-20T18:24:30Z",
+      "title": "NCIS: Origins reúne Gibbs e Fornell antes da pausa de meio de temporada",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/ncis-origins-reune-gibbs-e-fornell-antes-da-pausa-de-meio-de-temporada",
+      "originalTitle": "NCIS: Origins reúne Gibbs e Fornell antes da pausa de meio de temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-516bebad5a5027d4",
+      "publishedAt": "2026-11-20T18:08:02Z",
+      "title": "As 3 Coisas Que o Filme de Solo Leveling Precisa Mostrar",
+      "sourceUrl": "https://criticalhits.com.br/anime/as-3-coisas-que-o-filme-de-solo-leveling-precisa-mostrar",
+      "originalTitle": "As 3 Coisas Que o Filme de Solo Leveling Precisa Mostrar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-51c7a259ba340f56",
+      "publishedAt": "2026-11-20T17:47:00Z",
+      "title": "Facção de Dan é destaque em novo trailer de Fate/EXTRA Record",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/20/fate-extra-record-dan-trailer",
+      "originalTitle": "Facção de Dan é destaque em novo trailer de Fate/EXTRA Record",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3de43619dde490bd",
+      "publishedAt": "2026-11-20T17:41:00Z",
+      "title": "Deep Purple | Show no brasil é adiado após problemas de saúde",
+      "sourceUrl": "https://www.omelete.com.br/musica/deep-purple-show-no-brasil-e-adiado-apos-problemas-de-saude",
+      "originalTitle": "Deep Purple | Show no brasil é adiado após problemas de saúde",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-812e6cf6e8e7841c",
+      "publishedAt": "2026-11-20T17:39:18Z",
+      "title": "‘Tipo Irmãs’: Animação focada nas MEIAS-IRMÃS da Cinderela estreia no streaming e ganha clipe super fofo",
+      "sourceUrl": "https://cinepop.com.br/tipo-irmas-animacao-focada-nas-meias-irmas-da-cinderela-estreia-no-streaming-e-ganha-clipe-super-fofo-776824",
+      "originalTitle": "‘Tipo Irmãs’: Animação focada nas MEIAS-IRMÃS da Cinderela estreia no streaming e ganha clipe super fofo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0d045e63aa46649d",
+      "publishedAt": "2026-11-20T17:30:58Z",
+      "title": "Harry Potter: HBO Divulga Imagens das Varinhas dos Professores na Série Original",
+      "sourceUrl": "https://sucodemanga.com.br/hbo-harry-potter-serie-original-imagens-varinhas-professores-hogwarts",
+      "originalTitle": "Harry Potter: HBO Divulga Imagens das Varinhas dos Professores na Série Original",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-90d88123caa255d9",
+      "publishedAt": "2026-11-20T17:30:15Z",
+      "title": "‘Vingadores: Doutor Destino’ ganha novo trailer IMPACTANTE que mostra os eventos que levam ao novo filme",
+      "sourceUrl": "https://cinepop.com.br/vingadores-doutor-destino-ganha-novo-trailer-impactante-que-mostra-os-eventos-que-levam-ao-novo-filme-776815",
+      "originalTitle": "‘Vingadores: Doutor Destino’ ganha novo trailer IMPACTANTE que mostra os eventos que levam ao novo filme",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-127387d21af53173",
+      "publishedAt": "2026-11-20T17:21:00Z",
+      "title": "David Fincher sai em defesa do uso de IA em seu filme de Cliff Booth",
+      "sourceUrl": "https://www.omelete.com.br/filmes/david-fincher-defende-uso-ia-filme-cliff-booth",
+      "originalTitle": "David Fincher sai em defesa do uso de IA em seu filme de Cliff Booth",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-054988196b309d2a",
+      "publishedAt": "2026-11-20T17:04:00Z",
+      "title": "Polly Pocket | Lili Reinhart substitui Lily Collins em live-action da Amazon MGM e da Mattel",
+      "sourceUrl": "https://www.omelete.com.br/filmes/lili-reinhart-substitui-lily-collins-polly-pocket",
+      "originalTitle": "Polly Pocket | Lili Reinhart substitui Lily Collins em live-action da Amazon MGM e da Mattel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-09086d4105b9ac99",
+      "publishedAt": "2026-11-20T17:00:00Z",
+      "title": "GTA 6: grupo cristão critica escolas que premiaram alunos",
+      "sourceUrl": "https://comunhao.com.br/gta-6-escolas-grupo-cristao-critica",
+      "originalTitle": "GTA 6: grupo cristão critica escolas que premiaram alunos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1f2ac17bd20577b5",
+      "publishedAt": "2026-11-20T17:00:00Z",
+      "title": "Wizavior | Jogo brasileiro ganha trailer incrível com animação 2D; veja",
+      "sourceUrl": "https://www.omelete.com.br/games/wizavior-jogo-brasileiro-ganha-trailer-incrivel-animacao-2d-veja",
+      "originalTitle": "Wizavior | Jogo brasileiro ganha trailer incrível com animação 2D; veja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4319a7376cae9e41",
+      "publishedAt": "2026-11-20T16:57:45Z",
+      "title": "Blue Period ganhará artbook especial em homenagem ao 10º aniversário do mangá",
+      "sourceUrl": "https://ovicio.com.br/blue-period-ganhara-artbook-especial-em-homenagem-ao-10o-aniversario-do-manga",
+      "originalTitle": "Blue Period ganhará artbook especial em homenagem ao 10º aniversário do mangá",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-da4a73e616f7f142",
+      "publishedAt": "2026-11-20T16:50:41Z",
+      "title": "Panini traz ‘Gyarus Não Podem Ser Gentis Com Otakus?’ ao Brasil em 2027",
+      "sourceUrl": "https://espacodopovo.com.br/panini-gyarus-nao-podem-ser-gentis-otakus-brasil",
+      "originalTitle": "Panini traz ‘Gyarus Não Podem Ser Gentis Com Otakus?’ ao Brasil em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d75b44878a96d191",
+      "publishedAt": "2026-11-20T16:46:00Z",
+      "title": "Jogos Vorazes: Amanhecer na Colheita tem 2ª maior pré-estreia do ano com arrecadação de US$ 21 milhões",
+      "sourceUrl": "https://www.omelete.com.br/filmes/jogos-vorazes-amanhecer-na-colheita-bilheteria-pre-estreia",
+      "originalTitle": "Jogos Vorazes: Amanhecer na Colheita tem 2ª maior pré-estreia do ano com arrecadação de US$ 21 milhões",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5771617c50b67218",
+      "publishedAt": "2026-11-20T16:45:48Z",
+      "title": "Joe Locke não descarta aparição de Billy em Avengers: Doomsday",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/joe-locke-nao-descarta-aparicao-de-billy-em-avengers-doomsday",
+      "originalTitle": "Joe Locke não descarta aparição de Billy em Avengers: Doomsday",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5d12c675e9274f55",
+      "publishedAt": "2026-11-20T16:39:57Z",
+      "title": "Jennifer Lawrence faz ranking de beijos com galãs de Hollywood e coloca astro da Marvel como o “pior”; assista",
+      "sourceUrl": "https://hugogloss.uol.com.br/famosos/jennifer-lawrence-revela-ranking-beijos",
+      "originalTitle": "Jennifer Lawrence faz ranking de beijos com galãs de Hollywood e coloca astro da Marvel como o “pior”; assista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0a9a112c04db2984",
+      "publishedAt": "2026-11-20T16:20:43Z",
+      "title": "Ator de série da Marvel morre aos 43 anos",
+      "sourceUrl": "https://atarde.com.br/cineinsite/ator-de-serie-da-marvel-morre-aos-43-anos-1410117",
+      "originalTitle": "Ator de série da Marvel morre aos 43 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2ae0edb5cd1166af",
+      "publishedAt": "2026-11-20T16:00:00Z",
+      "title": "Billy Maximoff está em Doutor Destino? Ator responde",
+      "sourceUrl": "https://www.einerd.com/joe-locke-billy-maximoff-vingadores-doutor-destino",
+      "originalTitle": "Billy Maximoff está em Doutor Destino? Ator responde",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-06f9fd5ddc23c971",
+      "publishedAt": "2026-11-20T15:27:00Z",
+      "title": "Quantos capítulos tem GTA 6?",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157824/quantos-capitulos-tem-gta-6",
+      "originalTitle": "Quantos capítulos tem GTA 6?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79a23c5d696ecdda",
+      "publishedAt": "2026-11-20T15:23:00Z",
+      "title": "Fatal Fury: City of the Wolves ganha animação para Laocorn",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/20/fatal-fury-city-of-the-wolves-laocorn-animacao",
+      "originalTitle": "Fatal Fury: City of the Wolves ganha animação para Laocorn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-41bc131b65124dfd",
+      "publishedAt": "2026-11-20T15:15:00Z",
+      "title": "Próxima semana em XBOX: novos jogos para 23 a 27 de novembro",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/20/proxima-semana-em-xbox-novos-jogos-para-23-a-27-de-novembro",
+      "originalTitle": "Próxima semana em XBOX: novos jogos para 23 a 27 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a5d8922a414763f1",
+      "publishedAt": "2026-11-20T15:00:00Z",
+      "title": "Lanternas: Aaron Pierre comenta futuro do DCU após mudanças",
+      "sourceUrl": "https://www.einerd.com/aaron-pierre-futuro-dcu-saida-gunn-lanternas",
+      "originalTitle": "Lanternas: Aaron Pierre comenta futuro do DCU após mudanças",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6674c8645e6ee99",
+      "publishedAt": "2026-11-20T15:00:00Z",
+      "title": "5ª Temporada de Invencível ganha data de estreia no Prime Video",
+      "sourceUrl": "https://mixdeseries.com.br/5a-temporada-de-invencivel-ganha-data-de-estreia",
+      "originalTitle": "5ª Temporada de Invencível ganha data de estreia no Prime Video",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ad38d579b2dc10e",
+      "publishedAt": "2026-11-20T14:59:31Z",
+      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
+      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-33f09b167a21bdc8",
+      "publishedAt": "2026-11-20T14:59:31Z",
+      "title": "Scarlett Johansson joga luz na aposta de risco que fez Vingadores: Ultimato funcionar — e expõe a Marvel de hoje",
+      "sourceUrl": "https://radiogeekbr.com.br/scarlett-johansson-endgame-marvel-declaracao",
+      "originalTitle": "Scarlett Johansson joga luz na aposta de risco que fez Vingadores: Ultimato funcionar — e expõe a Marvel de hoje",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-51301c3b1f563b4b",
+      "publishedAt": "2026-11-20T14:59:31Z",
+      "title": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
+      "sourceUrl": "https://radiogeekbr.com.br/spiderman-cria-arma-contra-xmen-brand-new-day",
+      "originalTitle": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-812830d1c81eed1a",
+      "publishedAt": "2026-11-20T14:41:02.703000Z",
+      "title": "Temtem: Swarm chegará ao Switch em 21 de janeiro de 2027",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/temtem-swarm-chegara-ao-switch-em-21-de-janeiro-de-2027.html",
+      "originalTitle": "Temtem: Swarm chegará ao Switch em 21 de janeiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-866bd535e87d101d",
+      "publishedAt": "2026-11-20T14:36:48Z",
+      "title": "Man of Tomorrow tem Brainiac como vilão central em 2027",
+      "sourceUrl": "https://www.maquinanerd.com.br/cinema/man-of-tomorrow-tem-brainiac-como-vilao-central-em-2027",
+      "originalTitle": "Man of Tomorrow tem Brainiac como vilão central em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-abf0e5b0a4882ddc",
+      "publishedAt": "2026-11-20T14:23:12Z",
+      "title": "NPC que viralizou em GTA 6 pode, na verdade, ter um segredo sombrio",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157817/npc-que-viralizou-em-gta-6-pode-na-verdade-ter-um-segredo-sombrio",
+      "originalTitle": "NPC que viralizou em GTA 6 pode, na verdade, ter um segredo sombrio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-70272071bb8c657b",
+      "publishedAt": "2026-11-20T14:15:50Z",
+      "title": "Confins do Universo 246 – Os 90 anos do Fantasma",
+      "sourceUrl": "https://universohq.com/podcast/confins-do-universo-246-os-90-anos-do-fantasma",
+      "originalTitle": "Confins do Universo 246 – Os 90 anos do Fantasma",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fd7fbe377811ad25",
+      "publishedAt": "2026-11-20T14:14:00Z",
+      "title": "GTA 6 pirata? Hacker Cyberleek está de volta com build ilegal do jogo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-pirata-hacker-cyberleek-esta-de-volta-com-build-ilegal-do-jogo",
+      "originalTitle": "GTA 6 pirata? Hacker Cyberleek está de volta com build ilegal do jogo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e14d6d19c1c0af94",
+      "publishedAt": "2026-11-20T14:00:31Z",
+      "title": "Train Valley 2 Community Edition | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/train-valley-2-community-edition-review",
+      "originalTitle": "Train Valley 2 Community Edition | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9f7202361fd2c2df",
+      "publishedAt": "2026-11-20T13:48:00Z",
+      "title": "Skydance | David Ellison enfrenta desconfiança interna após demissão de James Gunn e Peter Safran",
+      "sourceUrl": "https://www.omelete.com.br/filmes/skydance-david-ellison-desconfianca-interna-demissao-james-gunn-peter-safran",
+      "originalTitle": "Skydance | David Ellison enfrenta desconfiança interna após demissão de James Gunn e Peter Safran",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5d7e9230584b38d4",
+      "publishedAt": "2026-11-20T13:00:00Z",
+      "title": "Tem HQ dos X-Men em GTA 6? Como assim?",
+      "sourceUrl": "https://www.einerd.com/gta-6-rx-men-hq-parodia-x-men",
+      "originalTitle": "Tem HQ dos X-Men em GTA 6? Como assim?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b93938d139f2221e",
+      "publishedAt": "2026-11-20T12:00:57Z",
+      "title": "Taylor Swift volta ao palco do CMA Awards após 13 anos e emociona fãs com “Toy Story 5”",
+      "sourceUrl": "https://www.einerd.com/taylor-swift-volta-ao-palco-do-cma-awards-apos-13-anos-e-emociona-fas-com-toy-story-5",
+      "originalTitle": "Taylor Swift volta ao palco do CMA Awards após 13 anos e emociona fãs com “Toy Story 5”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3a0ad5dcb3506ae0",
+      "publishedAt": "2026-11-20T11:55:19Z",
+      "title": "The Exiled Heavy Knight Knows How to Game the System: Anime ganha dublagem na Crunchyroll",
+      "sourceUrl": "https://ovicio.com.br/the-exiled-heavy-knight-knows-how-to-game-the-system-anime-ganha-dublagem-na-crunchyroll",
+      "originalTitle": "The Exiled Heavy Knight Knows How to Game the System: Anime ganha dublagem na Crunchyroll",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-724be15de69662c0",
+      "publishedAt": "2026-11-20T11:36:23Z",
+      "title": "‘Jogos Vorazes: Amanhecer na Colheita’ abre com 75% de APROVAÇÃO no RT; Confira as críticas!",
+      "sourceUrl": "https://cinepop.com.br/jogos-vorazes-amanhecer-na-colheita-abre-com-75-de-aprovacao-no-rt-confira-as-criticas-776564",
+      "originalTitle": "‘Jogos Vorazes: Amanhecer na Colheita’ abre com 75% de APROVAÇÃO no RT; Confira as críticas!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-38c2b8be1630cace",
+      "publishedAt": "2026-11-20T11:16:00Z",
+      "title": "CyberLeek volta no dia do lançamento de GTA 6 e diz ter soltado a build de Xbox (menos o executável)",
+      "sourceUrl": "https://arkade.com.br/cyberleek-volta-no-dia-do-lancamento-de-gta-6-e-diz-ter-soltado-a-build-de-xbox-menos-o-executavel",
+      "originalTitle": "CyberLeek volta no dia do lançamento de GTA 6 e diz ter soltado a build de Xbox (menos o executável)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-572949cc5e6db113",
+      "publishedAt": "2026-11-20T10:43:27Z",
+      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
+      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-428725aea2d6a612",
+      "publishedAt": "2026-11-20T10:43:27Z",
+      "title": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-legiao-do-mal-quinto-vilao-dcu",
+      "originalTitle": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-fff136cc923e5343",
       "publishedAt": "2026-11-20T10:26:01Z",
@@ -404,6 +1040,18 @@
       "title": "Anime Inu x Boku Secret Service comemora 15º aniversário com nova ilustração promocional",
       "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/20/inu-x-boku-secret-service-15-aniversario-ilustracao-promocional",
       "originalTitle": "Anime Inu x Boku Secret Service comemora 15º aniversário com nova ilustração promocional",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ed6fa8b0bf5fa973",
+      "publishedAt": "2026-11-20T00:24:35Z",
+      "title": "Panini inicia pré-vendas para 01/2027 na Amazon",
+      "sourceUrl": "https://blogbbm.com/2026/11/19/panini-inicia-pre-vendas-para-01-2027-na-amazon",
+      "originalTitle": "Panini inicia pré-vendas para 01/2027 na Amazon",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -824,6 +1472,18 @@
       "title": "GTA 6 esconde carro de Paul Walker e referência a Toy Story",
       "sourceUrl": "https://criticalhits.com.br/games/gta-6-esconde-carro-de-paul-walker-e-referencia-a-toy-story",
       "originalTitle": "GTA 6 esconde carro de Paul Walker e referência a Toy Story",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6d01867333e31288",
+      "publishedAt": "2026-11-19T19:46:00Z",
+      "title": "Not-Sew-Wicked Stepmom vai ganhar anime após anúncio da Piccoma",
+      "sourceUrl": "https://seriesemcena.com.br/noticias/not-sew-wicked-stepmom-anime-adaptacao-webtoon",
+      "originalTitle": "Not-Sew-Wicked Stepmom vai ganhar anime após anúncio da Piccoma",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2331,18 +2991,6 @@
       }
     },
     {
-      "id": "radar-572949cc5e6db113",
-      "publishedAt": "2026-11-18T16:44:08Z",
-      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
-      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-9086397a62874d78",
       "publishedAt": "2026-11-18T16:11:00Z",
       "title": "‘Batman 3’ pode estar em RISCO após Robert Pattinson ter sido escalado como o novo James Bond",
@@ -2720,18 +3368,6 @@
       "title": "Superman 2 muda de fase: John Stewart já chega como Lanterna Verde e expõe correção urgente na linha do DCU",
       "sourceUrl": "https://radiogeekbr.com.br/superman-2-john-stewart-lanterna-verde-mudanca",
       "originalTitle": "Superman 2 muda de fase: John Stewart já chega como Lanterna Verde e expõe correção urgente na linha do DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1ad38d579b2dc10e",
-      "publishedAt": "2026-11-18T12:59:29Z",
-      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
-      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
-      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -5504,18 +6140,6 @@
       "title": "Em 1972, o Japão construiu um arranha-céu com 140 apartamentos de cápsulas, mas nenhum deles foi substituído da forma planejada",
       "sourceUrl": "https://br.ign.com/tech/157657/em-1972-o-japao-construiu-um-arranha-ceu-com-140-apartamentos-de-capsulas-mas-nenhum-deles-foi-subst",
       "originalTitle": "Em 1972, o Japão construiu um arranha-céu com 140 apartamentos de cápsulas, mas nenhum deles foi substituído da forma planejada",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-428725aea2d6a612",
-      "publishedAt": "2026-11-16T09:58:16Z",
-      "title": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/james-gunn-legiao-do-mal-quinto-vilao-dcu",
-      "originalTitle": "James Gunn completa quinteto de vilões e Legião do Mal ganha sinal verde no novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -13647,18 +14271,6 @@
       }
     },
     {
-      "id": "radar-33f09b167a21bdc8",
-      "publishedAt": "2026-11-10T09:12:06Z",
-      "title": "Scarlett Johansson joga luz na aposta de risco que fez Vingadores: Ultimato funcionar — e expõe a Marvel de hoje",
-      "sourceUrl": "https://radiogeekbr.com.br/scarlett-johansson-endgame-marvel-declaracao",
-      "originalTitle": "Scarlett Johansson joga luz na aposta de risco que fez Vingadores: Ultimato funcionar — e expõe a Marvel de hoje",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-084edfb46882ac7b",
       "publishedAt": "2026-11-10T09:08:39.642000Z",
       "title": "Nintendo Switch e Switch 2 recebem atualização 23.5.0 com suporte ao envio de presentes digitais",
@@ -15884,18 +16496,6 @@
       "title": "Marvel usa a bissexualidade de Tommy Maximoff para chacoalhar regras antigas – e ela não é a única cartada em VisionQuest",
       "sourceUrl": "https://radiogeekbr.com.br/marvel-bissexualidade-tommy-maximoff-visionquest-cartada",
       "originalTitle": "Marvel usa a bissexualidade de Tommy Maximoff para chacoalhar regras antigas – e ela não é a única cartada em VisionQuest",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-51301c3b1f563b4b",
-      "publishedAt": "2026-11-08T03:26:40Z",
-      "title": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
-      "sourceUrl": "https://radiogeekbr.com.br/spiderman-cria-arma-contra-xmen-brand-new-day",
-      "originalTitle": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
       "translated": false,
       "editorialReview": {
         "status": "native",
