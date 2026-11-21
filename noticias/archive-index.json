@@ -1,7 +1,499 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T08:45:31.614978Z",
+  "updatedAt": "2026-11-21T16:56:47.702689Z",
   "articles": [
+    {
+      "id": "radar-d8be84ba0d525325",
+      "publishedAt": "2026-11-21T16:54:30Z",
+      "title": "Nioh 3 Complete Edition aparece em classificação etária na Coreia",
+      "sourceUrl": "https://criticalhits.com.br/games/nioh-3-complete-edition-aparece-em-classificacao-etaria-na-coreia",
+      "originalTitle": "Nioh 3 Complete Edition aparece em classificação etária na Coreia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-272f28089a3bdb48",
+      "publishedAt": "2026-11-21T16:53:21Z",
+      "title": "Silent Hill 3 ganha projeto de modernização de fãs com câmera em primeira pessoa",
+      "sourceUrl": "https://criticalhits.com.br/games/silent-hill-3-ganha-projeto-de-modernizacao-de-fas-com-camera-em-primeira-pessoa",
+      "originalTitle": "Silent Hill 3 ganha projeto de modernização de fãs com câmera em primeira pessoa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0924d211f29ac579",
+      "publishedAt": "2026-11-21T16:40:08Z",
+      "title": "Cygames registra marca de Metal Max e sinaliza avanço no reboot",
+      "sourceUrl": "https://criticalhits.com.br/games/cygames-registra-marca-de-metal-max-e-sinaliza-avanco-no-reboot",
+      "originalTitle": "Cygames registra marca de Metal Max e sinaliza avanço no reboot",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a73d9126f7b2ab8e",
+      "publishedAt": "2026-11-21T16:38:27Z",
+      "title": "Luffy assume forma Zoan de macaco no clímax de One Piece",
+      "sourceUrl": "https://criticalhits.com.br/anime/luffy-assume-forma-zoan-de-macaco-no-climax-de-one-piece",
+      "originalTitle": "Luffy assume forma Zoan de macaco no clímax de One Piece",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fcd4e6df2952d5ff",
+      "publishedAt": "2026-11-21T16:30:53Z",
+      "title": "Os 6 Semideuses de Anime Mais Bem Escritos que Percy Jackson",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-6-semideuses-de-anime-mais-bem-escritos-que-percy-jackson",
+      "originalTitle": "Os 6 Semideuses de Anime Mais Bem Escritos que Percy Jackson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-725f552c4e4e8c41",
+      "publishedAt": "2026-11-21T16:22:35Z",
+      "title": "Iron Studios transforma loja em castelo do Doutor Destino com brindes e atrações em SP",
+      "sourceUrl": "https://www.portalg.com.br/2026/11/iron-studios-thor-vingadores-doutor-destino.html",
+      "originalTitle": "Iron Studios transforma loja em castelo do Doutor Destino com brindes e atrações em SP",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fb60cd4c8953db05",
+      "publishedAt": "2026-11-21T16:19:31Z",
+      "title": "Sunrise on the Reaping pode superar US$ 120 milhões na estreia nos EUA",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/sunrise-on-the-reaping-pode-superar-us-120-milhoes-na-estreia-nos-eua",
+      "originalTitle": "Sunrise on the Reaping pode superar US$ 120 milhões na estreia nos EUA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-731a6a2901318833",
+      "publishedAt": "2026-11-21T16:17:31Z",
+      "title": "Amanhecer na Colheita corta cena decisiva de Maysilee",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/amanhecer-na-colheita-corta-cena-decisiva-de-maysilee",
+      "originalTitle": "Amanhecer na Colheita corta cena decisiva de Maysilee",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-90c696cff41fc459",
+      "publishedAt": "2026-11-21T16:15:31Z",
+      "title": "Bloomwalker apresenta RPG de criaturas ligado ao universo de Ni no Kuni",
+      "sourceUrl": "https://criticalhits.com.br/games/bloomwalker-apresenta-rpg-de-criaturas-ligado-ao-universo-de-ni-no-kuni",
+      "originalTitle": "Bloomwalker apresenta RPG de criaturas ligado ao universo de Ni no Kuni",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fe4882dbd5a8ba7a",
+      "publishedAt": "2026-11-21T16:15:00Z",
+      "title": "Ex-diretor de Blade critica Marvel e explica por que abandonou filme com Mahershala Ali",
+      "sourceUrl": "https://francesnews.com.br/post/2026/11/21/46818-ex-diretor-de-blade-critica-marvel-e-explica-por-que-abandonou-filme-com-mahershala-ali",
+      "originalTitle": "Ex-diretor de Blade critica Marvel e explica por que abandonou filme com Mahershala Ali",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-808308514e2f0a16",
+      "publishedAt": "2026-11-21T16:13:00Z",
+      "title": "Please Put Them On, Takamine-san! chega ao fim em janeiro",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/21/please-put-them-on-takamine-san-manga-final-janeiro",
+      "originalTitle": "Please Put Them On, Takamine-san! chega ao fim em janeiro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-80a0b9f3d2d0aa8e",
+      "publishedAt": "2026-11-21T16:12:38Z",
+      "title": "PS5 de streamer solta fumaça durante live de GTA 6",
+      "sourceUrl": "https://criticalhits.com.br/games/ps5-de-streamer-solta-fumaca-durante-live-de-gta-6",
+      "originalTitle": "PS5 de streamer solta fumaça durante live de GTA 6",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fcde4346d6ff5af8",
+      "publishedAt": "2026-11-21T16:11:31Z",
+      "title": "Phasmophobia recebe atualização Resonance em 24 de novembro",
+      "sourceUrl": "https://criticalhits.com.br/games/phasmophobia-recebe-atualizacao-resonance-em-24-de-novembro-2",
+      "originalTitle": "Phasmophobia recebe atualização Resonance em 24 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e4a5f3e8cc211b06",
+      "publishedAt": "2026-11-21T16:09:31Z",
+      "title": "Though I Am an Inept Villainess ganha arte colaborativa com Mothra",
+      "sourceUrl": "https://criticalhits.com.br/anime/though-i-am-an-inept-villainess-ganha-arte-colaborativa-com-mothra",
+      "originalTitle": "Though I Am an Inept Villainess ganha arte colaborativa com Mothra",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-854d558e5549c0f5",
+      "publishedAt": "2026-11-21T16:07:31Z",
+      "title": "War for Westeros deixa jogadores reescrever o final de Game of Thrones",
+      "sourceUrl": "https://criticalhits.com.br/games/war-for-westeros-deixa-jogadores-reescrever-o-final-de-game-of-thrones",
+      "originalTitle": "War for Westeros deixa jogadores reescrever o final de Game of Thrones",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-98384ebbf2b3ce2d",
+      "publishedAt": "2026-11-21T16:00:17Z",
+      "title": "Star Wars ganha novo livro de Leia para 2027",
+      "sourceUrl": "https://criticalhits.com.br/livros/star-wars-ganha-novo-livro-de-leia-para-2027",
+      "originalTitle": "Star Wars ganha novo livro de Leia para 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-15bdb9e15cbbf2f2",
+      "publishedAt": "2026-11-21T16:00:00Z",
+      "title": "Dá pra rodar GTA 6 a 60 FPS e DLSS 5, mas só com a ajuda de uma ferramenta no PC",
+      "sourceUrl": "https://arkade.com.br/da-pra-rodar-gta-6-a-60-fps-e-dlss-5-mas-so-com-a-ajuda-de-uma-ferramenta-no-pc",
+      "originalTitle": "Dá pra rodar GTA 6 a 60 FPS e DLSS 5, mas só com a ajuda de uma ferramenta no PC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-301470b2bcffcaa9",
+      "publishedAt": "2026-11-21T15:56:17Z",
+      "title": "GTA 6 leva Jason a uma dimensão alternativa psicodélica",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-leva-jason-a-uma-dimensao-alternativa-psicodelica",
+      "originalTitle": "GTA 6 leva Jason a uma dimensão alternativa psicodélica",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-61f203e81479a505",
+      "publishedAt": "2026-11-21T15:55:58Z",
+      "title": "Though I Am an Inpet Villainess: Anime ganha colaboração com kaiju Mothra",
+      "sourceUrl": "https://ovicio.com.br/though-i-am-an-inpet-villainess-anime-ganha-colaboracao-com-kaiju-mothra",
+      "originalTitle": "Though I Am an Inpet Villainess: Anime ganha colaboração com kaiju Mothra",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2afa7cb07d2cae72",
+      "publishedAt": "2026-11-21T15:53:31Z",
+      "title": "Yasunori Mitsuda questiona o futuro de Dragon Quest após morte de Toriyama",
+      "sourceUrl": "https://criticalhits.com.br/games/yasunori-mitsuda-questiona-o-futuro-de-dragon-quest-apos-morte-de-toriyama",
+      "originalTitle": "Yasunori Mitsuda questiona o futuro de Dragon Quest após morte de Toriyama",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ee247dddb4b61bdf",
+      "publishedAt": "2026-11-21T15:53:00Z",
+      "title": "Série de light novels May I Ask for One Final Thing? chega ao fim em dezembro",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/21/may-i-ask-for-one-final-thing-novel-final",
+      "originalTitle": "Série de light novels May I Ask for One Final Thing? chega ao fim em dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c7b683ce78e2ddcb",
+      "publishedAt": "2026-11-21T15:46:42Z",
+      "title": "Marvel Cosmic Invasion celebra os anos 1990 com pancadaria cósmica",
+      "sourceUrl": "https://www.boletimnerd.com.br/marvel-cosmic-invasion-celebra-os-anos-1990-com-pancadaria-cosmica",
+      "originalTitle": "Marvel Cosmic Invasion celebra os anos 1990 com pancadaria cósmica",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e68d3931e2c56943",
+      "publishedAt": "2026-11-21T15:40:09Z",
+      "title": "ChatGPT roda no Super Nintendo sem conexão com a internet",
+      "sourceUrl": "https://criticalhits.com.br/games/chatgpt-roda-no-super-nintendo-sem-conexao-com-a-internet",
+      "originalTitle": "ChatGPT roda no Super Nintendo sem conexão com a internet",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-70ee36ac5f5a6be2",
+      "publishedAt": "2026-11-21T15:36:37Z",
+      "title": "Nova série live-action de Hana-Kimi revela músicas-tema e prévia",
+      "sourceUrl": "https://criticalhits.com.br/anime/nova-serie-live-action-de-hana-kimi-revela-musicas-tema-e-previa",
+      "originalTitle": "Nova série live-action de Hana-Kimi revela músicas-tema e prévia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-97aa7ce63dfe5473",
+      "publishedAt": "2026-11-21T15:30:52Z",
+      "title": "Os 6 Finais de Séries da Marvel no Disney+ Mais Bem Avaliados no IMDb",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/os-6-finais-de-series-da-marvel-no-disney-mais-bem-avaliados-no-imdb",
+      "originalTitle": "Os 6 Finais de Séries da Marvel no Disney+ Mais Bem Avaliados no IMDb",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c41a2d23ab8c663d",
+      "publishedAt": "2026-11-21T15:22:13Z",
+      "title": "Kaiji Tang gravou falas de GTA 6 sem saber que era o jogo",
+      "sourceUrl": "https://criticalhits.com.br/games/kaiji-tang-gravou-falas-de-gta-6-sem-saber-que-era-o-jogo",
+      "originalTitle": "Kaiji Tang gravou falas de GTA 6 sem saber que era o jogo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5ee68fb8b13f6019",
+      "publishedAt": "2026-11-21T15:16:06Z",
+      "title": "Diretor de \"Blade\" revela por que abandonou filme da Marvel e critica problemas nos bastidores",
+      "sourceUrl": "https://gazetaculturismo.com.br/diretor-de-blade-revela-por-que-abandonou-filme-da-marvel-e-critica-problemas-nos-bastidores/36003",
+      "originalTitle": "Diretor de \"Blade\" revela por que abandonou filme da Marvel e critica problemas nos bastidores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-566d03af5167f291",
+      "publishedAt": "2026-11-21T15:13:00Z",
+      "title": "2º filme de Armored Trooper VOTOMS: Die Graue Hexe tem estreia marcada para 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/21/armored-trooper-votoms-die-graue-hexe-segundo-filme-2027",
+      "originalTitle": "2º filme de Armored Trooper VOTOMS: Die Graue Hexe tem estreia marcada para 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-82f8f391aa320505",
+      "publishedAt": "2026-11-21T14:49:00Z",
+      "title": "Avenida Brasil 2 mostra nova fase de Carminha em foto inédita",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/avenida-brasil-2-mostra-nova-fase-de-carminha-em-foto-inedita",
+      "originalTitle": "Avenida Brasil 2 mostra nova fase de Carminha em foto inédita",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3481cbb3f751a5c8",
+      "publishedAt": "2026-11-21T14:47:00Z",
+      "title": "GTA VI tem nota 5,5 entre usuários do PS5 e 99 de 100 na crítica do Metacritic",
+      "sourceUrl": "https://www.tribunadosertao.com.br/variedades/2026/11/21/1027004-gta-vi-tem-nota-55-entre-usuarios-do-ps5-e-99-de-100-na-critica-do-metacritic",
+      "originalTitle": "GTA VI tem nota 5,5 entre usuários do PS5 e 99 de 100 na crítica do Metacritic",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b8efe4646c4e1e4d",
+      "publishedAt": "2026-11-21T14:17:00Z",
+      "title": "Um Sinal de Afeto chega ao fim daqui três capítulos",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/21/um-sinal-de-afeto-manga-final",
+      "originalTitle": "Um Sinal de Afeto chega ao fim daqui três capítulos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8a8a669f00968d99",
+      "publishedAt": "2026-11-21T13:43:01Z",
+      "title": "Ex-diretor de Blade desabafa: “A vida é curta demais para fazer filmes de merda”",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/ex-diretor-de-blade-desabafa-a-vida-e-curta-demais-para-fazer-filmes-de-merda.html",
+      "originalTitle": "Ex-diretor de Blade desabafa: “A vida é curta demais para fazer filmes de merda”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-46cacbf25613d131",
+      "publishedAt": "2026-11-21T13:37:10Z",
+      "title": "Crítica | Percy Jackson e os Olimpianos – Primeiros Episódios da 3ª Temporada Amadurecem Trama e Aumentam Tensão entre Personagens",
+      "sourceUrl": "https://cinepop.com.br/primeiras-impressoes-percy-jackson-e-os-olimpianos-3a-temporada-amadurece-trama-e-aumenta-tensao-entre-personagens-776840",
+      "originalTitle": "Crítica | Percy Jackson e os Olimpianos – Primeiros Episódios da 3ª Temporada Amadurecem Trama e Aumentam Tensão entre Personagens",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-aac180f3668d08ba",
+      "publishedAt": "2026-11-21T13:33:00Z",
+      "title": "GTA 6 sofre ‘review bombing’ no Metacritic, mas recebe avaliações positivas de compradores",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-sofre-review-bombing-no-metacritic-mas-recebe-avaliacoes-positivas-de-compradores",
+      "originalTitle": "GTA 6 sofre ‘review bombing’ no Metacritic, mas recebe avaliações positivas de compradores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-31075c097f98589c",
+      "publishedAt": "2026-11-21T12:43:56Z",
+      "title": "Marvel insere 6º filme após “Avengers: Doomsday” e põe à prova seu novo reset de franquia",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-sexto-filme-pos-avengers-doomsday-aposta-reset",
+      "originalTitle": "Marvel insere 6º filme após “Avengers: Doomsday” e põe à prova seu novo reset de franquia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-334127a69dfeb6e1",
+      "publishedAt": "2026-11-21T12:43:56Z",
+      "title": "Marvel faz do primeiro mutante gay o pilar do reboot dos X-Men",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-primeiro-mutante-gay-pilar-reboot-x-men",
+      "originalTitle": "Marvel faz do primeiro mutante gay o pilar do reboot dos X-Men",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3e621e5b6f4bf3b0",
+      "publishedAt": "2026-11-21T12:43:56Z",
+      "title": "Justiça à prova de bala: Marvel ressuscita seu “Bruce Wayne” e devolve o MCU às ruas",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-bruce-wayne-mcu-justiceiro",
+      "originalTitle": "Justiça à prova de bala: Marvel ressuscita seu “Bruce Wayne” e devolve o MCU às ruas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ca4fd058d33b9489",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "title": "Análise: Overwatch recebe atualização de meio de temporada com colaboração de Stellar Blade e visual Mítico de Roadhog",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/overwatch-atualizacao-meia-temporada-5-stellar-blade-assumindo-o-reinado-review.html",
+      "originalTitle": "Análise: Overwatch recebe atualização de meio de temporada com colaboração de Stellar Blade e visual Mítico de Roadhog",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5a42740e5af01cbf",
+      "publishedAt": "2026-11-21T11:36:15Z",
+      "title": "Ator que estrelou 'Law & Order', 'O Justiceiro' e dublou 'GTA V' morre a caminho do trabalho",
+      "sourceUrl": "https://revistamonet.globo.com/google/amp/noticias/noticia/2026/11/ator-que-estrelou-law-and-order-o-justiceiro-e-dublou-gta-v-morre-a-caminho-do-trabalho.ghtml",
+      "originalTitle": "Ator que estrelou 'Law & Order', 'O Justiceiro' e dublou 'GTA V' morre a caminho do trabalho",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-595367a702db4905",
+      "publishedAt": "2026-11-21T10:47:21Z",
+      "title": "Diretor de ‘Blade’ revela frustração com filme cancelado da Marvel: “A vida é curta demais para fazer filmes de mer**”",
+      "sourceUrl": "https://cinepop.com.br/diretor-de-blade-revela-frustracao-com-filme-cancelado-da-marvel-a-vida-e-curta-demais-para-fazer-filmes-de-mer-776897",
+      "originalTitle": "Diretor de ‘Blade’ revela frustração com filme cancelado da Marvel: “A vida é curta demais para fazer filmes de mer**”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e4f298602b152e69",
+      "publishedAt": "2026-11-21T10:07:59Z",
+      "title": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (21)",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-6-novos-jogos-esta-semana-veja-os-lancamentos-21",
+      "originalTitle": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (21)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-34717163fb391585",
       "publishedAt": "2026-11-21T07:54:13Z",
@@ -32,6 +524,18 @@
       "title": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
       "sourceUrl": "https://radiogeekbr.com.br/video-de-frank-grillo-recado-ao-novo-comando-dc",
       "originalTitle": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6335e154ec11ff65",
+      "publishedAt": "2026-11-21T06:14:06Z",
+      "title": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-chega-com-cinco-cortes-diferentes-e-laboratorio-dcu",
+      "originalTitle": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -140,6 +644,18 @@
       "title": "Ekns revela origem do nome e murais de anime no México",
       "sourceUrl": "https://culpadolag.com.br/ekns-revela-origem-do-nome-e-murais-de-anime-no-mexico",
       "originalTitle": "Ekns revela origem do nome e murais de anime no México",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8ce2b88c343d06f8",
+      "publishedAt": "2026-11-21T01:30:00Z",
+      "title": "GTA 6: os filmes que inspiraram Jason e Lucia",
+      "sourceUrl": "https://www.einerd.com/gta-6-filmes-inspiraram-jason-lucia",
+      "originalTitle": "GTA 6: os filmes que inspiraram Jason e Lucia",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -260,6 +776,18 @@
       "title": "‘Naruto’: Minato realmente é rápido ou é só teletransporte?",
       "sourceUrl": "https://www.einerd.com/minato-velocidade-naruto-hiraishin-shunshin-tobirama-quarta-guerra",
       "originalTitle": "‘Naruto’: Minato realmente é rápido ou é só teletransporte?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3f24d15c8e95caf3",
+      "publishedAt": "2026-11-21T00:08:08Z",
+      "title": "Ugly Within é anunciado para Switch 2 com terror sobrenatural e dois protagonistas",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/ugly-within-e-anunciado-para-switch-2-com-terror-sobrenatural-e-dois-protagonistas.html",
+      "originalTitle": "Ugly Within é anunciado para Switch 2 com terror sobrenatural e dois protagonistas",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -507,18 +1035,6 @@
       }
     },
     {
-      "id": "radar-46cacbf25613d131",
-      "publishedAt": "2026-11-20T22:11:10Z",
-      "title": "Percy Jackson e os Olimpianos – 3ª Temporada Amadurece Trama e Aumenta Tensão entre Personagens",
-      "sourceUrl": "https://cinepop.com.br/primeiras-impressoes-percy-jackson-e-os-olimpianos-3a-temporada-amadurece-trama-e-aumenta-tensao-entre-personagens-776840",
-      "originalTitle": "Percy Jackson e os Olimpianos – 3ª Temporada Amadurece Trama e Aumenta Tensão entre Personagens",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-b6b9d80c7925d90f",
       "publishedAt": "2026-11-20T22:00:00Z",
       "title": "A ligação entre a profecia e Annabeth na 3ª temporada de Percy Jackson e os Olimpianos",
@@ -548,6 +1064,18 @@
       "title": "Marvel arma virada relâmpago no MCU: três anúncios em oito dias decidirão a próxima década",
       "sourceUrl": "https://radiogeekbr.com.br/marvel-arma-virada-relampago-no-mcu-oito-dias",
       "originalTitle": "Marvel arma virada relâmpago no MCU: três anúncios em oito dias decidirão a próxima década",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-721540a9bc2cf513",
+      "publishedAt": "2026-11-20T21:44:12Z",
+      "title": "Josh Hutcherson confirma que também será Mister Miracle na DCU",
+      "sourceUrl": "https://www.maquinanerd.com.br/series-e-tv/josh-hutcherson-confirma-que-tambem-sera-mister-miracle-na-dcu",
+      "originalTitle": "Josh Hutcherson confirma que também será Mister Miracle na DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -615,11 +1143,35 @@
       }
     },
     {
+      "id": "radar-39f866444f7a0a14",
+      "publishedAt": "2026-11-20T20:00:13Z",
+      "title": "KPop Demon Hunters: 5 filmes anime para ver enquanto aguardas a continuação",
+      "sourceUrl": "https://www.otakupt.com/anime/kpop-demon-hunters-5-filmes-anime-para-ver",
+      "originalTitle": "KPop Demon Hunters: 5 filmes anime para ver enquanto aguardas a continuação",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-94f5e2982512f53f",
       "publishedAt": "2026-11-20T19:52:00Z",
       "title": "GTA 6 se torna o maior lançamento do entretenimento; veja os números",
       "sourceUrl": "https://www.omelete.com.br/gta-6/gta-6-se-torna-o-maior-lancamento-do-entretenimento",
       "originalTitle": "GTA 6 se torna o maior lançamento do entretenimento; veja os números",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e2e1b6f3be30e6de",
+      "publishedAt": "2026-11-20T19:34:41Z",
+      "title": "Patrick Stewart: revelada a causa da morte do ator de Marvel",
+      "sourceUrl": "https://atarde.com.br/cineinsite/patrick-stewart-revelada-a-causa-da-morte-do-ator-aos-86-anos-1410143?_=amp",
+      "originalTitle": "Patrick Stewart: revelada a causa da morte do ator de Marvel",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -956,6 +1508,18 @@
       "title": "Polly Pocket | Lili Reinhart substitui Lily Collins em live-action da Amazon MGM e da Mattel",
       "sourceUrl": "https://www.omelete.com.br/filmes/lili-reinhart-substitui-lily-collins-polly-pocket",
       "originalTitle": "Polly Pocket | Lili Reinhart substitui Lily Collins em live-action da Amazon MGM e da Mattel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-431559e22f81a0a6",
+      "publishedAt": "2026-11-20T17:01:30Z",
+      "title": "Lance Broadway, ator de série da Marvel, morre aos 43 anos",
+      "sourceUrl": "https://portalpopmais.com.br/lance-broadway-ator-de-serie-da-marvel-morre-aos-43-anos",
+      "originalTitle": "Lance Broadway, ator de série da Marvel, morre aos 43 anos",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -7959,18 +8523,6 @@
       }
     },
     {
-      "id": "radar-31075c097f98589c",
-      "publishedAt": "2026-11-15T13:42:35Z",
-      "title": "Marvel insere 6º filme após “Avengers: Doomsday” e põe à prova seu novo reset de franquia",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-sexto-filme-pos-avengers-doomsday-aposta-reset",
-      "originalTitle": "Marvel insere 6º filme após “Avengers: Doomsday” e põe à prova seu novo reset de franquia",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-4600b7921c5e3414",
       "publishedAt": "2026-11-15T13:42:35Z",
       "title": "Marvel solta Sentry em teaser de produtos e muda o jogo de hype para “Avengers: Doomsday”",
@@ -10820,18 +11372,6 @@
       "title": "Como comprar GTA 6 mais barato no Mercado Livre",
       "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/como-comprar-gta-6-mais-barato-no-mercado-livre",
       "originalTitle": "Como comprar GTA 6 mais barato no Mercado Livre",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6335e154ec11ff65",
-      "publishedAt": "2026-11-13T10:57:34Z",
-      "title": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-chega-com-cinco-cortes-diferentes-e-laboratorio-dcu",
-      "originalTitle": "Clayface chega com cinco cortes diferentes e vira laboratório radical do novo DCU nos cinemas",
       "translated": false,
       "editorialReview": {
         "status": "native",
