@@ -1,27 +1,235 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T18:02:13.915064Z",
+  "updatedAt": "2026-11-22T23:50:26.003833Z",
   "articles": [
     {
-      "id": "radar-62eaf7d2ead03329",
-      "title": "Novos pôsteres de Vingadores: Doutor Destino destacam Sue Storm e Reed Richards; confira",
+      "id": "radar-ce1f15760b4c1b3b",
+      "title": "Carol Danvers vira Ebon Sphinx na nova saga do Hulk",
+      "excerpt": "Carol Danvers assumirá a forma monstruosa de Ebon Sphinx na saga Hulk War, em que o Infernal Hulk reúne heróis transformados para formar seus próprios Vingadores.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-22T23:42:22Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/quadrinhos/carol-danvers-vira-ebon-sphinx-na-nova-saga-do-hulk",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/carol-danvers-vira-ebon-sphinx-na-nova-saga-do-hulk-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Carol Danvers vira Ebon Sphinx na nova saga do Hulk",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b2bd4e57ad150a2b",
+      "title": "Pokémon TCG terá expansões aos sábados a partir de 2027",
+      "excerpt": "A partir de 2027, as expansões aos sábados serão o novo padrão de lançamento do Pokémon TCG.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T23:37:02Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/card-games/pokemon-tcg-tera-expansoes-aos-sabados-a-partir-de-2027",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/pokemon-tcg-tera-expansoes-aos-sabados-a-partir-de-2027-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Pokémon TCG terá expansões aos sábados a partir de 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8ebf7998d9319d32",
+      "title": "Saihate Station: Twilight Edition chega ao Nintendo Switch em março de 2027",
+      "excerpt": "Saihate Station: Twilight Edition foi anunciado para Nintendo Switch e será lançado mundialmente em 25 de março de 2027.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T23:34:30.178000Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/saihate-station-twilight-edition-chega-ao-nintendo-switch-em-marco-de-2027.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3-84p5mYwmPpcj3-CNoNcLm3Cc5A8npCBMhTglMdkfgnSxKCzd3Xbnie0_isnUxezdG93f138FgXdangg1SNuyHxxeRkLZAmvy3j81vENrf0W0EfBHKelGjReq6LodywpOdAUFz3P7UTXWc48BARucz3YAfshsuDjelocZi41VyqCErGGsP-ikABejaH7/s72-w640-h360-c/saihate.jpg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Saihate Station: Twilight Edition chega ao Nintendo Switch em março de 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79d5c44cc5ea90ec",
+      "title": "Pokémon FullDex leva jogos clássicos da franquia a uma tela só em 60 fps",
+      "excerpt": "O Pokémon FullDex adapta jogos clássicos da franquia para uma única tela widescreen e pode rodá-los a 60 quadros por segundo.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T23:12:17Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/pokemon-fulldex-leva-jogos-classicos-da-franquia-a-uma-tela-so-em-60-fps",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/pokemon-fulldex-leva-jogos-classicos-da-franquia-a-uma-tela-so-em-60-fps-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Pokémon FullDex leva jogos clássicos da franquia a uma tela só em 60 fps",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-050c2f2cf5d633d4",
+      "title": "Dual Orb Collection reúne dois RPGs clássicos de Super Famicom no Switch e chega em março de 2027",
+      "excerpt": "A Mebius anunciou Dual Orb Collection para Nintendo Switch, uma compilação que reúne dois RPGs originalmente lançados para Super Famicom no Japão.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T23:11:47.602000Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/dual-orb-collection-reune-dois-rpgs-classicos-de-super-famicom-no-Switch-e-chega-em-marco-de-2027.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKJZahTFqffD1sYMEYYg-n_G6IVein5xng8gxKx_EZ7qpACh_kjaiyojYJ2cvyL_SQL-kgd0JntRu-0Ia1iZfrchyIkJSX-hHiaJiaHO5atGRyn1fXc1YwXGJcoLs63g2XwXoISbrpI4TRAKwc9PBAyMBYbkRFUwW4CqFXCRtUMu_aBCEDKPaGASdrEvzx/s72-w640-h360-c/Dual-Orb-Collection.jpg",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Dual Orb Collection reúne dois RPGs clássicos de Super Famicom no Switch e chega em março de 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-af8c2035f17328fa",
+      "title": "The Elder Scrolls Online ganha zona de Winterhold em 2027",
+      "excerpt": "A zona de Winterhold em The Elder Scrolls Online será lançada em 2027, como parte da terceira temporada do MMORPG.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T23:09:23Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/the-elder-scrolls-online-ganha-zona-de-winterhold-em-2027",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/the-elder-scrolls-online-ganha-zona-de-winterhold-em-2027-featured-scaled.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "The Elder Scrolls Online ganha zona de Winterhold em 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-80030c866f5ce29d",
+      "title": "Spider-Man vira uma aranha demoníaca em confronto com Hulk Infernal",
+      "excerpt": "Spider-Man é transformado em uma aranha demoníaca após enfrentar o Hulk Infernal em Infernal Hulk vs.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-22T22:54:06Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/quadrinhos/spider-man-vira-uma-aranha-demoniaca-em-confronto-com-hulk-infernal",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/spider-man-vira-uma-aranha-demoniaca-em-confronto-com-hulk-infernal-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Spider-Man vira uma aranha demoníaca em confronto com Hulk Infernal",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b0b24312d1a85807",
+      "title": "Anime de Pen to Wappa ganha data para janeiro de 2027",
+      "excerpt": "O anime A Pen, Handcuffs, and a Common-Law Marriage (Pen to Wappa to Jijitsu Kon) divulgou um novo trailer, músicas-tema, integrantes do elenco e confirmou sua estreia para 9 de janeiro de 2027.",
+      "body": [
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-22T22:31:59Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/pen-to-wappa-anime-estreia-janeiro-2027",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Anime-de-Pen-to-Wappa-ganha-data-para-janeiro-de-2027.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Anime de Pen to Wappa ganha data para janeiro de 2027",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9af5e26ef4f842e1",
+      "title": "Novo corte de David Corenswet entrega salto temporal em ‘Superman 2’ e muda tom do DCU",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-22T17:49:00Z",
+      "publishedAt": "2026-11-22T22:28:32Z",
       "displayDate": "22 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-novos-posteres-sue-storm-reed-richards-tailandes",
-      "image": "https://cdn.ome.lt/VkIYf9__NjwHcnl1VFpEbFpTzFU=/1200x630/smart/filters:format(webp)/extras/conteudos/sue.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "Rádio Geek",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-corte-david-corenswet-superman-2-salto-temporal",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/07/radiogeekbr-1783748121.jpg",
+      "alt": "Imagem publicada por Rádio Geek",
+      "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Novos pôsteres de Vingadores: Doutor Destino destacam Sue Storm e Reed Richards; confira",
+      "originalTitle": "Novo corte de David Corenswet entrega salto temporal em ‘Superman 2’ e muda tom do DCU",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -29,311 +237,25 @@
       }
     },
     {
-      "id": "radar-574cb1b9a26d18e5",
-      "title": "Below the Stone 1.0 chega com nove biomas e uma nova camada",
-      "excerpt": "Após três anos em acesso antecipado, Below the Stone 1.0 já está disponível na Steam.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T17:41:24Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/below-the-stone-1-0-chega-com-nove-biomas-e-uma-nova-camada",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/below-the-stone-1-0-chega-com-nove-biomas-e-uma-nova-camada-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Below the Stone 1.0 chega com nove biomas e uma nova camada",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5617a99e11bafba0",
-      "title": "Chainsaw Man fica em 2º entre graphic novels nos EUA",
-      "excerpt": "O volume 22 de Chainsaw Man alcançou o segundo lugar na lista de graphic novels adultas mais vendidas nos EUA em outubro.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-22T17:39:24Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/chainsaw-man-fica-em-2o-entre-graphic-novels-nos-eua",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/chainsaw-man-fica-em-2o-entre-graphic-novels-nos-eua-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Chainsaw Man fica em 2º entre graphic novels nos EUA",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-41b7b2479457e2f8",
-      "title": "Isekai do elfo estreia em janeiro de 2027 e ganha trailer",
-      "excerpt": "O anime The Reincarnated Elf Left on a Journey to Master His Magic and With His Extra Lifespan Became a Living Legend estreia no Japão em 6 de janeiro de 2027.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-22T17:24:59Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/isekai-do-elfo-estreia-em-janeiro-de-2027-e-ganha-trailer",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/isekai-do-elfo-estreia-em-janeiro-de-2027-e-ganha-trailer-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Isekai do elfo estreia em janeiro de 2027 e ganha trailer",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-734b08cf36876601",
-      "title": "Solo Leveling ganha jogo de tabuleiro cooperativo para até quatro jogadores",
-      "excerpt": "A Ize Press anunciou um jogo de tabuleiro de Solo Leveling em que até quatro participantes poderão assumir o papel de caçadores e enfrentar masmorras em equipe.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-22T17:22:31Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/solo-leveling-ganha-jogo-de-tabuleiro-cooperativo-para-ate-quatro-jogadores",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/solo-leveling-ganha-jogo-de-tabuleiro-cooperativo-para-ate-quatro-jogadores-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Solo Leveling ganha jogo de tabuleiro cooperativo para até quatro jogadores",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c3ac05c41d8ced5c",
-      "title": "Noah Cyrus lança clipe de “Ash and Snow”, música da trilha sonora de ‘Jogos Vorazes: Amanhecer na Colheita’",
-      "excerpt": "A Lionsgate divulgou recentemente o clipe oficial de “Ash and Snow”, música performada pela cantora e compositora Noah Cyrus para a trilha sonora de ‘Jogos Vorazes: Amanhecer na Colheita’.",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-22T17:17:19Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/noah-cyrus-lanca-clipe-de-ash-and-snow-musica-da-trilha-sonora-de-jogos-vorazes-amanhecer-na-colheita-776973",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/noah-cyrus-jogos-vorazes.jpg",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Noah Cyrus lança clipe de “Ash and Snow”, música da trilha sonora de ‘Jogos Vorazes: Amanhecer na Colheita’",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-15bbdf32000fbadd",
-      "title": "Prime 1 Studio abre pré-venda de estátua de Rebecca por US$ 899",
-      "excerpt": "A estátua de Rebecca de Cyberpunk: Edgerunners já pode ser encomendada por US$ 899.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T17:11:58Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/prime-1-studio-abre-pre-venda-de-estatua-de-rebecca-por-us-899",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/prime-1-studio-abre-pre-venda-de-estatua-de-rebecca-por-us-899-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Prime 1 Studio abre pré-venda de estátua de Rebecca por US$ 899",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-41f0f75a2bc3e0d0",
-      "title": "Ibai leva streamer de GTA 6 às lágrimas após audiência saltar para 3 mil",
-      "excerpt": "Um streamer de GTA 6 que transmitia para ninguém chegou a 3.243 espectadores simultâneos depois que Ibai Llanos chamou seus seguidores para acompanharem a live.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T17:09:58Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/ibai-leva-streamer-de-gta-6-as-lagrimas-apos-audiencia-saltar-para-3-mil",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/ibai-leva-streamer-de-gta-6-as-lagrimas-apos-audiencia-saltar-para-3-mil-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Ibai leva streamer de GTA 6 às lágrimas após audiência saltar para 3 mil",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6ad568936fcb261f",
-      "title": "Jogador de GTA 6 suspenso da PlayStation por enviar foto de nudistas a um amigo",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Eurogamer.pt. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T17:09:10Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Eurogamer.pt",
-      "sourceUrl": "https://www.eurogamer.pt/jogador-de-gta-6-suspenso-da-playstation-por-enviar-foto-de-nudistas-a-um-amigo",
-      "image": "https://assetsio.gnwcdn.com/Leonida_Keys_05_VkBLDmU.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "alt": "Imagem publicada por Eurogamer.pt",
-      "imageCredit": "Imagem: Eurogamer.pt",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Jogador de GTA 6 suspenso da PlayStation por enviar foto de nudistas a um amigo",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2193aefa470ff487",
-      "title": "Ex-artista da Rockstar elogia visual de GTA 6, mas prefere rios de Red Dead 2",
-      "excerpt": "David O’Reilly, ex-artista de ambientes da Rockstar, elogiou o visual de GTA 6, mas apontou uma área em que Red Dead Redemption 2 ainda o impressiona mais: os rios.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T17:07:58Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/ex-artista-da-rockstar-elogia-visual-de-gta-6-mas-prefere-rios-de-red-dead-2",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/ex-artista-da-rockstar-elogia-visual-de-gta-6-mas-prefere-rios-de-red-dead-2-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Ex-artista da Rockstar elogia visual de GTA 6, mas prefere rios de Red Dead 2",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-da4a067f336f146f",
-      "title": "O principal detalhe da trama de GTA 6 foi escondido a sete chaves",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T17:00:32Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157785/o-principal-detalhe-da-trama-de-gta-6-foi-escondido-a-sete-chaves",
-      "image": "https://sm.ign.com/ign_br/photo/default/image-5291fe7c-3347-4214-8145-2073259ee2dc-1795015747531_8cbc.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "O principal detalhe da trama de GTA 6 foi escondido a sete chaves",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3647ec456498d588",
-      "title": "Onde encontrar as pessoas desaparecidas em GTA 6 e como resolver a missão escondida de Port Gellhorn",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T17:00:00Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/pessoas-desaparecidas-em-gta-6-onde-encontrar-os-tres-desaparecidos-na-missao-escondida-de-port-gellhorn",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/11/onde-encontrar-as-pessoas-desaparecidas-em-gta-6-e-como-resolver-a-missao-escond.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Onde encontrar as pessoas desaparecidas em GTA 6 e como resolver a missão escondida de Port Gellhorn",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f12c7e6a78f3fa77",
-      "title": "Michelle Yeoh adapta as lutas de Blade Runner 2099 à condição de Olwen",
-      "excerpt": "As lutas de Blade Runner 2099 vão refletir a deterioração física de Olwen, personagem de Michelle Yeoh que está chegando ao fim da vida.",
+      "id": "radar-ff75a72ff7b1a7e1",
+      "title": "Sunrise on the Reaping revela a tragédia que moldou Haymitch",
+      "excerpt": "O texto a seguir contém spoilers da trama.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "geek",
       "categoryName": "Universo geek",
-      "publishedAt": "2026-11-22T16:52:21Z",
+      "publishedAt": "2026-11-22T22:27:11Z",
       "displayDate": "22 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/michelle-yeoh-adapta-as-lutas-de-blade-runner-2099-a-condicao-de-olwen",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/michelle-yeoh-adapta-as-lutas-de-blade-runner-2099-a-condicao-de-olwen-featured.webp",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/sunrise-on-the-reaping-revela-a-tragedia-que-moldou-haymitch",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/sunrise-on-the-reaping-revela-a-tragedia-que-moldou-haymitch-featured.webp",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Michelle Yeoh adapta as lutas de Blade Runner 2099 à condição de Olwen",
+      "originalTitle": "Sunrise on the Reaping revela a tragédia que moldou Haymitch",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -341,25 +263,25 @@
       }
     },
     {
-      "id": "radar-9e6ff31158026581",
-      "title": "The Hunger Games lidera bilheteria com estreia de US$ 120 milhões",
-      "excerpt": "The Hunger Games: Sunrise on the Reaping abriu na liderança da bilheteria doméstica norte-americana, com previsão de US$ 120 milhões em seu primeiro fim de semana.",
+      "id": "radar-612a6f1f8507737d",
+      "title": "Jimoto no Ijimekko-tachi ganha anime na temporada de 2027",
+      "excerpt": "O mangá Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara (When I Tried to Get Payback Against My Hometown Bullies, Another Battle Began), de Kengo Matsumoto, ganhará uma adaptação em anime para TV.",
       "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-22T16:31:11Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-22T22:23:41Z",
       "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/the-hunger-games-lidera-bilheteria-com-estreia-de-us-120-milhoes",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/the-hunger-games-lidera-bilheteria-com-estreia-de-us-120-milhoes-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/jimoto-no-ijimekko-tachi-anime-2027",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Jimoto-no-Ijimekko-tachi-ganha-anime-na-temporada-de-2027.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "The Hunger Games lidera bilheteria com estreia de US$ 120 milhões",
+      "originalTitle": "Jimoto no Ijimekko-tachi ganha anime na temporada de 2027",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -367,25 +289,25 @@
       }
     },
     {
-      "id": "radar-4b627149aa9ce391",
-      "title": "One Piece prepara terceira temporada para estreia na Netflix em 2027",
-      "excerpt": "A terceira temporada de One Piece, intitulada One Piece: The Battle of Alabasta, está prevista para chegar à Netflix em 2027, mas ainda não tem data definida.",
+      "id": "radar-068c5f65f98b4ca5",
+      "title": "Jogo de cartas de Naruto chega ao mundo todo em junho de 2027",
+      "excerpt": "A Bandai anunciou que o jogo de cartas de Naruto terá lançamento mundial em junho de 2027, reunindo personagens de diferentes fases da franquia em disputas estratégicas.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-22T16:29:11Z",
+      "publishedAt": "2026-11-22T22:22:28Z",
       "displayDate": "22 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/one-piece-prepara-terceira-temporada-para-estreia-na-netflix-em-2027",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/one-piece-prepara-terceira-temporada-para-estreia-na-netflix-em-2027-featured.jpg",
+      "sourceUrl": "https://criticalhits.com.br/games/jogo-de-cartas-de-naruto-chega-ao-mundo-todo-em-junho-de-2027",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/jogo-de-cartas-de-naruto-chega-ao-mundo-todo-em-junho-de-2027-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "One Piece prepara terceira temporada para estreia na Netflix em 2027",
+      "originalTitle": "Jogo de cartas de Naruto chega ao mundo todo em junho de 2027",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -393,129 +315,25 @@
       }
     },
     {
-      "id": "radar-205647957e36dcf4",
-      "title": "NPC imortal de GTA 6 encara jogadores e mata Jason com teleporte",
-      "excerpt": "Um NPC imortal de GTA 6 pode encarar Jason, ignorar tiros de sniper e surgir atrás dele para matá-lo.",
+      "id": "radar-d93f6cebe44e2637",
+      "title": "Crítica | Jogos Vorazes: Amanhecer na Colheita (2026): a vitória sob controle",
+      "excerpt": "Francis Lawrence revisita os Jogos de Haymitch Abernathy para explorar a disputa entre resistência e propaganda, numa trajetória marcada pelo custo de permanecer vivo.",
       "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Cinema com Rapadura. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-22T16:27:11Z",
+      "publishedAt": "2026-11-22T22:21:19Z",
       "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/npc-imortal-de-gta-6-encara-jogadores-e-mata-jason-com-teleporte",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/npc-imortal-de-gta-6-encara-jogadores-e-mata-jason-com-teleporte-featured-scaled.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
+      "sourceName": "Cinema com Rapadura",
+      "sourceUrl": "https://cinemacomrapadura.com.br/criticas/631255/critica-jogos-vorazes-amanhecer-na-colheita-2026-a-vitoria-sob-controle",
+      "image": "https://cinemacomrapadura.com.br/imagens/2026/11/20261122-amanhecer-na-colheita-capa-scaled.webp",
+      "alt": "Imagem publicada por Cinema com Rapadura",
+      "imageCredit": "Imagem: Cinema com Rapadura",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "NPC imortal de GTA 6 encara jogadores e mata Jason com teleporte",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f1cd5eb81121d15e",
-      "title": "Witch on the Holy Night terá versão ScreenX com 981 cenas ampliadas",
-      "excerpt": "Witch on the Holy Night ganhará uma versão ScreenX com 981 cenas ampliadas a partir de 27 de novembro, no Japão.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-22T16:25:11Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/witch-on-the-holy-night-tera-versao-screenx-com-981-cenas-ampliadas",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/witch-on-the-holy-night-tera-versao-screenx-com-981-cenas-ampliadas-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Witch on the Holy Night terá versão ScreenX com 981 cenas ampliadas",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6129b40dd0fde901",
-      "title": "Os 6 Personagens de Dragon Ball Super com Mais Chance de Derrotar Freeza Black",
-      "excerpt": "Freeza Black já mostrou que está muito acima dos principais guerreiros de Dragon Ball Super: após treinar por dez anos em uma Câmara do Tempo Hiperbólica, derrotou Goku com Instinto Superior e Vegeta com Ultra Ego em poucos segundos.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-22T16:23:57Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/os-6-personagens-de-dragon-ball-super-com-mais-chance-de-derrotar-freeza-black",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/os-6-personagens-de-dragon-ball-super-com-mais-chance-de-derrotar-freeza-black-featured.png",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Os 6 Personagens de Dragon Ball Super com Mais Chance de Derrotar Freeza Black",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b0f6b4aae0b10199",
-      "title": "Darktide recebe Meltagun grátis junto à classe Irmã Noviça",
-      "excerpt": "Warhammer 40.000: Darktide vai adicionar a Meltagun ao arsenal de todos os jogadores em uma atualização gratuita marcada para 7 de dezembro de 2026, junto ao lançamento da classe Irmã Noviça.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T16:23:11Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/darktide-recebe-meltagun-gratis-junto-a-classe-irma-novica",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/darktide-recebe-meltagun-gratis-junto-a-classe-irma-novica-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Darktide recebe Meltagun grátis junto à classe Irmã Noviça",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-663e1354c7b93484",
-      "title": "Primeiro-ministro grego cita GTA 6 em vídeo e provoca críticas",
-      "excerpt": "Kyriakos Mitsotakis, primeiro-ministro da Grécia, citou GTA 6 em um vídeo no TikTok e recebeu críticas de políticos e jornais do país.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T16:16:28Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/primeiro-ministro-grego-cita-gta-6-em-video-e-provoca-criticas",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/primeiro-ministro-grego-cita-gta-6-em-video-e-provoca-criticas-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Primeiro-ministro grego cita GTA 6 em vídeo e provoca críticas",
+      "originalTitle": "Crítica | Jogos Vorazes: Amanhecer na Colheita (2026): a vitória sob controle",
       "tags": [
         "analise"
       ],
@@ -525,25 +343,51 @@
       }
     },
     {
-      "id": "radar-ba7f4287cea8a817",
-      "title": "Avatar: Seven Havens confirma que as dobras de lava e metal ainda existem",
-      "excerpt": "As dobras de lava e metal continuam existindo no mundo de Avatar: Seven Havens, mesmo mais de 200 anos após os eventos de A Lenda de Korra.",
+      "id": "radar-c89b19b29b57a189",
+      "title": "I Lost My Adventurer’s License estreia dia 7 de janeiro",
+      "excerpt": "O anime I Lost My Adventurer’s License (Bōkensha License o Hakudatsusareta Ossan Dakedo) divulgou seu primeiro vídeo promocional completo, revelando novos integrantes da equipe de produção, a música de abertura e a estreia marcada para 7 de janeiro de 2027.",
+      "body": [
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-22T22:17:51Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/i-lost-my-adventurers-license-estreia-janeiro-2027",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/11/I-Lost-My-Adventurers-License-estreia-dia-7-de-janeiro.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "I Lost My Adventurer’s License estreia dia 7 de janeiro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6ebf5a7f39d99348",
+      "title": "The Remarried Empress multiplica leituras após estreia no Disney+",
+      "excerpt": "A adaptação live-action de The Remarried Empress impulsionou a audiência das versões originais da história: as visualizações globais do webtoon cresceram cerca de 35 vezes nas duas semanas após a estreia da série no Disney+, em 3 de novembro.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-22T16:14:28Z",
+      "publishedAt": "2026-11-22T22:15:38Z",
       "displayDate": "22 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/avatar-seven-havens-confirma-que-as-dobras-de-lava-e-metal-ainda-existem",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/avatar-seven-havens-confirma-que-as-dobras-de-lava-e-metal-ainda-existem-featured.webp",
+      "sourceUrl": "https://criticalhits.com.br/anime/the-remarried-empress-multiplica-leituras-apos-estreia-no-disney",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/the-remarried-empress-multiplica-leituras-apos-estreia-no-disney-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Avatar: Seven Havens confirma que as dobras de lava e metal ainda existem",
+      "originalTitle": "The Remarried Empress multiplica leituras após estreia no Disney+",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -551,25 +395,25 @@
       }
     },
     {
-      "id": "radar-18905297c0b79693",
-      "title": "Diretor de The Ninth Jedi relata atrito com Lucasfilm por liberdade criativa",
-      "excerpt": "Kenji Kamiyama contou que enfrentou divergências com a Lucasfilm ao transformar The Ninth Jedi, curta de Star Wars: Visions, em uma série.",
+      "id": "radar-7de08d5fe57c13df",
+      "title": "Ladino encontra exploit de ouro em World of Warcraft: Forever",
+      "excerpt": "Um exploit de ouro em World of Warcraft: Forever permite que Ladinos tentem mudar as recompensas de caixas trancadas e encontrar itens valiosos.",
       "body": [
         "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-22T15:56:04Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T22:11:38Z",
       "displayDate": "22 nov. 2026",
       "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/diretor-de-the-ninth-jedi-relata-atrito-com-lucasfilm-por-liberdade-criativa",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/diretor-de-the-ninth-jedi-relata-atrito-com-lucasfilm-por-liberdade-criativa-featured.webp",
+      "sourceUrl": "https://criticalhits.com.br/games/ladino-encontra-exploit-de-ouro-em-world-of-warcraft-forever",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/ladino-encontra-exploit-de-ouro-em-world-of-warcraft-forever-featured.jpg",
       "alt": "Imagem publicada por Critical Hits",
       "imageCredit": "Imagem: Critical Hits",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Diretor de The Ninth Jedi relata atrito com Lucasfilm por liberdade criativa",
+      "originalTitle": "Ladino encontra exploit de ouro em World of Warcraft: Forever",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -577,77 +421,25 @@
       }
     },
     {
-      "id": "radar-610eb3e2aa468aab",
-      "title": "Nova prévia de Duna: Parte 3 destaca ação e conflito entre Paul e Chani",
-      "excerpt": "Uma prévia de Duna: Parte 3 exibida na televisão dos Estados Unidos chegou às redes sociais neste domingo, 22 de novembro, e mostra novas cenas de ação e violência.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-22T15:54:24Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/nova-previa-de-duna-parte-3-destaca-acao-e-conflito-entre-paul-e-chani",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/nova-previa-de-duna-parte-3-destaca-acao-e-conflito-entre-paul-e-chani-featured.webp",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Nova prévia de Duna: Parte 3 destaca ação e conflito entre Paul e Chani",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-421ba9aa9fc75b79",
-      "title": "Godzilla Minus Zero perde mais de mil salas, mas já superou o ponto de equilíbrio",
-      "excerpt": "Apesar de perder 1.046 salas nos Estados Unidos em seu terceiro fim de semana, Godzilla Minus Zero já arrecadou mais de US$ 80 milhões no mundo e ultrapassou com folga o ponto de equilíbrio estimado para o filme.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-22T15:50:35Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/godzilla-minus-zero-perde-mais-de-mil-salas-mas-ja-superou-o-ponto-de-equilibrio",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/godzilla-minus-zero-perde-mais-de-mil-salas-mas-ja-superou-o-ponto-de-equilibrio-featured-scaled.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Godzilla Minus Zero perde mais de mil salas, mas já superou o ponto de equilíbrio",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-13cc0af420eb6909",
-      "title": "La Bola Negra se torna maior bilheteria na Espanha em 2026, superando Homem-Aranha: Um Novo Dia",
+      "id": "radar-b164e0a93e71c58c",
+      "title": "A Hora do Rush 4 ainda vai acontecer e terá Jackie Chan e Chris Tucker; entenda",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-22T15:44:00Z",
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-22T21:37:00Z",
       "displayDate": "22 nov. 2026",
       "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/la-bola-negra-maior-bilheteria-espanha-2026",
-      "image": "https://cdn.ome.lt/YFg3VsnyNIaLA0aI3IQUfdU0J1w=/1200x630/smart/filters:format(webp)/extras/conteudos/labolanegra1.webp",
+      "sourceUrl": "https://www.omelete.com.br/filmes/a-hora-do-rush-4-vai-acontecer-jackie-chan-chris-tucker",
+      "image": "https://cdn.ome.lt/xuN5V2_Gcr69At2pB9aTCTZoPyM=/1200x630/smart/filters:format(webp)/extras/conteudos/horadorush.webp",
       "alt": "Imagem publicada por Omelete",
       "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "La Bola Negra se torna maior bilheteria na Espanha em 2026, superando Homem-Aranha: Um Novo Dia",
+      "originalTitle": "A Hora do Rush 4 ainda vai acontecer e terá Jackie Chan e Chris Tucker; entenda",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -655,25 +447,397 @@
       }
     },
     {
-      "id": "radar-33f09b167a21bdc8",
-      "title": "Scarlett Johansson joga luz na aposta de risco que fez Vingadores: Ultimato funcionar — e expõe a Marvel de hoje",
+      "id": "radar-33b195ef59144dbe",
+      "title": "Pikmin 4 diverte com gameplay de estratégia simples e história peculiar - Review",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Jornal dos Jogos | Substack. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T21:36:36Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Jornal dos Jogos | Substack",
+      "sourceUrl": "https://newsletter.jornaldosjogos.com.br/p/pikmin-4-diverte-com-gameplay-de",
+      "image": "https://substackcdn.com/image/fetch/$s_!TUka!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c898c30-537f-4020-a5b3-ab467e1c05a9_1920x1080.png",
+      "alt": "Imagem publicada por Jornal dos Jogos | Substack",
+      "imageCredit": "Imagem: Jornal dos Jogos | Substack",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Pikmin 4 diverte com gameplay de estratégia simples e história peculiar - Review",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f7a8be5464d2556b",
+      "title": "The Legend of Vox Machina terá Whispered One como vilão final",
+      "excerpt": "A temporada 5 de The Legend of Vox Machina colocará o Whispered One no centro do confronto final da série.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-22T21:32:23Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/the-legend-of-vox-machina-tera-whispered-one-como-vilao-final",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/the-legend-of-vox-machina-tera-whispered-one-como-vilao-final-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "The Legend of Vox Machina terá Whispered One como vilão final",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-414fa9501c25d7df",
+      "title": "The Wolf Among Us Remastered aparece com lançamento para 29 de novembro para o Switch na eShop",
+      "excerpt": "The Wolf Among Us Remastered apareceu na eShop com previsão de lançamento para o Nintendo Switch em 29 de novembro de 2026.",
+      "body": [
+        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T21:30:16.867000Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Nintendo Blast",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-wolf-among-us-remastered-aparece-com-lancamento-para-29-de-novembro-para-o-switch-na-eshop.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwSGWpjETnFQx2ps-AUq3pxW4pn1uweenbi0gFhgG_qSBAnVcFzczHMNQTl9LYA-hL1Swh6o_wIGLFG9CYxgwYHxbu29_YSBXkjfJ9YSNSmDc2AbiEVX0DphAICV1o8oLliSPI39NxTxxNlHenE3CHkQf9-Njmzy7VZ4wtOoe3kuzgoG35wqMBCVDice1m/s72-w640-h426-c/the_wolf_among_us_remastered.webp",
+      "alt": "Imagem publicada por Nintendo Blast",
+      "imageCredit": "Imagem: Nintendo Blast",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "The Wolf Among Us Remastered aparece com lançamento para 29 de novembro para o Switch na eShop",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8da16ac6dc20de6a",
+      "title": "Marvel forma Vingadores de reserva em VisionQuest e ensaia troca de guarda antes de Doomsday",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-22T15:29:02Z",
+      "publishedAt": "2026-11-22T21:29:02Z",
       "displayDate": "22 nov. 2026",
       "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/scarlett-johansson-endgame-marvel-declaracao",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1792396561.jpg",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-visionquest-novo-time-vingadores-troca-de-guarda",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/09/radiogeekbr-1789732517.jpg",
       "alt": "Imagem publicada por Rádio Geek",
       "imageCredit": "Imagem: Rádio Geek",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Scarlett Johansson joga luz na aposta de risco que fez Vingadores: Ultimato funcionar — e expõe a Marvel de hoje",
+      "originalTitle": "Marvel forma Vingadores de reserva em VisionQuest e ensaia troca de guarda antes de Doomsday",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6f6e9583d8bd17ab",
+      "title": "Kenji Kamiyama diz que poucos viram A Guerra dos Rohirrim nos cinemas",
+      "excerpt": "Durante um painel na segunda edição do Festival Internacional de Cinema de Animação de Aichi-Nagoya, Kenji Kamiyama comentou o desempenho de O Senhor dos Anéis: A Guerra dos Rohirrim, que foi exibido no evento.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-22T21:26:38Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/kenji-kamiyama-diz-que-poucos-viram-a-guerra-dos-rohirrim-nos-cinemas",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/kenji-kamiyama-explica-por-que-o-senhor-dos-aneis-a-guerra-dos-rohirrim-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Kenji Kamiyama diz que poucos viram A Guerra dos Rohirrim nos cinemas",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-973a3a5725bb1924",
+      "title": "6 filmes para entrar no clima da CCXP 2026",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-22T20:48:39Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Legião dos Heróis",
+      "sourceUrl": "https://www.legiaodosherois.com.br/lista/6-filmes-para-entrar-no-clima-da-ccxp-2026.html",
+      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_yMdLKAz4Smjf.jpg",
+      "alt": "Imagem publicada por Legião dos Heróis",
+      "imageCredit": "Imagem: Legião dos Heróis",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "6 filmes para entrar no clima da CCXP 2026",
+      "tags": [
+        "evento"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c58a89bc9e5a05d6",
+      "title": "Vingadores: Doutor Destino | Thor, Gambit, Fera e Coisa aparecem em novo comercial; confira",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-22T20:47:00Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-fera-gambit-thor-coisa-novo-comercial",
+      "image": "https://cdn.ome.lt/x4TLp3xBLMkOCbTVcyrGrldcOmg=/1200x630/smart/filters:format(webp)/extras/conteudos/doomy_Qdczh8C.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino | Thor, Gambit, Fera e Coisa aparecem em novo comercial; confira",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-73f1e6c6491656c0",
+      "title": "Noah Schnapp revela audição para Haymitch em Amanhecer na Colheita",
+      "excerpt": "Noah Schnapp, conhecido como Will Byers em Stranger Things, compartilhou no Instagram um registro de sua audição para interpretar Haymitch em Jogos Vorazes: Amanhecer na Colheita.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-22T20:31:00Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/noah-schnapp-revela-audicao-para-haymitch-em-amanhecer-na-colheita",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/noah-schnapp-revela-audicao-para-haymitch-em-amanhecer-na-colheita-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Noah Schnapp revela audição para Haymitch em Amanhecer na Colheita",
+      "tags": [
+        "escalacao"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f0e139aed6f927c9",
+      "title": "Temporada 5 de Invencível chega em fevereiro e série bate recorde no Prime Video",
+      "excerpt": "A temporada 5 de Invencível estreia em 17 de fevereiro de 2027, e a renovação da animação para uma sexta temporada já a coloca como a série animada mais longeva do Prime Video.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-22T20:24:49Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/temporada-5-de-invencivel-chega-em-fevereiro-e-serie-bate-recorde-no-prime-video",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/temporada-5-de-invencivel-chega-em-fevereiro-e-serie-bate-recorde-no-prime-video-featured-scaled.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Temporada 5 de Invencível chega em fevereiro e série bate recorde no Prime Video",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ca99ad6a640006fd",
+      "title": "Adam Driver explica por que The Hunt for Ben Solo foi cancelado",
+      "excerpt": "Adam Driver contou que a decisão de engavetar The Hunt for Ben Solo foi justificada pela morte do personagem em Star Wars: A Ascensão Skywalker.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-22T19:54:00Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/adam-driver-explica-por-que-the-hunt-for-ben-solo-foi-cancelado",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/adam-driver-explica-por-que-the-hunt-for-ben-solo-foi-cancelado-featured.webp",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Adam Driver explica por que The Hunt for Ben Solo foi cancelado",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b02e927f3cd27b76",
+      "title": "Análise Arkade —Tanuki: Pon’s Summer coloca o jogador na pele de um tanuki multitarefas",
+      "excerpt": "Jogos cozy ou simplesmente “aconchegantes” são um subgênero de games que, aos poucos, vêm se tornando um nicho cada vez mais interessante na indústria, principalmente entre games indies.",
+      "body": [
+        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-22T19:00:05Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Arkade",
+      "sourceUrl": "https://arkade.com.br/analise-arkade-tanuki-pons-summer",
+      "image": "https://arkade.com.br/wp-content/uploads/2026/11/tanuki-pons-summer-1.webp",
+      "alt": "Imagem publicada por Arkade",
+      "imageCredit": "Imagem: Arkade",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Análise Arkade —Tanuki: Pon’s Summer coloca o jogador na pele de um tanuki multitarefas",
+      "tags": [
+        "analise"
+      ],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0a2bb48395d13f18",
+      "title": "Desmentido de VisionQuest sobre Star-Lord expõe o laboratório de boatos da Marvel",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em radiogeekbr.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-22T18:13:50Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "radiogeekbr.com.br",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-visionquest-star-lord-boato-desmentido",
+      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1795382956.jpg",
+      "alt": "Imagem publicada por radiogeekbr.com.br",
+      "imageCredit": "Imagem: radiogeekbr.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Desmentido de VisionQuest sobre Star-Lord expõe o laboratório de boatos da Marvel",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-08733abb31b5cf03",
+      "title": "Novo menu do KFC inspirado na Marvel chega ao Brasil",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Poltrona Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-22T17:42:24Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Poltrona Nerd",
+      "sourceUrl": "https://poltronanerd.com.br/produtos/novo-menu-do-kfc-inspirado-na-marvel-chega-ao-brasil-215969",
+      "image": "https://poltronanerd.com.br/wp-content/uploads/2026/11/unnamed-10.jpg",
+      "alt": "Imagem publicada por Poltrona Nerd",
+      "imageCredit": "Imagem: Poltrona Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Novo menu do KFC inspirado na Marvel chega ao Brasil",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e839d27a15f26769",
+      "title": "‘Jogos Vorazes: Amanhecer na Colheita’ arrecada US$ 225 milhões em estreia GLOBAL",
+      "excerpt": "Sucesso!",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-22T17:12:00Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/jogos-vorazes-amanhecer-na-colheita-arrecada-us-225-milhoes-em-estreia-global-776998",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/jogos-vorazes-1024x643.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Jogos Vorazes: Amanhecer na Colheita’ arrecada US$ 225 milhões em estreia GLOBAL",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d8e988732fe6fd12",
+      "title": "Mangá Sakamoto Days encerra sua serialização após seis anos",
+      "excerpt": "O mangá Sakamoto Days, de Yuuto Suzuki, chega oficialmente ao fim após seis anos na Weekly Shounen Jump.",
+      "body": [
+        "Confira a cobertura completa em Anime United. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-22T15:52:55Z",
+      "displayDate": "22 nov. 2026",
+      "sourceName": "Anime United",
+      "sourceUrl": "https://www.animeunited.com.br/noticias/manga-sakamoto-days-encerra-sua-serializacao-apos-seis-anos",
+      "image": "https://www.animeunited.com.br/wp-content/uploads/2026/11/image-73.png",
+      "alt": "Imagem publicada por Anime United",
+      "imageCredit": "Imagem: Anime United",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Mangá Sakamoto Days encerra sua serialização após seis anos",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -682,7 +846,7 @@
     },
     {
       "id": "radar-06ebafc5a81985c3",
-      "title": "GTA 6 a 60 fps no Xbox? Veja como usar o bug do Quick Resume",
+      "title": "GTA 6 a 60 fps no Xbox? Como fazer o bug do Quick Resume",
       "excerpt": "",
       "body": [
         "Confira a cobertura completa em Game Overdrive. A matéria original reúne os detalhes desta atualização."
@@ -699,33 +863,7 @@
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "GTA 6 a 60 fps no Xbox? Veja como usar o bug do Quick Resume",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-634510d614dc3254",
-      "title": "Vingadores: Doutor Destino já é a 3ª maior pré-venda da história dos EUA com mais de US$ 80 milhões",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-22T15:12:00Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-3-maior-pre-venda-historia-eua-80-milhoes",
-      "image": "https://cdn.ome.lt/Wx7GoJxdS2Px5lQtxiRdCjwbO3U=/1200x630/smart/filters:format(webp)/extras/conteudos/doom_j0ENvB2.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino já é a 3ª maior pré-venda da história dos EUA com mais de US$ 80 milhões",
+      "originalTitle": "GTA 6 a 60 fps no Xbox? Como fazer o bug do Quick Resume",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -759,32 +897,6 @@
       }
     },
     {
-      "id": "radar-47f446662c7dbc82",
-      "title": "Harry Potter confirma primeira grande mudança na adaptação dos livros",
-      "excerpt": "HBO divulga cena inédita de Harry Potter e revela mudanças na chegada de Harry à Sala Principal de Hogwarts.",
-      "body": [
-        "Confira a cobertura completa em Mix de Séries. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-22T15:00:00Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Mix de Séries",
-      "sourceUrl": "https://mixdeseries.com.br/harry-potter-confirma-primeira-grande-mudanca",
-      "image": "https://cdn.mixdeseries.com.br/wp-content/uploads/2026/09/Trailer-Harry-Potter-HBO-revelado.jpg",
-      "alt": "Imagem publicada por Mix de Séries",
-      "imageCredit": "Imagem: Mix de Séries",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Harry Potter confirma primeira grande mudança na adaptação dos livros",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-b709e3429e4dabf8",
       "title": "Novo anime de Aria the Scarlet Ammo estreia em abril de 2027",
       "excerpt": "Produção comemora os 15 anos da primeira adaptação.",
@@ -811,54 +923,26 @@
       }
     },
     {
-      "id": "radar-d26f9aa20d2506f7",
-      "title": "X-Men | Nova Vampira quer viajar ao Mississippi para aperfeiçoar sotaque da personagem",
-      "excerpt": "Inde Navarrette revelou como está se preparando para interpretar a mutante A nova Vampira dos cinemas está levando a preparação para o papel a sério!",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-22T14:32:06Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/x-men-nova-vampira-quer-viajar-ao-mississippi-para-aperfeicoar-sotaque-da-personagem.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_wy9FS3RcQ5BZ.jpeg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "X-Men | Nova Vampira quer viajar ao Mississippi para aperfeiçoar sotaque da personagem",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-089962a783e8ef8b",
-      "title": "Análise: MARVEL Cosmic Invasion: O Cerco no Castelo do Destino é uma expansão competente que faz jus ao valor cobrado",
+      "id": "radar-7ee0108cea4ea499",
+      "title": "Superman: Homem do Amanhã: trailer, refilmagens e estreia",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em GameBlast. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Recorte Lírico. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-22T14:03:44Z",
+      "publishedAt": "2026-11-22T14:25:43Z",
       "displayDate": "22 nov. 2026",
-      "sourceName": "GameBlast",
-      "sourceUrl": "https://www.gameblast.com.br/2026/11/analise-marvel-cosmic-invasion-o-cerco.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQnoBs0H4mvoEvSFFN-xNr0ZMcOCpzzF3-M8XiMzbsy8NeDwyZeOBg0Mo62aySErZNwVszO1JWcdkjY_l0772sOeqaam35t-FCGhvCsN5F4tGpwxIXJT8132RBRRhQ-3I5QTsDuGVt0dwtRWlq0Mjfn11Q4692LfCnJ49xqyoy78A9BfbpHN583hB2kQ/w1200-h630-p-k-no-nu/marvel-cosmic-invasion-dlc-capa.jpg",
-      "alt": "Imagem publicada por GameBlast",
-      "imageCredit": "Imagem: GameBlast",
+      "sourceName": "Recorte Lírico",
+      "sourceUrl": "https://recortelirico.com.br/2026/rafaalexander/superman-homem-do-amanha-trailer-skydance-refilmagens",
+      "image": "https://recortelirico.com.br/wp-content/uploads/2026/11/capa-superman-homem-do-amanha-trailer-skydance-refilmagens.jpg",
+      "alt": "Imagem publicada por Recorte Lírico",
+      "imageCredit": "Imagem: Recorte Lírico",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Análise: MARVEL Cosmic Invasion: O Cerco no Castelo do Destino é uma expansão competente que faz jus ao valor cobrado",
-      "tags": [
-        "analise"
-      ],
+      "originalTitle": "Superman: Homem do Amanhã: trailer, refilmagens e estreia",
+      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -891,25 +975,25 @@
       }
     },
     {
-      "id": "radar-b6d5b759864daec9",
-      "title": "Vingadores: Doutor Destino | Wolverine pode ter ganhado nova cena de última hora, diz rumor",
+      "id": "radar-df36664696dd8c69",
+      "title": "Guerreiras do K-Pop | Sucesso das HUNTR/X é apresentado ao vivo no GP de Las Vegas da F1",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-22T13:58:19Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-22T13:53:00Z",
       "displayDate": "22 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/vingadores-doutor-destino-wolverine-pode-ter-ganhado-nova-cena-de-ultima-hora-diz-rumor.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_xHRqbWmJh3Ij.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/musica/guerreiras-do-kpop-rei-ami-how-its-done-huntrix-gp-las-vegas-f1",
+      "image": "https://cdn.ome.lt/olhUPjHvk-6AtZ3Q2EKMyNd7I2g=/1200x630/smart/filters:format(webp)/extras/conteudos/huntrix.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Vingadores: Doutor Destino | Wolverine pode ter ganhado nova cena de última hora, diz rumor",
+      "originalTitle": "Guerreiras do K-Pop | Sucesso das HUNTR/X é apresentado ao vivo no GP de Las Vegas da F1",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -936,166 +1020,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "The One. Later On… tem anime anunciado para 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6312a029aacf274b",
-      "title": "SURI: The Seventh Note | Review",
-      "excerpt": "Apesar do menor reconhecimento e de certos preconceitos enfrentados por estúdios de mercados menores, é sempre legal ver as tentativas desses desenvolvedores de levar sua cultura e visão para a indústria.",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T12:00:27Z",
-      "displayDate": "22 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/analises/suri-the-seventh-note-review",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/1a1783dd76259-screenshotUrl-1024x576.jpg",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "SURI: The Seventh Note | Review",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7fd50979528d0141",
-      "title": "Darkest Dungeon II receberá The Butcher’s Asylum, DLC com arena e nova heroína para 2027",
-      "excerpt": "Darkest Dungeon II receberá The Butcher’s Asylum , uma nova expansão que adicionará um modo de combate em arena e a Ringmaster como personagem jogável.",
-      "body": [
-        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-22T00:47:53.202000Z",
-      "displayDate": "21 nov. 2026",
-      "sourceName": "Nintendo Blast",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/darkest-dungeon-ii-recebera-butchers-asylum-dlc-com-arena-e-nova-heroina-para-2027.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj40XW6gSHhLCOEIq9tu5QM5MwGVN9azQzVm-bYqjEaJFXvMMCJPoKrZpCU7dpmNTNLa4uvYe2JbnSJhyphenhyphen8dnWzqqPasmUWr6AiOXZ8-YLqHSeLHeVM3ESNBiG1PUNZO7bErjxkH9mlfC4anN4MGcrhOuyNVC86kRAdVyKrEcQHNjRBWWn-fZpRdMc1rZDig/s72-w640-h360-c/Darkest-Dungeon-2-The-Butchers-Asylum-DLC.jpg",
-      "alt": "Imagem publicada por Nintendo Blast",
-      "imageCredit": "Imagem: Nintendo Blast",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Darkest Dungeon II receberá The Butcher’s Asylum, DLC com arena e nova heroína para 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-46ede65a868cfe1a",
-      "title": "Trailer de Superman: Homem do Amanhã é exibido em evento da Skydance; confira descrição",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-21T21:48:00Z",
-      "displayDate": "21 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/trailer-superman-homem-amanha-skydance-descricao",
-      "image": "https://cdn.ome.lt/e-DunOKSjQIWgWezG47YK9Mugrk=/1200x630/smart/filters:format(webp)/extras/conteudos/superman_8dD5q89.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Trailer de Superman: Homem do Amanhã é exibido em evento da Skydance; confira descrição",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d43d50231cee1682",
-      "title": "Veja como rodar o GTA 6 a 60 FPS no Xbox",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Central Xbox. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-21T19:33:20Z",
-      "displayDate": "21 nov. 2026",
-      "sourceName": "Central Xbox",
-      "sourceUrl": "https://centralxbox.com.br/2026/11/21/veja-como-rodar-o-gta-6-a-60-fps-no-xbox",
-      "image": "https://centralxbox.com.br/wp-content/uploads/2026/11/gta-6-scaled.png",
-      "alt": "Imagem publicada por Central Xbox",
-      "imageCredit": "Imagem: Central Xbox",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Veja como rodar o GTA 6 a 60 FPS no Xbox",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-8044404343d78ea2",
-      "title": "Batman 3: Robert Pattinson pode não voltar após assumir James Bond",
-      "excerpt": "The Sun atribui informação a uma fonte anônima",
-      "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-21T19:12:53Z",
-      "displayDate": "21 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/batman-3-robert-pattinson-pode-nao-voltar-apos-assumir-james-bond.html",
-      "image": "https://batmannews.com/wp-content/uploads/2022/03/rev-1-TBM-38831JOr_High_Res_JPEG-1200x675.jpeg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Batman 3: Robert Pattinson pode não voltar após assumir James Bond",
-      "tags": [
-        "escalacao"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-b34403dbb4a5bf4b",
-      "title": "‘A Era do Gelo: Mundo de Lava’ ganha primeiro trailer e data de estreia",
-      "excerpt": "A turma pré-histórica mais querida do cinema está de volta às telonas.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-21T19:00:15Z",
-      "displayDate": "21 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/a-era-do-gelo-mundo-de-lava-ganha-primeiro-trailer-e-data-de-estreia",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/11/A-Era-do-Gelo.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "‘A Era do Gelo: Mundo de Lava’ ganha primeiro trailer e data de estreia",
       "tags": [],
       "editorialReview": {
         "status": "native",
