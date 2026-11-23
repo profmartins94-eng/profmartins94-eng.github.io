@@ -1,7 +1,643 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T08:13:58.638851Z",
+  "updatedAt": "2026-11-23T20:33:12.217983Z",
   "articles": [
+    {
+      "id": "radar-0a2ddaa3725d2e32",
+      "publishedAt": "2026-11-23T20:30:19Z",
+      "title": "Os 6 Heróis de Anime Mais Bem Escritos que Asta",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-6-herois-de-anime-mais-bem-escritos-que-asta",
+      "originalTitle": "Os 6 Heróis de Anime Mais Bem Escritos que Asta",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ad35b9c28eb81509",
+      "publishedAt": "2026-11-23T20:30:04Z",
+      "title": "Personagem “misteriosa” é confirmada em ‘Vingadores: Doomsday’ de última hora",
+      "sourceUrl": "https://saladadecinema.com.br/personagem-misteriosa-e-confirmada-em-vingadores-doomsday-de-ultima-hora",
+      "originalTitle": "Personagem “misteriosa” é confirmada em ‘Vingadores: Doomsday’ de última hora",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d96a5e8e7b39702d",
+      "publishedAt": "2026-11-23T20:26:17Z",
+      "title": "Mangá de Elden Ring chega ao fim no terceiro volume",
+      "sourceUrl": "https://criticalhits.com.br/anime/manga-de-elden-ring-chega-ao-fim-no-terceiro-volume",
+      "originalTitle": "Mangá de Elden Ring chega ao fim no terceiro volume",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8593bb89d92a35a0",
+      "publishedAt": "2026-11-23T20:19:42Z",
+      "title": "Cyberleek vaza executável de GTA VI para Xbox na internet",
+      "sourceUrl": "https://www.gamefoxhub.com.br/noticias/cyberleek-ataca-novamente-e-vaza-executavel-de-gta-vi",
+      "originalTitle": "Cyberleek vaza executável de GTA VI para Xbox na internet",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-70de0cff5b0fb3ec",
+      "publishedAt": "2026-11-23T20:17:22Z",
+      "title": "Crocodile e Ace devem superar Luffy na temporada 3 de One Piece",
+      "sourceUrl": "https://criticalhits.com.br/anime/crocodile-e-ace-devem-superar-luffy-na-temporada-3-de-one-piece",
+      "originalTitle": "Crocodile e Ace devem superar Luffy na temporada 3 de One Piece",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-82b9b89a1faf4afa",
+      "publishedAt": "2026-11-23T20:15:22Z",
+      "title": "Diretor de jogos da Naughty Dog compara GTA 6 às pirâmides do Egito",
+      "sourceUrl": "https://criticalhits.com.br/games/diretor-de-jogos-da-naughty-dog-compara-gta-6-as-piramides-do-egito",
+      "originalTitle": "Diretor de jogos da Naughty Dog compara GTA 6 às pirâmides do Egito",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7b447d7270d18580",
+      "publishedAt": "2026-11-23T20:13:22Z",
+      "title": "GTA 6 corrige falha que deixava o clima do jogo parado",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-corrige-falha-que-deixava-o-clima-do-jogo-parado",
+      "originalTitle": "GTA 6 corrige falha que deixava o clima do jogo parado",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a21da97e64849413",
+      "publishedAt": "2026-11-23T20:12:05Z",
+      "title": "História do Xbox: conheça a evolução dos consoles da Microsoft",
+      "sourceUrl": "https://www1.folha.uol.com.br/webstories/tec/2026/11/historia-do-xbox-conheca-a-evolucao-dos-consoles-da-microsoft",
+      "originalTitle": "História do Xbox: conheça a evolução dos consoles da Microsoft",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1e53b4b5e88fc561",
+      "publishedAt": "2026-11-23T20:11:22Z",
+      "title": "GTA 6 exige 100% de conclusão para liberar o troféu de platina",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-exige-100-de-conclusao-para-liberar-o-trofeu-de-platina",
+      "originalTitle": "GTA 6 exige 100% de conclusão para liberar o troféu de platina",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-630b205ef46d1272",
+      "publishedAt": "2026-11-23T20:09:52Z",
+      "title": "Os 10 Personagens Mais Fortes de Boruto: Two Blue Vortex em 2026",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-10-personagens-mais-fortes-de-boruto-two-blue-vortex-em-2026",
+      "originalTitle": "Os 10 Personagens Mais Fortes de Boruto: Two Blue Vortex em 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d8a7ee915a571a85",
+      "publishedAt": "2026-11-23T20:08:25Z",
+      "title": "Conan Exiles Enhanced chega aos consoles em 2027 e encerra servidores oficiais antigos",
+      "sourceUrl": "https://criticalhits.com.br/games/conan-exiles-enhanced-chega-aos-consoles-em-2027-e-encerra-servidores-oficiais-antigos",
+      "originalTitle": "Conan Exiles Enhanced chega aos consoles em 2027 e encerra servidores oficiais antigos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4a5cd14275612f4d",
+      "publishedAt": "2026-11-23T20:07:22Z",
+      "title": "Toby Fox diz que Deltarune Capítulo 6 já pode ser jogado do início ao fim",
+      "sourceUrl": "https://criticalhits.com.br/games/toby-fox-diz-que-deltarune-capitulo-6-ja-pode-ser-jogado-do-inicio-ao-fim",
+      "originalTitle": "Toby Fox diz que Deltarune Capítulo 6 já pode ser jogado do início ao fim",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-06a0eecf77d64f0c",
+      "publishedAt": "2026-11-23T20:00:00Z",
+      "title": "Marvel tem um filme de Natal escondido entre seus maiores sucessos",
+      "sourceUrl": "https://tangerina.uol.com.br/filmes-series/marvel-tem-um-filme-de-natal-escondido-entre-seus-maiores-sucessos",
+      "originalTitle": "Marvel tem um filme de Natal escondido entre seus maiores sucessos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9ac3d75e2d227ce5",
+      "publishedAt": "2026-11-23T19:46:09Z",
+      "title": "Digimon e Tamagotchi ganham brinquedos retrô para celebrar 30 anos",
+      "sourceUrl": "https://criticalhits.com.br/anime/digimon-e-tamagotchi-ganham-brinquedos-retro-para-celebrar-30-anos",
+      "originalTitle": "Digimon e Tamagotchi ganham brinquedos retrô para celebrar 30 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-59092163fe562fb4",
+      "publishedAt": "2026-11-23T19:46:07Z",
+      "title": "Os 5 Raikages de Naruto do Mais Fraco ao Mais Forte",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-5-raikages-de-naruto-do-mais-fraco-ao-mais-forte",
+      "originalTitle": "Os 5 Raikages de Naruto do Mais Fraco ao Mais Forte",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-70f6e02e81cf9564",
+      "publishedAt": "2026-11-23T19:40:00Z",
+      "title": "Fãs de anime e K-pop têm encontro marcado em evento geek gratuito em Campo Grande",
+      "sourceUrl": "https://primeirapagina.com.br/cultura/fas-de-anime-e-k-pop-tem-encontro-marcado-em-evento-geek-gratuito-em-campo-grande",
+      "originalTitle": "Fãs de anime e K-pop têm encontro marcado em evento geek gratuito em Campo Grande",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-394803fcc746517a",
+      "publishedAt": "2026-11-23T19:38:09Z",
+      "title": "Witch on the Holy Night ganha novo trailer nos cinemas japoneses",
+      "sourceUrl": "https://criticalhits.com.br/anime/witch-on-the-holy-night-ganha-novo-trailer-nos-cinemas-japoneses",
+      "originalTitle": "Witch on the Holy Night ganha novo trailer nos cinemas japoneses",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0c65db59a2cd33d7",
+      "publishedAt": "2026-11-23T19:30:21Z",
+      "title": "Análise The Legend of Zelda: Ocarina of Time (Nintendo Switch 2)",
+      "sourceUrl": "https://pplware.sapo.pt/analises-2/analise-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2",
+      "originalTitle": "Análise The Legend of Zelda: Ocarina of Time (Nintendo Switch 2)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-68f1aeabe4833ea5",
+      "publishedAt": "2026-11-23T19:27:34Z",
+      "title": "Os 10 Maiores Animes de Batalha de Todos os Tempos",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-10-maiores-animes-de-batalha-de-todos-os-tempos",
+      "originalTitle": "Os 10 Maiores Animes de Batalha de Todos os Tempos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a12a339800a72c00",
+      "publishedAt": "2026-11-23T19:19:12Z",
+      "title": "Em Anime da TV Espanhola, Guerreiro Sánchez com espada rosa, apoio de Lula e “a força do povo”, derrota a direita",
+      "sourceUrl": "https://luizmuller.com/2026/11/23/em-anime-da-tv-espanhola-guerreiro-sanchez-com-espada-rosa-apoio-de-lula-e-a-forca-do-povo-derrota-a-direita",
+      "originalTitle": "Em Anime da TV Espanhola, Guerreiro Sánchez com espada rosa, apoio de Lula e “a força do povo”, derrota a direita",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4e61de9140eea398",
+      "publishedAt": "2026-11-23T19:13:34Z",
+      "title": "David Fincher revela que propôs um Batman mais sombrio nos anos 90",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/david-fincher-revela-que-propos-um-batman-mais-sombrio-nos-anos-90",
+      "originalTitle": "David Fincher revela que propôs um Batman mais sombrio nos anos 90",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-003ec039ee976623",
+      "publishedAt": "2026-11-23T19:11:36Z",
+      "title": "Remake de One Piece ganha nova prévia antes da estreia em 2027",
+      "sourceUrl": "https://criticalhits.com.br/anime/remake-de-one-piece-ganha-nova-previa-antes-da-estreia-em-2027",
+      "originalTitle": "Remake de One Piece ganha nova prévia antes da estreia em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b6b1675969145319",
+      "publishedAt": "2026-11-23T19:06:35Z",
+      "title": "Aleph lança edição de luxo de 'Duna', clássico de Frank Herbert, às vésperas de 'Duna: Parte Três'",
+      "sourceUrl": "https://sucodemanga.com.br/aleph-edicao-de-luxo-duna-frank-herbert-duna-parte-tres",
+      "originalTitle": "Aleph lança edição de luxo de 'Duna', clássico de Frank Herbert, às vésperas de 'Duna: Parte Três'",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fa0f6aad3dcd3bca",
+      "publishedAt": "2026-11-23T19:00:38Z",
+      "title": "Análise Arkade: Stellar Blade Complete Edition mostra desempenho surpreendente no Switch 2, mesmo com limitações",
+      "sourceUrl": "https://arkade.com.br/analise-arkade-stellar-blade-complete-edition-switch-2",
+      "originalTitle": "Análise Arkade: Stellar Blade Complete Edition mostra desempenho surpreendente no Switch 2, mesmo com limitações",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c3f4ae140fd6070c",
+      "publishedAt": "2026-11-23T18:35:00Z",
+      "title": "K-Pop: O Debut deve ter participação de integrante do 2NE1",
+      "sourceUrl": "https://www.omelete.com.br/korea/k-pop-o-debut-participacao-especial-2ne1",
+      "originalTitle": "K-Pop: O Debut deve ter participação de integrante do 2NE1",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d654767ebabce3ee",
+      "publishedAt": "2026-11-23T18:14:47Z",
+      "title": "‘Orgulho e Preconceito’ ganha edição de luxo em quadrinhos pela Universo Geek",
+      "sourceUrl": "https://sucodemanga.com.br/orgulho-e-preconceito-edicao-de-luxo-quadrinhos-aurore-universo-geek",
+      "originalTitle": "‘Orgulho e Preconceito’ ganha edição de luxo em quadrinhos pela Universo Geek",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-55cefb68f7127b26",
+      "publishedAt": "2026-11-23T17:36:00Z",
+      "title": "Steven Spielberg reúne vencedores do Oscar em seu próximo filme: um faroeste",
+      "sourceUrl": "https://www.omelete.com.br/filmes/steven-spielberg-novo-filme-faroeste-paul-thomas-anderson",
+      "originalTitle": "Steven Spielberg reúne vencedores do Oscar em seu próximo filme: um faroeste",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6068f89e96490c08",
+      "publishedAt": "2026-11-23T17:33:14Z",
+      "title": "5 k-dramas imperdíveis do Disney+ para acalentar seu coração e intrigar você com grandes mistérios",
+      "sourceUrl": "https://br.ign.com/disney-plus/157872/5-k-dramas-imperdiveis-do-disney-para-acalentar-seu-coracao-e-intrigar-voce-com-grandes-misterios",
+      "originalTitle": "5 k-dramas imperdíveis do Disney+ para acalentar seu coração e intrigar você com grandes mistérios",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a359b55165fc89dd",
+      "publishedAt": "2026-11-23T17:30:00Z",
+      "title": "ABIDE: jogo de terror psicológico feito em stop-motion ganha novo trailer sinistro, confira",
+      "sourceUrl": "https://arkade.com.br/abide-jogo-de-terror-psicologico-feito-em-stop-motion-ganha-novo-trailer-sinistro-confira",
+      "originalTitle": "ABIDE: jogo de terror psicológico feito em stop-motion ganha novo trailer sinistro, confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-69ae0d49a8ee9cb5",
+      "publishedAt": "2026-11-23T17:00:00Z",
+      "title": "‘God of War’: Deborah Ann Woll, de ‘Demolidor’, reprisará papel de Faye na série live-action",
+      "sourceUrl": "https://cinepop.com.br/god-of-war-deborah-ann-woll-de-demolidor-reprisara-papel-de-faye-na-serie-live-action-777087",
+      "originalTitle": "‘God of War’: Deborah Ann Woll, de ‘Demolidor’, reprisará papel de Faye na série live-action",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-08945cbdfe5b2dbe",
+      "publishedAt": "2026-11-23T16:54:00Z",
+      "title": "Baywatch | Nova série ganha pôster e data de estreia no Brasil",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/baywatch-nova-serie-poster-data-de-estreia-brasil-prime-video",
+      "originalTitle": "Baywatch | Nova série ganha pôster e data de estreia no Brasil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a345acb61dc597f5",
+      "publishedAt": "2026-11-23T16:47:00Z",
+      "title": "A Parceira Ideal 2 | Quando saem os próximos episódios do k-drama? Confira agenda",
+      "sourceUrl": "https://www.omelete.com.br/korea/a-parceira-ideal-2-temporada-dorama-proximos-episodios-agenda",
+      "originalTitle": "A Parceira Ideal 2 | Quando saem os próximos episódios do k-drama? Confira agenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4baf1db1c4a24c6e",
+      "publishedAt": "2026-11-23T16:46:00Z",
+      "title": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/rockstar-lanca-edicao-deluxe-de-album-de-gta-6-com-musica-de-anitta",
+      "originalTitle": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-45c40c8d62716d8d",
+      "publishedAt": "2026-11-23T16:27:58Z",
+      "title": "Pro Controller do Nintendo Switch 2: Já vale a pena comprar o novo controle?",
+      "sourceUrl": "https://projectn.com.br/pro-controller-do-nintendo-switch-2-ja-vale-a-pena-comprar-o-novo-controle",
+      "originalTitle": "Pro Controller do Nintendo Switch 2: Já vale a pena comprar o novo controle?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-90fb8fa665303fe9",
+      "publishedAt": "2026-11-23T16:22:00Z",
+      "title": "Alcione vai ganhar cinebiografia, com Gaby Amarantos como a Marrom",
+      "sourceUrl": "https://www.omelete.com.br/filmes/alcione-cinebiografia-gaby-amarantos",
+      "originalTitle": "Alcione vai ganhar cinebiografia, com Gaby Amarantos como a Marrom",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f610514676ba018a",
+      "publishedAt": "2026-11-23T16:10:00Z",
+      "title": "Santos Bravos lança \"Origami\", com o &TEAM, e anuncia novo EP; confira",
+      "sourceUrl": "https://www.omelete.com.br/korea/santos-bravos-team-origami-ep-acrux",
+      "originalTitle": "Santos Bravos lança \"Origami\", com o &TEAM, e anuncia novo EP; confira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-15327b545a76adc6",
+      "publishedAt": "2026-11-23T16:00:00Z",
+      "title": "Jogos Vorazes: cenas de McKenna Grace foram cortadas?",
+      "sourceUrl": "https://www.einerd.com/jogos-vorazes-amanhecer-na-colheita-cenas-cortadas-mckenna-grace",
+      "originalTitle": "Jogos Vorazes: cenas de McKenna Grace foram cortadas?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2c40209c5b02aa72",
+      "publishedAt": "2026-11-23T15:58:37Z",
+      "title": "Auto-crítica de Chugong expõe a rachadura narrativa por trás do fenômeno Solo Leveling",
+      "sourceUrl": "https://radiogeekbr.com.br/autocritica-chugong-sololeveling-rachadura-narrativa",
+      "originalTitle": "Auto-crítica de Chugong expõe a rachadura narrativa por trás do fenômeno Solo Leveling",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cf07959b8111265a",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "title": "Jogos Vorazes: Amanhecer na Colheita nocauteia Eu Sou o Rocky e domina bilheteria brasileira",
+      "sourceUrl": "https://www.omelete.com.br/filmes/bilheteria-brasil-estreia-jogos-vorazes-lideranca-eu-sou-o-rocky",
+      "originalTitle": "Jogos Vorazes: Amanhecer na Colheita nocauteia Eu Sou o Rocky e domina bilheteria brasileira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-542585993a1a0c16",
+      "publishedAt": "2026-11-23T15:16:10Z",
+      "title": "GTA 6 sofre com avaliações negativas no Metacritic: do que os jogadores realmente estão reclamando?",
+      "sourceUrl": "https://br.ign.com/games/157864/gta-6-sofre-com-avaliacoes-negativas-no-metacritic-do-que-os-jogadores-realmente-estao-reclamando",
+      "originalTitle": "GTA 6 sofre com avaliações negativas no Metacritic: do que os jogadores realmente estão reclamando?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c97dc39e99158a17",
+      "publishedAt": "2026-11-23T15:07:40Z",
+      "title": "Domino’s lança coleção de miniaturas da Liga da Justiça",
+      "sourceUrl": "https://gkpb.com.br/201247/dominos-liga-da-justica",
+      "originalTitle": "Domino’s lança coleção de miniaturas da Liga da Justiça",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a0f8de45f2df96c7",
+      "publishedAt": "2026-11-23T15:05:00Z",
+      "title": "EUA usam GTA 6 para esporte unissex e viram meme",
+      "sourceUrl": "https://www.bra1.com.br/videos/id-731354/eua_usam_gta_6_para_esporte_unissex_e_viram_meme",
+      "originalTitle": "EUA usam GTA 6 para esporte unissex e viram meme",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4294576f11d11416",
+      "publishedAt": "2026-11-23T14:56:18.188000Z",
+      "title": "Sovereign Tower chega ao Nintendo Switch em 14 de janeiro de 2027",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/sovereign-tower-chega-ao-nintendo-switch-em-14de-janeiro-de-2027.html",
+      "originalTitle": "Sovereign Tower chega ao Nintendo Switch em 14 de janeiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6846a0b9d9ce434a",
+      "publishedAt": "2026-11-23T14:51:00Z",
+      "title": "K-Pop: O Debut | Filme com estrela de Guerreiras do K-Pop ganha trailer",
+      "sourceUrl": "https://www.omelete.com.br/korea/k-pop-o-debut-trailer-estrela-guerreiras-do-k-pop",
+      "originalTitle": "K-Pop: O Debut | Filme com estrela de Guerreiras do K-Pop ganha trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-71abc0ba6891d948",
+      "publishedAt": "2026-11-23T14:29:51Z",
+      "title": "Verho: Curse of Faces receberá DLC em 2027",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/verho-curse-of-faces-dlc-2027",
+      "originalTitle": "Verho: Curse of Faces receberá DLC em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e49b3aa62617fa77",
+      "publishedAt": "2026-11-23T14:29:00Z",
+      "title": "Desenho animado mostra Lula ajudando “super-herói” Sánchez contra dragão com cabeças de Trump e Milei",
+      "sourceUrl": "https://www.gazetadopovo.com.br/mundo/desenho-animado-mostra-lula-ajudando-sanchez-contra-dragao-cabecas-trump-milei",
+      "originalTitle": "Desenho animado mostra Lula ajudando “super-herói” Sánchez contra dragão com cabeças de Trump e Milei",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2043d4d6b799b832",
+      "publishedAt": "2026-11-23T14:25:23Z",
+      "title": "O único crime é amar: GTA 6 recebe onda de retaliação no Metacritic com críticas que alegam que o jogo é \"woke\"",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157857/o-unico-crime-e-amar-gta-6-recebe-onda-de-retaliacao-no-metacritic-com-criticas-que-alegam-que-o-jog",
+      "originalTitle": "O único crime é amar: GTA 6 recebe onda de retaliação no Metacritic com críticas que alegam que o jogo é \"woke\"",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ad9e280f7bbd547b",
+      "publishedAt": "2026-11-23T14:06:00Z",
+      "title": "GTA 6 vira meme após erro do governo dos EUA sobre esportes unissex",
+      "sourceUrl": "https://www.bra1.com.br/videos/id-731300/gta_6_vira_meme_apos_erro_do_governo_dos_eua_sobre_esportes_unissex",
+      "originalTitle": "GTA 6 vira meme após erro do governo dos EUA sobre esportes unissex",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-85d8435bfb0efbec",
+      "publishedAt": "2026-11-23T13:00:20Z",
+      "title": "Diablo IV: Age of Hatred Collection | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/diablo-iv-age-of-hatred-collection-review",
+      "originalTitle": "Diablo IV: Age of Hatred Collection | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8fdc6dc42bed8a26",
+      "publishedAt": "2026-11-23T13:00:00Z",
+      "title": "GTA 6 está sofrendo review bombing? Parece que sim",
+      "sourceUrl": "https://www.einerd.com/gta-6-review-bombing",
+      "originalTitle": "GTA 6 está sofrendo review bombing? Parece que sim",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cbaba3483d5f2848",
+      "publishedAt": "2026-11-23T11:57:00Z",
+      "title": "Atualização 01.002.002 de GTA 6 chega poucos dias após o lançamento, com tamanhos distintos no PS5 e Xbox",
+      "sourceUrl": "https://arkade.com.br/atualizacao-01-002-002-de-gta-6-chega-poucos-dias-apos-o-lancamento-com-tamanhos-distintos-no-ps5-e-xbox",
+      "originalTitle": "Atualização 01.002.002 de GTA 6 chega poucos dias após o lançamento, com tamanhos distintos no PS5 e Xbox",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b0033536f3bea7fd",
+      "publishedAt": "2026-11-23T11:39:48Z",
+      "title": "Sugardew Island chega ao Switch 2 em 10 de dezembro",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/sugardew-island-chega-switch2-10-dezembro.html",
+      "originalTitle": "Sugardew Island chega ao Switch 2 em 10 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-11-23T09:43:33Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-29d0e660a02e40cf",
       "publishedAt": "2026-11-23T07:49:47Z",
@@ -339,6 +975,18 @@
       }
     },
     {
+      "id": "radar-0c49c61c35f0bb20",
+      "publishedAt": "2026-11-23T04:43:39Z",
+      "title": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/man-of-tomorrow-superman-15-personagem-cinema-tv-dcu",
+      "originalTitle": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-5be1f49484f88e77",
       "publishedAt": "2026-11-23T03:45:30Z",
       "title": "Análise – Gamesir X5 Lite Xbox Fortnite",
@@ -404,6 +1052,18 @@
       "title": "Vingadores: Doutor Destino | Kate Bishop é confirmada no filme em vídeo com Hailee Steinfeld, assista",
       "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-kate-bishop-e-confirmada-no-filme-em-video-com-hailee-steinfeld-assista",
       "originalTitle": "Vingadores: Doutor Destino | Kate Bishop é confirmada no filme em vídeo com Hailee Steinfeld, assista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ffa4b5435f4c86b1",
+      "publishedAt": "2026-11-23T01:02:00Z",
+      "title": "Novo trailer de Vingadores: Doutor Destino marca o fim de uma era na Marvel",
+      "sourceUrl": "https://mixdeseries.com.br/novo-trailer-de-vingadores-marca-fim-de-uma-era",
+      "originalTitle": "Novo trailer de Vingadores: Doutor Destino marca o fim de uma era na Marvel",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -735,11 +1395,11 @@
       }
     },
     {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-11-22T21:29:02Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "id": "radar-6f6e9583d8bd17ab",
+      "publishedAt": "2026-11-22T21:26:38Z",
+      "title": "Kenji Kamiyama diz que poucos viram A Guerra dos Rohirrim nos cinemas",
+      "sourceUrl": "https://criticalhits.com.br/anime/kenji-kamiyama-diz-que-poucos-viram-a-guerra-dos-rohirrim-nos-cinemas",
+      "originalTitle": "Kenji Kamiyama diz que poucos viram A Guerra dos Rohirrim nos cinemas",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -747,11 +1407,11 @@
       }
     },
     {
-      "id": "radar-6f6e9583d8bd17ab",
-      "publishedAt": "2026-11-22T21:26:38Z",
-      "title": "Kenji Kamiyama diz que poucos viram A Guerra dos Rohirrim nos cinemas",
-      "sourceUrl": "https://criticalhits.com.br/anime/kenji-kamiyama-diz-que-poucos-viram-a-guerra-dos-rohirrim-nos-cinemas",
-      "originalTitle": "Kenji Kamiyama diz que poucos viram A Guerra dos Rohirrim nos cinemas",
+      "id": "radar-490e2044cdf1f46d",
+      "publishedAt": "2026-11-22T21:23:09Z",
+      "title": "Vingadores: Doutor Destino | Marvel confirma retorno de Hailee Steinfeld como Kate Bishop",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/vingadores-doutor-destino-marvel-confirma-retorno-de-hailee-steinfeld-como-kate-bishop.html",
+      "originalTitle": "Vingadores: Doutor Destino | Marvel confirma retorno de Hailee Steinfeld como Kate Bishop",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -7700,18 +8360,6 @@
       "title": "Estrela de “Superman” reage à saída de Gunn e Safran e revela corrida por vacina criativa na nova DC",
       "sourceUrl": "https://radiogeekbr.com.br/estrela-superman-reage-saida-gunn-safran-dc",
       "originalTitle": "Estrela de “Superman” reage à saída de Gunn e Safran e revela corrida por vacina criativa na nova DC",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-0c49c61c35f0bb20",
-      "publishedAt": "2026-11-17T21:28:30Z",
-      "title": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/man-of-tomorrow-superman-15-personagem-cinema-tv-dcu",
-      "originalTitle": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -23516,18 +24164,6 @@
       "title": "Marvel antecipa 2028 e define Ms. Marvel como novo rosto do MCU — decisão mira geração Z e alivia crise de vilões",
       "sourceUrl": "https://radiogeekbr.com.br/marvel-elege-ms-marvel-novo-rosto-mcu-pos-vingadores",
       "originalTitle": "Marvel antecipa 2028 e define Ms. Marvel como novo rosto do MCU — decisão mira geração Z e alivia crise de vilões",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2c40209c5b02aa72",
-      "publishedAt": "2026-11-05T05:40:50Z",
-      "title": "Auto-crítica de Chugong expõe a rachadura narrativa por trás do fenômeno Solo Leveling",
-      "sourceUrl": "https://radiogeekbr.com.br/autocritica-chugong-sololeveling-rachadura-narrativa",
-      "originalTitle": "Auto-crítica de Chugong expõe a rachadura narrativa por trás do fenômeno Solo Leveling",
       "translated": false,
       "editorialReview": {
         "status": "native",
