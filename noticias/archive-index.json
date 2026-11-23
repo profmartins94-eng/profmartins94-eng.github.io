@@ -1,7 +1,487 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T23:50:26.003833Z",
+  "updatedAt": "2026-11-23T08:13:58.638851Z",
   "articles": [
+    {
+      "id": "radar-29d0e660a02e40cf",
+      "publishedAt": "2026-11-23T07:49:47Z",
+      "title": "May I Ask for One Final Thing? termina no 8º volume",
+      "sourceUrl": "https://criticalhits.com.br/anime/may-i-ask-for-one-final-thing-termina-no-8o-volume",
+      "originalTitle": "May I Ask for One Final Thing? termina no 8º volume",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3a13e6424a5019a2",
+      "publishedAt": "2026-11-23T07:48:24Z",
+      "title": "I Became the Tyrant of a Defense Game ganhará jogo mobile de estratégia em 2027",
+      "sourceUrl": "https://criticalhits.com.br/games/i-became-the-tyrant-of-a-defense-game-ganhara-jogo-mobile-de-estrategia-em-2027",
+      "originalTitle": "I Became the Tyrant of a Defense Game ganhará jogo mobile de estratégia em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-69a7aefe21473d8b",
+      "publishedAt": "2026-11-23T07:43:30Z",
+      "title": "Fracasso de “A Guerra dos Rohirrim” escancara o ponto cego da Warner ao transformar Tolkien em anime",
+      "sourceUrl": "https://radiogeekbr.com.br/fracasso-guerra-dos-rohirrim-warner-ponto-cego-anime",
+      "originalTitle": "Fracasso de “A Guerra dos Rohirrim” escancara o ponto cego da Warner ao transformar Tolkien em anime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-46f9650fb2b0910f",
+      "publishedAt": "2026-11-23T07:43:13Z",
+      "title": "Nintendo Wii completa 20 anos e segue influente nos games",
+      "sourceUrl": "https://criticalhits.com.br/games/nintendo-wii-completa-20-anos-e-segue-influente-nos-games",
+      "originalTitle": "Nintendo Wii completa 20 anos e segue influente nos games",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8d652b01b0ade467",
+      "publishedAt": "2026-11-23T07:43:08Z",
+      "title": "Gabriel Luna se diz pronto para voltar como Robbie Reyes no MCU",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/gabriel-luna-se-diz-pronto-para-voltar-como-robbie-reyes-no-mcu",
+      "originalTitle": "Gabriel Luna se diz pronto para voltar como Robbie Reyes no MCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0ef6d9524ba6690d",
+      "publishedAt": "2026-11-23T07:42:46Z",
+      "title": "Black Clover – 5 Cavaleiros Mágicos que Asta superou",
+      "sourceUrl": "https://criticalhits.com.br/anime/black-clover-5-cavaleiros-magicos-que-asta-superou",
+      "originalTitle": "Black Clover – 5 Cavaleiros Mágicos que Asta superou",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4cd3ef87f17f9220",
+      "publishedAt": "2026-11-23T07:40:24Z",
+      "title": "Call of Juarez: Gunslinger pode ficar grátis na Steam em dezembro",
+      "sourceUrl": "https://criticalhits.com.br/ofertas/call-of-juarez-gunslinger-pode-ficar-gratis-na-steam-em-dezembro",
+      "originalTitle": "Call of Juarez: Gunslinger pode ficar grátis na Steam em dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-652f00faa03838d4",
+      "publishedAt": "2026-11-23T07:40:19Z",
+      "title": "Yu Yu Hakusho precisa de um reboot para conquistar uma nova geração",
+      "sourceUrl": "https://criticalhits.com.br/anime/yu-yu-hakusho-precisa-de-um-reboot-para-conquistar-uma-nova-geracao",
+      "originalTitle": "Yu Yu Hakusho precisa de um reboot para conquistar uma nova geração",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7c9699720a45c5ec",
+      "publishedAt": "2026-11-23T07:37:48Z",
+      "title": "Mouse Work chega ao Switch 2 em 7 de dezembro",
+      "sourceUrl": "https://criticalhits.com.br/games/mouse-work-chega-ao-switch-2-em-7-de-dezembro-2",
+      "originalTitle": "Mouse Work chega ao Switch 2 em 7 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4e9d3fdfac2c57a5",
+      "publishedAt": "2026-11-23T07:37:44Z",
+      "title": "GTA 6 faz referências a Red Dead Redemption 2 sem confirmar universo compartilhado",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-6-faz-referencias-a-red-dead-redemption-2-sem-confirmar-universo-compartilhado",
+      "originalTitle": "GTA 6 faz referências a Red Dead Redemption 2 sem confirmar universo compartilhado",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8675d293e1a52181",
+      "publishedAt": "2026-11-23T07:36:43Z",
+      "title": "Sillad retorna em Solo Leveling: Ragnarok e desafia Cha Hae-In",
+      "sourceUrl": "https://criticalhits.com.br/anime/sillad-retorna-em-solo-leveling-ragnarok-e-desafia-cha-hae-in",
+      "originalTitle": "Sillad retorna em Solo Leveling: Ragnarok e desafia Cha Hae-In",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a2d095a72b99b295",
+      "publishedAt": "2026-11-23T07:35:04Z",
+      "title": "Roger Clark vai jogar GTA 6 ao vivo com o filho em 25 de novembro",
+      "sourceUrl": "https://criticalhits.com.br/games/roger-clark-vai-jogar-gta-6-ao-vivo-com-o-filho-em-25-de-novembro",
+      "originalTitle": "Roger Clark vai jogar GTA 6 ao vivo com o filho em 25 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ffb231c1d9920a86",
+      "publishedAt": "2026-11-23T07:33:58Z",
+      "title": "Skyrim ganha mod de Gwent com mais de 200 cartas e missões",
+      "sourceUrl": "https://criticalhits.com.br/games/skyrim-ganha-mod-de-gwent-com-mais-de-200-cartas-e-missoes",
+      "originalTitle": "Skyrim ganha mod de Gwent com mais de 200 cartas e missões",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-beb81b5c15ac97e2",
+      "publishedAt": "2026-11-23T07:33:38Z",
+      "title": "Dragon Ball Super: Beerus antecipa Ultra Instinct e Ultra Ego no episódio 7",
+      "sourceUrl": "https://criticalhits.com.br/anime/dragon-ball-super-beerus-antecipa-ultra-instinct-e-ultra-ego-no-episodio-7",
+      "originalTitle": "Dragon Ball Super: Beerus antecipa Ultra Instinct e Ultra Ego no episódio 7",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-81d9a922881a52ea",
+      "publishedAt": "2026-11-23T07:33:19Z",
+      "title": "Final de Chainsaw Man encerra a jornada de Denji sem exigir Parte 3",
+      "sourceUrl": "https://criticalhits.com.br/anime/final-de-chainsaw-man-encerra-a-jornada-de-denji-sem-exigir-parte-3",
+      "originalTitle": "Final de Chainsaw Man encerra a jornada de Denji sem exigir Parte 3",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0c6cb19a68000e02",
+      "publishedAt": "2026-11-23T07:31:56Z",
+      "title": "Fã leva Pokémon HeartGold e SoulSilver ao New 3DS a quase 60 FPS",
+      "sourceUrl": "https://criticalhits.com.br/games/fa-leva-pokemon-heartgold-e-soulsilver-ao-new-3ds-a-quase-60-fps",
+      "originalTitle": "Fã leva Pokémon HeartGold e SoulSilver ao New 3DS a quase 60 FPS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bb3ed1dbe26eefb9",
+      "publishedAt": "2026-11-23T07:31:34Z",
+      "title": "Pokémon anuncia duas guitarras Fender para celebrar 30 anos da franquia",
+      "sourceUrl": "https://criticalhits.com.br/games/pokemon-anuncia-duas-guitarras-fender-para-celebrar-30-anos-da-franquia",
+      "originalTitle": "Pokémon anuncia duas guitarras Fender para celebrar 30 anos da franquia",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d4a74e9fc5a5b793",
+      "publishedAt": "2026-11-23T07:30:34Z",
+      "title": "Game Grumps lança jogo grátis para Game Boy",
+      "sourceUrl": "https://criticalhits.com.br/games/game-grumps-lanca-jogo-gratis-para-game-boy",
+      "originalTitle": "Game Grumps lança jogo grátis para Game Boy",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-abf6b0098259048b",
+      "publishedAt": "2026-11-23T07:30:06Z",
+      "title": "One Piece revela estátua de Luffy com logos dos 30 times da NBA",
+      "sourceUrl": "https://criticalhits.com.br/anime/one-piece-revela-estatua-de-luffy-com-logos-dos-30-times-da-nba",
+      "originalTitle": "One Piece revela estátua de Luffy com logos dos 30 times da NBA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-68f7a577270a2f64",
+      "publishedAt": "2026-11-23T07:27:20Z",
+      "title": "4 Aspectos em que Daemons of the Shadow Realm Supera Fullmetal Alchemist",
+      "sourceUrl": "https://criticalhits.com.br/anime/4-aspectos-em-que-daemons-of-the-shadow-realm-supera-fullmetal-alchemist",
+      "originalTitle": "4 Aspectos em que Daemons of the Shadow Realm Supera Fullmetal Alchemist",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2c6b08a8c0e97fd0",
+      "publishedAt": "2026-11-23T07:00:00Z",
+      "title": "Vingadores 5 ganha reforço de última hora com anúncio oficial da Marvel",
+      "sourceUrl": "https://tangerina.uol.com.br/filmes-series/vingadores-5-ganha-reforco-de-ultima-hora-com-anuncio-oficial-da-marvel",
+      "originalTitle": "Vingadores 5 ganha reforço de última hora com anúncio oficial da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-62a21300f8d7e21b",
+      "publishedAt": "2026-11-23T06:50:45Z",
+      "title": "10 Animes com Light Novels Que Você Talvez Não Conheça",
+      "sourceUrl": "https://criticalhits.com.br/anime/10-animes-com-light-novels-que-voce-talvez-nao-conheca",
+      "originalTitle": "10 Animes com Light Novels Que Você Talvez Não Conheça",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7fff7b6604e118d9",
+      "publishedAt": "2026-11-23T06:48:26Z",
+      "title": "Hunter x Hunter volume 39 fica em 4º no ranking anual da Billboard Japan",
+      "sourceUrl": "https://criticalhits.com.br/anime/hunter-x-hunter-volume-39-fica-em-4o-no-ranking-anual-da-billboard-japan",
+      "originalTitle": "Hunter x Hunter volume 39 fica em 4º no ranking anual da Billboard Japan",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5dc05036d0354fcc",
+      "publishedAt": "2026-11-23T06:42:47Z",
+      "title": "Hunter x Hunter – 5 personagens mais fortes que Illumi Zoldyck",
+      "sourceUrl": "https://criticalhits.com.br/anime/hunter-x-hunter-5-personagens-mais-fortes-que-illumi-zoldyck",
+      "originalTitle": "Hunter x Hunter – 5 personagens mais fortes que Illumi Zoldyck",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2b5aa84f255337a6",
+      "publishedAt": "2026-11-23T06:40:18Z",
+      "title": "Diários de uma Apotecária lidera ranking de animes da Netflix no Japão",
+      "sourceUrl": "https://criticalhits.com.br/anime/diarios-de-uma-apotecaria-lidera-ranking-de-animes-da-netflix-no-japao",
+      "originalTitle": "Diários de uma Apotecária lidera ranking de animes da Netflix no Japão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e535f258df4da40a",
+      "publishedAt": "2026-11-23T05:58:57Z",
+      "title": "Análise: Star Trek: Além da Escuridão ( 2013)",
+      "sourceUrl": "https://soumaispop.com.br/2026/11/23/analise-star-trek-alem-da-escuridao-2013",
+      "originalTitle": "Análise: Star Trek: Além da Escuridão ( 2013)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64964f4fafe665dd",
+      "publishedAt": "2026-11-23T05:43:55Z",
+      "title": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/video-de-frank-grillo-recado-ao-novo-comando-dc",
+      "originalTitle": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-32db59e840203ee6",
+      "publishedAt": "2026-11-23T04:43:39Z",
+      "title": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-transforma-robert-downey-jr-em-doutor-doom-poster-avengers-doomsday",
+      "originalTitle": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5be1f49484f88e77",
+      "publishedAt": "2026-11-23T03:45:30Z",
+      "title": "Análise – Gamesir X5 Lite Xbox Fortnite",
+      "sourceUrl": "https://www.hardware.com.br/analises/gamesir-x5-lite-xbox-fortnite",
+      "originalTitle": "Análise – Gamesir X5 Lite Xbox Fortnite",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-83eb605244cd72c7",
+      "publishedAt": "2026-11-23T02:41:00Z",
+      "title": "Heartopia inicia segunda fase do evento com My Little Pony",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/heartopia-my-little-pony-fase-2",
+      "originalTitle": "Heartopia inicia segunda fase do evento com My Little Pony",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-32964906289b0c1a",
+      "publishedAt": "2026-11-23T02:14:09Z",
+      "title": "Robert Downey Jr. explica por que seu Doutor Destino não será apenas “Tony Stark do mal”",
+      "sourceUrl": "https://radiogeekbr.com.br/robert-downey-jr-diz-por-que-doutor-destino-nao-e-iron-man-do-mal",
+      "originalTitle": "Robert Downey Jr. explica por que seu Doutor Destino não será apenas “Tony Stark do mal”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c148f6015b3a4b5a",
+      "publishedAt": "2026-11-23T02:08:55Z",
+      "title": "Jensen Ackles e Aya Cash vêm à CCXP 2026 para apresentar “Vought Rising”",
+      "sourceUrl": "https://conexaopop.com.br/jensen-ackles-e-aya-cash-vem-a-ccxp-2026-para-apresentar-vought-rising",
+      "originalTitle": "Jensen Ackles e Aya Cash vêm à CCXP 2026 para apresentar “Vought Rising”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5ec5437bce330a05",
+      "publishedAt": "2026-11-23T01:10:00Z",
+      "title": "Ministério dos EUA usa GTA 6 como desculpa para esporte unissex, mas erra a leitura e vira meme",
+      "sourceUrl": "https://www.bra1.com.br/tecnologia/id-731076/ministerio_dos_eua_usa_gta_6_como_desculpa_para_esporte_unissex__mas_erra_a_leitura_e_vira_meme",
+      "originalTitle": "Ministério dos EUA usa GTA 6 como desculpa para esporte unissex, mas erra a leitura e vira meme",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-61ade2fd9d2fe591",
+      "publishedAt": "2026-11-23T01:02:00Z",
+      "title": "Vingadores: Doutor Destino | Kate Bishop é confirmada no filme em vídeo com Hailee Steinfeld, assista",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-kate-bishop-e-confirmada-no-filme-em-video-com-hailee-steinfeld-assista",
+      "originalTitle": "Vingadores: Doutor Destino | Kate Bishop é confirmada no filme em vídeo com Hailee Steinfeld, assista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-51301c3b1f563b4b",
+      "publishedAt": "2026-11-23T00:28:35Z",
+      "title": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
+      "sourceUrl": "https://radiogeekbr.com.br/spiderman-cria-arma-contra-xmen-brand-new-day",
+      "originalTitle": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ad38d579b2dc10e",
+      "publishedAt": "2026-11-23T00:28:35Z",
+      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
+      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ead13d3704486ea1",
+      "publishedAt": "2026-11-23T00:28:35Z",
+      "title": "Saída de James Gunn ressuscita “Wonder Woman 3” e muda o jogo na corrida da Skydance",
+      "sourceUrl": "https://radiogeekbr.com.br/saida-de-james-gunn-ressuscita-wonder-woman-3-e-muda-o-jogo",
+      "originalTitle": "Saída de James Gunn ressuscita “Wonder Woman 3” e muda o jogo na corrida da Skydance",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-10155d1713bcf490",
+      "publishedAt": "2026-11-23T00:23:24Z",
+      "title": "Petição para lançamento da versão de QUATRO HORAS de ‘Jogos Vorazes: Amanhecer na Colheita’ ultrapassa 80 mil assinaturas",
+      "sourceUrl": "https://cinepop.com.br/peticao-para-lancamento-da-versao-de-quatro-horas-de-jogos-vorazes-amanhecer-na-colheita-ultrapassa-80-mil-assinaturas-777010",
+      "originalTitle": "Petição para lançamento da versão de QUATRO HORAS de ‘Jogos Vorazes: Amanhecer na Colheita’ ultrapassa 80 mil assinaturas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ebbb67b101afe3fa",
+      "publishedAt": "2026-11-22T23:57:49Z",
+      "title": "CCXP26 inicia venda para sessões de Fotos & Autógrafos com astros de \"O Senhor dos Anéis\" e Christopher Lloyd",
+      "sourceUrl": "https://tonafama.ig.com.br/ccxp26-inicia-venda-para-sessoes-de-fotos-autografos-com-astros-de-o-senhor-dos-aneis-e-christopher-lloyd",
+      "originalTitle": "CCXP26 inicia venda para sessões de Fotos & Autógrafos com astros de \"O Senhor dos Anéis\" e Christopher Lloyd",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2798e03faa094f2",
+      "publishedAt": "2026-11-22T23:43:50Z",
+      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
+      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-ce1f15760b4c1b3b",
       "publishedAt": "2026-11-22T23:42:22Z",
@@ -255,6 +735,18 @@
       }
     },
     {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-11-22T21:29:02Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-6f6e9583d8bd17ab",
       "publishedAt": "2026-11-22T21:26:38Z",
       "title": "Kenji Kamiyama diz que poucos viram A Guerra dos Rohirrim nos cinemas",
@@ -291,11 +783,35 @@
       }
     },
     {
+      "id": "radar-3a049a5b266c68f4",
+      "publishedAt": "2026-11-22T20:33:20Z",
+      "title": "Jogos Vorazes incendeia bilheterias com estreia de US$ 120 milhões nos EUA",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/jogos-vorazes-renasce-bilheteria",
+      "originalTitle": "Jogos Vorazes incendeia bilheterias com estreia de US$ 120 milhões nos EUA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-73f1e6c6491656c0",
       "publishedAt": "2026-11-22T20:31:00Z",
       "title": "Noah Schnapp revela audição para Haymitch em Amanhecer na Colheita",
       "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/noah-schnapp-revela-audicao-para-haymitch-em-amanhecer-na-colheita",
       "originalTitle": "Noah Schnapp revela audição para Haymitch em Amanhecer na Colheita",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-00c97c375c767a7b",
+      "publishedAt": "2026-11-22T20:26:00Z",
+      "title": "Ocean's 14 | David Leitch atualiza futuro do filme e fala sobre roteiro;",
+      "sourceUrl": "https://www.omelete.com.br/filmes/oceans-14-david-leitch-atualiza-futuro-filme",
+      "originalTitle": "Ocean's 14 | David Leitch atualiza futuro do filme e fala sobre roteiro;",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -332,6 +848,18 @@
       "title": "Análise Arkade —Tanuki: Pon’s Summer coloca o jogador na pele de um tanuki multitarefas",
       "sourceUrl": "https://arkade.com.br/analise-arkade-tanuki-pons-summer",
       "originalTitle": "Análise Arkade —Tanuki: Pon’s Summer coloca o jogador na pele de um tanuki multitarefas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-464abc716a1d3dfa",
+      "publishedAt": "2026-11-22T18:15:00Z",
+      "title": "Mapa interativo de GTA 6 mostra localização de todos os itens! Veja como usar",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/mapa-interativo-de-gta-6-mostra-localizacao-de-todos-os-itens-veja-como-usar",
+      "originalTitle": "Mapa interativo de GTA 6 mostra localização de todos os itens! Veja como usar",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -701,9 +1229,9 @@
     {
       "id": "radar-06ebafc5a81985c3",
       "publishedAt": "2026-11-22T15:14:11Z",
-      "title": "GTA 6 a 60 fps no Xbox? Como fazer o bug do Quick Resume",
+      "title": "GTA 6 a 60 fps no Xbox? Veja como usar o bug do Quick Resume",
       "sourceUrl": "https://gameoverdrive.com.br/gta-6-60-fps-xbox-quick-resume",
-      "originalTitle": "GTA 6 a 60 fps no Xbox? Como fazer o bug do Quick Resume",
+      "originalTitle": "GTA 6 a 60 fps no Xbox? Veja como usar o bug do Quick Resume",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -773,9 +1301,9 @@
     {
       "id": "radar-7ee0108cea4ea499",
       "publishedAt": "2026-11-22T14:25:43Z",
-      "title": "Superman: Homem do Amanhã: trailer, refilmagens e estreia",
+      "title": "Superman: Homem do Amanhã: o que mostra o trailer exibido em evento fechado e o que é boato nas refilmagens",
       "sourceUrl": "https://recortelirico.com.br/2026/rafaalexander/superman-homem-do-amanha-trailer-skydance-refilmagens",
-      "originalTitle": "Superman: Homem do Amanhã: trailer, refilmagens e estreia",
+      "originalTitle": "Superman: Homem do Amanhã: o que mostra o trailer exibido em evento fechado e o que é boato nas refilmagens",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -848,6 +1376,18 @@
       "title": "SURI: The Seventh Note | Review",
       "sourceUrl": "https://pizzafria.ig.com.br/analises/suri-the-seventh-note-review",
       "originalTitle": "SURI: The Seventh Note | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-328881170e679a59",
+      "publishedAt": "2026-11-22T11:43:26Z",
+      "title": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/black-lanterns-antecipam-apocalipse-dcu",
+      "originalTitle": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -956,6 +1496,18 @@
       "title": "Glitch libera 60 fps em GTA 6 na Series X e coloca em xeque o limite imposto pela Rockstar",
       "sourceUrl": "https://radiogeekbr.com.br/glitch-60fps-gta-6-xbox-series-x",
       "originalTitle": "Glitch libera 60 fps em GTA 6 na Series X e coloca em xeque o limite imposto pela Rockstar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ba12c2d8664bec07",
+      "publishedAt": "2026-11-22T08:29:23Z",
+      "title": "Comando Skydance corre para escalar a nova Liga da Justiça e vira de cabeça para baixo o cronograma do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/liga-da-justica-prioridade-skydance-dc-studios",
+      "originalTitle": "Comando Skydance corre para escalar a nova Liga da Justiça e vira de cabeça para baixo o cronograma do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1220,18 +1772,6 @@
       "title": "Nioh 3: Complete Edition é registrada na Coreia",
       "sourceUrl": "https://www.einerd.com/nioh-3-complete-edition-classificacao",
       "originalTitle": "Nioh 3: Complete Edition é registrada na Coreia",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-51301c3b1f563b4b",
-      "publishedAt": "2026-11-22T00:28:45Z",
-      "title": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
-      "sourceUrl": "https://radiogeekbr.com.br/spiderman-cria-arma-contra-xmen-brand-new-day",
-      "originalTitle": "Peter Parker vira “Oppenheimer” da Marvel e coloca os X-Men na mira com aparato criado por acidente",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2288,18 +2828,6 @@
       "title": "E.J. Carroll, ator de Law & Order e GTA V, morre aos 66 anos",
       "sourceUrl": "https://www.maquinanerd.com.br/series-e-tv/e-j-carroll-ator-de-law-order-e-gta-v-morre-aos-66-anos",
       "originalTitle": "E.J. Carroll, ator de Law & Order e GTA V, morre aos 66 anos",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-64964f4fafe665dd",
-      "publishedAt": "2026-11-21T06:14:06Z",
-      "title": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/video-de-frank-grillo-recado-ao-novo-comando-dc",
-      "originalTitle": "Vídeo de Frank Grillo vira recado ao novo comando da DC e amplia incerteza sobre o futuro do DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -3476,18 +4004,6 @@
       "title": "5ª Temporada de Invencível ganha data de estreia no Prime Video",
       "sourceUrl": "https://mixdeseries.com.br/5a-temporada-de-invencivel-ganha-data-de-estreia",
       "originalTitle": "5ª Temporada de Invencível ganha data de estreia no Prime Video",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1ad38d579b2dc10e",
-      "publishedAt": "2026-11-20T14:59:31Z",
-      "title": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
-      "sourceUrl": "https://radiogeekbr.com.br/mudanca-passado-abin-sur-estrategia-dcu-lanterns",
-      "originalTitle": "Mudança drástica no passado de Abin Sur sinaliza virada estratégica da DCU em Lanterns",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -5907,18 +6423,6 @@
       }
     },
     {
-      "id": "radar-ba12c2d8664bec07",
-      "publishedAt": "2026-11-18T19:59:20Z",
-      "title": "Comando Skydance corre para escalar a nova Liga da Justiça e vira de cabeça para baixo o cronograma do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/liga-da-justica-prioridade-skydance-dc-studios",
-      "originalTitle": "Comando Skydance corre para escalar a nova Liga da Justiça e vira de cabeça para baixo o cronograma do DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-27870a5930be5273",
       "publishedAt": "2026-11-18T19:37:29Z",
       "title": "Usuários relatam falhas na rede do PlayStation antes de estreia de GTA 6",
@@ -6092,18 +6596,6 @@
       "title": "Homem do Amanhã seria O Império Contra-Ataca da DC?",
       "sourceUrl": "https://www.einerd.com/homem-do-amanha-brainiac-liga-da-justica",
       "originalTitle": "Homem do Amanhã seria O Império Contra-Ataca da DC?",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-11-18T13:59:13Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -7796,18 +8288,6 @@
       "title": "Os oito heróis que ainda pagam a conta do anime em plena guerra dos streamings",
       "sourceUrl": "https://radiogeekbr.com.br/oito-herois-anime-guerra-dos-streamings",
       "originalTitle": "Os oito heróis que ainda pagam a conta do anime em plena guerra dos streamings",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-328881170e679a59",
-      "publishedAt": "2026-11-17T13:43:34Z",
-      "title": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/black-lanterns-antecipam-apocalipse-dcu",
-      "originalTitle": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -13215,18 +13695,6 @@
       }
     },
     {
-      "id": "radar-c2798e03faa094f2",
-      "publishedAt": "2026-11-13T03:43:22Z",
-      "title": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
-      "sourceUrl": "https://radiogeekbr.com.br/thor-odinforce-avengers-doomsday-atualizacao",
-      "originalTitle": "Thor recebe Odinforce turbinada em Avengers: Doomsday e vira a resposta da Marvel ao novo Doutor Destino",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-cf85ab874be3af90",
       "publishedAt": "2026-11-13T03:43:22Z",
       "title": "Guerra do streaming esconde joia brutal do anime e deixa assinante da Netflix no escuro",
@@ -18123,18 +18591,6 @@
       }
     },
     {
-      "id": "radar-32964906289b0c1a",
-      "publishedAt": "2026-11-09T04:41:44Z",
-      "title": "Robert Downey Jr. explica por que seu Doutor Destino não será apenas “Tony Stark do mal”",
-      "sourceUrl": "https://radiogeekbr.com.br/robert-downey-jr-diz-por-que-doutor-destino-nao-e-iron-man-do-mal",
-      "originalTitle": "Robert Downey Jr. explica por que seu Doutor Destino não será apenas “Tony Stark do mal”",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-12783cd314dd3c73",
       "publishedAt": "2026-11-09T03:41:43Z",
       "title": "Rodimus vira Eva-02: Takara redescobre o DNA anime de Transformers nos 40 anos da franquia",
@@ -18920,18 +19376,6 @@
       "title": "Vingadores: Doutor Destino | Nova imagem mostra detalhes dos Sentinelas",
       "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-sentinelas-colecionavel",
       "originalTitle": "Vingadores: Doutor Destino | Nova imagem mostra detalhes dos Sentinelas",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-32db59e840203ee6",
-      "publishedAt": "2026-11-08T14:26:47Z",
-      "title": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-transforma-robert-downey-jr-em-doutor-doom-poster-avengers-doomsday",
-      "originalTitle": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
       "translated": false,
       "editorialReview": {
         "status": "native",
