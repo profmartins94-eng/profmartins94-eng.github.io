@@ -1,7 +1,391 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T10:28:52.810705Z",
+  "updatedAt": "2026-11-25T20:10:43.933385Z",
   "articles": [
+    {
+      "id": "radar-da6b6191a54ea197",
+      "publishedAt": "2026-11-25T20:08:59Z",
+      "title": "Bandai traz de volta o Super Saiyajin de Goku em coleção de miniaturas",
+      "sourceUrl": "https://criticalhits.com.br/anime/bandai-traz-de-volta-o-super-saiyajin-de-goku-em-colecao-de-miniaturas",
+      "originalTitle": "Bandai traz de volta o Super Saiyajin de Goku em coleção de miniaturas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-86e4a57972d0ea84",
+      "publishedAt": "2026-11-25T19:49:16Z",
+      "title": "Os 10 Mentores Mais Sábios dos Animes",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-10-mentores-mais-sabios-dos-animes",
+      "originalTitle": "Os 10 Mentores Mais Sábios dos Animes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5245b4fd526175ff",
+      "publishedAt": "2026-11-25T19:44:00Z",
+      "title": "Crunchyroll leva Estúdio de Dublagem dedicado aos vilões do anime para a Av. Paulista",
+      "sourceUrl": "https://www.portaltvstreaming.com.br/2026/11/crunchyroll-leva-estudio-de-dublagem.html",
+      "originalTitle": "Crunchyroll leva Estúdio de Dublagem dedicado aos vilões do anime para a Av. Paulista",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ede98746b4ea6fc9",
+      "publishedAt": "2026-11-25T19:38:28Z",
+      "title": "Netflix marca mesa-redonda sobre Cliff Booth para 30 de novembro",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/netflix-marca-mesa-redonda-sobre-cliff-booth-para-30-de-novembro",
+      "originalTitle": "Netflix marca mesa-redonda sobre Cliff Booth para 30 de novembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3e09797c621dbc90",
+      "publishedAt": "2026-11-25T19:32:59Z",
+      "title": "Os 10 Animes Mais Difíceis de Assistir Lançados Desde 2000",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-10-animes-mais-dificeis-de-assistir-lancados-desde-2000",
+      "originalTitle": "Os 10 Animes Mais Difíceis de Assistir Lançados Desde 2000",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9384b3a6c31cb8ad",
+      "publishedAt": "2026-11-25T19:30:08Z",
+      "title": "Naruto: Shadow Rising: o que se sabe sobre o novo mangá de Masashi Kishimoto",
+      "sourceUrl": "https://gameoverdrive.com.br/naruto-shadow-rising-novo-manga-kishimoto",
+      "originalTitle": "Naruto: Shadow Rising: o que se sabe sobre o novo mangá de Masashi Kishimoto",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-273fe87e5b7c2252",
+      "publishedAt": "2026-11-25T19:23:07Z",
+      "title": "CCXP26 exibirá episódio de Percy Jackson antes da estreia mundial",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/ccxp26-exibira-episodio-de-percy-jackson-antes-da-estreia-mundial",
+      "originalTitle": "CCXP26 exibirá episódio de Percy Jackson antes da estreia mundial",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3029d1df9dbaa465",
+      "publishedAt": "2026-11-25T19:13:01Z",
+      "title": "O Senhor dos Anéis: Os Anéis de Poder | Quando saem os próximos episódios da 3ª temporada? Veja agenda completa",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/o-senhor-dos-aneis-aneis-de-poder-data-proximos-episodios-3-temporada-agenda-completa",
+      "originalTitle": "O Senhor dos Anéis: Os Anéis de Poder | Quando saem os próximos episódios da 3ª temporada? Veja agenda completa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c06c196f43440ba8",
+      "publishedAt": "2026-11-25T19:08:00Z",
+      "title": "CCXP26 terá exibição antecipada de episódio de Percy Jackson; saiba tudo",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/ccxp-26-tera-exibicao-antecipada-de-episodio-de-percy-jackson",
+      "originalTitle": "CCXP26 terá exibição antecipada de episódio de Percy Jackson; saiba tudo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c59409a0c71191c2",
+      "publishedAt": "2026-11-25T19:01:26Z",
+      "title": "Autor de “Missão: Família Yozakura” estreia novo mangá na Shonen Jump",
+      "sourceUrl": "https://foradoplastico.com.br/autor-de-missao-familia-yozakura-estreia-novo-manga-na-shonen-jump",
+      "originalTitle": "Autor de “Missão: Família Yozakura” estreia novo mangá na Shonen Jump",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8e71f51275c32b76",
+      "publishedAt": "2026-11-25T18:59:07Z",
+      "title": "Remote Control será lançado para PC em 29 de janeiro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/remote-control-data-lancamento-pc",
+      "originalTitle": "Remote Control será lançado para PC em 29 de janeiro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e35e65ebeea5fc91",
+      "publishedAt": "2026-11-25T18:58:26Z",
+      "title": "Hexed tem cena no meio dos créditos, mas não tem cena pós-créditos",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/hexed-tem-cena-no-meio-dos-creditos-mas-nao-tem-cena-pos-creditos",
+      "originalTitle": "Hexed tem cena no meio dos créditos, mas não tem cena pós-créditos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f628f10a40fd6219",
+      "publishedAt": "2026-11-25T18:57:24Z",
+      "title": "GTA VI roda com mais estabilidade no PS5 Pro, aponta análise",
+      "sourceUrl": "https://criticalhits.com.br/games/gta-vi-roda-com-mais-estabilidade-no-ps5-pro-aponta-analise",
+      "originalTitle": "GTA VI roda com mais estabilidade no PS5 Pro, aponta análise",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d03a6717741046c3",
+      "publishedAt": "2026-11-25T18:53:31Z",
+      "title": "Arte inédita mostra Finn Wittrock como Guy Gardner em série cancelada de Lanterna Verde",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/arte-inedita-mostra-finn-wittrock-como-guy-gardner-em-serie-cancelada-de-lanterna-verde",
+      "originalTitle": "Arte inédita mostra Finn Wittrock como Guy Gardner em série cancelada de Lanterna Verde",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b529edeac748dfe2",
+      "publishedAt": "2026-11-25T18:15:00Z",
+      "title": "Funko Event Edition estreia na CCXP 26 com colecionáveis exclusivos",
+      "sourceUrl": "https://gkpb.com.br/201383/funko-pop-ccxp-26",
+      "originalTitle": "Funko Event Edition estreia na CCXP 26 com colecionáveis exclusivos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4c92ba0433ebc423",
+      "publishedAt": "2026-11-25T17:17:18Z",
+      "title": "Petlove e Metrô de SP lançam animação contra abandono de animais com voz de Edward Cullen",
+      "sourceUrl": "https://gkpb.com.br/201380/petlove-metro-sp",
+      "originalTitle": "Petlove e Metrô de SP lançam animação contra abandono de animais com voz de Edward Cullen",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5802d82622db46ee",
+      "publishedAt": "2026-11-25T16:58:00Z",
+      "title": "Avatar 4: Disney confirma futuro da franquia de James Cameron após incertezas",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/avatar-4-disney-confirma-futuro-da-franquia-de-james-cameron-apos-incertezas.html",
+      "originalTitle": "Avatar 4: Disney confirma futuro da franquia de James Cameron após incertezas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e072910d6eeedaf1",
+      "publishedAt": "2026-11-25T16:43:28Z",
+      "title": "CCXP26 terá a exibição do primeiro episódio de Kagurabachi, nova série que chega à Crunchyroll em 2027",
+      "sourceUrl": "https://br.ign.com/crunchyroll/157949/ccxp26-tera-a-exibicao-do-primeiro-episodio-de-kagurabachi-nova-serie-que-chega-a-crunchyroll-em-202",
+      "originalTitle": "CCXP26 terá a exibição do primeiro episódio de Kagurabachi, nova série que chega à Crunchyroll em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0ef10cd39a73aa63",
+      "publishedAt": "2026-11-25T16:31:43Z",
+      "title": "Jogos Mensais PlayStation Plus de dezembro: Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, Amnesia: The Bunker",
+      "sourceUrl": "https://blog.br.playstation.com/2026/11/25/jogos-mensais-playstation-plus-de-dezembro-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker",
+      "originalTitle": "Jogos Mensais PlayStation Plus de dezembro: Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, Amnesia: The Bunker",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8e958d1bab435c72",
+      "publishedAt": "2026-11-25T16:27:17Z",
+      "title": "Homem do Amanhã ganha pôster ilustrado para a CCXP 2026",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/homem-do-amanha-ganha-poster-ilustrado-para-a-ccxp-2026",
+      "originalTitle": "Homem do Amanhã ganha pôster ilustrado para a CCXP 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9d8810e826d8b32b",
+      "publishedAt": "2026-11-25T14:49:34Z",
+      "title": "Star Trek: Voyager – Across the Unknown recebe DLC Year of Hell em dezembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/star-trek-voyager-across-the-unknown-dlc",
+      "originalTitle": "Star Trek: Voyager – Across the Unknown recebe DLC Year of Hell em dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5e8fe0e692c6c901",
+      "publishedAt": "2026-11-25T14:49:10.819000Z",
+      "title": "ShantyTown é anunciado para Nintendo Switch 2 com lançamento previsto para 2027",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/shantytown-e-anunciado-para-nintendo-switch-2-com-lancamento-previsto-para-2027.html",
+      "originalTitle": "ShantyTown é anunciado para Nintendo Switch 2 com lançamento previsto para 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0d124d5d329b883f",
+      "publishedAt": "2026-11-25T14:33:03Z",
+      "title": "GTA 6: onde encontrar alienígenas e completar a missão de resgate secreta?",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157937/gta-6-onde-encontrar-alienigenas-e-completar-a-missao-de-resgate-secreta",
+      "originalTitle": "GTA 6: onde encontrar alienígenas e completar a missão de resgate secreta?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fdb887d09de3eb07",
+      "publishedAt": "2026-11-25T14:30:09Z",
+      "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition chega ao Switch 2 em 16 de dezembro",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/yooka-laylee-and-impossible-lair-definitive-edition-chega-ao-switch-2-em-16-de-dezembro.html",
+      "originalTitle": "Yooka-Laylee and the Impossible Lair: Definitive Edition chega ao Switch 2 em 16 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6556286963615eaa",
+      "publishedAt": "2026-11-25T14:11:17Z",
+      "title": "Globo de Ouro | ‘Homem-Aranha’ vai disputar as categorias de comédia e ‘Duna’ não fará indicação para Melhor Bilheteria",
+      "sourceUrl": "https://cinepop.com.br/globo-de-ouro-homem-aranha-vai-disputar-as-categorias-de-comedia-e-duna-nao-fara-indicacao-para-melhor-bilheteria-777369",
+      "originalTitle": "Globo de Ouro | ‘Homem-Aranha’ vai disputar as categorias de comédia e ‘Duna’ não fará indicação para Melhor Bilheteria",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4efc8ce0f792b3bf",
+      "publishedAt": "2026-11-25T14:01:50Z",
+      "title": "Vingadores: Doutor Destino | Robert Downey Jr. sugere presença de Boris em post de Ação de Graças",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-robert-downey-jr-publicacao-acao-de-gracas-boris-peter",
+      "originalTitle": "Vingadores: Doutor Destino | Robert Downey Jr. sugere presença de Boris em post de Ação de Graças",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2ab06d436db05ddf",
+      "publishedAt": "2026-11-25T14:00:36Z",
+      "title": "Conquista desbloqueada: brasileiro é o primeiro jogador de XBOX a obter 10 milhões em Gamerscore",
+      "sourceUrl": "https://br.ign.com/xbox/157921/conquista-desbloqueada-brasileiro-e-o-primeiro-jogador-de-xbox-a-obter-10-milhoes-em-gamerscore",
+      "originalTitle": "Conquista desbloqueada: brasileiro é o primeiro jogador de XBOX a obter 10 milhões em Gamerscore",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-85a67d20f8973870",
+      "publishedAt": "2026-11-25T13:53:22Z",
+      "title": "Raider Kid and the Ruby Chest chega aos consoles em dezembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/raider-kid-and-the-ruby-chest-consoles",
+      "originalTitle": "Raider Kid and the Ruby Chest chega aos consoles em dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9e1cea94edbbbc36",
+      "publishedAt": "2026-11-25T13:43:50Z",
+      "title": "GTA 6 bate recorde e se torna o maior lançamento da história do PlayStation",
+      "sourceUrl": "https://fastcompanybrasil.com/games/gta-6-bate-recorde-maior-lancamento-historia-playstation",
+      "originalTitle": "GTA 6 bate recorde e se torna o maior lançamento da história do PlayStation",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f95c307a590594b8",
+      "publishedAt": "2026-11-25T13:42:37.986000Z",
+      "title": "Mario Kart World recebe atualização 1.9.0 com novas variantes de pistas e opção de replay",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/mario-kart-world-recebe-atualizacao-com-novas-variantes-de-pistas-opcao-de-replay.html",
+      "originalTitle": "Mario Kart World recebe atualização 1.9.0 com novas variantes de pistas e opção de replay",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6c1bddef948e71c6",
+      "publishedAt": "2026-11-25T13:15:00Z",
+      "title": "Funko Pop! Mystery chega ao Brasil com Guerreiras do K-Pop e peça única de US$ 10 mil",
+      "sourceUrl": "https://arkade.com.br/funko-pop-mystery-chega-ao-brasil-com-guerreiras-do-k-pop-e-peca-unica-de-us-10-mil",
+      "originalTitle": "Funko Pop! Mystery chega ao Brasil com Guerreiras do K-Pop e peça única de US$ 10 mil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-33aadbeb8c9f38eb",
+      "publishedAt": "2026-11-25T12:53:00Z",
+      "title": "Anime de Historié tem estreia marcada para o dia 8 de janeiro em trailer",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/25/historie-anime-data-trailer-8-de-janeiro",
+      "originalTitle": "Anime de Historié tem estreia marcada para o dia 8 de janeiro em trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-87b60b79e1ecb75a",
       "publishedAt": "2026-11-25T10:15:37Z",
@@ -344,6 +728,18 @@
       "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
       "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
       "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5a3695d3c032daee",
+      "publishedAt": "2026-11-25T02:14:04Z",
+      "title": "DC entope novembro de 2026 com três séries e transforma o mês em teste de fogo para o legado de James Gunn",
+      "sourceUrl": "https://radiogeekbr.com.br/dc-novembro-2026-tres-series-pos-gunn",
+      "originalTitle": "DC entope novembro de 2026 com três séries e transforma o mês em teste de fogo para o legado de James Gunn",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -8168,18 +8564,6 @@
       "title": "Falha na PlayStation Network ocorre antes de GTA VI",
       "sourceUrl": "https://sempreupdate.com.br/falha-na-playstation-network-antes-gta-vi",
       "originalTitle": "Falha na PlayStation Network ocorre antes de GTA VI",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3029d1df9dbaa465",
-      "publishedAt": "2026-11-19T11:28:24Z",
-      "title": "O Senhor dos Anéis: Os Anéis de Poder | Quando saem os próximos episódios da 3ª temporada? Veja agenda completa",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/o-senhor-dos-aneis-aneis-de-poder-data-proximos-episodios-3-temporada-agenda-completa",
-      "originalTitle": "O Senhor dos Anéis: Os Anéis de Poder | Quando saem os próximos episódios da 3ª temporada? Veja agenda completa",
       "translated": false,
       "editorialReview": {
         "status": "native",
