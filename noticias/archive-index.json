@@ -1,7 +1,391 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T01:04:27.751128Z",
+  "updatedAt": "2026-11-25T10:28:52.810705Z",
   "articles": [
+    {
+      "id": "radar-87b60b79e1ecb75a",
+      "publishedAt": "2026-11-25T10:15:37Z",
+      "title": "Historié estreia em 8 de janeiro e revela novas vozes e músicas",
+      "sourceUrl": "https://criticalhits.com.br/anime/historie-estreia-em-8-de-janeiro-e-revela-novas-vozes-e-musicas",
+      "originalTitle": "Historié estreia em 8 de janeiro e revela novas vozes e músicas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bcc5e2a36e3fd682",
+      "publishedAt": "2026-11-25T10:14:37Z",
+      "title": "Sauron se rende a Pharazôn, mas mira o domínio de Númenor",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/sauron-se-rende-a-pharazon-mas-mira-o-dominio-de-numenor",
+      "originalTitle": "Sauron se rende a Pharazôn, mas mira o domínio de Númenor",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-548a6fd3a9b0c151",
+      "publishedAt": "2026-11-25T10:13:37Z",
+      "title": "Naruto Mobile mostra novos poderes de Tobirama em trailer",
+      "sourceUrl": "https://criticalhits.com.br/games/naruto-mobile-mostra-novos-poderes-de-tobirama-em-trailer",
+      "originalTitle": "Naruto Mobile mostra novos poderes de Tobirama em trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-98f0b664274b1595",
+      "publishedAt": "2026-11-25T10:00:00Z",
+      "title": "Daniel Weyman enfrentou “ator britânico consagrado” em testes para viver Gandalf",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/o-senhor-dos-aneis-os-aneis-de-poder-entrevista-daniel-weyman",
+      "originalTitle": "Daniel Weyman enfrentou “ator britânico consagrado” em testes para viver Gandalf",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8890d83afa20151f",
+      "publishedAt": "2026-11-25T09:41:18Z",
+      "title": "5 vilões de Dragon Ball mais fortes que os deuses",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-viloes-de-dragon-ball-mais-fortes-que-os-deuses",
+      "originalTitle": "5 vilões de Dragon Ball mais fortes que os deuses",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dbb6427a9280c90a",
+      "publishedAt": "2026-11-25T09:30:00Z",
+      "title": "Ismael Cruz Córdova quer fazer filmes no Brasil: “Vocês são minha família”",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/o-senhor-dos-aneis-os-aneis-de-poder-ismael-cruz-cordova-brasil",
+      "originalTitle": "Ismael Cruz Córdova quer fazer filmes no Brasil: “Vocês são minha família”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-05b6c22dd255b201",
+      "publishedAt": "2026-11-25T09:28:46Z",
+      "title": "Anthony Mackie nega spoiler, mas expõe a blindagem obsessiva da Marvel em “Avengers: Doomsday”",
+      "sourceUrl": "https://radiogeekbr.com.br/anthony-mackie-nega-spoiler-e-expoe-blindagem-marvel-avengers-doomsday",
+      "originalTitle": "Anthony Mackie nega spoiler, mas expõe a blindagem obsessiva da Marvel em “Avengers: Doomsday”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-22eeaab1850ddb41",
+      "publishedAt": "2026-11-25T09:13:58Z",
+      "title": "Nota marginal em novo box de Naruto escancara produção do próximo anime de Boruto",
+      "sourceUrl": "https://radiogeekbr.com.br/naruto-release-sugere-novo-anime-boruto",
+      "originalTitle": "Nota marginal em novo box de Naruto escancara produção do próximo anime de Boruto",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1fe62d4170f3a2d0",
+      "publishedAt": "2026-11-25T09:13:58Z",
+      "title": "Lanterns estreia como laboratório decisivo de James Gunn e vira bússola da nova TV de super-heróis",
+      "sourceUrl": "https://radiogeekbr.com.br/lanterns-laboratorio-james-gunn-nova-tv-super-herois",
+      "originalTitle": "Lanterns estreia como laboratório decisivo de James Gunn e vira bússola da nova TV de super-heróis",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-de5deb71c18f6d0e",
+      "publishedAt": "2026-11-25T09:00:00Z",
+      "title": "Vicentina Pede Desculpas | Diretor e atriz falam de sucesso global: “Todo mundo tem luto”",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vicentina-pede-desculpas-netflix-entrevista-sucesso-global",
+      "originalTitle": "Vicentina Pede Desculpas | Diretor e atriz falam de sucesso global: “Todo mundo tem luto”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d5a0e22fe82d0e53",
+      "publishedAt": "2026-11-25T08:41:18Z",
+      "title": "As 5 Akuma no Mi mais poderosas do arco de Elbaf em One Piece",
+      "sourceUrl": "https://criticalhits.com.br/anime/as-5-akuma-no-mi-mais-poderosas-do-arco-de-elbaf-em-one-piece",
+      "originalTitle": "As 5 Akuma no Mi mais poderosas do arco de Elbaf em One Piece",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79be9cc4e5587c3d",
+      "publishedAt": "2026-11-25T08:28:37Z",
+      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
+      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-981286320d05aa99",
+      "publishedAt": "2026-11-25T08:11:05Z",
+      "title": "Historié anime estreia 8 de janeiro no MBS e Amazon Prime",
+      "sourceUrl": "https://culpadolag.com.br/historie-anime-estreia-8-de-janeiro-no-mbs-e-amazon-prime",
+      "originalTitle": "Historié anime estreia 8 de janeiro no MBS e Amazon Prime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-516535ba513781ac",
+      "publishedAt": "2026-11-25T08:00:00Z",
+      "title": "Vingadores 5 bate recorde da Disney com 563 milhões de views em 24 horas",
+      "sourceUrl": "https://tangerina.uol.com.br/filmes-series/vingadores-5-bate-recorde-da-disney-com-563-milhoes-de-views-em-24-horas",
+      "originalTitle": "Vingadores 5 bate recorde da Disney com 563 milhões de views em 24 horas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b5add836a61a6aff",
+      "publishedAt": "2026-11-25T07:41:19Z",
+      "title": "5 vilões dos animes mais perigosos que Sukuna de Jujutsu Kaisen",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-viloes-dos-animes-mais-perigosos-que-sukuna-de-jujutsu-kaisen",
+      "originalTitle": "5 vilões dos animes mais perigosos que Sukuna de Jujutsu Kaisen",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-32db59e840203ee6",
+      "publishedAt": "2026-11-25T07:28:43Z",
+      "title": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-transforma-robert-downey-jr-em-doutor-doom-poster-avengers-doomsday",
+      "originalTitle": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-32964906289b0c1a",
+      "publishedAt": "2026-11-25T07:28:43Z",
+      "title": "Robert Downey Jr. explica por que seu Doutor Destino não será apenas “Tony Stark do mal”",
+      "sourceUrl": "https://radiogeekbr.com.br/robert-downey-jr-diz-por-que-doutor-destino-nao-e-iron-man-do-mal",
+      "originalTitle": "Robert Downey Jr. explica por que seu Doutor Destino não será apenas “Tony Stark do mal”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ead0d70d1e3730c3",
+      "publishedAt": "2026-11-25T06:41:19Z",
+      "title": "Os 5 espadachins mais fortes de One Piece",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-5-espadachins-mais-fortes-de-one-piece",
+      "originalTitle": "Os 5 espadachins mais fortes de One Piece",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6cbe728b0479e74c",
+      "publishedAt": "2026-11-25T06:29:07Z",
+      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
+      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-efa846f7a7699a86",
+      "publishedAt": "2026-11-25T06:29:07Z",
+      "title": "Ranking japonês de anime de terror consagra folclore clássico e contraria o paladar do streaming global",
+      "sourceUrl": "https://radiogeekbr.com.br/ranking-horror-anime-japao-2024",
+      "originalTitle": "Ranking japonês de anime de terror consagra folclore clássico e contraria o paladar do streaming global",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-23f5b5e5cffec14c",
+      "publishedAt": "2026-11-25T06:29:07Z",
+      "title": "Selfie vazada do set entrega Ramrod em Spider-Man: Brand New Day e revela novo laboratório de vilões B da Marvel",
+      "sourceUrl": "https://radiogeekbr.com.br/selfie-vazada-ramrod-brand-new-day-marvel",
+      "originalTitle": "Selfie vazada do set entrega Ramrod em Spider-Man: Brand New Day e revela novo laboratório de vilões B da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e4f10d1f71638e0f",
+      "publishedAt": "2026-11-25T05:50:54Z",
+      "title": "Godzilla Minus Zero terá versão em preto e branco nos cinemas em 11 de dezembro",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/godzilla-minus-zero-tera-versao-em-preto-e-branco-nos-cinemas-em-11-de-dezembro",
+      "originalTitle": "Godzilla Minus Zero terá versão em preto e branco nos cinemas em 11 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-23843fe56cbe2093",
+      "publishedAt": "2026-11-25T05:49:37Z",
+      "title": "Kevin Feige compara novos filmes dos Vingadores a Sem Volta Para Casa",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/kevin-feige-compara-novos-filmes-dos-vingadores-a-sem-volta-para-casa",
+      "originalTitle": "Kevin Feige compara novos filmes dos Vingadores a Sem Volta Para Casa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2f338a2b1f121617",
+      "publishedAt": "2026-11-25T05:48:17Z",
+      "title": "Re:Zero 4ª temporada supera Solo Leveling nas avaliações de 2026",
+      "sourceUrl": "https://criticalhits.com.br/anime/rezero-4a-temporada-supera-solo-leveling-nas-avaliacoes-de-2026",
+      "originalTitle": "Re:Zero 4ª temporada supera Solo Leveling nas avaliações de 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fbc50f1146dbdf56",
+      "publishedAt": "2026-11-25T05:45:01Z",
+      "title": "Avatar Aang remove cena brutal da luta contra Tagah",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/avatar-aang-remove-cena-brutal-da-luta-contra-tagah",
+      "originalTitle": "Avatar Aang remove cena brutal da luta contra Tagah",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6c6b3c148a0dfa7e",
+      "publishedAt": "2026-11-25T03:13:10.564000Z",
+      "title": "Pokémon Champions recebe quatro novas Mega Evoluções em atualização de dezembro",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/pokemon-champions-recebe-quatro-novas-mega-evolucoes-em-atualizacao-de-dezembro.html",
+      "originalTitle": "Pokémon Champions recebe quatro novas Mega Evoluções em atualização de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-89410ba95c393b76",
+      "publishedAt": "2026-11-25T03:02:00Z",
+      "title": "Harry Potter: Daniel Radcliffe afirma que dificilmente verá a série e o motivo não tem a ver com as polêmicas de J.K. Rowling",
+      "sourceUrl": "https://www.terra.com.br/diversao/entre-telas/harry-potter-daniel-radcliffe-afirma-que-dificilmente-vera-a-serie-e-o-motivo-nao-tem-a-ver-com-as-polemicas-de-jk-rowling,4e78df750418f8f56b21bbe520174709r8udp318.html",
+      "originalTitle": "Harry Potter: Daniel Radcliffe afirma que dificilmente verá a série e o motivo não tem a ver com as polêmicas de J.K. Rowling",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-39ef2d62cb7cf7fa",
+      "publishedAt": "2026-11-25T02:27:11Z",
+      "title": "Como automatizar tarefas com o Codex CLI em uma VPS",
+      "sourceUrl": "https://br.ign.com/tech/157932/como-automatizar-tarefas-com-o-codex-cli-em-uma-vps",
+      "originalTitle": "Como automatizar tarefas com o Codex CLI em uma VPS",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6bb4c3fc5ddf1ee6",
+      "publishedAt": "2026-11-25T02:14:04Z",
+      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
+      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-85824b5374b9acff",
+      "publishedAt": "2026-11-25T01:50:34Z",
+      "title": "Membros Prime levam quatro livros de estoicismo por menos de R$ 35 na Black da Amazon",
+      "sourceUrl": "https://br.ign.com/descontos/157931/membros-prime-levam-quatro-livros-de-estoicismo-por-menos-de-r-35-na-black-da-amazon",
+      "originalTitle": "Membros Prime levam quatro livros de estoicismo por menos de R$ 35 na Black da Amazon",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0d614f3bcc80f063",
+      "publishedAt": "2026-11-25T01:30:00Z",
+      "title": "GTA 6 roda melhor no Xbox Series X que no PS5 base",
+      "sourceUrl": "https://www.einerd.com/gta-6-comparativo-consoles-digital-foundry",
+      "originalTitle": "GTA 6 roda melhor no Xbox Series X que no PS5 base",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ec2091050b10d1d",
+      "publishedAt": "2026-11-25T01:11:36Z",
+      "title": "Mario Kart World recebe atualização 1.9.0 adição de oito pistas clássicas e replays; mais detalhes",
+      "sourceUrl": "https://universonintendo.com/mario-kart-world-recebe-atualizacao-1-9-0-adicao-de-oito-pistas-classicas-e-replays-mais-detalhes",
+      "originalTitle": "Mario Kart World recebe atualização 1.9.0 adição de oito pistas clássicas e replays; mais detalhes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-5ef19dd18ec0fdb2",
       "publishedAt": "2026-11-25T00:47:00Z",
@@ -68,6 +452,18 @@
       "title": "Vingadores: Doutor Destino bate recordes com trailer mais assistido da Disney",
       "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-bate-recordes-mais-assistido-da-disney",
       "originalTitle": "Vingadores: Doutor Destino bate recordes com trailer mais assistido da Disney",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c2d5b6ae8506cfea",
+      "publishedAt": "2026-11-25T00:13:37Z",
+      "title": "Cameo-relâmpago do trio de Harry Potter em nova série da HBO denuncia a cartilha de nostalgia da Warner",
+      "sourceUrl": "https://radiogeekbr.com.br/cameo-relampago-harry-potter-hbo-cartilha-nostalgia-warner",
+      "originalTitle": "Cameo-relâmpago do trio de Harry Potter em nova série da HBO denuncia a cartilha de nostalgia da Warner",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -363,6 +759,18 @@
       }
     },
     {
+      "id": "radar-328881170e679a59",
+      "publishedAt": "2026-11-24T20:59:14Z",
+      "title": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/black-lanterns-antecipam-apocalipse-dcu",
+      "originalTitle": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-3ffc0e59fe76ae90",
       "publishedAt": "2026-11-24T19:09:34Z",
       "title": "Lords of the Fallen II será lançado para Nintendo Switch 2 em abril de 2027",
@@ -392,6 +800,18 @@
       "title": "‘Comando das Criaturas’ terá 2ª temporada mesmo após saída de James Gunn da DC?",
       "sourceUrl": "https://www.einerd.com/comando-das-criaturas-2-temporada-2027-james-gunn",
       "originalTitle": "‘Comando das Criaturas’ terá 2ª temporada mesmo após saída de James Gunn da DC?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-eb6f969bed6d4334",
+      "publishedAt": "2026-11-24T18:57:47Z",
+      "title": "GTA 6 bate recorde histórico na PlayStation",
+      "sourceUrl": "https://www.maistecnologia.com/gta-6-bate-recorde-historico-na-playstation",
+      "originalTitle": "GTA 6 bate recorde histórico na PlayStation",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -807,6 +1227,30 @@
       }
     },
     {
+      "id": "radar-d71e0262b049a21b",
+      "publishedAt": "2026-11-24T12:42:08Z",
+      "title": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-quebra-recorde-e-se-torna-o-maior-lancamento-da-historia-da-playstation-confirma-sony",
+      "originalTitle": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d33182f0990b1579",
+      "publishedAt": "2026-11-24T12:33:00Z",
+      "title": "GTA 6 já é o maior lançamento da história dos consoles Playstation, com mais de 39 milhões de jogadores",
+      "sourceUrl": "https://arkade.com.br/gta-6-ja-e-o-maior-lancamento-da-historia-dos-consoles-playstation-com-mais-de-39-milhoes-de-jogadores",
+      "originalTitle": "GTA 6 já é o maior lançamento da história dos consoles Playstation, com mais de 39 milhões de jogadores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-80bdb1ef7f02e075",
       "publishedAt": "2026-11-24T12:30:18Z",
       "title": "DYNASTY WARRIORS 3: Complete Edition Remastered | Review",
@@ -867,35 +1311,11 @@
       }
     },
     {
-      "id": "radar-d33182f0990b1579",
-      "publishedAt": "2026-11-24T11:24:42Z",
-      "title": "GTA 6 já é o maior lançamento da história dos consoles Playstation, com mais de 39 milhões de jogadores",
-      "sourceUrl": "https://arkade.com.br/gta-6-ja-e-o-maior-lancamento-da-historia-dos-consoles-playstation-com-mais-de-39-milhoes-de-jogadores",
-      "originalTitle": "GTA 6 já é o maior lançamento da história dos consoles Playstation, com mais de 39 milhões de jogadores",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-572949cc5e6db113",
       "publishedAt": "2026-11-24T11:13:29Z",
       "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
       "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
       "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-d71e0262b049a21b",
-      "publishedAt": "2026-11-24T09:49:06Z",
-      "title": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
-      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-quebra-recorde-e-se-torna-o-maior-lancamento-da-historia-da-playstation-confirma-sony",
-      "originalTitle": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -2067,18 +2487,6 @@
       }
     },
     {
-      "id": "radar-6bb4c3fc5ddf1ee6",
-      "publishedAt": "2026-11-23T12:58:27Z",
-      "title": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
-      "sourceUrl": "https://radiogeekbr.com.br/the-batman-2-foto-regra-dos-dois-viloes-30-anos",
-      "originalTitle": "“Regra dos dois vilões”: foto de The Batman 2 renova tradição que molda o Cavaleiro das Trevas há 30 anos",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-c8db65ea671d9b78",
       "publishedAt": "2026-11-23T12:47:00Z",
       "title": "Sakamoto Days chega ao fim na Shonen Jump",
@@ -2451,18 +2859,6 @@
       }
     },
     {
-      "id": "radar-32db59e840203ee6",
-      "publishedAt": "2026-11-23T04:43:39Z",
-      "title": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-transforma-robert-downey-jr-em-doutor-doom-poster-avengers-doomsday",
-      "originalTitle": "Marvel chacoalha o MCU ao transformar Robert Downey Jr. em Doutor Doom no novo pôster de Avengers: Doomsday",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-0c49c61c35f0bb20",
       "publishedAt": "2026-11-23T04:43:39Z",
       "title": "Com “Man of Tomorrow”, James Gunn escolhe Superman como 15º elo oficial entre cinema e TV do novo DCU",
@@ -2492,18 +2888,6 @@
       "title": "Heartopia inicia segunda fase do evento com My Little Pony",
       "sourceUrl": "https://pizzafria.ig.com.br/news/heartopia-my-little-pony-fase-2",
       "originalTitle": "Heartopia inicia segunda fase do evento com My Little Pony",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-32964906289b0c1a",
-      "publishedAt": "2026-11-23T02:14:09Z",
-      "title": "Robert Downey Jr. explica por que seu Doutor Destino não será apenas “Tony Stark do mal”",
-      "sourceUrl": "https://radiogeekbr.com.br/robert-downey-jr-diz-por-que-doutor-destino-nao-e-iron-man-do-mal",
-      "originalTitle": "Robert Downey Jr. explica por que seu Doutor Destino não será apenas “Tony Stark do mal”",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -3512,18 +3896,6 @@
       "title": "SURI: The Seventh Note | Review",
       "sourceUrl": "https://pizzafria.ig.com.br/analises/suri-the-seventh-note-review",
       "originalTitle": "SURI: The Seventh Note | Review",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-328881170e679a59",
-      "publishedAt": "2026-11-22T11:43:26Z",
-      "title": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/black-lanterns-antecipam-apocalipse-dcu",
-      "originalTitle": "Black Lanterns entram em “Lanterns” e antecipam o apocalipse cósmico do novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -8691,18 +9063,6 @@
       }
     },
     {
-      "id": "radar-79be9cc4e5587c3d",
-      "publishedAt": "2026-11-18T13:59:13Z",
-      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
-      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-843690b6f4d80f36",
       "publishedAt": "2026-11-18T13:58:04Z",
       "title": "Märchen Crown: Mangá com autor de ‘Oshi no Ko’ chega ao fim esta semana",
@@ -10460,18 +10820,6 @@
       "title": "Receita Federal leiloa Xbox por R$ 400, iPhone por R$ 2,5 mil e carro por R$ 9 mil",
       "sourceUrl": "https://exame.com/invest/minhas-financas/receita-federal-leiloa-xbox-por-r-400-iphone-por-r-25-mil-e-carro-por-r-9-mil",
       "originalTitle": "Receita Federal leiloa Xbox por R$ 400, iPhone por R$ 2,5 mil e carro por R$ 9 mil",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6cbe728b0479e74c",
-      "publishedAt": "2026-11-17T12:43:56Z",
-      "title": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/clayface-filma-batman-escondidas-e-expoe-manobra-dcu",
-      "originalTitle": "Clayface filma Batman às escondidas e expõe manobra de James Gunn no DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -12999,18 +13347,6 @@
       }
     },
     {
-      "id": "radar-efa846f7a7699a86",
-      "publishedAt": "2026-11-15T09:42:37Z",
-      "title": "Ranking japonês de anime de terror consagra folclore clássico e contraria o paladar do streaming global",
-      "sourceUrl": "https://radiogeekbr.com.br/ranking-horror-anime-japao-2024",
-      "originalTitle": "Ranking japonês de anime de terror consagra folclore clássico e contraria o paladar do streaming global",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-1a9f8c8835bead72",
       "publishedAt": "2026-11-15T09:42:37Z",
       "title": "Harem anime não morreu: 10 séries que viraram o jogo e seguem ditando moda em 2024",
@@ -13544,18 +13880,6 @@
       "title": "Netflix destrava 25 novos episódios de Gintama e testa outra lógica para o anime no streaming",
       "sourceUrl": "https://radiogeekbr.com.br/netflix-libera-25-episodios-gintama-virada-catalogo-anime",
       "originalTitle": "Netflix destrava 25 novos episódios de Gintama e testa outra lógica para o anime no streaming",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-22eeaab1850ddb41",
-      "publishedAt": "2026-11-14T19:13:07Z",
-      "title": "Nota marginal em novo box de Naruto escancara produção do próximo anime de Boruto",
-      "sourceUrl": "https://radiogeekbr.com.br/naruto-release-sugere-novo-anime-boruto",
-      "originalTitle": "Nota marginal em novo box de Naruto escancara produção do próximo anime de Boruto",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -22731,18 +23055,6 @@
       }
     },
     {
-      "id": "radar-1fe62d4170f3a2d0",
-      "publishedAt": "2026-11-07T14:11:51Z",
-      "title": "Lanterns estreia como laboratório decisivo de James Gunn e vira bússola da nova TV de super-heróis",
-      "sourceUrl": "https://radiogeekbr.com.br/lanterns-laboratorio-james-gunn-nova-tv-super-herois",
-      "originalTitle": "Lanterns estreia como laboratório decisivo de James Gunn e vira bússola da nova TV de super-heróis",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-e9a473ad3fdca4d3",
       "publishedAt": "2026-11-07T14:04:00Z",
       "title": "Guerreiras do K-Pop | Netflix lança mais de uma hora de conteúdos extras do longa; confira",
@@ -25316,18 +25628,6 @@
       "title": "Spirit Circle tem anime anunciado para dezembro deste ano",
       "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/5/spirit-circle-anime-anuncio-trailer-dezembro-2026",
       "originalTitle": "Spirit Circle tem anime anunciado para dezembro deste ano",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-23f5b5e5cffec14c",
-      "publishedAt": "2026-11-05T13:10:54Z",
-      "title": "Selfie vazada do set entrega Ramrod em Spider-Man: Brand New Day e revela novo laboratório de vilões B da Marvel",
-      "sourceUrl": "https://radiogeekbr.com.br/selfie-vazada-ramrod-brand-new-day-marvel",
-      "originalTitle": "Selfie vazada do set entrega Ramrod em Spider-Man: Brand New Day e revela novo laboratório de vilões B da Marvel",
       "translated": false,
       "editorialReview": {
         "status": "native",
