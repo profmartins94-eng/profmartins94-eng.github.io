@@ -1,7 +1,475 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T16:25:15.382920Z",
+  "updatedAt": "2026-11-25T01:04:27.751128Z",
   "articles": [
+    {
+      "id": "radar-5ef19dd18ec0fdb2",
+      "publishedAt": "2026-11-25T00:47:00Z",
+      "title": "Vingadores: Doutor Destino | Chris Evans quase teve um filme solo como Nômade, confirma o ator",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-chris-evans-quase-teve-filme-solo-nomade",
+      "originalTitle": "Vingadores: Doutor Destino | Chris Evans quase teve um filme solo como Nômade, confirma o ator",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7ade7c27d2248eca",
+      "publishedAt": "2026-11-25T00:45:51Z",
+      "title": "7 Animações Americanas com Influência de Anime dos Anos 2010",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/7-animacoes-americanas-com-influencia-de-anime-dos-anos-2010",
+      "originalTitle": "7 Animações Americanas com Influência de Anime dos Anos 2010",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4d8fe9278d35c04a",
+      "publishedAt": "2026-11-25T00:42:02Z",
+      "title": "Demon Slayer pode superar seu auge com Castelo Infinito",
+      "sourceUrl": "https://criticalhits.com.br/anime/demon-slayer-pode-superar-seu-auge-com-castelo-infinito",
+      "originalTitle": "Demon Slayer pode superar seu auge com Castelo Infinito",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b356bfc026e62e5d",
+      "publishedAt": "2026-11-25T00:35:07Z",
+      "title": "6 Animes de Ação Com Lutas Melhores Que Solo Leveling",
+      "sourceUrl": "https://criticalhits.com.br/anime/6-animes-de-acao-com-lutas-melhores-que-solo-leveling",
+      "originalTitle": "6 Animes de Ação Com Lutas Melhores Que Solo Leveling",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ef5265606ecf7da",
+      "publishedAt": "2026-11-25T00:35:00Z",
+      "title": "Série A Tale of the Secret Saint ultrapassa 5 milhões de cópias em circulação",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/25/a-tale-of-the-secret-saint-5-milhoes-copias-circulacao",
+      "originalTitle": "Série A Tale of the Secret Saint ultrapassa 5 milhões de cópias em circulação",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a225485d5c6c11b8",
+      "publishedAt": "2026-11-25T00:20:00Z",
+      "title": "Vingadores: Doutor Destino bate recordes com trailer mais assistido da Disney",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-bate-recordes-mais-assistido-da-disney",
+      "originalTitle": "Vingadores: Doutor Destino bate recordes com trailer mais assistido da Disney",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-553b214c97fa592c",
+      "publishedAt": "2026-11-25T00:12:15Z",
+      "title": "Avengers: Doomsday bate recorde da Disney em 24 horas",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/avengers-doomsday-bate-recorde-da-disney-em-24-horas",
+      "originalTitle": "Avengers: Doomsday bate recorde da Disney em 24 horas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a53041e60947ec63",
+      "publishedAt": "2026-11-25T00:10:16Z",
+      "title": "Japão usa IA para identificar sites piratas de anime e mangá",
+      "sourceUrl": "https://criticalhits.com.br/anime/japao-usa-ia-para-identificar-sites-piratas-de-anime-e-manga",
+      "originalTitle": "Japão usa IA para identificar sites piratas de anime e mangá",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a8ea43cdd4157fb8",
+      "publishedAt": "2026-11-25T00:03:11Z",
+      "title": "Os 8 Vilões Mais Fortes de Steel Ball Run, de JoJo’s Bizarre Adventure",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-8-viloes-mais-fortes-de-steel-ball-run-de-jojos-bizarre-adventure",
+      "originalTitle": "Os 8 Vilões Mais Fortes de Steel Ball Run, de JoJo’s Bizarre Adventure",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-90875ee6c07f1fe2",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "title": "Análise: MARVEL Cosmic Invasion: O Cerco no Castelo do Destino é um DLC obrigatório para os fãs do beat ‘em up da Casa das Ideias",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/marvel-cosmic-invasion-o-cerco-no-castelo-do-destino-dlc-switch-2-analise-critica-review.html",
+      "originalTitle": "Análise: MARVEL Cosmic Invasion: O Cerco no Castelo do Destino é um DLC obrigatório para os fãs do beat ‘em up da Casa das Ideias",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e7deb82b35229575",
+      "publishedAt": "2026-11-24T23:59:00Z",
+      "title": "Marcha das Onças estreia na Netflix em 22 de dezembro",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/marcha-das-oncas-estreia-na-netflix-em-22-de-dezembro",
+      "originalTitle": "Marcha das Onças estreia na Netflix em 22 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-76a3afd9f8ec8d3c",
+      "publishedAt": "2026-11-24T23:58:39Z",
+      "title": "5 protagonistas dos animes tão polêmicos quanto Rudeus de Mushoku Tensei",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-protagonistas-dos-animes-tao-polemicos-quanto-rudeus-de-mushoku-tensei",
+      "originalTitle": "5 protagonistas dos animes tão polêmicos quanto Rudeus de Mushoku Tensei",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e1539ee8dcaa09a2",
+      "publishedAt": "2026-11-24T23:58:29Z",
+      "title": "Japão coloca IA a caçar sites piratas de anime e os resultados surpreendem",
+      "sourceUrl": "https://www.otakupt.com/anime/japao-ia-pirataria-anime-manga",
+      "originalTitle": "Japão coloca IA a caçar sites piratas de anime e os resultados surpreendem",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2aa77770179072eb",
+      "publishedAt": "2026-11-24T23:45:47Z",
+      "title": "Os 6 Vilões de Anime Mais Fortes que Kaido",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-6-viloes-de-anime-mais-fortes-que-kaido",
+      "originalTitle": "Os 6 Vilões de Anime Mais Fortes que Kaido",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fc64be45502b95e5",
+      "publishedAt": "2026-11-24T23:39:05Z",
+      "title": "My Hero Ultra Rumble Mobile mira estreia em 6 de fevereiro de 2027",
+      "sourceUrl": "https://criticalhits.com.br/games/my-hero-ultra-rumble-mobile-mira-estreia-em-6-de-fevereiro-de-2027",
+      "originalTitle": "My Hero Ultra Rumble Mobile mira estreia em 6 de fevereiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-58ae70305991c634",
+      "publishedAt": "2026-11-24T23:35:05Z",
+      "title": "Os 6 Mangás que Chegaram a 1.200 Capítulos Antes de One Piece",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-6-mangas-que-chegaram-a-1-200-capitulos-antes-de-one-piece",
+      "originalTitle": "Os 6 Mangás que Chegaram a 1.200 Capítulos Antes de One Piece",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fce413c67d10bc22",
+      "publishedAt": "2026-11-24T23:34:00Z",
+      "title": "Hooters | Filme sobre franquia de restaurantes define protagonistas; conheça",
+      "sourceUrl": "https://www.omelete.com.br/filmes/hooters-filme-sobre-franquia-de-restaurantes-define-protagonistas",
+      "originalTitle": "Hooters | Filme sobre franquia de restaurantes define protagonistas; conheça",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-456ab0855fc34988",
+      "publishedAt": "2026-11-24T23:24:00Z",
+      "title": "Sandy e Junior prometem estrutura \"maior que 2019” para shows em SP",
+      "sourceUrl": "https://www.omelete.com.br/musica/sandy-e-junior-estrutura-setlist-residencia-sao-paulo",
+      "originalTitle": "Sandy e Junior prometem estrutura \"maior que 2019” para shows em SP",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a7bcd883ecf75cac",
+      "publishedAt": "2026-11-24T23:15:00Z",
+      "title": "Michael | Diretor do filme é acusado de agressão física com arma",
+      "sourceUrl": "https://www.omelete.com.br/filmes/michael-diretor-do-filme-e-acusado-de-agressao-fisica-com-arma",
+      "originalTitle": "Michael | Diretor do filme é acusado de agressão física com arma",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2d539cc95c12541b",
+      "publishedAt": "2026-11-24T23:14:06Z",
+      "title": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
+      "sourceUrl": "https://radiogeekbr.com.br/adria-arjona-nova-mulher-maravilha-dcu-gunn-silencio",
+      "originalTitle": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-98eac211660cd1a0",
+      "publishedAt": "2026-11-24T22:51:44Z",
+      "title": "CCXP26 confirma estrelas de Hollywood, celebra os 25 anos de o Senhor dos Anéis e inova com o Marvel Day",
+      "sourceUrl": "https://fatopaulista.com.br/ccxp26-confirma-estrelas-e-marvel-day",
+      "originalTitle": "CCXP26 confirma estrelas de Hollywood, celebra os 25 anos de o Senhor dos Anéis e inova com o Marvel Day",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-54ddaf370dd6e5d4",
+      "publishedAt": "2026-11-24T22:51:00Z",
+      "title": "Tidal | Streaming de música anuncia banimento de faixas geradas por IA",
+      "sourceUrl": "https://www.omelete.com.br/musica/tidal-streaming-de-musica-anuncia-banimento-faixas-geradas-por-ia",
+      "originalTitle": "Tidal | Streaming de música anuncia banimento de faixas geradas por IA",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-caf6e07a5fa702ba",
+      "publishedAt": "2026-11-24T22:45:21Z",
+      "title": "Primeiras Impressões | ‘Blade Runner 2099’ expande icônico universo sci-fi com visuais espetaculares e atuações fabulosas",
+      "sourceUrl": "https://cinepop.com.br/primeiras-impressoes-blade-runner-2099-expande-iconico-universo-sci-fi-com-visuais-espetaculares-e-atuacoes-fabulosas-777324",
+      "originalTitle": "Primeiras Impressões | ‘Blade Runner 2099’ expande icônico universo sci-fi com visuais espetaculares e atuações fabulosas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0b944b5f661025d5",
+      "publishedAt": "2026-11-24T22:42:10Z",
+      "title": "Vingadores: Guerras Secretas terá o Mundo Bélico, confirma Kevin Feige",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/vingadores-guerras-secretas-tera-o-mundo-belico-confirma-kevin-feige.html",
+      "originalTitle": "Vingadores: Guerras Secretas terá o Mundo Bélico, confirma Kevin Feige",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-809e69b03b1d96d7",
+      "publishedAt": "2026-11-24T22:37:06Z",
+      "title": "Harry Potter: Edwiges da série da HBO tem cerca de 18 motores",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/harry-potter-edwiges-da-serie-da-hbo-tem-cerca-de-18-motores.html",
+      "originalTitle": "Harry Potter: Edwiges da série da HBO tem cerca de 18 motores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-57bd352ff50f3812",
+      "publishedAt": "2026-11-24T22:00:00Z",
+      "title": "Enfeitiçadas é bom caminho de volta ao clássico \"Jeito Disney\" de contar histórias",
+      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/enfeiticadas-e-bom-caminho-de-volta-ao-classico-jeito-disney-de-contar-historias",
+      "originalTitle": "Enfeitiçadas é bom caminho de volta ao clássico \"Jeito Disney\" de contar histórias",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-32d77b1cbc380f9a",
+      "publishedAt": "2026-11-24T21:24:00Z",
+      "title": "Harry Potter | Novas imagens mostram o Beco Diagonal; veja",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/harry-potter-imagens-mostram-beco-diagonal-veja",
+      "originalTitle": "Harry Potter | Novas imagens mostram o Beco Diagonal; veja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1381833967405d08",
+      "publishedAt": "2026-11-24T21:10:08Z",
+      "title": "Lionsgate revela plano para continuar Jogos Vorazes",
+      "sourceUrl": "https://pipocamoderna.com.br/2026/11/lionsgate-novo-jogos-vorazes",
+      "originalTitle": "Lionsgate revela plano para continuar Jogos Vorazes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-65805484956d4d67",
+      "publishedAt": "2026-11-24T20:59:14Z",
+      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
+      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-661f4c05dab500ae",
+      "publishedAt": "2026-11-24T20:59:14Z",
+      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
+      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3ffc0e59fe76ae90",
+      "publishedAt": "2026-11-24T19:09:34Z",
+      "title": "Lords of the Fallen II será lançado para Nintendo Switch 2 em abril de 2027",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/lords-of-fallen-2-sera-lancado-para-nintendo-switch-2-em-abril-de-2027.html",
+      "originalTitle": "Lords of the Fallen II será lançado para Nintendo Switch 2 em abril de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9000b63a2282f7ce",
+      "publishedAt": "2026-11-24T19:00:24Z",
+      "title": "Nioh 3 chega ao XBOX em 2027",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/24/nioh-3-chega-ao-xbox-em-2027",
+      "originalTitle": "Nioh 3 chega ao XBOX em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-97398db1984f6c75",
+      "publishedAt": "2026-11-24T19:00:00Z",
+      "title": "‘Comando das Criaturas’ terá 2ª temporada mesmo após saída de James Gunn da DC?",
+      "sourceUrl": "https://www.einerd.com/comando-das-criaturas-2-temporada-2027-james-gunn",
+      "originalTitle": "‘Comando das Criaturas’ terá 2ª temporada mesmo após saída de James Gunn da DC?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-89cabced12f8a10d",
+      "publishedAt": "2026-11-24T18:56:45Z",
+      "title": "GTA 6 tem hilário easter egg de As Tartarugas Ninja; assista ao clipe",
+      "sourceUrl": "https://www.omelete.com.br/games/gta-6-tartarugas-ninja",
+      "originalTitle": "GTA 6 tem hilário easter egg de As Tartarugas Ninja; assista ao clipe",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-89db9fcd51f3bafd",
+      "publishedAt": "2026-11-24T18:39:00Z",
+      "title": "Vingadores: Doutor Destino deve ter tributo a Patrick Stewart, diz Kevin Feige",
+      "sourceUrl": "https://www.omelete.com.br/filmes/vingadores-destino-patrick-stewart-homenagem",
+      "originalTitle": "Vingadores: Doutor Destino deve ter tributo a Patrick Stewart, diz Kevin Feige",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2bb7be21ef257442",
+      "publishedAt": "2026-11-24T18:16:00Z",
+      "title": "O Senhor dos Anéis: Os Anéis de Poder é renovado para 4ª temporada",
+      "sourceUrl": "https://br.ign.com/senhor-dos-aneis-serie/157913/o-senhor-dos-aneis-os-aneis-de-poder-e-renovado-para-4a-temporada",
+      "originalTitle": "O Senhor dos Anéis: Os Anéis de Poder é renovado para 4ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-114059a8e661cd43",
+      "publishedAt": "2026-11-24T17:19:23Z",
+      "title": "Vazamentos de The Last of Us: Part 2 agravaram reações negativas, afirma Laura Bailey",
+      "sourceUrl": "https://br.ign.com/the-last-of-us-part-ii/157909/vazamentos-de-the-last-of-us-part-2-agravaram-reacoes-negativas-afirma-laura-bailey",
+      "originalTitle": "Vazamentos de The Last of Us: Part 2 agravaram reações negativas, afirma Laura Bailey",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c3014973afe7fbc2",
+      "publishedAt": "2026-11-24T17:00:25Z",
+      "title": "Mangá Blood Addict (Bloodict) chega ao fim a 18 de dezembro",
+      "sourceUrl": "https://www.otakupt.com/manga/manga-blood-addict-bloodict-chega-ao-fim-a-18-de-dezembro",
+      "originalTitle": "Mangá Blood Addict (Bloodict) chega ao fim a 18 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-eafe4f2b2c8eb51e",
+      "publishedAt": "2026-11-24T16:50:00Z",
+      "title": "David Fincher elogia coragem de James Gunn por ter assumido a DC e chama DNA da marca de “disfuncional”",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/david-fincher-convite-o-senhor-dos-aneis-elogia-coragem-james-gunn-dc-studios",
+      "originalTitle": "David Fincher elogia coragem de James Gunn por ter assumido a DC e chama DNA da marca de “disfuncional”",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-070617a4974bc0b8",
       "publishedAt": "2026-11-24T16:20:23Z",
@@ -183,6 +651,18 @@
       }
     },
     {
+      "id": "radar-4642776d8f4a989c",
+      "publishedAt": "2026-11-24T15:00:00Z",
+      "title": "Ms. Marvel voltará em Vingadores: Doutor Destino?",
+      "sourceUrl": "https://www.einerd.com/ms-marvel-iman-vellani-vingadores-doutor-destino",
+      "originalTitle": "Ms. Marvel voltará em Vingadores: Doutor Destino?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-6010bb1ab518d4d3",
       "publishedAt": "2026-11-24T14:57:00Z",
       "title": "X-Men | Adam Driver sobre viver Sr. Sinistro: “Eu conhecia mais o Magneto”",
@@ -255,6 +735,18 @@
       }
     },
     {
+      "id": "radar-23a4fcfe93585126",
+      "publishedAt": "2026-11-24T14:20:18Z",
+      "title": "Nioh 3 anuncia nova DLC e Complete Edition com estreia no Xbox",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/nioh-3-dlc-complete-edition-xbox",
+      "originalTitle": "Nioh 3 anuncia nova DLC e Complete Edition com estreia no Xbox",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-fae932b7b952b3cf",
       "publishedAt": "2026-11-24T14:15:00Z",
       "title": "Hell Maiden recebe expansão In the Wastelands of Overindulgence no dia 9 de dezembro",
@@ -303,6 +795,18 @@
       }
     },
     {
+      "id": "radar-5bb9530a9522071f",
+      "publishedAt": "2026-11-24T12:46:00Z",
+      "title": "GTA VI bate recordes no PlayStation",
+      "sourceUrl": "https://www.n3news.com.br/2026/11/gta-vi-bate-recordes-no-playstation",
+      "originalTitle": "GTA VI bate recordes no PlayStation",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-80bdb1ef7f02e075",
       "publishedAt": "2026-11-24T12:30:18Z",
       "title": "DYNASTY WARRIORS 3: Complete Edition Remastered | Review",
@@ -320,18 +824,6 @@
       "title": "‘Tipo Irmãs’: animação da Netflix reconta a Cinderela pelo lado das vilãs",
       "sourceUrl": "https://www.einerd.com/tipo-irmas-animacao-da-netflix-reconta-a-cinderela-pelo-lado-das-vilas",
       "originalTitle": "‘Tipo Irmãs’: animação da Netflix reconta a Cinderela pelo lado das vilãs",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-23a4fcfe93585126",
-      "publishedAt": "2026-11-24T11:46:26Z",
-      "title": "Nioh 3 anuncia nova DLC e Complete Edition com estreia no Xbox",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/nioh-3-dlc-complete-edition-xbox",
-      "originalTitle": "Nioh 3 anuncia nova DLC e Complete Edition com estreia no Xbox",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -375,6 +867,66 @@
       }
     },
     {
+      "id": "radar-d33182f0990b1579",
+      "publishedAt": "2026-11-24T11:24:42Z",
+      "title": "GTA 6 já é o maior lançamento da história dos consoles Playstation, com mais de 39 milhões de jogadores",
+      "sourceUrl": "https://arkade.com.br/gta-6-ja-e-o-maior-lancamento-da-historia-dos-consoles-playstation-com-mais-de-39-milhoes-de-jogadores",
+      "originalTitle": "GTA 6 já é o maior lançamento da história dos consoles Playstation, com mais de 39 milhões de jogadores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-572949cc5e6db113",
+      "publishedAt": "2026-11-24T11:13:29Z",
+      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
+      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d71e0262b049a21b",
+      "publishedAt": "2026-11-24T09:49:06Z",
+      "title": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/gta-6-quebra-recorde-e-se-torna-o-maior-lancamento-da-historia-da-playstation-confirma-sony",
+      "originalTitle": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-64311c5207cd1ec4",
+      "publishedAt": "2026-11-24T07:24:34Z",
+      "title": "CCXP26 estreia Dimensão RPG no Magic Market em parceria com a Mago dos Dados",
+      "sourceUrl": "https://estacaonerd.com/ccxp26-estreia-dimensao-rpg-no-magic-market-em-parceria-com-a-mago-dos-dados",
+      "originalTitle": "CCXP26 estreia Dimensão RPG no Magic Market em parceria com a Mago dos Dados",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cd96f4dcf417c260",
+      "publishedAt": "2026-11-24T07:20:26Z",
+      "title": "Anime PSYREN anuncia seis novos nomes para o elenco",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/24/psyren-anime-anuncia-seis-novos-nomes-elenco",
+      "originalTitle": "Anime PSYREN anuncia seis novos nomes para o elenco",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-e30c2f3850f6e9f8",
       "publishedAt": "2026-11-24T06:40:07Z",
       "title": "Análise: Star Trek: Sem Fronteiras ( 2016)",
@@ -404,6 +956,18 @@
       "title": "Um planeta com anel: Mogo é confirmado no DCU e eleva a aposta cósmica de James Gunn",
       "sourceUrl": "https://radiogeekbr.com.br/mogo-confirmado-dcu-planeta-lanterns-gunn",
       "originalTitle": "Um planeta com anel: Mogo é confirmado no DCU e eleva a aposta cósmica de James Gunn",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-5a13895457d7d6a5",
+      "publishedAt": "2026-11-24T05:13:30Z",
+      "title": "Robert Pattinson: Batman fim após The Batman: Part II",
+      "sourceUrl": "https://culpadolag.com.br/robert-pattinson-batman-fim-apos-the-batman-part-ii",
+      "originalTitle": "Robert Pattinson: Batman fim após The Batman: Part II",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1563,18 +2127,6 @@
       }
     },
     {
-      "id": "radar-65805484956d4d67",
-      "publishedAt": "2026-11-23T09:43:33Z",
-      "title": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "sourceUrl": "https://radiogeekbr.com.br/poster-filme-batman-dcu-antecede-pattinson",
-      "originalTitle": "Pôster misterioso revela o Batman do novo DCU e antecipa filme antes da sequência de Pattinson",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-29d0e660a02e40cf",
       "publishedAt": "2026-11-23T07:49:47Z",
       "title": "May I Ask for One Final Thing? termina no 8º volume",
@@ -1844,18 +2396,6 @@
       "title": "Hunter x Hunter volume 39 fica em 4º no ranking anual da Billboard Japan",
       "sourceUrl": "https://criticalhits.com.br/anime/hunter-x-hunter-volume-39-fica-em-4o-no-ranking-anual-da-billboard-japan",
       "originalTitle": "Hunter x Hunter volume 39 fica em 4º no ranking anual da Billboard Japan",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-661f4c05dab500ae",
-      "publishedAt": "2026-11-23T06:43:36Z",
-      "title": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/atrito-ator-superman-morte-hal-jordan-dcu",
-      "originalTitle": "Atrito entre ator de Superman e morte de Hal Jordan expõe primeira rachadura no novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -5732,18 +6272,6 @@
       "title": "Jennifer Lawrence faz ranking de beijos e põe astro da Marvel em último",
       "sourceUrl": "https://www.uol.com.br/splash/noticias/2026/11/20/atriz-poe-astro-da-marvel-em-ultimo-em-ranking-de-beijos-em-cena.ghtm",
       "originalTitle": "Jennifer Lawrence faz ranking de beijos e põe astro da Marvel em último",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-572949cc5e6db113",
-      "publishedAt": "2026-11-20T10:43:27Z",
-      "title": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
-      "sourceUrl": "https://radiogeekbr.com.br/novo-traje-flash-dcu",
-      "originalTitle": "Novo traje do Flash aponta virada de página no DCU pós-Ezra Miller",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -26840,18 +27368,6 @@
       "title": "Cutscenes de Halo: Campaign Evolved viram meme e expõem dilema do remake",
       "sourceUrl": "https://radiogeekbr.com.br/cutscenes-halo-campaign-evolved-viram-meme-e-dilema-remake",
       "originalTitle": "Cutscenes de Halo: Campaign Evolved viram meme e expõem dilema do remake",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2d539cc95c12541b",
-      "publishedAt": "2026-11-03T17:41:25Z",
-      "title": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
-      "sourceUrl": "https://radiogeekbr.com.br/adria-arjona-nova-mulher-maravilha-dcu-gunn-silencio",
-      "originalTitle": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
       "translated": false,
       "editorialReview": {
         "status": "native",
