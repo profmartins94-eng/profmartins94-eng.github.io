@@ -1,13 +1,337 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T03:06:18.021606Z",
+  "updatedAt": "2026-11-26T13:09:01.741978Z",
   "articles": [
     {
+      "id": "radar-1fddbd7410940642",
+      "publishedAt": "2026-11-26T13:04:00Z",
+      "title": "Nove às Seis | Quando saem os próximos episódios do k-drama? Confira agenda",
+      "sourceUrl": "https://www.omelete.com.br/korea/nove-as-seis-nine-to-six-dorama-proximos-episodios-agenda",
+      "originalTitle": "Nove às Seis | Quando saem os próximos episódios do k-drama? Confira agenda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d761655df4997021",
+      "publishedAt": "2026-11-26T13:03:45Z",
+      "title": "GTA 6 não permite que você repita as missões, e a Rockstar tem um bom motivo para isso",
+      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/157972/gta-6-nao-permite-que-voce-repita-as-missoes-e-a-rockstar-tem-um-bom-motivo-para-isso",
+      "originalTitle": "GTA 6 não permite que você repita as missões, e a Rockstar tem um bom motivo para isso",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b1f25333e905c1d5",
+      "publishedAt": "2026-11-26T13:02:29Z",
+      "title": "Slimetopia é anunciado para PC",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/slimetopia-anunciado-pc",
+      "originalTitle": "Slimetopia é anunciado para PC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3e47a1d27be60984",
+      "publishedAt": "2026-11-26T13:00:20Z",
+      "title": "Daisenryaku SSB 2 recebe suporte ao inglês e inicia segunda temporada",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/daisenryaku-ssb-2-segunda-temporada",
+      "originalTitle": "Daisenryaku SSB 2 recebe suporte ao inglês e inicia segunda temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7818d10698d09b46",
+      "publishedAt": "2026-11-26T13:00:00Z",
+      "title": "Doutor Destino: teaser mostra Magneto atacando vilão",
+      "sourceUrl": "https://www.einerd.com/teaser-vingadores-doutor-destino-magneto",
+      "originalTitle": "Doutor Destino: teaser mostra Magneto atacando vilão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-00399350892fbe22",
+      "publishedAt": "2026-11-26T12:54:03Z",
+      "title": "Gametsuki Kingdom revela mecânicas de combate em trailer",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/gametsuki-kingdom-trailer-gameplay",
+      "originalTitle": "Gametsuki Kingdom revela mecânicas de combate em trailer",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d04d49504c4170f6",
+      "publishedAt": "2026-11-26T12:47:27Z",
+      "title": "Scavenger estreia em Spectacular Spider-Man com traje montado de peças antigas",
+      "sourceUrl": "https://criticalhits.com.br/quadrinhos/scavenger-estreia-em-spectacular-spider-man-com-traje-montado-de-pecas-antigas",
+      "originalTitle": "Scavenger estreia em Spectacular Spider-Man com traje montado de peças antigas",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8e38f7b693f68863",
+      "publishedAt": "2026-11-26T12:45:08Z",
+      "title": "Koei coloca Nioh 3 na Steam pelo menor preço histórico",
+      "sourceUrl": "https://criticalhits.com.br/ofertas/koei-coloca-nioh-3-na-steam-pelo-menor-preco-historico",
+      "originalTitle": "Koei coloca Nioh 3 na Steam pelo menor preço histórico",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d0eafb49cdd4294f",
+      "publishedAt": "2026-11-26T12:40:26Z",
+      "title": "Traymon World: Taskbar Monster RPG chega gratuitamente ao PC",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/traymon-world-taskbar-monster-rpg-gratis",
+      "originalTitle": "Traymon World: Taskbar Monster RPG chega gratuitamente ao PC",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9200b8cd643046c2",
+      "publishedAt": "2026-11-26T12:39:51Z",
+      "title": "One Piece celebra aniversário de Katakuri com nova arte oficial",
+      "sourceUrl": "https://criticalhits.com.br/anime/one-piece-celebra-aniversario-de-katakuri-com-nova-arte-oficial",
+      "originalTitle": "One Piece celebra aniversário de Katakuri com nova arte oficial",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3b8c44b471fce4c4",
+      "publishedAt": "2026-11-26T12:39:38Z",
+      "title": "As 7 Melhores Capas de Spy x Family, da Menos à Mais Marcante",
+      "sourceUrl": "https://criticalhits.com.br/anime/as-7-melhores-capas-de-spy-x-family-da-menos-a-mais-marcante",
+      "originalTitle": "As 7 Melhores Capas de Spy x Family, da Menos à Mais Marcante",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d3cf668038b73cd2",
+      "publishedAt": "2026-11-26T12:38:07Z",
+      "title": "Tougen Anki fica 50 dias no topo do Prime Video japonês",
+      "sourceUrl": "https://criticalhits.com.br/anime/tougen-anki-fica-50-dias-no-topo-do-prime-video-japones",
+      "originalTitle": "Tougen Anki fica 50 dias no topo do Prime Video japonês",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3764913edd2d2e37",
+      "publishedAt": "2026-11-26T12:35:39Z",
+      "title": "Produtor dá atualizações PROMISSORAS sobre ‘Ghost Market’, nova animação da Pixar",
+      "sourceUrl": "https://cinepop.com.br/produtor-da-atualizacoes-promissoras-sobre-ghost-market-nova-animacao-da-pixar-777475",
+      "originalTitle": "Produtor dá atualizações PROMISSORAS sobre ‘Ghost Market’, nova animação da Pixar",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d37022fcf04e3cb4",
+      "publishedAt": "2026-11-26T12:31:22Z",
+      "title": "Dave Callaham confirma avanço na sequência de Shang-Chi",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/dave-callaham-confirma-avanco-na-sequencia-de-shang-chi",
+      "originalTitle": "Dave Callaham confirma avanço na sequência de Shang-Chi",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4f0e686f818cc399",
+      "publishedAt": "2026-11-26T12:30:25Z",
+      "title": "Shin Oishinbo revela vídeo promocional com músicas da série",
+      "sourceUrl": "https://criticalhits.com.br/anime/shin-oishinbo-revela-video-promocional-com-musicas-da-serie",
+      "originalTitle": "Shin Oishinbo revela vídeo promocional com músicas da série",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1664cc3c4552f36e",
+      "publishedAt": "2026-11-26T12:25:50Z",
+      "title": "The Fantastic Four: First Steps deu 37 milhões de prejuízo à Disney",
+      "sourceUrl": "https://www.eurogamer.pt/the-fantastic-four-first-steps-deu-37-milhoes-de-prejuizo-a-disney",
+      "originalTitle": "The Fantastic Four: First Steps deu 37 milhões de prejuízo à Disney",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9c805b99d78cdfe5",
+      "publishedAt": "2026-11-26T12:20:33Z",
+      "title": "Magneto ENFRENTA Victor von Doom no teaser inédito de ‘Vingadores: Doutor Destino’; Confira!",
+      "sourceUrl": "https://cinepop.com.br/magneto-enfrenta-victor-von-doom-no-teaser-inedito-de-vingadores-doutor-destino-confira-777468",
+      "originalTitle": "Magneto ENFRENTA Victor von Doom no teaser inédito de ‘Vingadores: Doutor Destino’; Confira!",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2e0c0dd6ec4b5dc1",
+      "publishedAt": "2026-11-26T12:20:00Z",
+      "title": "Love Virus | Jung Hae-in vai estrelar k-drama sobre casal que abre o relacionamento",
+      "sourceUrl": "https://www.omelete.com.br/korea/love-virus-jung-hae-in-dorama-o-que-e",
+      "originalTitle": "Love Virus | Jung Hae-in vai estrelar k-drama sobre casal que abre o relacionamento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-38f718ab1bb53c91",
+      "publishedAt": "2026-11-26T12:15:32Z",
+      "title": "Atriz jogou água quente, espancou modelo e espalhou boato de affair com David Harbour, astro da Marvel e 'Stranger Things', revela processo",
+      "sourceUrl": "https://revistamonet.globo.com/celebridades/noticia/2026/11/atriz-jogou-agua-quente-e-espancou-modelo-por-boato-de-affair-com-david-harbour-astro-da-marvel-e-stranger-things-revela-processo.ghtml",
+      "originalTitle": "Atriz jogou água quente, espancou modelo e espalhou boato de affair com David Harbour, astro da Marvel e 'Stranger Things', revela processo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1f00765cf5754336",
+      "publishedAt": "2026-11-26T12:15:00Z",
+      "title": "Sumiu na edição? Fãs apostam em manipulação do trailer de Vingadores: Doutor Destino",
+      "sourceUrl": "https://www.estadao.com.br/minha-serie/radar-pop/sumiu-na-edicao-fas-apostam-em-manipulacao-do-trailer-de-vingadores-doutor-destino",
+      "originalTitle": "Sumiu na edição? Fãs apostam em manipulação do trailer de Vingadores: Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d9ee13646b76d0f0",
+      "publishedAt": "2026-11-26T12:14:38Z",
+      "title": "Segunda temporada de Grupo de Estudos chega em 2027",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/segunda-temporada-de-grupo-de-estudos-chega-em-2027",
+      "originalTitle": "Segunda temporada de Grupo de Estudos chega em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-173abc842b76fe1e",
+      "publishedAt": "2026-11-26T12:01:00Z",
+      "title": "Grupo de Estudos | 2ª temporada confirma lançamento em 2027",
+      "sourceUrl": "https://www.omelete.com.br/korea/grupo-de-estudos-2-temporada-data-de-estreia",
+      "originalTitle": "Grupo de Estudos | 2ª temporada confirma lançamento em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-71ba86fdb653ff07",
+      "publishedAt": "2026-11-26T12:00:44Z",
+      "title": "Doutor Destino: 7 curiosidades sobre o antagonista de Vingadores",
+      "sourceUrl": "https://br.ign.com/avengers-doomsday/157962/doutor-destino-7-curiosidades-sobre-o-antagonista-de-vingadores",
+      "originalTitle": "Doutor Destino: 7 curiosidades sobre o antagonista de Vingadores",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4e40b4d9fa39e6ba",
+      "publishedAt": "2026-11-26T11:50:00Z",
+      "title": "Missão Cruzada 2 ganha trailer e estreia na Netflix em 25 de dezembro",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/missao-cruzada-2-ganha-trailer-e-estreia-na-netflix-em-25-de-dezembro",
+      "originalTitle": "Missão Cruzada 2 ganha trailer e estreia na Netflix em 25 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-78d69478f1ce9759",
-      "publishedAt": "2026-11-26T03:03:44Z",
+      "publishedAt": "2026-11-26T11:48:07Z",
       "title": "O Senhor dos Anéis: Os Anéis de Poder | Tudo que descobrimos visitando o set da 3ª temporada",
       "sourceUrl": "https://www.omelete.com.br/series-tv/o-senhor-dos-aneis-os-aneis-de-poder-set-visit-3-temporada-lista",
       "originalTitle": "O Senhor dos Anéis: Os Anéis de Poder | Tudo que descobrimos visitando o set da 3ª temporada",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-a7b48924ef1aaed0",
+      "publishedAt": "2026-11-26T11:01:58Z",
+      "title": "30 Filmes Imperdíveis Para Ver em 2027",
+      "sourceUrl": "https://www.omelete.com.br/filmes/melhores-filmes-2027-para-ver",
+      "originalTitle": "30 Filmes Imperdíveis Para Ver em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e9e2183d296978d5",
+      "publishedAt": "2026-11-26T07:30:47Z",
+      "title": "Two Point Hospital: Full Health Collection | Review",
+      "sourceUrl": "https://pizzafria.ig.com.br/analises/two-point-hospital-full-health-collection-review",
+      "originalTitle": "Two Point Hospital: Full Health Collection | Review",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7945cd0ac1356401",
+      "publishedAt": "2026-11-26T07:17:26Z",
+      "title": "A premiada artista Kim Cúc, uma lendária dubladora, faleceu aos 82 anos.",
+      "sourceUrl": "https://www.vietnam.vn/pt/nghe-si-uu-tu-kim-cuc-giong-doc-huyen-thoai-qua-doi-o-tuoi-82",
+      "originalTitle": "A premiada artista Kim Cúc, uma lendária dubladora, faleceu aos 82 anos.",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -87,6 +411,18 @@
       }
     },
     {
+      "id": "radar-c5ec173c2013796b",
+      "publishedAt": "2026-11-26T01:16:24Z",
+      "title": "The Legend of Zelda: Ocarina of Time recebe atualização 1.1.2; veja as notas do patch",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-recebe-atualizacao-veja-as-notas-do-patch.html",
+      "originalTitle": "The Legend of Zelda: Ocarina of Time recebe atualização 1.1.2; veja as notas do patch",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-05b8ec4de21ca9cb",
       "publishedAt": "2026-11-26T01:09:43Z",
       "title": "BioWare recusou Knights of the Old Republic 2 por prazo de 18 meses",
@@ -116,6 +452,18 @@
       "title": "Melinda May ganha armadura própria antes de Vingadores: Doutor Destino",
       "sourceUrl": "https://criticalhits.com.br/quadrinhos/melinda-may-ganha-armadura-propria-antes-de-vingadores-doutor-destino",
       "originalTitle": "Melinda May ganha armadura própria antes de Vingadores: Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3d420fca2462de53",
+      "publishedAt": "2026-11-26T00:23:23Z",
+      "title": "GTA VI: como melhorar o relacionamento entre Jason e Lucia",
+      "sourceUrl": "https://pizzafria.ig.com.br/artigos/gta-vi-relacionamento-jason-lucia",
+      "originalTitle": "GTA VI: como melhorar o relacionamento entre Jason e Lucia",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -507,6 +855,18 @@
       }
     },
     {
+      "id": "radar-44b9a673694004ff",
+      "publishedAt": "2026-11-25T18:28:39Z",
+      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
+      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-b529edeac748dfe2",
       "publishedAt": "2026-11-25T18:15:00Z",
       "title": "Funko Event Edition estreia na CCXP 26 com colecionáveis exclusivos",
@@ -524,6 +884,18 @@
       "title": "Jogos do PS Plus Essential de dezembro são revelados pela Sony! Confira a lista completa",
       "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/jogos-do-ps-plus-essential-de-dezembro-sao-revelados-pela-sony-confira-a-lista-completa",
       "originalTitle": "Jogos do PS Plus Essential de dezembro são revelados pela Sony! Confira a lista completa",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ce29a8a840c85f4",
+      "publishedAt": "2026-11-25T17:31:00Z",
+      "title": "Sony confirma jogos mensais do PS Plus de dezembro de 2026; confira a lista completa",
+      "sourceUrl": "https://br.ign.com/playstation-plus-1/157970/sony-confirma-jogos-mensais-do-ps-plus-de-dezembro-de-2026-confira-a-lista-completa",
+      "originalTitle": "Sony confirma jogos mensais do PS Plus de dezembro de 2026; confira a lista completa",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -620,6 +992,18 @@
       "title": "Netflix salvou o anime",
       "sourceUrl": "https://www.eurogamer.pt/netflix-salvou-o-anime",
       "originalTitle": "Netflix salvou o anime",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-445f6f3ac692af4d",
+      "publishedAt": "2026-11-25T15:39:37Z",
+      "title": "Anime Migratory Birds & Snail já tem estreia marcada para o verão de 2027",
+      "sourceUrl": "https://www.otakupt.com/anime/migratory-birds-and-snail-anime-estreia-verao-2027",
+      "originalTitle": "Anime Migratory Birds & Snail já tem estreia marcada para o verão de 2027",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -776,6 +1160,30 @@
       "title": "Mario Kart World recebe atualização 1.9.0 com novas variantes de pistas e opção de replay",
       "sourceUrl": "https://www.nintendoblast.com.br/2026/11/mario-kart-world-recebe-atualizacao-com-novas-variantes-de-pistas-opcao-de-replay.html",
       "originalTitle": "Mario Kart World recebe atualização 1.9.0 com novas variantes de pistas e opção de replay",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-065fa30a8b4809d7",
+      "publishedAt": "2026-11-25T13:38:27Z",
+      "title": "‘Vingadores: Doutor Destino’: Kevin Feige revela que Patrick Stewart enfrentava problemas de saúde nas filmagens e prepara homenagem ao ator",
+      "sourceUrl": "https://cinepop.com.br/vingadores-doutor-destino-kevin-feige-revela-que-patrick-stewart-enfrentava-problemas-de-saude-nas-filmagens-e-prepara-homenagem-ao-ator-777360",
+      "originalTitle": "‘Vingadores: Doutor Destino’: Kevin Feige revela que Patrick Stewart enfrentava problemas de saúde nas filmagens e prepara homenagem ao ator",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f4ef2e950acc5fd5",
+      "publishedAt": "2026-11-25T13:21:40Z",
+      "title": "Anime de Kindergarten Wars ganha novo trailer e estreia em abril de 2027",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/25/anime-kindergarten-wars-estreia-abril-2027-trailer-arte-abertura-ado",
+      "originalTitle": "Anime de Kindergarten Wars ganha novo trailer e estreia em abril de 2027",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -6752,18 +7160,6 @@
       "title": "5 Animes do Cartoon Network dos Anos 2000 Mais Sombrios do Que Pareciam",
       "sourceUrl": "https://criticalhits.com.br/anime/5-animes-do-cartoon-network-dos-anos-2000-mais-sombrios-do-que-pareciam",
       "originalTitle": "5 Animes do Cartoon Network dos Anos 2000 Mais Sombrios do Que Pareciam",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-44b9a673694004ff",
-      "publishedAt": "2026-11-20T20:58:35Z",
-      "title": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
-      "sourceUrl": "https://radiogeekbr.com.br/marvel-ressuscita-mulher-hulk-em-x-men-97",
-      "originalTitle": "Marvel ressuscita Mulher-Hulk em X-Men ’97 e expõe a nova engenharia de emergência do Disney+",
       "translated": false,
       "editorialReview": {
         "status": "native",
