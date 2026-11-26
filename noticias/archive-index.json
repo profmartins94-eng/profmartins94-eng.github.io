@@ -1,7 +1,463 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T13:09:01.741978Z",
+  "updatedAt": "2026-11-26T22:35:36.584335Z",
   "articles": [
+    {
+      "id": "radar-0ad798591e3c8e94",
+      "publishedAt": "2026-11-26T22:30:00Z",
+      "title": "Ainda vale a pena comprar um Nintendo Switch 1 em 2026?",
+      "sourceUrl": "https://canaltech.com.br/games/nintendo-switch-original-ainda-vale-a-pena-comprar-2026",
+      "originalTitle": "Ainda vale a pena comprar um Nintendo Switch 1 em 2026?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c9a5cc9596e2af39",
+      "publishedAt": "2026-11-26T22:27:48.766000Z",
+      "title": "Nintendo Switch 2 foi um dos principais motivos para o bom desempenho financeiro da Square Enix, revela o estúdio",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-switch-2-foi-um-dos-principais-motivos-para-o-bom-desempenho-financeiro-da-square-enix-revela-o-estudio.html",
+      "originalTitle": "Nintendo Switch 2 foi um dos principais motivos para o bom desempenho financeiro da Square Enix, revela o estúdio",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-af49aa7cac77b17a",
+      "publishedAt": "2026-11-26T22:23:46Z",
+      "title": "Shin Oishinbo ganha trailer e estreia em 4 de janeiro de 2027",
+      "sourceUrl": "https://criticalhits.com.br/anime/shin-oishinbo-ganha-trailer-e-estreia-em-4-de-janeiro-de-2027",
+      "originalTitle": "Shin Oishinbo ganha trailer e estreia em 4 de janeiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ce469d64c91ac43a",
+      "publishedAt": "2026-11-26T22:20:00Z",
+      "title": "James Gray ataca Festival de Cannes e diz que “não voltará” ao evento",
+      "sourceUrl": "https://www.omelete.com.br/filmes/james-gray-ataca-festival-de-cannes-e-diz-que-nao-voltara-ao-evento",
+      "originalTitle": "James Gray ataca Festival de Cannes e diz que “não voltará” ao evento",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8db1be49aa2657a3",
+      "publishedAt": "2026-11-26T22:09:10Z",
+      "title": "Mezase! Senkyu-Oh chega ao PS5 e Switch 2 após 30 anos",
+      "sourceUrl": "https://criticalhits.com.br/games/mezase-senkyu-oh-chega-ao-ps5-e-switch-2-apos-30-anos",
+      "originalTitle": "Mezase! Senkyu-Oh chega ao PS5 e Switch 2 após 30 anos",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-499fef234d0d8a32",
+      "publishedAt": "2026-11-26T22:07:40Z",
+      "title": "Trilha de GTA 6 chega às plataformas em 11 de dezembro",
+      "sourceUrl": "https://criticalhits.com.br/games/trilha-de-gta-6-chega-as-plataformas-em-11-de-dezembro",
+      "originalTitle": "Trilha de GTA 6 chega às plataformas em 11 de dezembro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-cf1c005673811aba",
+      "publishedAt": "2026-11-26T21:58:22Z",
+      "title": "Luca Guadagnino quer dirigir filme de 007 com Robert Pattinson",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/luca-guadagnino-quer-dirigir-filme-de-007-com-robert-pattinson",
+      "originalTitle": "Luca Guadagnino quer dirigir filme de 007 com Robert Pattinson",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-484ba036e93061b9",
+      "publishedAt": "2026-11-26T21:55:24Z",
+      "title": "Harry Potter: Dumbledore consertou a varinha de Hagrid?",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/harry-potter-dumbledore-consertou-a-varinha-de-hagrid.html",
+      "originalTitle": "Harry Potter: Dumbledore consertou a varinha de Hagrid?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-7da412a6dc91c115",
+      "publishedAt": "2026-11-26T21:55:00Z",
+      "title": "Shrek voltará aos cinemas com dublagem original de Bussunda",
+      "sourceUrl": "https://www.omelete.com.br/filmes/shrek-voltara-cinemas-com-dublagem-original-de-bussunda",
+      "originalTitle": "Shrek voltará aos cinemas com dublagem original de Bussunda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f46dac039b774f35",
+      "publishedAt": "2026-11-26T21:54:12Z",
+      "title": "Os 6 Animes de Terror Corporal Mais Perturbadores que Fool Night",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-6-animes-de-terror-corporal-mais-perturbadores-que-fool-night",
+      "originalTitle": "Os 6 Animes de Terror Corporal Mais Perturbadores que Fool Night",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-943d3eec24888a57",
+      "publishedAt": "2026-11-26T21:54:11Z",
+      "title": "Os 3 Personagens de Jujutsu Kaisen Que Podem Derrotar Gojo",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-3-personagens-de-jujutsu-kaisen-que-podem-derrotar-gojo",
+      "originalTitle": "Os 3 Personagens de Jujutsu Kaisen Que Podem Derrotar Gojo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b9b91668219fadab",
+      "publishedAt": "2026-11-26T21:50:44Z",
+      "title": "4 Animes com Vilões Mais Complexos que Solo Leveling",
+      "sourceUrl": "https://criticalhits.com.br/anime/4-animes-com-viloes-mais-complexos-que-solo-leveling",
+      "originalTitle": "4 Animes com Vilões Mais Complexos que Solo Leveling",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c56327635bc42248",
+      "publishedAt": "2026-11-26T21:49:39Z",
+      "title": "The Legend of Zelda: Breath of the Wild é uma jornada solitária e épica (Review do jogo)",
+      "sourceUrl": "https://www.animeunited.com.br/blog/the-legend-of-zelda-breath-of-the-wild-e-uma-jornada-solitaria-e-epica-review-do-jogo",
+      "originalTitle": "The Legend of Zelda: Breath of the Wild é uma jornada solitária e épica (Review do jogo)",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8e74895db5fd3a70",
+      "publishedAt": "2026-11-26T21:48:00Z",
+      "title": "Novo anime de Oishinbo ganha trailer especial",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/26/novo-anime-oishinbo-trailer-especial",
+      "originalTitle": "Novo anime de Oishinbo ganha trailer especial",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2f245febe83ebb2f",
+      "publishedAt": "2026-11-26T21:43:20Z",
+      "title": "Os 5 ninjutsus mais poderosos de Naruto Shippuden",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-5-ninjutsus-mais-poderosos-de-naruto-shippuden",
+      "originalTitle": "Os 5 ninjutsus mais poderosos de Naruto Shippuden",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f79e6d5c71d5e368",
+      "publishedAt": "2026-11-26T21:35:00Z",
+      "title": "As Novas Desventuras de Cliff Booth | Antes de novo filme com Tarantino, Fincher revela projetos recusados por Brad Pitt",
+      "sourceUrl": "https://www.omelete.com.br/filmes/as-novas-desventuras-de-cliff-booth-fincher-revela-projetos-recusados-brad-pitt",
+      "originalTitle": "As Novas Desventuras de Cliff Booth | Antes de novo filme com Tarantino, Fincher revela projetos recusados por Brad Pitt",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d20ab1890286ed22",
+      "publishedAt": "2026-11-26T21:31:55Z",
+      "title": "Valve forneceu dados de sete contas Steam em investigação da Denuvo",
+      "sourceUrl": "https://criticalhits.com.br/games/valve-forneceu-dados-de-sete-contas-steam-em-investigacao-da-denuvo",
+      "originalTitle": "Valve forneceu dados de sete contas Steam em investigação da Denuvo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-556b55ccba624908",
+      "publishedAt": "2026-11-26T21:26:13Z",
+      "title": "A segunda temporada de Ahsoka estreia em 20 de janeiro de 2027",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/a-segunda-temporada-de-ahsoka-estreia-em-20-de-janeiro-de-2027",
+      "originalTitle": "A segunda temporada de Ahsoka estreia em 20 de janeiro de 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-34c8efd367a4ec1c",
+      "publishedAt": "2026-11-26T21:14:00Z",
+      "title": "Sonnental | Nova série dos criadores de Dark no HBO Max ganha trailer; veja",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/sonnental-nova-serie-dos-criadores-dark-hbo-max-trailer-veja",
+      "originalTitle": "Sonnental | Nova série dos criadores de Dark no HBO Max ganha trailer; veja",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0caaad73cd41c5e4",
+      "publishedAt": "2026-11-26T21:00:54Z",
+      "title": "Ryan Reynolds pode seguir como Deadpool no MCU, sem franquia solo",
+      "sourceUrl": "https://www.maquinanerd.com.br/cinema/ryan-reynolds-pode-seguir-como-deadpool-no-mcu-sem-franquia-solo",
+      "originalTitle": "Ryan Reynolds pode seguir como Deadpool no MCU, sem franquia solo",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e027cc3693af76ca",
+      "publishedAt": "2026-11-26T21:00:00Z",
+      "title": "Blade Runner 2099 tem mercado de experiências humanas para replicantes",
+      "sourceUrl": "https://www.omelete.com.br/series-tv/blade-runner-2099-tem-mercado-de-experiencias-humanas-para-replicantes",
+      "originalTitle": "Blade Runner 2099 tem mercado de experiências humanas para replicantes",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e9ad1f74403ae4ef",
+      "publishedAt": "2026-11-26T20:37:29Z",
+      "title": "Por que Godzilla Minus Zero é uma resposta a Oppenheimer?",
+      "sourceUrl": "https://www.legiaodosherois.com.br/2026/por-que-godzilla-minus-zero-e-uma-resposta-a-oppenheimer.html",
+      "originalTitle": "Por que Godzilla Minus Zero é uma resposta a Oppenheimer?",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6c04790dea6a37b9",
+      "publishedAt": "2026-11-26T20:12:00Z",
+      "title": "Relançamento de Homem-Aranha: Um Novo Dia terá cena inédita de Vingadores: Doutor Destino",
+      "sourceUrl": "https://www.omelete.com.br/filmes/relancamento-de-homem-aranha-um-novo-dia-tera-cena-inedita-de-vingadores-doutor-destino",
+      "originalTitle": "Relançamento de Homem-Aranha: Um Novo Dia terá cena inédita de Vingadores: Doutor Destino",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-dc4ba5bc66600331",
+      "publishedAt": "2026-11-26T20:00:00Z",
+      "title": "Saída de James Gunn da DC pode resolver uma pendência da Marvel",
+      "sourceUrl": "https://tangerina.uol.com.br/filmes-series/saida-de-james-gunn-da-dc-pode-resolver-uma-pendencia-da-marvel",
+      "originalTitle": "Saída de James Gunn da DC pode resolver uma pendência da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d22fa4030b7f76aa",
+      "publishedAt": "2026-11-26T19:57:58Z",
+      "title": "K-dramas de novembro: 9 séries para ver no streaming este mês",
+      "sourceUrl": "https://www.omelete.com.br/korea/doramas-novembro-2026-lista-indicacoes",
+      "originalTitle": "K-dramas de novembro: 9 séries para ver no streaming este mês",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-641915f2e57e50f3",
+      "publishedAt": "2026-11-26T19:27:04Z",
+      "title": "Nintendo confirma presença na CCXP 2026 com estande dedicado a Zelda: Ocarina of Time",
+      "sourceUrl": "https://projectn.com.br/nintendo-confirma-presenca-na-ccxp-2026-com-estande-dedicado-a-zelda-ocarina-of-time",
+      "originalTitle": "Nintendo confirma presença na CCXP 2026 com estande dedicado a Zelda: Ocarina of Time",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-401caa531f708d6c",
+      "publishedAt": "2026-11-26T19:25:00Z",
+      "title": "Tudo Pode Ser Visto é o filme mais especial do ano, entenda por que",
+      "sourceUrl": "https://www.omelete.com.br/podcasts/tudo-pode-ser-visto-e-o-filme-mais-especial-do-ano-entenda-por-que",
+      "originalTitle": "Tudo Pode Ser Visto é o filme mais especial do ano, entenda por que",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9cab2c67b555cc3c",
+      "publishedAt": "2026-11-26T18:44:31Z",
+      "title": "EXCLUSIVO | Relançamento de “Shrek” nos cinemas manterá dublagem de Bussunda",
+      "sourceUrl": "https://cinepop.com.br/exclusivo-relancamento-de-shrek-nos-cinemas-mantera-dublagem-de-bussunda-777526",
+      "originalTitle": "EXCLUSIVO | Relançamento de “Shrek” nos cinemas manterá dublagem de Bussunda",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-26dea0745df264c9",
+      "publishedAt": "2026-11-26T17:52:00Z",
+      "title": "Nintendo Switch 2 com jogo EA Sport 27 por R$ 3.520",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/guia-de-compras/nintendo-switch-2-com-jogo-ea-sport-27-por-r-3520",
+      "originalTitle": "Nintendo Switch 2 com jogo EA Sport 27 por R$ 3.520",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ba48f8dceab3ff6a",
+      "publishedAt": "2026-11-26T17:00:00Z",
+      "title": "Grand Theft Auto: GTA VI teve o maior lançamento da história da PlayStation, diz Sony",
+      "sourceUrl": "https://www.administradores.com.br/noticias/grand-theft-auto-gta-vi-maior-lancamento-playstation",
+      "originalTitle": "Grand Theft Auto: GTA VI teve o maior lançamento da história da PlayStation, diz Sony",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-6354cda43bdebc27",
+      "publishedAt": "2026-11-26T16:28:44Z",
+      "title": "DC engaveta série do Batman idealizada por James Gunn e escancara vácuo de comando até 2026",
+      "sourceUrl": "https://radiogeekbr.com.br/dc-cancela-serie-batman-james-gunn-vacuo-comando-2026",
+      "originalTitle": "DC engaveta série do Batman idealizada por James Gunn e escancara vácuo de comando até 2026",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-3925fa00893b33f5",
+      "publishedAt": "2026-11-26T15:52:16Z",
+      "title": "HARK THE GHOUL será lançado para PC e consoles em janeiro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/hark-the-ghoul-lancamento-janeiro",
+      "originalTitle": "HARK THE GHOUL será lançado para PC e consoles em janeiro",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2d02511529b600b1",
+      "publishedAt": "2026-11-26T14:45:00Z",
+      "title": "Wizavior ganha trailer com animação quadro a quadro e tira mago da aposentadoria em plataforma 3D brasileira",
+      "sourceUrl": "https://arkade.com.br/wizavior-ganha-trailer-com-animacao-quadro-a-quadro-e-tira-mago-da-aposentadoria-em-plataforma-3d-brasileira",
+      "originalTitle": "Wizavior ganha trailer com animação quadro a quadro e tira mago da aposentadoria em plataforma 3D brasileira",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-79be9cc4e5587c3d",
+      "publishedAt": "2026-11-26T13:58:48Z",
+      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
+      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-e93dad3f5f94e317",
+      "publishedAt": "2026-11-26T13:53:00Z",
+      "title": "Shang-Chi 2 já está sendo escrito, afirma roteirista de Aranhaverso e Godzilla x Kong",
+      "sourceUrl": "https://www.omelete.com.br/filmes/shang-chi-2-roteirista-confirma-avanco-roteiro",
+      "originalTitle": "Shang-Chi 2 já está sendo escrito, afirma roteirista de Aranhaverso e Godzilla x Kong",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c75d5be69b4d238d",
+      "publishedAt": "2026-11-26T13:45:00Z",
+      "title": "Sakura Discipline: DLC grátis de Neon Abyss 2 chega em 4 de dezembro com modo só de katana",
+      "sourceUrl": "https://arkade.com.br/sakura-discipline-dlc-gratis-de-neon-abyss-2-chega-em-4-de-dezembro-com-modo-so-de-katana",
+      "originalTitle": "Sakura Discipline: DLC grátis de Neon Abyss 2 chega em 4 de dezembro com modo só de katana",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-4c64e3922d9cd7e7",
+      "publishedAt": "2026-11-26T13:42:48Z",
+      "title": "Nova animação focada nas MEIAS-IRMÃS da Cinderela alcança o 1º LUGAR da Netflix Brasil",
+      "sourceUrl": "https://cinepop.com.br/nova-animacao-focada-nas-meias-irmas-da-cinderela-alcanca-o-1o-lugar-da-netflix-brasil-777497",
+      "originalTitle": "Nova animação focada nas MEIAS-IRMÃS da Cinderela alcança o 1º LUGAR da Netflix Brasil",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-ab286fcd87a02a5f",
+      "publishedAt": "2026-11-26T13:25:14Z",
+      "title": "‘Shrek’ retornará aos cinemas nacionais para celebrar aniversário de 25 anos;",
+      "sourceUrl": "https://cinepop.com.br/shrek-retornara-aos-cinemas-nacionais-para-celebrar-aniversario-de-25-anos-saiba-mais-777489",
+      "originalTitle": "‘Shrek’ retornará aos cinemas nacionais para celebrar aniversário de 25 anos;",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
     {
       "id": "radar-1fddbd7410940642",
       "publishedAt": "2026-11-26T13:04:00Z",
@@ -56,6 +512,18 @@
       "title": "Doutor Destino: teaser mostra Magneto atacando vilão",
       "sourceUrl": "https://www.einerd.com/teaser-vingadores-doutor-destino-magneto",
       "originalTitle": "Doutor Destino: teaser mostra Magneto atacando vilão",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-358eb61f06259605",
+      "publishedAt": "2026-11-26T12:58:06Z",
+      "title": "ORPHEUS: TO HELL AND BACK chega ao Nintendo Switch em dezembro",
+      "sourceUrl": "https://pizzafria.ig.com.br/news/orpheus-to-hell-and-back-switch-data",
+      "originalTitle": "ORPHEUS: TO HELL AND BACK chega ao Nintendo Switch em dezembro",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -303,11 +771,47 @@
       }
     },
     {
+      "id": "radar-c5ec173c2013796b",
+      "publishedAt": "2026-11-26T11:40:06.037000Z",
+      "title": "The Legend of Zelda: Ocarina of Time recebe atualização 1.1.2; veja as notas do patch",
+      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-recebe-atualizacao-veja-as-notas-do-patch.html",
+      "originalTitle": "The Legend of Zelda: Ocarina of Time recebe atualização 1.1.2; veja as notas do patch",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-652981c898ef7350",
+      "publishedAt": "2026-11-26T11:30:21Z",
+      "title": "‘Vingadores: Doutor Destino’: tudo o que se sabe sobre o filme da Marvel",
+      "sourceUrl": "https://www.einerd.com/vingadores-doutor-destino-tudo-o-que-se-sabe-sobre-o-filme-da-marvel",
+      "originalTitle": "‘Vingadores: Doutor Destino’: tudo o que se sabe sobre o filme da Marvel",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
       "id": "radar-a7b48924ef1aaed0",
       "publishedAt": "2026-11-26T11:01:58Z",
       "title": "30 Filmes Imperdíveis Para Ver em 2027",
       "sourceUrl": "https://www.omelete.com.br/filmes/melhores-filmes-2027-para-ver",
       "originalTitle": "30 Filmes Imperdíveis Para Ver em 2027",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2d539cc95c12541b",
+      "publishedAt": "2026-11-26T08:43:32Z",
+      "title": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
+      "sourceUrl": "https://radiogeekbr.com.br/adria-arjona-nova-mulher-maravilha-dcu-gunn-silencio",
+      "originalTitle": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -332,6 +836,18 @@
       "title": "A premiada artista Kim Cúc, uma lendária dubladora, faleceu aos 82 anos.",
       "sourceUrl": "https://www.vietnam.vn/pt/nghe-si-uu-tu-kim-cuc-giong-doc-huyen-thoai-qua-doi-o-tuoi-82",
       "originalTitle": "A premiada artista Kim Cúc, uma lendária dubladora, faleceu aos 82 anos.",
+      "translated": false,
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-2b1924454047cf22",
+      "publishedAt": "2026-11-26T03:28:49Z",
+      "title": "Peter Safran quebra silêncio, expõe falha-chave do Snyderverso e dita rumo do novo DCU",
+      "sourceUrl": "https://radiogeekbr.com.br/peter-safran-critica-snyderverso-e-dita-rumo-dcu",
+      "originalTitle": "Peter Safran quebra silêncio, expõe falha-chave do Snyderverso e dita rumo do novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -404,18 +920,6 @@
       "title": "The Legend of Zelda: Ocarina of Time recebe atualização Ver. 1.1.2 no Nintendo Switch 2",
       "sourceUrl": "https://projectn.com.br/the-legend-of-zelda-ocarina-of-time-recebe-atualizacao-ver-1-1-2-no-nintendo-switch-2",
       "originalTitle": "The Legend of Zelda: Ocarina of Time recebe atualização Ver. 1.1.2 no Nintendo Switch 2",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c5ec173c2013796b",
-      "publishedAt": "2026-11-26T01:16:24Z",
-      "title": "The Legend of Zelda: Ocarina of Time recebe atualização 1.1.2; veja as notas do patch",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-recebe-atualizacao-veja-as-notas-do-patch.html",
-      "originalTitle": "The Legend of Zelda: Ocarina of Time recebe atualização 1.1.2; veja as notas do patch",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -1371,18 +1875,6 @@
       }
     },
     {
-      "id": "radar-79be9cc4e5587c3d",
-      "publishedAt": "2026-11-25T08:28:37Z",
-      "title": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/gunn-dc-aposta-segundo-filme-antiheroi-2026",
-      "originalTitle": "Antes do novo Flash, James Gunn reserva 2026 para o segundo filme de anti-herói do DCU",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-981286320d05aa99",
       "publishedAt": "2026-11-25T08:11:05Z",
       "title": "Historié anime estreia 8 de janeiro no MBS e Amazon Prime",
@@ -1880,18 +2372,6 @@
       "title": "Michael | Diretor do filme é acusado de agressão física com arma",
       "sourceUrl": "https://www.omelete.com.br/filmes/michael-diretor-do-filme-e-acusado-de-agressao-fisica-com-arma",
       "originalTitle": "Michael | Diretor do filme é acusado de agressão física com arma",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2d539cc95c12541b",
-      "publishedAt": "2026-11-24T23:14:06Z",
-      "title": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
-      "sourceUrl": "https://radiogeekbr.com.br/adria-arjona-nova-mulher-maravilha-dcu-gunn-silencio",
-      "originalTitle": "Adria Arjona na mira da DC? Rumor revela o silêncio calculado de Gunn sobre a nova Mulher-Maravilha",
       "translated": false,
       "editorialReview": {
         "status": "native",
@@ -12152,18 +12632,6 @@
       "title": "N-BlastCast #372 — The Legend of Zelda: Ocarina of Time — o GOTY chegou",
       "sourceUrl": "https://www.nintendoblast.com.br/2026/11/podcast-the-legend-of-zelda-ocarina-of-time-o-goty-chegou.html",
       "originalTitle": "N-BlastCast #372 — The Legend of Zelda: Ocarina of Time — o GOTY chegou",
-      "translated": false,
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2b1924454047cf22",
-      "publishedAt": "2026-11-17T08:42:49Z",
-      "title": "Peter Safran quebra silêncio, expõe falha-chave do Snyderverso e dita rumo do novo DCU",
-      "sourceUrl": "https://radiogeekbr.com.br/peter-safran-critica-snyderverso-e-dita-rumo-dcu",
-      "originalTitle": "Peter Safran quebra silêncio, expõe falha-chave do Snyderverso e dita rumo do novo DCU",
       "translated": false,
       "editorialReview": {
         "status": "native",
