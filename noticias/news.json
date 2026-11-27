@@ -1,27 +1,651 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T14:20:48.424656Z",
+  "updatedAt": "2026-11-27T22:56:41.062969Z",
   "articles": [
     {
-      "id": "radar-790d8933bb459e64",
-      "title": "Gambit: Channing Tatum mudaria o rumo do filme solo",
-      "excerpt": "Ator deixaria a comédia romântica de lado",
+      "id": "radar-730d9c2d1b100298",
+      "title": "Hancock 2 | \"Will Smith me entregou um roteiro incrivelmente engraçado\", diz diretor do primeiro filme",
+      "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T14:15:15Z",
+      "publishedAt": "2026-11-27T22:43:00Z",
       "displayDate": "27 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/gambit-channing-tatum-mudaria-o-rumo-do-filme-solo.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_kRyn14NWuFm0.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/hancock-2-will-smith-entregou-roteiro-incrivelmente-engracado-diz-diretor-do-primeiro-filme",
+      "image": "https://cdn.ome.lt/TFwfciv8fOwCD2oftzez5KkFQqg=/1200x630/smart/filters:format(webp)/extras/conteudos/images70.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Gambit: Channing Tatum mudaria o rumo do filme solo",
+      "originalTitle": "Hancock 2 | \"Will Smith me entregou um roteiro incrivelmente engraçado\", diz diretor do primeiro filme",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-9e6a3775cdf9e9a6",
+      "title": "Vingadores: Doutor Destino ganha coleção da Piticas com camisetas, brindes e ingressos para o cinema",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em www.jwave.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-27T22:40:59Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "www.jwave.com.br",
+      "sourceUrl": "https://www.jwave.com.br/2026/11/vingadores-doutor-destino-ganha-colecao-da-piticas-com-camisetas-brindes-e-ingressos-para-o-cinema",
+      "image": "https://www.jwave.com.br/wp-content/uploads/2026/11/IMAGEM-RELEASE-JERSEYS-ALTA.png",
+      "alt": "Imagem publicada por www.jwave.com.br",
+      "imageCredit": "Imagem: www.jwave.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino ganha coleção da Piticas com camisetas, brindes e ingressos para o cinema",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-de3738defa91e5aa",
+      "title": "Vingadores: Doutor Destino traz Robert Downey Jr. como vilão em épico do MCU",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Terra. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-27T22:28:00Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Terra",
+      "sourceUrl": "https://www.terra.com.br/diversao/vingadores-doutor-destino-traz-robert-downey-jr-como-vilao-em-epico-do-mcu,b80f3f2088708290f097832146330ad8t3wgpl2n.html",
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/27/1967921567-91hjeh9r8glacsl1500.jpg",
+      "alt": "Imagem publicada por Terra",
+      "imageCredit": "Imagem: Terra",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Vingadores: Doutor Destino traz Robert Downey Jr. como vilão em épico do MCU",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-b3c7ac4fd3db79b4",
+      "title": "Persona 5 inspirou mensagens de celular em Cyberpunk 2077",
+      "excerpt": "Paweł Sasko revelou que Persona 5 inspirou parte das interações por celular de Cyberpunk 2077.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-27T22:27:31Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/persona-5-inspirou-mensagens-de-celular-em-cyberpunk-2077",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/persona-5-inspirou-mensagens-de-celular-em-cyberpunk-2077-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Persona 5 inspirou mensagens de celular em Cyberpunk 2077",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-95c78fe90207c93b",
+      "title": "CCXP26 terá torneio de cosplay com 60 participantes e Honda Biz Kuromi como prêmio",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em www.jwave.com.br. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-27T22:26:13Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "www.jwave.com.br",
+      "sourceUrl": "https://www.jwave.com.br/2026/11/ccxp26-torneio-de-cosplay-honda-biz-kuromi-como-premio",
+      "image": "https://www.jwave.com.br/wp-content/uploads/2026/11/CCXP26-COSPLAY.png",
+      "alt": "Imagem publicada por www.jwave.com.br",
+      "imageCredit": "Imagem: www.jwave.com.br",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "CCXP26 terá torneio de cosplay com 60 participantes e Honda Biz Kuromi como prêmio",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-8547fe5088c3caa3",
+      "title": "Dragon Ball Super ainda não apresentou o rei dos Saiyajins do Universo 6",
+      "excerpt": "O rei dos Saiyajins de Sadala segue sem aparecer em Dragon Ball Super, embora o planeta do Universo 6 já tenha sido apresentado na série.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T22:23:55Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/dragon-ball-super-ainda-nao-apresentou-o-rei-dos-saiyajins-do-universo-6",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/dragon-ball-super-ainda-nao-apresentou-o-rei-dos-saiyajins-do-universo-6-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Dragon Ball Super ainda não apresentou o rei dos Saiyajins do Universo 6",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-bf2a34ff849b2422",
+      "title": "Os 8 Personagens de One Piece Mais Fracos Sem Suas Frutas do Diabo",
+      "excerpt": "Entre os personagens de One Piece que mais dependem de suas Frutas do Diabo estão piratas poderosos, um almirante e até figuras importantes da história.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T22:13:42Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/os-8-personagens-de-one-piece-mais-fracos-sem-suas-frutas-do-diabo",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/os-8-personagens-de-one-piece-mais-fracos-sem-suas-frutas-do-diabo-6.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Os 8 Personagens de One Piece Mais Fracos Sem Suas Frutas do Diabo",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-fbd93719a9f31a4b",
+      "title": "CPF na nota pode render valor de iPhone 18 e PlayStation 5; saiba como concorrer",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Primeira Página. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-27T22:11:48Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Primeira Página",
+      "sourceUrl": "https://primeirapagina.com.br/economia/cuiaba-sorteia-valor-de-20-playstation-5-e-10-iphones-18-veja-como-concorrer",
+      "image": "https://primeirapagina.com.br/wp-content/uploads/2026/11/primeira-pagina-2026-11-27T162544.361.jpg",
+      "alt": "Imagem publicada por Primeira Página",
+      "imageCredit": "Imagem: Primeira Página",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "CPF na nota pode render valor de iPhone 18 e PlayStation 5; saiba como concorrer",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-12505b5ce80fc40c",
+      "title": "RuneScape oferece 10 dias de assinatura grátis a partir de 2 de dezembro",
+      "excerpt": "A partir de 2 de dezembro, RuneScape terá 10 dias de assinatura grátis para novos jogadores e antigos membros que não tinham uma assinatura ativa desde 2 de junho de 2026.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-27T22:11:02Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/runescape-oferece-10-dias-de-assinatura-gratis-a-partir-de-2-de-dezembro",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/runescape-oferece-10-dias-de-assinatura-gratis-a-partir-de-2-de-dezembro-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "RuneScape oferece 10 dias de assinatura grátis a partir de 2 de dezembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1e0605309a1edde1",
+      "title": "007 | “Não vou mudar o DNA de James Bond”, diz Denis Villeneuve",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-27T22:09:00Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/007-nao-vou-mudar-o-dna-de-james-bond-diz-denis-villeneuve",
+      "image": "https://cdn.ome.lt/8kkeo4PifCykFhmWAmMWyqLgTx4=/1200x630/smart/filters:format(webp)/extras/conteudos/b66d5e50-e1e4-11f1-9f14-b33806cf.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "007 | “Não vou mudar o DNA de James Bond”, diz Denis Villeneuve",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-596ed2ac33ef9d07",
+      "title": "5 Mangás da Shonen Jump Que Chegaram ao Fim em 2026",
+      "excerpt": "Cinco mangás da Shonen Jump encerraram suas histórias em 2026, incluindo séries populares como Black Clover e Sakamoto Days.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T21:54:00Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/anime/5-mangas-da-shonen-jump-que-chegaram-ao-fim-em-2026",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/5-mangas-da-shonen-jump-que-chegaram-ao-fim-em-2026-6.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "5 Mangás da Shonen Jump Que Chegaram ao Fim em 2026",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c50cfc3c818dbd13",
+      "title": "As Novas Desventuras de Cliff Booth não precisava existir - mas Brad Pitt nos convence de que sim",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "geek",
+      "categoryName": "Universo geek",
+      "publishedAt": "2026-11-27T21:42:17Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/filmes/criticas/as-novas-desventuras-de-cliff-booth-brad-pitt-critica",
+      "image": "https://cdn.ome.lt/I61bXsX-ycHdIFHWQDl2b_eBJ0Y=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2026-11-25_192259.png",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "As Novas Desventuras de Cliff Booth não precisava existir - mas Brad Pitt nos convence de que sim",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-f6cdfd6bc7871dbe",
+      "title": "Animador de The Ashen OZ morre durante o desenvolvimento do jogo",
+      "excerpt": "David O., animador de The Ashen OZ, morreu repentinamente em 16 de novembro, enquanto o jogo ainda estava em desenvolvimento.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T21:41:17Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/games/animador-de-the-ashen-oz-morre-durante-o-desenvolvimento-do-jogo",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/animador-de-the-ashen-oz-morre-durante-o-desenvolvimento-do-jogo-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Animador de The Ashen OZ morre durante o desenvolvimento do jogo",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-11b9641f1dd52f14",
+      "title": "Anime Mobile Suit Gundam ZZ ganha arte em comemoração ao seu 40º aniversário",
+      "excerpt": "O anime é continuação direta de Mobile Suit Zeta Gundam",
+      "body": [
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T21:35:00Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/27/anime-mobile-suit-gundam-zz-aniversario-40-anos-arte",
+      "image": "https://a.storyblok.com/f/178900/960x540/f678174049/gundam-zz-40th-anniversary-header.jpg",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Anime Mobile Suit Gundam ZZ ganha arte em comemoração ao seu 40º aniversário",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-d9b7a7da646c6b43",
+      "title": "Pikmin 4 de Nintendo Switch 2 recoloca o cérebro para trabalhar com poucas novidades",
+      "excerpt": "Pikmin pode não ser tão popular quanto um Mario, Zelda ou Animal Crossing, mas não há como negar: é uma franquia pela qual a Nintendo e o mestre Shigeru Miyamoto têm um carinho especial.",
+      "body": [
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-27T21:15:00Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/pikmin-4-de-nintendo-switch-2-recoloca-o-cerebro-para-trabalhar-com-poucas-novidades",
+      "image": "https://www.estadao.com.br/resizer/v2/RNC36SLTZZFFHETHL5ETCTCNSY.jpg?quality=80&auth=4eb8d2224ce97acdded966d65ec850ab6b5dc7e4d76c390de076637c6b0bd388&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Pikmin 4 de Nintendo Switch 2 recoloca o cérebro para trabalhar com poucas novidades",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-302a343cd5035820",
+      "title": "Denis Villeneuve explica por que Duna: Parte Três não se chama Messias de Duna",
+      "excerpt": "Denis Villeneuve afirma que Duna: Parte Três adapta o romance Messias de Duna, de Frank Herbert, com tantas mudanças que usar o título do livro seria desonesto.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-27T21:11:13Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/denis-villeneuve-explica-por-que-duna-parte-tres-nao-se-chama-messias-de-duna",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/denis-villeneuve-explica-por-que-duna-parte-tres-nao-se-chama-messias-de-duna-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Denis Villeneuve explica por que Duna: Parte Três não se chama Messias de Duna",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1d1f7bc5b684892b",
+      "title": "Os 4 Filmes de Entrando Numa Fria do Mais Fraco ao Melhor",
+      "excerpt": "Os filmes de Entrando Numa Fria passam por altos e baixos: a franquia começa com uma comédia marcante, perde força na terceira parte e tenta recuperar o humor com Focker-in-Law.",
+      "body": [
+        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-27T21:01:24Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Critical Hits",
+      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/os-4-filmes-de-entrando-numa-fria-do-mais-fraco-ao-melhor",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/os-4-filmes-de-entrando-numa-fria-do-mais-fraco-ao-melhor-featured.jpg",
+      "alt": "Imagem publicada por Critical Hits",
+      "imageCredit": "Imagem: Critical Hits",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Os 4 Filmes de Entrando Numa Fria do Mais Fraco ao Melhor",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1aeb3e7d5d33a3bb",
+      "title": "Linda Cardellini revela cena DELETADA de ‘Scooby-Doo’: “Tirei o suéter e dancei só de sutiã”",
+      "excerpt": "Em entrevista ao Entertainment Weekly, Linda Cardellini (‘Crystal Lake’) revelou uma inusitada cena deletada do live-action de ‘Scooby-Doo‘.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T19:18:45Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/linda-cardellini-revela-cena-deletada-de-scooby-doo-tirei-o-sueter-e-dancei-so-de-sutia-777649",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/scooby-doo-velma-3-102626-3a88c95eb7d44eeeb4266277d32cef44.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Linda Cardellini revela cena DELETADA de ‘Scooby-Doo’: “Tirei o suéter e dancei só de sutiã”",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c0105d7e297326a5",
+      "title": "Team Cherry vai publicar The Botanist and the Translator, novo jogo da dubladora da Hornet",
+      "excerpt": "A dubladora de Hornet em Hollow Knight e Silksong, anunciou uma aventura de mistério e exploração botânica que será publicada pela Team Cherry.",
+      "body": [
+        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T18:00:00Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Arkade",
+      "sourceUrl": "https://arkade.com.br/team-cherry-vai-publicar-the-botanist-and-the-translator-novo-jogo-da-dubladora-da-hornet",
+      "image": "https://arkade.com.br/wp-content/uploads/2026/11/team-cherry-vai-publicar-the-botanist-and-the-translator-novo-jogo-da-dubladora-1.webp",
+      "alt": "Imagem publicada por Arkade",
+      "imageCredit": "Imagem: Arkade",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Team Cherry vai publicar The Botanist and the Translator, novo jogo da dubladora da Hornet",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-1ca761860b99cda1",
+      "title": "\"Extremamente desapontado\": Denis Villeneuve não gostou que a Disney colocou Vingadores: Doutor Destino no mesmo dia de lançamento de Duna: Parte Três",
+      "excerpt": "\"Aceitei meu destino, rezando aos deuses do cinema\" Denis Villeneuve revelou sua decepção com a decisão da Disney de lançar Vingadores: Doutor Destino nos cinemas no mesmo dia que Duna: Parte Três .",
+      "body": [
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-27T17:07:07Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/duna-parte-3/158035/extremamente-desapontado-denis-villeneuve-nao-gostou-que-a-disney-colocou-vingadores-doutor-destino",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/d1-20261127-140618-0000_2cmw.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "\"Extremamente desapontado\": Denis Villeneuve não gostou que a Disney colocou Vingadores: Doutor Destino no mesmo dia de lançamento de Duna: Parte Três",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-618fa50576046e37",
+      "title": "Avatar: A Lenda de Aang | Criador revela que trabalha em dois novos projetos da franquia",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T16:38:00Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Omelete",
+      "sourceUrl": "https://www.omelete.com.br/mangas-animes/avatar-a-lenda-de-aang-criador-novos-projetos-franquia",
+      "image": "https://cdn.ome.lt/S6V2HgrN7U2qgsUDRPWabQDgq7g=/1200x630/smart/filters:format(webp)/extras/conteudos/avatar-a-lenda-de-aang.webp",
+      "alt": "Imagem publicada por Omelete",
+      "imageCredit": "Imagem: Omelete",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Avatar: A Lenda de Aang | Criador revela que trabalha em dois novos projetos da franquia",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-c63b50176808e5a6",
+      "title": "Próxima Semana em XBOX: novos jogos de 30 de novembro a 4 de dezembro",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em Xbox Wire Brasil. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-27T16:00:41Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Xbox Wire Brasil",
+      "sourceUrl": "https://news.xbox.com/pt-br/2026/11/27/proxima-semana-em-xbox-novos-jogos-de-30-de-novembro-a-4-de-dezembro",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/nwox-hero-1daca34c0ae433cf46e4.jpg",
+      "alt": "Imagem publicada por Xbox Wire Brasil",
+      "imageCredit": "Imagem: Xbox Wire Brasil",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Próxima Semana em XBOX: novos jogos de 30 de novembro a 4 de dezembro",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-11c25221c5257a83",
+      "title": "‘Sakamoto Days’: 2ª temporada do POPULAR anime da Netflix ganha trailer incrível; Confira!",
+      "excerpt": "A Netflix divulgou o trailer oficial da 2ª temporada de ‘Sakamoto Days’, anime baseado na famosa saga mangá criada por Yuto Suzuki, apresentando os personagens do próximo ciclo.",
+      "body": [
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T15:57:20Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/sakamoto-days-2a-temporada-do-popular-anime-da-netflix-ganha-trailer-incrivel-confira-777625",
+      "image": "https://cinepop.com.br/wp-content/uploads/2025/01/imagem_2025-01-09_143819314.jpg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "‘Sakamoto Days’: 2ª temporada do POPULAR anime da Netflix ganha trailer incrível; Confira!",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-0d9521ed374bc8fb",
+      "title": "Batman: Parte II tem cena de funeral no set; veja",
+      "excerpt": "Um novo vídeo de set de Batman: Parte II colocou a internet para especular.",
+      "body": [
+        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-27T15:00:00Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "Ei Nerd",
+      "sourceUrl": "https://www.einerd.com/the-batman-parte-2-video-set-funeral",
+      "image": "https://www.einerd.com/wp-content/uploads/2026/01/The-Batman-e1784126652615.jpg",
+      "alt": "Imagem publicada por Ei Nerd",
+      "imageCredit": "Imagem: Ei Nerd",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Batman: Parte II tem cena de funeral no set; veja",
+      "tags": [],
+      "editorialReview": {
+        "status": "native",
+        "policyVersion": 2
+      }
+    },
+    {
+      "id": "radar-600b00c03f7e1c16",
+      "title": "Antes de Vingadores 5, James Marsden relembra discussões para novo filme dos X-Men e mais",
+      "excerpt": "",
+      "body": [
+        "Confira a cobertura completa em O Vício. A matéria original reúne os detalhes desta atualização."
+      ],
+      "category": "cinema",
+      "categoryName": "Cinema & séries",
+      "publishedAt": "2026-11-27T14:43:48Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "O Vício",
+      "sourceUrl": "https://ovicio.com.br/antes-de-vingadores-5-james-marsden-relembra-discussoes-para-novo-filme-dos-x-men-e-mais",
+      "image": "https://ovicio.com.br/wp-content/uploads/2026/11/20261127-james-marsden-de-x-men-em-vingadores-doutor-destino.jpg",
+      "alt": "Imagem publicada por O Vício",
+      "imageCredit": "Imagem: O Vício",
+      "syndicated": true,
+      "meme": false,
+      "translated": false,
+      "originalTitle": "Antes de Vingadores 5, James Marsden relembra discussões para novo filme dos X-Men e mais",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -55,110 +679,6 @@
       }
     },
     {
-      "id": "radar-6eacc0f2f2425742",
-      "title": "RapaduraCast 123 – [Sala VIP] “Jogos Vorazes: Amanhecer na Colheita” é relevante e doloroso!",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Cinema com Rapadura. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-27T14:14:46Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Cinema com Rapadura",
-      "sourceUrl": "https://youtu.be/xiAH9ZUyNEI",
-      "image": "https://i.ytimg.com/vi/xiAH9ZUyNEI/maxresdefault.jpg",
-      "alt": "Imagem publicada por Cinema com Rapadura",
-      "imageCredit": "Imagem: Cinema com Rapadura",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "RapaduraCast 123 – [Sala VIP] “Jogos Vorazes: Amanhecer na Colheita” é relevante e doloroso!",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-a41d80d56e54cbef",
-      "title": "RapaduraCast 934 – Vingadores Guerra Infinita e Ultimato ainda funcionam?",
-      "excerpt": "⁠Jurandir Filho⁠, ⁠Rogério Montanare⁠, ⁠Thiago Siqueira⁠ e ⁠Fernanda Bermoltz⁠ batem um papo em preparação para a chegada de “Vingadores: Doutor Destino“.",
-      "body": [
-        "Confira a cobertura completa em Cinema com Rapadura. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T14:13:51Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Cinema com Rapadura",
-      "sourceUrl": "https://cinemacomrapadura.com.br/rapaduracast-podcast/631291/rapaduracast-934-vingadores-guerra-infinita-e-ultimato-ainda-funcionam",
-      "image": "https://cinemacomrapadura.com.br/imagens/2026/11/20261127-rc-thumb-vingadores-768x432.png",
-      "alt": "Imagem publicada por Cinema com Rapadura",
-      "imageCredit": "Imagem: Cinema com Rapadura",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "RapaduraCast 934 – Vingadores Guerra Infinita e Ultimato ainda funcionam?",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-687b0141c6f6c648",
-      "title": "Channing Tatum revela que filme cancelado do Gambit teria comédia adulta e clima sensual",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T14:09:00Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/channing-tatum-novos-detalhes-filme-cancelado-gambit",
-      "image": "https://cdn.ome.lt/1vrwrhk31naasMCFXixkwIZC8p4=/1200x630/smart/filters:format(webp)/extras/conteudos/images_-_2026-11-27T110534.278.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Channing Tatum revela que filme cancelado do Gambit teria comédia adulta e clima sensual",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-43eda1b813b44a32",
-      "title": "EA Sports FC 27 muda dribles, goleiros e Modo Carreira em atualização",
-      "excerpt": "A atualização 1.11 de EA Sports FC 27 chegou em 26 de novembro com mudanças na jogabilidade e ajustes em diferentes modos.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-27T14:08:44Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/ea-sports-fc-27-muda-dribles-goleiros-e-modo-carreira-em-atualizacao",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/ea-sports-fc-27-muda-dribles-goleiros-e-modo-carreira-em-atualizacao-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "EA Sports FC 27 muda dribles, goleiros e Modo Carreira em atualização",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
       "id": "radar-fa5f1dde783c77a4",
       "title": "Anime de The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me ganha trailer e data de lançamento",
       "excerpt": "Também foi revelada uma nova adição ao elenco de voz e os temas de abertura e encerramento do anime que estreia dia 1º de janeiro",
@@ -185,51 +705,25 @@
       }
     },
     {
-      "id": "radar-c52919bd440a8cde",
-      "title": "Chefe da Rockstar North sabia que alguns jogadores de GTA 6 “rejeitariam” novos sistemas, como os perfis criminais, mas insiste que “você ainda pode fazer tudo o que queria fazer antes”",
-      "excerpt": "“Eu pensei: ‘Ah, merd*, estamos em apuros’”",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-27T14:03:21Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/158021/chefe-da-rockstar-north-sabia-que-alguns-jogadores-de-gta-6-rejeitariam-novos-sistemas-como-os-perfi",
-      "image": "https://sm.ign.com/ign_br/news/r/rockstar-n/rockstar-north-boss-knew-some-gta-6-players-would-reject-new_yw8j.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Chefe da Rockstar North sabia que alguns jogadores de GTA 6 “rejeitariam” novos sistemas, como os perfis criminais, mas insiste que “você ainda pode fazer tudo o que queria fazer antes”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-35d7882a13f3c512",
-      "title": "Bundle Nintendo Switch 2 + EA Sports FC 27 por menos de R$ 3.534: console e jogo prontos para começar a partida",
+      "id": "radar-8ef39f286b8fadd3",
+      "title": "Nota Cuiabana terá 20 PlayStation 5 e 10 iPhones 18 em novo sorteio",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Hardware.com.br. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Prefeitura de Cuiabá. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-27T14:00:17Z",
+      "publishedAt": "2026-11-27T13:30:00Z",
       "displayDate": "27 nov. 2026",
-      "sourceName": "Hardware.com.br",
-      "sourceUrl": "https://www.hardware.com.br/hardware-indica/bundle-nintendo-switch-2-ea-sports-fc-27-por-menos-de-r-3-534-console-e-jogo-prontos-para-comecar-a-partida",
-      "image": "https://www.hardware.com.br/wp-content/uploads/2026/11/switch-2.jpg",
-      "alt": "Imagem publicada por Hardware.com.br",
-      "imageCredit": "Imagem: Hardware.com.br",
+      "sourceName": "Prefeitura de Cuiabá",
+      "sourceUrl": "https://www.cuiaba.mt.gov.br/noticias/nota-cuiabana-tera-20-playstation-5-e-10-iphones-18-em-novo-sorteio",
+      "image": "https://www.cuiaba.mt.gov.br/site/assets/img/prefeitura-cuiaba.png",
+      "alt": "Imagem publicada por Prefeitura de Cuiabá",
+      "imageCredit": "Imagem: Prefeitura de Cuiabá",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Bundle Nintendo Switch 2 + EA Sports FC 27 por menos de R$ 3.534: console e jogo prontos para começar a partida",
+      "originalTitle": "Nota Cuiabana terá 20 PlayStation 5 e 10 iPhones 18 em novo sorteio",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -237,392 +731,28 @@
       }
     },
     {
-      "id": "radar-b641d62c18be4eb3",
-      "title": "Appulse é uma mistura de Pinball com Rogue-like e shooter de navinha!",
-      "excerpt": "Appulse é uma mistura de Rogue-lie com shooter de navinha dentro de um jogo de pinball!",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-27T14:00:00Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/appulse-e-uma-mistura-de-pinball-com-rogue-like-e-shooter-de-navinha",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/11/appulse-e-uma-mistura-de-pinball-com-rogue-like-e-sci-fi-1.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Appulse é uma mistura de Pinball com Rogue-like e shooter de navinha!",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-cd8de1435e8a176b",
-      "title": "X-Men: ator do Ciclope achava que crossover jamais aconteceria",
-      "excerpt": "Durante anos, o retorno do Ciclope ao cinema pareceu apenas conversa de fã.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T14:00:00Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/james-marsden-ciclope-crossover-mcu",
-      "image": "https://www.einerd.com/wp-content/uploads/2015/12/cropped-ei-nerd-logo-dado.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "X-Men: ator do Ciclope achava que crossover jamais aconteceria",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-00e5e13ce5a1f26f",
-      "title": "Daisy’s Life ganha clipe e é adiado para 2027",
-      "excerpt": "O novo filme de Masaaki Yuasa, Daisy’s Life, teve a estreia transferida para 2027 e ganhou um breve clipe inédito.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-27T13:59:31Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/daisys-life-ganha-clipe-e-e-adiado-para-2027",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/daisys-life-ganha-clipe-e-e-adiado-para-2027-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Daisy’s Life ganha clipe e é adiado para 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-5a2152a9ec38697f",
-      "title": "Nintendo confirma reposição do Switch 2 de Zelda para janeiro de 2027",
-      "excerpt": "A edição especial do Switch 2 de Zelda, criada para celebrar os 40 anos da franquia, terá novas unidades em janeiro de 2027.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-27T13:55:47Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/nintendo-confirma-reposicao-do-switch-2-de-zelda-para-janeiro-de-2027",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/nintendo-confirma-reposicao-do-switch-2-de-zelda-para-janeiro-de-2027-featured.png",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Nintendo confirma reposição do Switch 2 de Zelda para janeiro de 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-026dabe7d9735959",
-      "title": "GTA 6: Parece que Jason e Mandy realmente têm um passado",
-      "excerpt": "Jason, você é melhor que isso Atenção!",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-27T13:53:21Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/grand-theft-auto-vi/158027/gta-6-parece-que-jason-e-mandy-realmente-tem-um-passado",
-      "image": "https://sm.ign.com/ign_br/news/i/it-turns-o/it-turns-out-jason-might-have-a-history-with-mandy-in-gta-6_hcvh.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "GTA 6: Parece que Jason e Mandy realmente têm um passado",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-4350e215be0cb634",
-      "title": "Sua TV muito mais inteligente! Fire TV Stick HD fica no precinho na Black da Amazon",
-      "excerpt": "O dispositivo da Amazon leva aplicativos de streaming, filmes e séries para sua TV, com instalação simples e controle remoto com Alexa integrada.",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-27T13:47:30Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/descontos/158028/sua-tv-muito-mais-inteligente-fire-tv-stick-hd-fica-no-precinho-na-black-da-amazon",
-      "image": "https://sm.ign.com/ign_br/screenshot/default/download_y5xa.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sua TV muito mais inteligente! Fire TV Stick HD fica no precinho na Black da Amazon",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-2272312613989d6f",
-      "title": "The Witcher 3: Wild Hunt — Remastered recebe o Patch 5.02 com melhorias no modo foto e várias correções",
-      "excerpt": "O Patch 5.02 do The Witcher 3: Wild Hunt — Remastered já está disponível para download em todas as plataformas.",
-      "body": [
-        "Confira a cobertura completa em Arkade. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-27T13:45:00Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Arkade",
-      "sourceUrl": "https://arkade.com.br/the-witcher-3-wild-hunt-remastered-recebe-o-patch-5-02-com-melhorias-no-modo-foto-e-varias-correcoes",
-      "image": "https://arkade.com.br/wp-content/uploads/2026/11/the-witcher-3-wild-hunt-remastered-recebe-o-patch-5-02-com-melhorias-no-modo-fot.webp",
-      "alt": "Imagem publicada por Arkade",
-      "imageCredit": "Imagem: Arkade",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The Witcher 3: Wild Hunt — Remastered recebe o Patch 5.02 com melhorias no modo foto e várias correções",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-fecfcada434f665c",
-      "title": "Dragon Ball Z terá relançamento de figure de Trunks do Futuro em 2027",
-      "excerpt": "Uma figure de Trunks do Futuro voltará ao catálogo da linha S.H.Figuarts, com lançamento previsto para agosto de 2027 no Japão.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-27T13:44:54Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/dragon-ball-z-tera-relancamento-de-figure-de-trunks-do-futuro-em-2027",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/dragon-ball-z-tera-relancamento-de-figure-de-trunks-do-futuro-em-2027-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Dragon Ball Z terá relançamento de figure de Trunks do Futuro em 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c5d0a04f30d86f28",
-      "title": "Enfim Sós | Série de comédia brasileira com Andrea Beltrão e Fábio Assunção ganha data e primeiras imagens",
+      "id": "radar-9e55f9f8c3fee21b",
+      "title": "Jeep Avenger Marvel será exibido na CCXP e terá só 400 unidades",
       "excerpt": "",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T13:41:00Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/series-tv/enfim-sos-serie-netflix-comedia-br-andrea-beltrao-fabio-assuncao-data-primeiras-imagens-poster",
-      "image": "https://cdn.ome.lt/WviFS6MteNaNl0fMw29T1Fpdv4M=/1200x630/smart/filters:format(webp)/extras/conteudos/unnamed_17.jpg",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Enfim Sós | Série de comédia brasileira com Andrea Beltrão e Fábio Assunção ganha data e primeiras imagens",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-26d317cc200eaa7d",
-      "title": "Prêmio Destaque Imprensa Digital anuncia indicados de sua 9ª edição e celebra a força do teatro musical em São Paulo",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-27T13:40:00Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/musica/premio-destaque-imprensa-digital-9a-edicao-indicados-teatro-musical-sp",
-      "image": "https://cdn.ome.lt/VCOAUnhsLRA1XJRIkDFZXLDrPGU=/1200x630/smart/filters:format(webp)/extras/conteudos/image1_wXaZlgR.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Prêmio Destaque Imprensa Digital anuncia indicados de sua 9ª edição e celebra a força do teatro musical em São Paulo",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-e546557932e7155e",
-      "title": "Ned Luke defende Lucia em GTA 6 após críticas de que jogo é “woke”",
-      "excerpt": "Ned Luke, intérprete de Michael em GTA V, rebateu críticas à presença de Lucia em GTA 6 e questionou por que uma protagonista mulher seria motivo para chamar o jogo de “woke”.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-27T13:39:14Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/games/ned-luke-defende-lucia-em-gta-6-apos-criticas-de-que-jogo-e-woke",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/ned-luke-defende-lucia-em-gta-6-apos-criticas-de-que-jogo-e-woke-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Ned Luke defende Lucia em GTA 6 após críticas de que jogo é “woke”",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ad21b479001e2a81",
-      "title": "Tudo Pode Ser Visto | Marido de Elizabeth Holmes acusa documentário por mostrar nu frontal",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-27T13:23:00Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/tudo-pode-ser-visto-billy-evans-marido-elizabeth-holmes-nu-frontal",
-      "image": "https://cdn.ome.lt/2L2VDfVdzCEFd-SFNk7f80CBLYo=/1200x630/smart/filters:format(webp)/extras/conteudos/images_-_2026-11-27T101323.469.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Tudo Pode Ser Visto | Marido de Elizabeth Holmes acusa documentário por mostrar nu frontal",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-1885e663b8b22be7",
-      "title": "Sebastian Stan reage ao desempenho “morno” de Thunderbolts*: “Para nós, é um sucesso”",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em O Vício. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T13:10:42Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "O Vício",
-      "sourceUrl": "https://ovicio.com.br/sebastian-stan-reage-ao-desempenho-morno-de-thunderbolts-para-nos-e-um-sucesso",
-      "image": "https://ovicio.com.br/wp-content/uploads/2026/11/20261127-sebastian-stan-e-o-elenco-de-thunderbolts.jpg",
-      "alt": "Imagem publicada por O Vício",
-      "imageCredit": "Imagem: O Vício",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Sebastian Stan reage ao desempenho “morno” de Thunderbolts*: “Para nós, é um sucesso”",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f69f852b340df774",
-      "title": "Vai ter Thor 5? O que se sabe sobre o próximo filme solo do Deus do Trovão",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em AdoroCinema. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T13:02:18Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "AdoroCinema",
-      "sourceUrl": "https://www.adorocinema.com/noticias/filmes/noticia-1000234409",
-      "image": "https://br.web.img3.acsta.net/img/ae/f1/aef171715d2106045c9ff81ed18d21d2.jpg",
-      "alt": "Imagem publicada por AdoroCinema",
-      "imageCredit": "Imagem: AdoroCinema",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Vai ter Thor 5? O que se sabe sobre o próximo filme solo do Deus do Trovão",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-749a2de3ea5e9527",
-      "title": "Cadê RDJ? Fãs acreditam que Cillian Murphy seja o Doutor Destino",
-      "excerpt": "Basta um rosto aparecer por um piscar de olhos para a internet entrar em ebulição.",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em R7. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
       "publishedAt": "2026-11-27T13:00:00Z",
       "displayDate": "27 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/cillian-murphy-doutor-destino-teoria",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/03/Peaky-Blinders-temp-1.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
+      "sourceName": "R7",
+      "sourceUrl": "https://noticias.r7.com/prisma/autos-carros/jeep-avenger-marvel-sera-exibido-na-ccxp-e-tera-so-400-unidades-27112026",
+      "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/OI6XIXB4NBELZN3PXD5KXYCCRI.jpg?smart=true&auth=5dfba1b3e382a2fd64ab1b66ae739f7b053805cd5b1e63298aeb2d416653cf9a&width=1200&height=630",
+      "alt": "Imagem publicada por R7",
+      "imageCredit": "Imagem: R7",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Cadê RDJ? Fãs acreditam que Cillian Murphy seja o Doutor Destino",
-      "tags": [],
+      "originalTitle": "Jeep Avenger Marvel será exibido na CCXP e terá só 400 unidades",
+      "tags": [
+        "evento"
+      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -648,32 +778,6 @@
       "meme": false,
       "translated": false,
       "originalTitle": "Clayface deixa os cinemas antes do Thanksgiving e chega ao PVOD",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6faca3ed1312f966",
-      "title": "Elijah Wood desmente imagens de A Caçada a Gollum feitas por IA",
-      "excerpt": "Elijah Wood negou que imagens que circulam nas redes sociais mostrem os bastidores de O Senhor dos Anéis: A Caçada a Gollum.",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-27T12:41:24Z",
-      "displayDate": "27 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/cinema-e-tv/elijah-wood-desmente-imagens-de-a-cacada-a-gollum-feitas-por-ia",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/elijah-wood-desmente-imagens-de-a-cacada-a-gollum-feitas-por-ia-featured.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Elijah Wood desmente imagens de A Caçada a Gollum feitas por IA",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -707,25 +811,25 @@
       }
     },
     {
-      "id": "radar-c10303c1efaeba74",
-      "title": "Percy Jackson: o que Atlas realmente carrega nas costas?",
-      "excerpt": "A terceira temporada volta ao mito por trás da maldição Se o globo nas costas de Atlas sempre te pareceu a Terra, repara num detalhe: numa das estátuas mais famosas do titã, não tem um continente sequer.",
+      "id": "radar-eb32f5e404f7639c",
+      "title": "Anime Charisma apresenta Minato Ohse em novo trailer de personagem",
+      "excerpt": "A adaptação do projeto multimídia estreia em 7 de janeiro",
       "body": [
-        "Confira a cobertura completa em Legião dos Heróis. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "geek",
-      "categoryName": "Universo geek",
-      "publishedAt": "2026-11-27T12:00:41Z",
+      "category": "animacao",
+      "categoryName": "Anime",
+      "publishedAt": "2026-11-27T12:00:00Z",
       "displayDate": "27 nov. 2026",
-      "sourceName": "Legião dos Heróis",
-      "sourceUrl": "https://www.legiaodosherois.com.br/2026/percy-jackson-o-que-atlas-realmente-carrega-nas-costas.html",
-      "image": "https://johto.legiaodosherois.com.br/wp-content/uploads/2026/11/legiao_nPOYN7efCEAa.jpg",
-      "alt": "Imagem publicada por Legião dos Heróis",
-      "imageCredit": "Imagem: Legião dos Heróis",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/27/charisma-anime-minato-ohse-trailer-personagem",
+      "image": "https://a.storyblok.com/f/178900/1280x720/fb598aa1aa/charisma-minato-ohse-hero.png",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Percy Jackson: o que Atlas realmente carrega nas costas?",
+      "originalTitle": "Anime Charisma apresenta Minato Ohse em novo trailer de personagem",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -733,25 +837,25 @@
       }
     },
     {
-      "id": "radar-60f565f067f7839d",
-      "title": "‘Casadas e Caçadoras’: 2ª temporada já está disponível na Netflix",
-      "excerpt": "A Netflix trouxe de volta um dos seus suspenses mais picantes e viciantes.",
+      "id": "radar-ce81896d2089936e",
+      "title": "Heróis enfrentam ameaça PERIGOSA no novo teaser de ‘Vingadores: Doutor Destino’; Confira!",
+      "excerpt": "A Marvel Studios divulgou mais um teaser oficial de ‘Vingadores: Doutor Destino’, filme que dá início à conclusão da Saga do Multiverso do MCU.",
       "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T12:00:05Z",
+      "publishedAt": "2026-11-27T11:10:30Z",
       "displayDate": "27 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/casadas-e-cacadoras-2a-temporada-ja-esta-disponivel-na-netflix",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Casadas-e-Cacadoras.jpg",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
+      "sourceName": "Cinepop",
+      "sourceUrl": "https://cinepop.com.br/herois-enfrentam-ameaca-perigosa-no-novo-teaser-de-vingadores-doutor-destino-confira-777569",
+      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/vingadoresdoutordestino.jpeg",
+      "alt": "Imagem publicada por Cinepop",
+      "imageCredit": "Imagem: Cinepop",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "‘Casadas e Caçadoras’: 2ª temporada já está disponível na Netflix",
+      "originalTitle": "Heróis enfrentam ameaça PERIGOSA no novo teaser de ‘Vingadores: Doutor Destino’; Confira!",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -759,25 +863,25 @@
       }
     },
     {
-      "id": "radar-5be08d562e5b4970",
-      "title": "‘Missão Cruzada 2’: ação coreana com casal detetive ganha teaser na Netflix",
-      "excerpt": "",
+      "id": "radar-f8b3ef7a410fabc1",
+      "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition ganha trailer com detalhes da nova versão",
+      "excerpt": "A nova atualização para o Nintendo Switch 2 chega em 3 de dezembro",
       "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
       ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T11:30:38Z",
+      "category": "games",
+      "categoryName": "Games",
+      "publishedAt": "2026-11-27T11:00:00Z",
       "displayDate": "27 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/missao-cruzada-2-acao-coreana-com-casal-detetive-ganha-teaser-na-netflix",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/11/Missao-Cruzada-2.png",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
+      "sourceName": "Crunchyroll Brasil",
+      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/27/xenoblade-chronicles-3-nintendo-switch-2-edition-trailer-detalhes",
+      "image": "https://a.storyblok.com/f/178900/960x538/14cee6b608/xenoblade-chronicles-3-switch2-pv.jpg",
+      "alt": "Imagem publicada por Crunchyroll Brasil",
+      "imageCredit": "Imagem: Crunchyroll Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "‘Missão Cruzada 2’: ação coreana com casal detetive ganha teaser na Netflix",
+      "originalTitle": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition ganha trailer com detalhes da nova versão",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -785,25 +889,25 @@
       }
     },
     {
-      "id": "radar-202aa1dc3b46b798",
-      "title": "O Espetáculo Vai Começar | K-drama com Gong Yoo ganha trailer final na Netflix; veja",
-      "excerpt": "",
+      "id": "radar-f00649e469b8101e",
+      "title": "Relançamento de Homem-Aranha: Um Novo Dia incluirá cena cortada de Vingadores: Doutor Destino",
+      "excerpt": "O artigo publicou também sobre a possibilidade de Vingadores: Doutor Destino e Duna: Parte 3 baterem recordes de bilheteria",
       "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "cinema",
       "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T11:28:00Z",
+      "publishedAt": "2026-11-27T10:30:08Z",
       "displayDate": "27 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/korea/o-espetaculo-vai-comecar-dorama-gong-yoo-trailer-final",
-      "image": "https://cdn.ome.lt/mQFCR84MU4-jlhoQqO1KCPaWst4=/1200x630/smart/filters:format(webp)/extras/conteudos/tantara.png",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "IGN Brasil",
+      "sourceUrl": "https://br.ign.com/homem-aranha-um-novo-dia/158017/relancamento-de-homem-aranha-um-novo-dia-incluira-cena-cortada-de-vingadores-doutor-destino",
+      "image": "https://sm.ign.com/ign_br/news/s/spider-man/spider-man-brand-new-day-rerelease-includes-a-scene-cut-from_7xh8.jpg",
+      "alt": "Imagem publicada por IGN Brasil",
+      "imageCredit": "Imagem: IGN Brasil",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "O Espetáculo Vai Começar | K-drama com Gong Yoo ganha trailer final na Netflix; veja",
+      "originalTitle": "Relançamento de Homem-Aranha: Um Novo Dia incluirá cena cortada de Vingadores: Doutor Destino",
       "tags": [],
       "editorialReview": {
         "status": "native",
@@ -837,54 +941,26 @@
       }
     },
     {
-      "id": "radar-fc7a601d225eaedd",
-      "title": "Nintendo Music recebe mais músicas da trilha sonora de Tomodachi Life: Living the Dream",
-      "excerpt": "A Nintendo completou, nesta quinta-feira (26), a trilha sonora de Tomodachi Life: Living the Dream , o mais recente título da série de simulação social com os Miis , ao aplicativo de streaming de músicas, Nintendo Music .",
+      "id": "radar-d4c5675afb795086",
+      "title": "Atriz de Lucia em GTA 6, Manni L. Perez confirma que está trabalhando no jogo ‘há quase uma década’",
+      "excerpt": "Manni L.",
       "body": [
-        "Confira a cobertura completa em Nintendo Blast. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em TecMundo. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "games",
       "categoryName": "Games",
-      "publishedAt": "2026-11-27T02:41:25Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Nintendo Blast",
-      "sourceUrl": "https://www.nintendoblast.com.br/2026/11/nintendo-music-recebe-mais-musicas-da-trilha-sonora-de-tomodachi-life-living-the-dream.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhkOnoSUjzQRIK5bZuOGaMvqCzHBXdxAkTQyP8hBEpWqrPdqG6u81f1aEJiTB6wnVdGHzzWHusEYoIOm_0M-Ba1s2kspg49vowTP9l2HPsX-ufQ_5MpiV-GjQ3GBhrmxEMMIN8u4qPtzvFvd0lRJwLKIDk8NlUT0c8timtYUWJqiSuDCkpHQCrOJzFxm4/s72-w640-h360-c/image.png",
-      "alt": "Imagem publicada por Nintendo Blast",
-      "imageCredit": "Imagem: Nintendo Blast",
+      "publishedAt": "2026-11-27T06:25:22Z",
+      "displayDate": "27 nov. 2026",
+      "sourceName": "TecMundo",
+      "sourceUrl": "https://www.estadao.com.br/tecmundo/voxel/atriz-de-lucia-em-gta-6-manni-l-perez-confirma-que-esta-trabalhando-no-jogo-ha-quase-uma-decada",
+      "image": "https://www.estadao.com.br/resizer/v2/6KU5JADNERFEVLZHZ2C7YJ3X7I.jpg?quality=80&auth=4bed7aaccdcd5bb955927292961b5b21ff0d7994d6f516265fb558311a0cfe80&width=710",
+      "alt": "Imagem publicada por TecMundo",
+      "imageCredit": "Imagem: TecMundo",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Nintendo Music recebe mais músicas da trilha sonora de Tomodachi Life: Living the Dream",
+      "originalTitle": "Atriz de Lucia em GTA 6, Manni L. Perez confirma que está trabalhando no jogo ‘há quase uma década’",
       "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-3959ac2bfdf67711",
-      "title": "CCXP tem seleção diversa com 'Vingadores', anime com Alok e teatro musical",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Guia Folha. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-27T02:00:00Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Guia Folha",
-      "sourceUrl": "https://guia.folha.uol.com.br/passeios/2026/11/ccxp-tem-selecao-diversa-com-vingadores-anime-com-alok-e-teatro-musical.shtml",
-      "image": "https://f.i.uol.com.br/fotografia/2026/11/26/17957272666b089fa203f5a_1795727266_3x2_xl.jpg",
-      "alt": "Imagem publicada por Guia Folha",
-      "imageCredit": "Imagem: Guia Folha",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "CCXP tem seleção diversa com 'Vingadores', anime com Alok e teatro musical",
-      "tags": [
-        "evento"
-      ],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -913,32 +989,6 @@
       "tags": [
         "analise"
       ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-ecc0440dfef42c13",
-      "title": "Duração de Vingadores: Doutor Destteria 2h17 sem créditos",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Ei Nerd. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-27T00:46:24Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Ei Nerd",
-      "sourceUrl": "https://www.einerd.com/vingadores-doutor-destino-duracao-2h17",
-      "image": "https://www.einerd.com/wp-content/uploads/2026/10/Vingadores-Doutor-Destino.webp",
-      "alt": "Imagem publicada por Ei Nerd",
-      "imageCredit": "Imagem: Ei Nerd",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Duração de Vingadores: Doutor Destteria 2h17 sem créditos",
-      "tags": [],
       "editorialReview": {
         "status": "native",
         "policyVersion": 2
@@ -1001,317 +1051,25 @@
       }
     },
     {
-      "id": "radar-0ad798591e3c8e94",
-      "title": "Ainda vale a pena comprar um Nintendo Switch 1 em 2026?",
-      "excerpt": "",
+      "id": "radar-b247f8ba9a75f1a5",
+      "title": "Killer Shark in Another World ganhará anime",
+      "excerpt": "O mangá Killer Shark in Another World, de kuboken (Isekai Kuimetsu no Same), terá uma adaptação em anime para televisão.",
       "body": [
-        "Confira a cobertura completa em Canaltech. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-26T22:30:00Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Canaltech",
-      "sourceUrl": "https://canaltech.com.br/games/nintendo-switch-original-ainda-vale-a-pena-comprar-2026",
-      "image": "https://tl.ctcdn.com.br/Vs76J4aBMm_mxUmWcuQw6xconSI=/1200x675/smart/filters:format(webp):quality(85)/9a5c1f80-5428-478b-8b59-5046f51ac7b5.jpg",
-      "alt": "Imagem publicada por Canaltech",
-      "imageCredit": "Imagem: Canaltech",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Ainda vale a pena comprar um Nintendo Switch 1 em 2026?",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7da412a6dc91c115",
-      "title": "Shrek voltará aos cinemas com dublagem original de Bussunda",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Omelete. A matéria original reúne os detalhes desta atualização."
+        "Confira a cobertura completa em AnimeNew. A matéria original reúne os detalhes desta atualização."
       ],
       "category": "animacao",
       "categoryName": "Anime",
-      "publishedAt": "2026-11-26T21:55:00Z",
+      "publishedAt": "2026-11-26T23:05:43Z",
       "displayDate": "26 nov. 2026",
-      "sourceName": "Omelete",
-      "sourceUrl": "https://www.omelete.com.br/filmes/shrek-voltara-cinemas-com-dublagem-original-de-bussunda",
-      "image": "https://cdn.ome.lt/1wgP4cM9z63c3-yOXJ6RfKUJ4n4=/1200x630/smart/filters:format(webp)/extras/conteudos/images69.webp",
-      "alt": "Imagem publicada por Omelete",
-      "imageCredit": "Imagem: Omelete",
+      "sourceName": "AnimeNew",
+      "sourceUrl": "https://animenew.com.br/killer-shark-in-another-world-anime",
+      "image": "https://animenew.com.br/wp-content/uploads/2026/11/Killer-Shark-in-Another-World-ganhara-anime.webp",
+      "alt": "Imagem publicada por AnimeNew",
+      "imageCredit": "Imagem: AnimeNew",
       "syndicated": true,
       "meme": false,
       "translated": false,
-      "originalTitle": "Shrek voltará aos cinemas com dublagem original de Bussunda",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-c56327635bc42248",
-      "title": "The Legend of Zelda: Breath of the Wild é uma jornada solitária e épica (Review do jogo)",
-      "excerpt": "Nesta aventura épica, Link acorda sem memória após 100 anos e explora Hyrule para derrotar Calamity Ganon e salvar Zelda.",
-      "body": [
-        "Confira a cobertura completa em Anime United. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-26T21:49:39Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Anime United",
-      "sourceUrl": "https://www.animeunited.com.br/blog/the-legend-of-zelda-breath-of-the-wild-e-uma-jornada-solitaria-e-epica-review-do-jogo",
-      "image": "https://www.animeunited.com.br/wp-content/uploads/2026/11/image-77-1024x457.png",
-      "alt": "Imagem publicada por Anime United",
-      "imageCredit": "Imagem: Anime United",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "The Legend of Zelda: Breath of the Wild é uma jornada solitária e épica (Review do jogo)",
-      "tags": [
-        "analise"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-8e74895db5fd3a70",
-      "title": "Novo anime de Oishinbo ganha trailer especial",
-      "excerpt": "A série de temática culinária estreia dia 4 de janeiro",
-      "body": [
-        "Confira a cobertura completa em Crunchyroll Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-26T21:48:00Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Crunchyroll Brasil",
-      "sourceUrl": "https://crunchyroll.com/pt-br/news/latest/2026/11/26/novo-anime-oishinbo-trailer-especial",
-      "image": "https://a.storyblok.com/f/178900/960x540/f12a029d51/new-oishinbo.jpg",
-      "alt": "Imagem publicada por Crunchyroll Brasil",
-      "imageCredit": "Imagem: Crunchyroll Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Novo anime de Oishinbo ganha trailer especial",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-cb3184c2b64c0602",
-      "title": "Fim abrupto de ‘Creature Commandos’ 2 expõe rombo de continuidade no DCU animado",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em radiogeekbr.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-26T20:28:57Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "radiogeekbr.com.br",
-      "sourceUrl": "https://radiogeekbr.com.br/criature-commandos-2-cancelada-rombo-dcu-animado",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1795724941.jpg",
-      "alt": "Imagem publicada por radiogeekbr.com.br",
-      "imageCredit": "Imagem: radiogeekbr.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Fim abrupto de ‘Creature Commandos’ 2 expõe rombo de continuidade no DCU animado",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-f00649e469b8101e",
-      "title": "Relançamento de Homem-Aranha: Um Novo Dia incluirá cena cortada de Vingadores: Doutor Destino",
-      "excerpt": "O artigo publicou também sobre a possibilidade de Vingadores: Doutor Destino e Duna: Parte 3 baterem recordes de bilheteria",
-      "body": [
-        "Confira a cobertura completa em IGN Brasil. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-26T20:12:00Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "IGN Brasil",
-      "sourceUrl": "https://br.ign.com/homem-aranha-um-novo-dia/158017/relancamento-de-homem-aranha-um-novo-dia-incluira-cena-cortada-de-vingadores-doutor-destino",
-      "image": "https://sm.ign.com/ign_br/news/s/spider-man/spider-man-brand-new-day-rerelease-includes-a-scene-cut-from_7xh8.jpg",
-      "alt": "Imagem publicada por IGN Brasil",
-      "imageCredit": "Imagem: IGN Brasil",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Relançamento de Homem-Aranha: Um Novo Dia incluirá cena cortada de Vingadores: Doutor Destino",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-dc4ba5bc66600331",
-      "title": "Saída de James Gunn da DC pode resolver uma pendência da Marvel",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em UOL. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-26T20:00:00Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "UOL",
-      "sourceUrl": "https://tangerina.uol.com.br/filmes-series/saida-de-james-gunn-da-dc-pode-resolver-uma-pendencia-da-marvel",
-      "image": "https://feira.tangerina.news/wp-content/uploads/2026/11/james-gunn-guardioes-da-galaxia-vol-3-marvel.jpg",
-      "alt": "Imagem publicada por UOL",
-      "imageCredit": "Imagem: UOL",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Saída de James Gunn da DC pode resolver uma pendência da Marvel",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9cab2c67b555cc3c",
-      "title": "EXCLUSIVO | Relançamento de “Shrek” nos cinemas manterá dublagem de Bussunda",
-      "excerpt": "Na manhã desta quinta-feira (26), a Universal Pictures surpreendeu os fãs com o anúncio do relançamento de Shrek nos cinemas brasileiros em celebração aos 25 anos da estreia do filme.",
-      "body": [
-        "Confira a cobertura completa em Cinepop. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-26T18:44:31Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Cinepop",
-      "sourceUrl": "https://cinepop.com.br/exclusivo-relancamento-de-shrek-nos-cinemas-mantera-dublagem-de-bussunda-777526",
-      "image": "https://cinepop.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-15.42.41.webp",
-      "alt": "Imagem publicada por Cinepop",
-      "imageCredit": "Imagem: Cinepop",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "EXCLUSIVO | Relançamento de “Shrek” nos cinemas manterá dublagem de Bussunda",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-7593ad4c31bcd163",
-      "title": "Netflix estreia o anime The One Piece em fevereiro de 2027",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Critical Hits. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-26T18:37:55Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Critical Hits",
-      "sourceUrl": "https://criticalhits.com.br/anime/netflix-estreia-o-anime-the-one-piece-em-fevereiro-de-2027",
-      "image": "https://criticalhits.com.br/wp-content/uploads/2026/11/netflix-estreia-o-anime-the-one-piece-em-fevereiro-de-2027-featured-scaled.jpg",
-      "alt": "Imagem publicada por Critical Hits",
-      "imageCredit": "Imagem: Critical Hits",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Netflix estreia o anime The One Piece em fevereiro de 2027",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-9c6f731f03f282ee",
-      "title": "CCXP26 reúne elenco de O Senhor dos Anéis, Marvel Day, astros de Hollywood e atrações de animês",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em jwave.com.br. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "animacao",
-      "categoryName": "Anime",
-      "publishedAt": "2026-11-26T16:29:40Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "jwave.com.br",
-      "sourceUrl": "https://www.jwave.com.br/2026/11/ccxp26-o-senhor-dos-aneis-marvel-day-animes",
-      "image": "https://www.jwave.com.br/wp-content/uploads/2026/11/Palco-Omelete-by-BB-na-CCXP25-900x600.png",
-      "alt": "Imagem publicada por jwave.com.br",
-      "imageCredit": "Imagem: jwave.com.br",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "CCXP26 reúne elenco de O Senhor dos Anéis, Marvel Day, astros de Hollywood e atrações de animês",
-      "tags": [
-        "escalacao"
-      ],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-6354cda43bdebc27",
-      "title": "DC engaveta série do Batman idealizada por James Gunn e escancara vácuo de comando até 2026",
-      "excerpt": "",
-      "body": [
-        "Confira a cobertura completa em Rádio Geek. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "cinema",
-      "categoryName": "Cinema & séries",
-      "publishedAt": "2026-11-26T16:28:44Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Rádio Geek",
-      "sourceUrl": "https://radiogeekbr.com.br/dc-cancela-serie-batman-james-gunn-vacuo-comando-2026",
-      "image": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1795681714.jpg",
-      "alt": "Imagem publicada por Rádio Geek",
-      "imageCredit": "Imagem: Rádio Geek",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "DC engaveta série do Batman idealizada por James Gunn e escancara vácuo de comando até 2026",
-      "tags": [],
-      "editorialReview": {
-        "status": "native",
-        "policyVersion": 2
-      }
-    },
-    {
-      "id": "radar-063fcb1d850c1296",
-      "title": "Origament: A Paper Adventure chega ao PS5 e Nintendo Switch",
-      "excerpt": "A Assemble Entertainment anunciou nesta quinta-feira, 26, que Origament: A Paper Adventure já está disponível para PlayStation 5 e Nintendo Switch.",
-      "body": [
-        "Confira a cobertura completa em Pizza Fria. A matéria original reúne os detalhes desta atualização."
-      ],
-      "category": "games",
-      "categoryName": "Games",
-      "publishedAt": "2026-11-26T14:33:37Z",
-      "displayDate": "26 nov. 2026",
-      "sourceName": "Pizza Fria",
-      "sourceUrl": "https://pizzafria.ig.com.br/news/origament-a-paper-adventure-ps5-switch",
-      "image": "https://pizzafria.ig.com.br/wp-content/uploads/2025/06/image-96-1024x576.png",
-      "alt": "Imagem publicada por Pizza Fria",
-      "imageCredit": "Imagem: Pizza Fria",
-      "syndicated": true,
-      "meme": false,
-      "translated": false,
-      "originalTitle": "Origament: A Paper Adventure chega ao PS5 e Nintendo Switch",
+      "originalTitle": "Killer Shark in Another World ganhará anime",
       "tags": [],
       "editorialReview": {
         "status": "native",
